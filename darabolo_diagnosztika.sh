@@ -11,32 +11,53 @@ then
     exit 1
 fi
 
-# Ellenőrzi, hogy meg lett-e adva bemeneti fájl
-if [ -z "$1" ]; then
-    echo "Használat: $0 <fájl> [kezdő_sorszám] [szünet_hossza] [zajszint_dB] [--auto]"
-    echo ""
-    echo "Paraméterek:"
-    echo "  <fájl>              - A feldolgozandó hangfájl"
-    echo "  [kezdő_sorszám]     - A fájlok sorszámozásának kezdete (alapértelmezett: 1)"
-    echo "  [szünet_hossza]     - A szünet minimális hossza másodpercben (alapértelmezett: 4)"
-    echo "  [zajszint_dB]       - A csend detektálás zajszintje dB-ben (alapértelmezett: -30)"
-    echo "  [--auto]            - Ha megadva, automatikusan futtatja a darabolást jóváhagyás nélkül"
-    echo ""
-    echo "Példa:"
-    echo "  $0 fajl.webm 1 3 -20"
-    echo "  $0 fajl.webm 1 3 -20 --auto"
-    exit 1
-fi
-
-INPUT_FILE="$1"
-START_NUM=${2:-1}
-SILENCE_DURATION=${3:-4}
-NOISE_LEVEL_DB=${4:--30}
 AUTO_MODE=false
 
 # Ellenőrzi, hogy van-e --auto flag
 if [[ "$*" == *"--auto"* ]]; then
     AUTO_MODE=true
+fi
+
+# Ha nincs megadva fájlnév, automatikusan az MP3 mappában lévő .webm fájlt keresi
+if [ -z "$1" ] || [ ! -f "$1" ]; then
+    # Keressük meg az MP3 mappában lévő .webm fájlt
+    WEBM_FILES=(MP3/*.webm)
+    
+    if [ ! -e "${WEBM_FILES[0]}" ]; then
+        echo "Hiba: Nem található .webm fájl az MP3 mappában."
+        echo "Használat: $0 [fájl] [kezdő_sorszám] [szünet_hossza] [zajszint_dB] [--auto]"
+        echo ""
+        echo "Paraméterek:"
+        echo "  [fájl]              - A feldolgozandó hangfájl (opcionális, ha nincs megadva, az MP3 mappában keresi)"
+        echo "  [kezdő_sorszám]     - A fájlok sorszámozásának kezdete (alapértelmezett: 1)"
+        echo "  [szünet_hossza]     - A szünet minimális hossza másodpercben (alapértelmezett: 4)"
+        echo "  [zajszint_dB]       - A csend detektálás zajszintje dB-ben (alapértelmezett: -30)"
+        echo "  [--auto]            - Ha megadva, automatikusan futtatja a darabolást jóváhagyás nélkül"
+        echo ""
+        echo "Példa:"
+        echo "  $0                    # Automatikusan az MP3 mappában lévő fájlt dolgozza fel"
+        echo "  $0 1 3 -20            # Automatikus fájlkeresés, egyedi beállításokkal"
+        echo "  $0 fajl.webm 1 3 -20  # Fájlnév megadása"
+        echo "  $0 1 3 -20 --auto     # Automatikus mód"
+        exit 1
+    fi
+    
+    # Ha több fájl van, jelezzük, de válasszuk ki az elsőt
+    if [ ${#WEBM_FILES[@]} -gt 1 ]; then
+        echo "Figyelem: Több .webm fájl található az MP3 mappában."
+        echo "Az első fájlt használjuk: ${WEBM_FILES[0]}"
+        echo ""
+    fi
+    
+    INPUT_FILE="${WEBM_FILES[0]}"
+    START_NUM=${1:-1}
+    SILENCE_DURATION=${2:-4}
+    NOISE_LEVEL_DB=${3:--30}
+else
+    INPUT_FILE="$1"
+    START_NUM=${2:-1}
+    SILENCE_DURATION=${3:-4}
+    NOISE_LEVEL_DB=${4:--30}
 fi
 
 # Ellenőrzi, hogy a kezdő sorszám érvényes szám-e

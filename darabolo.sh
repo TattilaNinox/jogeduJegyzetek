@@ -8,35 +8,56 @@ then
     exit 1
 fi
 
-# Ellenőrzi, hogy meg lett-e adva bemeneti fájl
-if [ -z "$1" ]; then
-    echo "Használat: $0 <fájl> [kezdő_sorszám] [szünet_hossza] [zajszint_dB]"
-    exit 1
+# Ha nincs megadva fájlnév, automatikusan az MP3 mappában lévő .webm fájlt keresi
+if [ -z "$1" ] || [ ! -f "$1" ]; then
+    # Keressük meg az MP3 mappában lévő .webm fájlt
+    WEBM_FILES=(MP3/*.webm)
+    
+    if [ ! -e "${WEBM_FILES[0]}" ]; then
+        echo "Hiba: Nem található .webm fájl az MP3 mappában."
+        echo "Használat: $0 [fájl] [kezdő_sorszám] [szünet_hossza] [zajszint_dB]"
+        echo ""
+        echo "Megjegyzés: Ha nem adsz meg fájlnév paramétert, a szkript automatikusan"
+        echo "az MP3 mappában lévő .webm fájlt keresi és dolgozza fel."
+        exit 1
+    fi
+    
+    # Ha több fájl van, jelezzük, de válasszuk ki az elsőt
+    if [ ${#WEBM_FILES[@]} -gt 1 ]; then
+        echo "Figyelem: Több .webm fájl található az MP3 mappában."
+        echo "Az első fájlt használjuk: ${WEBM_FILES[0]}"
+        echo ""
+    fi
+    
+    INPUT_FILE="${WEBM_FILES[0]}"
+    START_NUM=${1:-1}
+    SILENCE_DURATION=${2:-4}
+    NOISE_LEVEL_DB=${3:--30}
+else
+    INPUT_FILE="$1"
+    START_NUM=${2:-1}
+    SILENCE_DURATION=${3:-4}
+    NOISE_LEVEL_DB=${4:--30}
 fi
-
-INPUT_FILE="$1"
-START_NUM=${2:-1} # A második paraméter a kezdő sorszám, alapértelmezett értéke 1
-SILENCE_DURATION=${3:-4} # Harmadik paraméter a szünet hossza, alapértelmezett értéke 4 mp
-NOISE_LEVEL_DB=${4:--30} # Negyedik paraméter a zajszint dB-ben, alapértelmezett: -30dB
 
 # Ellenőrzi, hogy a kezdő sorszám érvényes szám-e
 if ! [[ "$START_NUM" =~ ^[0-9]+$ ]]; then
     echo "Hiba: A kezdő sorszámnak egy pozitív egész számnak kell lennie."
-    echo "Használat: $0 <fájl> [kezdő_sorszám] [szünet_hossza] [zajszint_dB]"
+    echo "Használat: $0 [fájl] [kezdő_sorszám] [szünet_hossza] [zajszint_dB]"
     exit 1
 fi
 
 # Ellenőrzi, hogy a szünet hossza érvényes szám-e
 if ! [[ "$SILENCE_DURATION" =~ ^[0-9]+([.][0-9]+)?$ ]]; then
     echo "Hiba: A szünet hosszának egy számnak kell lennie (pl. 4 vagy 2.5)."
-    echo "Használat: $0 <fájl> [kezdő_sorszám] [szünet_hossza] [zajszint_dB]"
+    echo "Használat: $0 [fájl] [kezdő_sorszám] [szünet_hossza] [zajszint_dB]"
     exit 1
 fi
 
 # Ellenőrzi, hogy a zajszint érvényes-e (negatív szám)
 if ! [[ "$NOISE_LEVEL_DB" =~ ^-[0-9]+$ ]]; then
     echo "Hiba: A zajszintnek egy negatív egész számnak kell lennie (pl. -30)."
-    echo "Használat: $0 <fájl> [kezdő_sorszám] [szünet_hossza] [zajszint_dB]"
+    echo "Használat: $0 [fájl] [kezdő_sorszám] [szünet_hossza] [zajszint_dB]"
     exit 1
 fi
 
