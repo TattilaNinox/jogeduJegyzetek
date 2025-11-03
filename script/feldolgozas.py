@@ -105,10 +105,25 @@ def fonetikus_szamok(szoveg):
         paragrafus_szoveg = szam_melleknevi(paragrafus)
         return f"A Polgári Törvénykönyv {konyv_szoveg} könyvének {paragrafus_szoveg} paragrafusa"
     
+    # Ptk. 4:21. § (2)-(3) bekezdései formátum (több bekezdésre hivatkozás)
+    def helyettesit_ptk_tobb_bekezdes(match):
+        konyv = match.group(1)
+        paragrafus = match.group(2)
+        elso_bekezdes = match.group(3)
+        masodik_bekezdes = match.group(4)
+        konyv_szoveg = szam_melleknevi(konyv)
+        paragrafus_szoveg = szam_melleknevi(paragrafus)
+        elso_szoveg = szam_melleknevi(elso_bekezdes)
+        masodik_szoveg = szam_melleknevi(masodik_bekezdes)
+        return f"A Polgári Törvénykönyv {konyv_szoveg} könyvének {paragrafus_szoveg} paragrafusának {elso_szoveg}-től {masodik_szoveg} bekezdései"
+    
+    # Ptk. 4:21. § (2)-(3) bekezdései formátum kezelése
+    szoveg = re.sub(r'Ptk\.\s*(\d+):(\d+)\.\s*§\s*\((\d+)\)-\((\d+)\)\s*bekezdései', helyettesit_ptk_tobb_bekezdes, szoveg)
+    
     # Ptk. 6:587. §-a formátum (raggal)
     szoveg = re.sub(r'Ptk\.\s*(\d+):(\d+)\.\s*§-[ae]\s', helyettesit_ptk_rovid_rag, szoveg)
     
-    # Ptk. 2:8. § (1) formátum (zárójeles bekezdéssel)
+    # Ptk. 2:8. § (1) formátum (zárójeles bekezdéssel - egyetlen bekezdés)
     szoveg = re.sub(r'Ptk\.\s*(\d+):(\d+)\.\s*§\s*(\((\d+)\))?', helyettesit_ptk_rovid, szoveg)
     
     # Most már "Polgári Törvénykönyv" formátum kezelése (ha a rovidites_kibontas már átalakította)
@@ -120,6 +135,21 @@ def fonetikus_szamok(szoveg):
     # "paragrafusa alapján" előtti dupla "A" javítása
     szoveg = re.sub(r'\sa\s+A\s+Polgári', ' a Polgári', szoveg)
     szoveg = re.sub(r'\.\s+A\s+Polgári', '. A Polgári', szoveg)
+    
+    # Polgári Törvénykönyv (2)-(3) bekezdései formátum (több bekezdésre hivatkozás)
+    def helyettesit_polgar_tobb_bekezdes(match):
+        konyv = match.group(1)
+        paragrafus = match.group(2)
+        elso_bekezdes = match.group(3)
+        masodik_bekezdes = match.group(4)
+        konyv_szoveg = szam_melleknevi(konyv)
+        paragrafus_szoveg = szam_melleknevi(paragrafus)
+        elso_szoveg = szam_melleknevi(elso_bekezdes)
+        masodik_szoveg = szam_melleknevi(masodik_bekezdes)
+        return f"A Polgári Törvénykönyv {konyv_szoveg} könyvének {paragrafus_szoveg} paragrafusának {elso_szoveg}-től {masodik_szoveg} bekezdései"
+    
+    # Polgári Törvénykönyv (2)-(3) bekezdései formátum kezelése
+    szoveg = re.sub(r'Polgári Törvénykönyv\s*(\d+):(\d+)\.\s*§\s*\((\d+)\)-\((\d+)\)\s*bekezdései', helyettesit_polgar_tobb_bekezdes, szoveg)
     
     # Ptk. 5:17. § (1) bekezdése formátum - MELLÉKNÉVI alakban!
     # Figyeljünk, hogy ne legyen dupla "bekezdése"!
