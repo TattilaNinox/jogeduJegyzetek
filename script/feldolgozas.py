@@ -22,47 +22,17 @@ def fonetikus_szamok(szoveg):
         '40': 'negyven', '50': 'ötven'
     }
     
-    # Melléknévi alakok (törvényi hivatkozásokhoz)
-    szamok_melleknevi = {
-        '1': 'első', '2': 'második', '3': 'harmadik', '4': 'negyedik', '5': 'ötödik',
-        '6': 'hatodik', '7': 'hetedik', '8': 'nyolcadik', '9': 'kilencedik', '10': 'tizedik',
-        '11': 'tizenegyedik', '12': 'tizenkettedik', '13': 'tizenharmadik', '14': 'tizennegyedik', '15': 'tizenötödik',
-        '16': 'tizenhatodik', '17': 'tizenhetedik', '18': 'tizennyolcadik', '19': 'tizenkilencedik', '20': 'huszadik',
-        '21': 'huszonegyedik', '22': 'huszonkettedik', '23': 'huszonharmadik', '24': 'huszonnegyedik', '25': 'huszonötödik',
-        '26': 'huszonhatodik', '27': 'huszonhetedik', '28': 'huszonnyolcadik', '29': 'huszonkilencedik', '30': 'harmincadik',
-        '31': 'harmincegyedik', '32': 'harminckettedik', '37': 'harminchetedik', '40': 'negyvenedik', 
-        '50': 'ötvenedik', '52': 'ötvenkettedik', '54': 'ötvennegyedik', '58': 'ötvennyolcadik', 
-        '69': 'hatvankilencedik', '78': 'hetvennyolcadik', '83': 'nyolcvanharmadik', '89': 'nyolcvankilencedik',
-        '90': 'kilencvenedik', '98': 'kilencvennyolcadik', '137': 'százharminchetedik', '156': 'százötvenhatodik', 
-        '163': 'százhatvanharmadik', '167': 'százhatvanhetedik', '169': 'százhatvankilencedik', 
-        '179': 'százhetvenkilencedik', '193': 'százkilencvenharmadik', '215': 'kétszáztizenötödik', 
-        '281': 'kétszáznyolcvanegyedik', '519': 'ötszáztizenkilencedik', '520': 'ötszázhuszadik',
-        '523': 'ötszázharmadik', '563': 'ötszázhatvanharmadik', '587': 'ötszáznyolcvanhetedik'
-    }
+    # Melléknévi alakok (törvényi hivatkozásokhoz) - 1-900 közötti összes szám
+    # Generálva a szamok_generalas.py segítségével
+    from szamok_generalas import general_melleknevi_alakok
+    szamok_melleknevi = general_melleknevi_alakok(900)
     
     # Segédfüggvény: szám melléknévi alakjának generálása
     def szam_melleknevi(szam_str):
         """Szám melléknévi alakjának generálása"""
         if szam_str in szamok_melleknevi:
             return szamok_melleknevi[szam_str]
-        
-        # Nagyobb számok kezelése (egyelőre visszatérünk a számmal)
-        # Jövőben itt lehetne algoritmus a számok melléknévi alakjának generálására
-        try:
-            szam = int(szam_str)
-            # Ha nincs a szótárban, használjuk az alanyeseti alakot + "edik" végződés
-            if szam <= 100:
-                return szamok.get(szam_str, szam_str) + 'edik'
-        except:
-            pass
-        return szam_str
-    
-    # Segédfüggvény: szám melléknévi alakjának generálása
-    def szam_melleknevi(szam_str):
-        """Szám melléknévi alakjának generálása"""
-        if szam_str in szamok_melleknevi:
-            return szamok_melleknevi[szam_str]
-        # Ha nincs a szótárban, használjuk az alanyeseti alakot (a nagy számoknál)
+        # Ha nincs a szótárban (900 felett), használjuk az alanyeseti alakot
         return szamok.get(szam_str, szam_str)
     
     # Ptk. 5:23. § mintájú hivatkozások kezelése - MELLÉKNÉVI alakban!
@@ -113,15 +83,25 @@ def fonetikus_szamok(szoveg):
         paragrafus = match.group(2)
         elso_bekezdes = match.group(3)
         masodik_bekezdes = match.group(4)
-        ige = match.group(5) if match.group(5) else 'bekezdései'  # "bekezdése" vagy "bekezdései"
         konyv_szoveg = szam_melleknevi(konyv)
         paragrafus_szoveg = szam_melleknevi(paragrafus)
-        elso_szoveg = szam_melleknevi(elso_bekezdes)
-        masodik_szoveg = szam_melleknevi(masodik_bekezdes)
-        # Ha "bekezdése" van (egyes szám), akkor "bekezdései"-re változtatjuk (többes szám)
-        if 'bekezdése' == ige and 'bekezdései' != ige:
-            ige = 'bekezdései'
-        return f"A Polgári Törvénykönyv {konyv_szoveg} könyvének {paragrafus_szoveg} paragrafusának {elso_szoveg}-től {masodik_szoveg} {ige}"
+        elso_num = int(elso_bekezdes)
+        masodik_num = int(masodik_bekezdes)
+        
+        # Felsorolás létrehozása: "második és harmadik" vagy "második, harmadik és negyedik"
+        bekezdes_lista = []
+        for num in range(elso_num, masodik_num + 1):
+            bekezdes_szoveg = szam_melleknevi(str(num))
+            bekezdes_lista.append(bekezdes_szoveg)
+        
+        # Felsorolás formázása
+        if len(bekezdes_lista) == 2:
+            bekezdes_felsorolas = f"{bekezdes_lista[0]} és {bekezdes_lista[1]}"
+        else:
+            # Több mint 2: "második, harmadik és negyedik"
+            bekezdes_felsorolas = ', '.join(bekezdes_lista[:-1]) + ' és ' + bekezdes_lista[-1]
+        
+        return f"A Polgári Törvénykönyv {konyv_szoveg} könyvének {paragrafus_szoveg} paragrafusának {bekezdes_felsorolas} bekezdése"
     
     # Ptk. 4:21. § (2)-(3) bekezdései/bekezdése formátum kezelése - MINDKÉT formátumot!
     # Fontos: ez MEGELŐZI az egyszerű (2) bekezdése formátum kezelését!
@@ -278,6 +258,311 @@ def feldolgoz(szoveg):
     
     return szoveg.strip()
 
+def melleknevi_to_szam(melleknevi_szoveg):
+    """Melléknévi alak visszakonverziója számmá"""
+    # Dinamikus generálás a szamok_generalas.py segítségével
+    from szamok_generalas import general_melleknevi_alakok
+    szamok_melleknevi_temp = general_melleknevi_alakok(900)
+    
+    # Fordított lookup - minden értéket kulccá teszünk
+    for szam, alak in szamok_melleknevi_temp.items():
+        if alak == melleknevi_szoveg:
+            return szam
+    return None
+
+def torveny_fajl_beolvasas(torveny_fajl_utvonal):
+    """Beolvassa és strukturálja a törvényi fájlt"""
+    torveny_index = {}
+    
+    try:
+        with open(torveny_fajl_utvonal, 'r', encoding='utf-8') as f:
+            sorok = f.readlines()
+    except FileNotFoundError:
+        print(f"Figyelem: A törvényi fájl nem található: {torveny_fajl_utvonal}")
+        return torveny_index
+    
+    # Paragrafusok keresése: KÖNYV:PARAGRAFUS. § formátum
+    # Példa: "4:32. § [Cím]" vagy "2:8. § [A cselekvőképesség]"
+    paragrafus_pattern = r'^(\d+):(\d+)\.\s*§\s*(?:\[[^\]]+\])?\s*'
+    
+    jelenlegi_paragrafus = None
+    jelenlegi_bekezdes = None
+    jelenlegi_szoveg = []
+    
+    i = 0
+    while i < len(sorok):
+        sor = sorok[i].rstrip()  # Csak jobbról vágjuk le a whitespace-t
+        
+        # Paragrafus azonosítás
+        paragrafus_match = re.match(paragrafus_pattern, sor)
+        if paragrafus_match:
+            # Előző bekezdés vagy paragrafus mentése
+            if jelenlegi_paragrafus:
+                kulcs = f"{jelenlegi_paragrafus['konyv']}:{jelenlegi_paragrafus['paragrafus']}"
+                if kulcs not in torveny_index:
+                    torveny_index[kulcs] = {}
+                
+                if jelenlegi_szoveg:
+                    szoveg = ' '.join(jelenlegi_szoveg).strip()
+                    szoveg = re.sub(r'\s+', ' ', szoveg)  # Többszörös szóközök eltávolítása
+                    if szoveg:
+                        if jelenlegi_bekezdes:
+                            torveny_index[kulcs][jelenlegi_bekezdes] = szoveg
+                        else:
+                            torveny_index[kulcs][""] = szoveg
+            
+            # Új paragrafus kezdése
+            jelenlegi_paragrafus = {
+                'konyv': paragrafus_match.group(1),
+                'paragrafus': paragrafus_match.group(2)
+            }
+            jelenlegi_bekezdes = None
+            jelenlegi_szoveg = []
+            i += 1
+            continue
+        
+        # Bekezdés azonosítás: (1), (2), stb.
+        bekezdes_match = re.match(r'^\((\d+)\)\s*(.*)$', sor)
+        if bekezdes_match:
+            # Előző bekezdés mentése (ha van)
+            if jelenlegi_paragrafus and jelenlegi_bekezdes is not None and jelenlegi_szoveg:
+                kulcs = f"{jelenlegi_paragrafus['konyv']}:{jelenlegi_paragrafus['paragrafus']}"
+                if kulcs not in torveny_index:
+                    torveny_index[kulcs] = {}
+                
+                szoveg = ' '.join(jelenlegi_szoveg).strip()
+                szoveg = re.sub(r'\s+', ' ', szoveg)
+                if szoveg:
+                    torveny_index[kulcs][jelenlegi_bekezdes] = szoveg
+            
+            # Új bekezdés kezdése
+            jelenlegi_bekezdes = bekezdes_match.group(1)
+            kezdo_szoveg = bekezdes_match.group(2).strip()
+            jelenlegi_szoveg = [kezdo_szoveg] if kezdo_szoveg else []
+            i += 1
+            continue
+        
+        # Szöveg sor hozzáadása (ha van paragrafus aktív)
+        if jelenlegi_paragrafus:
+            # Szűrünk: kihagyjuk a formázási, HTML/PDF export maradványokat
+            if sor.strip():
+                # Kiszűrünk:
+                # - URL-ek (https://, http://)
+                # - HTML/PDF export maradványok (njt.hu, getPrintWindow)
+                # - Oldalszámozás (- N -)
+                # - Dátum formátumok (YYYY. MM. DD. HH:MM)
+                # - Hatályossági információk (Hatályos:, Lekérdezés ideje:)
+                # - Törvény címek külön sorban (2013. évi V. törvény)
+                # - Hivatkozási megjegyzések (169A, 170A + paragrafus hivatkozás + "a 2020: CLXVI. törvény")
+                
+                sor_clean = sor.strip()
+                
+                # URL-ek és HTML/PDF export maradványok
+                if re.search(r'https?://|njt\.hu|getPrintWindow', sor_clean, re.IGNORECASE):
+                    i += 1
+                    continue
+                
+                # Oldalszámozás: "- N -" vagy "- NN -"
+                if re.match(r'^-\s*\d+\s*-$', sor_clean):
+                    i += 1
+                    continue
+                
+                # Dátum formátumok: "2025. 11. 01. 11:54" vagy hasonló
+                if re.match(r'^\d{4}\.\s+\d{1,2}\.\s+\d{1,2}\.\s+\d{1,2}:\d{2}', sor_clean):
+                    i += 1
+                    continue
+                
+                # Hatályossági információk
+                if re.match(r'^Hatályos:|^Lekérdezés ideje:', sor_clean, re.IGNORECASE):
+                    i += 1
+                    continue
+                
+                # Törvény címek külön sorban (nem paragrafus)
+                if re.match(r'^\d{4}\.\s+évi\s+[IVX]+\.\s+törvény', sor_clean, re.IGNORECASE):
+                    i += 1
+                    continue
+                
+                if re.match(r'^a\s+Polgári\s+Törvénykönyvről$', sor_clean, re.IGNORECASE):
+                    i += 1
+                    continue
+                
+                # Hivatkozási megjegyzések: "169A 4:27. § ..." vagy "170A ..." + "a 2020: CLXVI. törvény"
+                if re.match(r'^\d+[A-Z]\s+\d+:\d+\.', sor_clean):
+                    i += 1
+                    continue
+                
+                if re.search(r'\d{4}:\s*[IVX]+\.\s+törvény\s+\d+\.\s*§', sor_clean):
+                    i += 1
+                    continue
+                
+                # Ha minden rendben, hozzáadjuk
+                jelenlegi_szoveg.append(sor_clean)
+            # Ha üres sor és van már szöveg, azt is megtartjuk (szóközként)
+        
+        i += 1
+    
+    # Utolsó bekezdés/paragrafus mentése
+    if jelenlegi_paragrafus:
+        kulcs = f"{jelenlegi_paragrafus['konyv']}:{jelenlegi_paragrafus['paragrafus']}"
+        if kulcs not in torveny_index:
+            torveny_index[kulcs] = {}
+        
+        if jelenlegi_szoveg:
+            szoveg = ' '.join(jelenlegi_szoveg).strip()
+            szoveg = re.sub(r'\s+', ' ', szoveg)
+            if szoveg:
+                if jelenlegi_bekezdes is not None:
+                    torveny_index[kulcs][jelenlegi_bekezdes] = szoveg
+                else:
+                    torveny_index[kulcs][""] = szoveg
+    
+    return torveny_index
+
+def torvenyi_hivatkozasok_kinyerese(feldolgozott_szoveg):
+    """Kinyeri az összes törvényi hivatkozást a feldolgozott szövegből"""
+    hivatkozasok = []
+    
+    # Minta: "A Polgári Törvénykönyv {konyv} könyvének {paragrafus} paragrafusának {bekezdes} bekezdése"
+    # Vagy: "A Polgári Törvénykönyv {konyv} könyvének {paragrafus} paragrafusa"
+    # Vagy: "A Polgári Törvénykönyv {konyv} könyvének {paragrafus} paragrafusának {elso}-től {masodik} bekezdései"
+    
+    # Először a több bekezdéses formátum
+    pattern_tobb = r'A Polgári Törvénykönyv\s+(\w+)\s+könyvének\s+(\w+)\s+paragrafusának\s+(\w+)-től\s+(\w+)\s+bekezdései'
+    matches = re.finditer(pattern_tobb, feldolgozott_szoveg)
+    for match in matches:
+        konyv = match.group(1)
+        paragrafus = match.group(2)
+        elso_bekezdes = match.group(3)
+        masodik_bekezdes = match.group(4)
+        # Visszakonverzió számmá
+        konyv_szam = melleknevi_to_szam(konyv)
+        paragrafus_szam = melleknevi_to_szam(paragrafus)
+        elso_szam = melleknevi_to_szam(elso_bekezdes)
+        masodik_szam = melleknevi_to_szam(masodik_bekezdes)
+        if konyv_szam and paragrafus_szam and elso_szam and masodik_szam:
+            hivatkozasok.append({
+                'konyv': konyv_szam,
+                'paragrafus': paragrafus_szam,
+                'bekezdes': elso_szam,
+                'masodik_bekezdes': masodik_szam,
+                'tipus': 'tobb_bekezdes'
+            })
+    
+    # Egy bekezdéses formátum
+    pattern_egy = r'A Polgári Törvénykönyv\s+(\w+)\s+könyvének\s+(\w+)\s+paragrafusának\s+(\w+)\s+bekezdése'
+    matches = re.finditer(pattern_egy, feldolgozott_szoveg)
+    for match in matches:
+        konyv = match.group(1)
+        paragrafus = match.group(2)
+        bekezdes = match.group(3)
+        konyv_szam = melleknevi_to_szam(konyv)
+        paragrafus_szam = melleknevi_to_szam(paragrafus)
+        bekezdes_szam = melleknevi_to_szam(bekezdes)
+        if konyv_szam and paragrafus_szam and bekezdes_szam:
+            hivatkozasok.append({
+                'konyv': konyv_szam,
+                'paragrafus': paragrafus_szam,
+                'bekezdes': bekezdes_szam,
+                'tipus': 'egy_bekezdes'
+            })
+    
+    # Paragrafus formátum (nincs bekezdés)
+    pattern_paragrafus = r'A Polgári Törvénykönyv\s+(\w+)\s+könyvének\s+(\w+)\s+paragrafusa'
+    matches = re.finditer(pattern_paragrafus, feldolgozott_szoveg)
+    for match in matches:
+        konyv = match.group(1)
+        paragrafus = match.group(2)
+        konyv_szam = melleknevi_to_szam(konyv)
+        paragrafus_szam = melleknevi_to_szam(paragrafus)
+        if konyv_szam and paragrafus_szam:
+            hivatkozasok.append({
+                'konyv': konyv_szam,
+                'paragrafus': paragrafus_szam,
+                'tipus': 'paragrafus'
+            })
+    
+    return hivatkozasok
+
+def torvenyi_szoveg_kinyerese(torveny_index, konyv, paragrafus, bekezdes=None, masodik_bekezdes=None):
+    """Kinyeri a törvényi szöveget a strukturált indexből"""
+    kulcs = f"{konyv}:{paragrafus}"
+    
+    if kulcs not in torveny_index:
+        return None
+    
+    paragrafus_data = torveny_index[kulcs]
+    
+    # Ha több bekezdésre hivatkoznak
+    if masodik_bekezdes:
+        bekezdesek = []
+        for i in range(int(bekezdes), int(masodik_bekezdes) + 1):
+            bekezdes_str = str(i)
+            if bekezdes_str in paragrafus_data:
+                bekezdesek.append(paragrafus_data[bekezdes_str])
+        if bekezdesek:
+            return ' '.join(bekezdesek)
+        return None
+    
+    # Ha egy bekezdésre hivatkoznak
+    if bekezdes:
+        bekezdes_str = str(bekezdes)
+        if bekezdes_str in paragrafus_data:
+            return paragrafus_data[bekezdes_str]
+        return None
+    
+    # Ha csak a paragrafusra hivatkoznak (nincs bekezdés)
+    if "" in paragrafus_data:
+        return paragrafus_data[""]
+    
+    # Ha nincs üres kulcs, összefűzzük az összes bekezdést
+    if paragrafus_data:
+        return ' '.join(paragrafus_data.values())
+    
+    return None
+
+def torvenyi_szoveg_fonetikus_alakitas(torvenyi_szoveg):
+    """A törvényi szövegben lévő bekezdés-hivatkozásokat fonetikussá alakítja"""
+    from szamok_generalas import general_melleknevi_alakok
+    szamok_melleknevi = general_melleknevi_alakok(900)
+    
+    # Minta: "(1) bekezdés", "az (1) bekezdésben", "a (2) bekezdés szerint", "(1) bekezdés a) pontja"
+    # Visszahelyettesítés: melléknévi alak (első, második, stb.)
+    
+    def helyettesit_bekezdes_hivatkozas(match):
+        elotte = match.group(1) or ""  # "az ", "a ", "", stb.
+        szam_str = match.group(2)  # a szám
+        utana = match.group(3)  # "bekezdés", "bekezdésben", "bekezdés szerint", stb.
+        
+        melleknevi = szamok_melleknevi.get(szam_str, szam_str)
+        # Szóközt beteszünk a melléknév és "bekezdés" közé
+        if elotte:
+            return f"{elotte}{melleknevi} {utana}"
+        else:
+            return f"{melleknevi} {utana}"
+    
+    # Különböző formátumok: "(1) bekezdés", "az (1) bekezdésben", "a (2) bekezdés szerint", "(1) bekezdés a) pontja"
+    # Regex: (az|a|Az|A) opcionális, majd (szám zárójelben), majd "bekezdés" + további szöveg (szóközökkel)
+    torvenyi_szoveg = re.sub(
+        r'(az\s+|a\s+|Az\s+|A\s+)?\((\d+)\)\s+(bekezdés(?:\s+[^\s]+)*?)',
+        helyettesit_bekezdes_hivatkozas,
+        torvenyi_szoveg
+    )
+    
+    return torvenyi_szoveg
+
+def torvenyi_szoveg_formazasa(konyv_szoveg, paragrafus_szoveg, bekezdes_szoveg, torvenyi_szoveg, tipus):
+    """Formázza a törvényi szöveget a kívánt formátumban"""
+    # Először a törvényi szövegben lévő bekezdés-hivatkozásokat fonetikussá alakítjuk
+    torvenyi_szoveg = torvenyi_szoveg_fonetikus_alakitas(torvenyi_szoveg)
+    
+    if tipus == 'tobb_bekezdes':
+        # A bekezdes_szoveg már előkészített felsorolás: "második és harmadik" vagy "második, harmadik és negyedik"
+        return f"A Polgári Törvénykönyv szerint a {konyv_szoveg} könyv {paragrafus_szoveg} paragrafusának {bekezdes_szoveg} bekezdése: {torvenyi_szoveg}"
+    elif tipus == 'egy_bekezdes':
+        return f"A Polgári Törvénykönyv szerint a {konyv_szoveg} könyv {paragrafus_szoveg} paragrafusának {bekezdes_szoveg} bekezdése: {torvenyi_szoveg}"
+    else:  # tipus == 'paragrafus'
+        return f"A Polgári Törvénykönyv szerint a {konyv_szoveg} könyv {paragrafus_szoveg} paragrafusa: {torvenyi_szoveg}"
+
 def beolvas_fajl(utvonal):
     """Fájl beolvasása"""
     with open(utvonal, 'r', encoding='utf-8') as f:
@@ -345,6 +630,15 @@ def main(mappa_utvonal=None):
     
     kimenet = []
     javitasok = []
+    
+    # Törvényi fájl beolvasása (egyszer, a fő ciklus előtt)
+    script_mappa = os.path.dirname(os.path.abspath(__file__))
+    torveny_fajl_utvonal = os.path.join(script_mappa, '..', 'Források', '2013. évi V. törvény a Polgári Törvénykönyvről.txt')
+    torveny_fajl_utvonal = os.path.normpath(torveny_fajl_utvonal)
+    torveny_index = torveny_fajl_beolvasas(torveny_fajl_utvonal)
+    
+    if not torveny_index:
+        print(f"Figyelem: A törvényi fájl üres vagy nem található. A törvényi szövegek beillesztése kihagyva.")
     
     for i in range(min(50, len(kerdes_tetelek), len(valasz_tetelek), len(magyarazat_tetelek))):
         kerdes = kerdes_tetelek[i].strip() if i < len(kerdes_tetelek) else ''
@@ -479,6 +773,96 @@ def main(mappa_utvonal=None):
         # Többszörös szóközök normalizálása
         feldolgozott_szoveg = re.sub(r'\s+', ' ', feldolgozott_szoveg)
         feldolgozott_szoveg = feldolgozott_szoveg.strip()
+        
+        # Törvényi hivatkozások kinyerése és törvényi szövegek beillesztése
+        if torveny_index:
+            hivatkozasok = torvenyi_hivatkozasok_kinyerese(feldolgozott_szoveg)
+            
+            # Duplikáció elkerülése: minden egyedi hivatkozás csak egyszer
+            latott_hivatkozasok = set()
+            torvenyi_szovegek = []
+            
+            for hiv in hivatkozasok:
+                # Egyedi azonosító létrehozása
+                hiv_id = f"{hiv['konyv']}:{hiv['paragrafus']}"
+                if hiv['tipus'] in ['egy_bekezdes', 'tobb_bekezdes']:
+                    hiv_id += f":{hiv.get('bekezdes', '')}"
+                if hiv['tipus'] == 'tobb_bekezdes':
+                    hiv_id += f"-{hiv.get('masodik_bekezdes', '')}"
+                
+                if hiv_id not in latott_hivatkozasok:
+                    latott_hivatkozasok.add(hiv_id)
+                    
+                    # Törvényi szöveg kinyerése
+                    torvenyi_szoveg = None
+                    if hiv['tipus'] == 'tobb_bekezdes':
+                        torvenyi_szoveg = torvenyi_szoveg_kinyerese(
+                            torveny_index,
+                            hiv['konyv'],
+                            hiv['paragrafus'],
+                            hiv['bekezdes'],
+                            hiv['masodik_bekezdes']
+                        )
+                    elif hiv['tipus'] == 'egy_bekezdes':
+                        torvenyi_szoveg = torvenyi_szoveg_kinyerese(
+                            torveny_index,
+                            hiv['konyv'],
+                            hiv['paragrafus'],
+                            hiv['bekezdes']
+                        )
+                    else:  # paragrafus
+                        torvenyi_szoveg = torvenyi_szoveg_kinyerese(
+                            torveny_index,
+                            hiv['konyv'],
+                            hiv['paragrafus']
+                        )
+                    
+                    if torvenyi_szoveg:
+                        # Fonetikus konverzió a formázáshoz
+                        from szamok_generalas import general_melleknevi_alakok
+                        szamok_melleknevi_temp = general_melleknevi_alakok(900)
+                        konyv_szoveg = szamok_melleknevi_temp.get(hiv['konyv'], hiv['konyv'])
+                        paragrafus_szoveg = szamok_melleknevi_temp.get(hiv['paragrafus'], hiv['paragrafus'])
+                        
+                        if hiv['tipus'] == 'tobb_bekezdes':
+                            # Felsorolás létrehozása: "második és harmadik" vagy "második, harmadik és negyedik"
+                            elso_num = int(hiv['bekezdes'])
+                            masodik_num = int(hiv['masodik_bekezdes'])
+                            
+                            # Az összes bekezdés melléknévi alakjának generálása
+                            bekezdes_lista = []
+                            for num in range(elso_num, masodik_num + 1):
+                                bekezdes_szoveg = szamok_melleknevi_temp.get(str(num), str(num))
+                                bekezdes_lista.append(bekezdes_szoveg)
+                            
+                            # Felsorolás formázása
+                            if len(bekezdes_lista) == 2:
+                                bekezdes_felsorolas = f"{bekezdes_lista[0]} és {bekezdes_lista[1]}"
+                            else:
+                                # Több mint 2: "második, harmadik és negyedik"
+                                bekezdes_felsorolas = ', '.join(bekezdes_lista[:-1]) + ' és ' + bekezdes_lista[-1]
+                            
+                            formazott = torvenyi_szoveg_formazasa(
+                                konyv_szoveg, paragrafus_szoveg, bekezdes_felsorolas,
+                                torvenyi_szoveg, 'tobb_bekezdes'
+                            )
+                        elif hiv['tipus'] == 'egy_bekezdes':
+                            bekezdes_szoveg = szamok_melleknevi_temp.get(hiv['bekezdes'], hiv['bekezdes'])
+                            formazott = torvenyi_szoveg_formazasa(
+                                konyv_szoveg, paragrafus_szoveg, bekezdes_szoveg,
+                                torvenyi_szoveg, 'egy_bekezdes'
+                            )
+                        else:
+                            formazott = torvenyi_szoveg_formazasa(
+                                konyv_szoveg, paragrafus_szoveg, None,
+                                torvenyi_szoveg, 'paragrafus'
+                            )
+                        
+                        torvenyi_szovegek.append(formazott)
+            
+            # Törvényi szövegek hozzáadása a blokk végén
+            if torvenyi_szovegek:
+                feldolgozott_szoveg += ' ' + ' '.join(torvenyi_szovegek)
         
         kimenet.append(feldolgozott_szoveg)
     
