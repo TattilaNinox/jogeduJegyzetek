@@ -218,6 +218,7 @@ def rovidites_kibontas(szoveg):
     roviditesek = {
         'pl.': 'például',
         'Ptk.': 'Polgári Törvénykönyv',
+        'Pp.': 'polgári perrendtartásról szóló törvény',
         'stb.': 'és így tovább',
         'ld.': 'lásd',
         'vm.': 'valamely',
