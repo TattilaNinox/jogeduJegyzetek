@@ -30,11 +30,13 @@ def fonetikus_szamok(szoveg):
         '16': 'tizenhatodik', '17': 'tizenhetedik', '18': 'tizennyolcadik', '19': 'tizenkilencedik', '20': 'huszadik',
         '21': 'huszonegyedik', '22': 'huszonkettedik', '23': 'huszonharmadik', '24': 'huszonnegyedik', '25': 'huszonötödik',
         '26': 'huszonhatodik', '27': 'huszonhetedik', '28': 'huszonnyolcadik', '29': 'huszonkilencedik', '30': 'harmincadik',
-        '31': 'harmincegyedik', '37': 'harminchetedik', '40': 'negyvenedik', '50': 'ötvenedik', '52': 'ötvenkettedik',
-        '54': 'ötvennegyedik', '58': 'ötvennyolcadik', '69': 'hatvankilencedik', '89': 'nyolcvankilencedik',
-        '90': 'kilencvenedik', '137': 'százharminchetedik', '156': 'százötvenhatodik', '163': 'százhatvanharmadik',
-        '169': 'százhatvankilencedik', '179': 'százhetvenkilencedik', '193': 'százkilencvenharmadik',
-        '215': 'kétszáztizenötödik', '519': 'ötszáztizenkilencedik', '520': 'ötszázhuszadik',
+        '31': 'harmincegyedik', '32': 'harminckettedik', '37': 'harminchetedik', '40': 'negyvenedik', 
+        '50': 'ötvenedik', '52': 'ötvenkettedik', '54': 'ötvennegyedik', '58': 'ötvennyolcadik', 
+        '69': 'hatvankilencedik', '78': 'hetvennyolcadik', '83': 'nyolcvanharmadik', '89': 'nyolcvankilencedik',
+        '90': 'kilencvenedik', '98': 'kilencvennyolcadik', '137': 'százharminchetedik', '156': 'százötvenhatodik', 
+        '163': 'százhatvanharmadik', '167': 'százhatvanhetedik', '169': 'százhatvankilencedik', 
+        '179': 'százhetvenkilencedik', '193': 'százkilencvenharmadik', '215': 'kétszáztizenötödik', 
+        '281': 'kétszáznyolcvanegyedik', '519': 'ötszáztizenkilencedik', '520': 'ötszázhuszadik',
         '523': 'ötszázharmadik', '563': 'ötszázhatvanharmadik', '587': 'ötszáznyolcvanhetedik'
     }
     
@@ -377,6 +379,18 @@ def main(mappa_utvonal=None):
         # Duplikált mondatok eltávolítása
         mondatok = re.split(r'(?<=[.!?])\s+(?=[A-ZÁÉÍÓÖŐÚÜŰ])', feldolgozott)
         mondatok = [m.strip() for m in mondatok if m.strip()]
+        
+        # Teljes mondat duplikációk először - ha egy mondat többször szerepel szó szerint
+        egyedi_teljes_mondatok = []
+        latott_teljes = set()
+        for mondat in mondatok:
+            mondat_normalizalt_teljes = mondat.lower().strip()
+            mondat_normalizalt_teljes = re.sub(r'\s+', ' ', mondat_normalizalt_teljes)
+            if mondat_normalizalt_teljes not in latott_teljes and len(mondat_normalizalt_teljes) > 30:
+                latott_teljes.add(mondat_normalizalt_teljes)
+                egyedi_teljes_mondatok.append(mondat)
+        
+        mondatok = egyedi_teljes_mondatok
         
         # Duplikációk eltávolítása - javított algoritmus: hasonlóság alapján
         lathatott_mondatok = set()
