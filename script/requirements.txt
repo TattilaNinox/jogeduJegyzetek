@@ -1,0 +1,10 @@
+# Python függőségek a tanulókártya-generátor scripthez
+
+# LLM API támogatás
+openai>=1.0.0
+anthropic>=0.18.0
+
+# Megjegyzés: API kulcsok beállítása szükséges:
+# export OPENAI_API_KEY='sk-...'  # OpenAI API-hoz
+# export ANTHROPIC_API_KEY='sk-ant-...'  # Anthropic API-hoz
+
