@@ -410,7 +410,11 @@ def main(mappa_utvonal=None):
         with open(javitasok_utvonal, 'w', encoding='utf-8') as f:
             f.write('\n'.join(javitasok))
     
+    # Blokkok számának meghatározása (nem üres blokkok)
+    blokkok_szama = len([b for b in kimenet if b.strip()])
+    
     print(f"Feldolgozás kész! {len(kimenet)} tétel feldolgozva.")
+    print(f"Létrehozott blokkok száma a dokumentumban: {blokkok_szama}")
     print(f"Kimeneti fájl: {kimenet_utvonal}")
 
 if __name__ == '__main__':
