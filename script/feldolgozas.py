@@ -105,20 +105,25 @@ def fonetikus_szamok(szoveg):
         paragrafus_szoveg = szam_melleknevi(paragrafus)
         return f"A Polgári Törvénykönyv {konyv_szoveg} könyvének {paragrafus_szoveg} paragrafusa"
     
-    # Ptk. 4:21. § (2)-(3) bekezdései formátum (több bekezdésre hivatkozás)
+    # Ptk. 4:21. § (2)-(3) bekezdései/bekezdése formátum (több bekezdésre hivatkozás)
     def helyettesit_ptk_tobb_bekezdes(match):
         konyv = match.group(1)
         paragrafus = match.group(2)
         elso_bekezdes = match.group(3)
         masodik_bekezdes = match.group(4)
+        ige = match.group(5) if match.group(5) else 'bekezdései'  # "bekezdése" vagy "bekezdései"
         konyv_szoveg = szam_melleknevi(konyv)
         paragrafus_szoveg = szam_melleknevi(paragrafus)
         elso_szoveg = szam_melleknevi(elso_bekezdes)
         masodik_szoveg = szam_melleknevi(masodik_bekezdes)
-        return f"A Polgári Törvénykönyv {konyv_szoveg} könyvének {paragrafus_szoveg} paragrafusának {elso_szoveg}-től {masodik_szoveg} bekezdései"
+        # Ha "bekezdése" van (egyes szám), akkor "bekezdései"-re változtatjuk (többes szám)
+        if 'bekezdése' == ige and 'bekezdései' != ige:
+            ige = 'bekezdései'
+        return f"A Polgári Törvénykönyv {konyv_szoveg} könyvének {paragrafus_szoveg} paragrafusának {elso_szoveg}-től {masodik_szoveg} {ige}"
     
-    # Ptk. 4:21. § (2)-(3) bekezdései formátum kezelése
-    szoveg = re.sub(r'Ptk\.\s*(\d+):(\d+)\.\s*§\s*\((\d+)\)-\((\d+)\)\s*bekezdései', helyettesit_ptk_tobb_bekezdes, szoveg)
+    # Ptk. 4:21. § (2)-(3) bekezdései/bekezdése formátum kezelése - MINDKÉT formátumot!
+    # Fontos: ez MEGELŐZI az egyszerű (2) bekezdése formátum kezelését!
+    szoveg = re.sub(r'Ptk\.\s*(\d+):(\d+)\.\s*§\s*\((\d+)\)-\((\d+)\)\s*(bekezdései?)\b', helyettesit_ptk_tobb_bekezdes, szoveg)
     
     # Ptk. 6:587. §-a formátum (raggal)
     szoveg = re.sub(r'Ptk\.\s*(\d+):(\d+)\.\s*§-[ae]\s', helyettesit_ptk_rovid_rag, szoveg)
@@ -136,20 +141,25 @@ def fonetikus_szamok(szoveg):
     szoveg = re.sub(r'\sa\s+A\s+Polgári', ' a Polgári', szoveg)
     szoveg = re.sub(r'\.\s+A\s+Polgári', '. A Polgári', szoveg)
     
-    # Polgári Törvénykönyv (2)-(3) bekezdései formátum (több bekezdésre hivatkozás)
+    # Polgári Törvénykönyv (2)-(3) bekezdései/bekezdése formátum (több bekezdésre hivatkozás)
     def helyettesit_polgar_tobb_bekezdes(match):
         konyv = match.group(1)
         paragrafus = match.group(2)
         elso_bekezdes = match.group(3)
         masodik_bekezdes = match.group(4)
+        ige = match.group(5) if match.group(5) else 'bekezdései'  # "bekezdése" vagy "bekezdései"
         konyv_szoveg = szam_melleknevi(konyv)
         paragrafus_szoveg = szam_melleknevi(paragrafus)
         elso_szoveg = szam_melleknevi(elso_bekezdes)
         masodik_szoveg = szam_melleknevi(masodik_bekezdes)
-        return f"A Polgári Törvénykönyv {konyv_szoveg} könyvének {paragrafus_szoveg} paragrafusának {elso_szoveg}-től {masodik_szoveg} bekezdései"
+        # Ha "bekezdése" van (egyes szám), akkor "bekezdései"-re változtatjuk (többes szám)
+        if 'bekezdése' == ige and 'bekezdései' != ige:
+            ige = 'bekezdései'
+        return f"A Polgári Törvénykönyv {konyv_szoveg} könyvének {paragrafus_szoveg} paragrafusának {elso_szoveg}-től {masodik_szoveg} {ige}"
     
-    # Polgári Törvénykönyv (2)-(3) bekezdései formátum kezelése
-    szoveg = re.sub(r'Polgári Törvénykönyv\s*(\d+):(\d+)\.\s*§\s*\((\d+)\)-\((\d+)\)\s*bekezdései', helyettesit_polgar_tobb_bekezdes, szoveg)
+    # Polgári Törvénykönyv (2)-(3) bekezdései/bekezdése formátum kezelése - MINDKÉT formátumot!
+    # Fontos: ez MEGELŐZI az egyszerű (2) bekezdése formátum kezelését!
+    szoveg = re.sub(r'Polgári Törvénykönyv\s*(\d+):(\d+)\.\s*§\s*\((\d+)\)-\((\d+)\)\s*(bekezdései?)\b', helyettesit_polgar_tobb_bekezdes, szoveg)
     
     # Ptk. 5:17. § (1) bekezdése formátum - MELLÉKNÉVI alakban!
     # Figyeljünk, hogy ne legyen dupla "bekezdése"!
@@ -340,11 +350,17 @@ def main(mappa_utvonal=None):
         magyarazat = magyarazat_tetelek[i].strip() if i < len(magyarazat_tetelek) else ''
         
         # Kombinálás - intelligens egyesítés: ha a magyarázat tartalmazza a választ, csak a magyarázatot használjuk
-        # Különben kombináljuk őket
+        # Különben kombináljuk őket, de először ellenőrizzük, hogy nincs-e nagy átfedés
         if valasz and magyarazat:
-            # Ha a válasz benne van a magyarázatban, csak a magyarázatot használjuk
-            if valasz.strip() in magyarazat:
+            valasz_rovid = valasz.strip()[:100].lower()
+            magyarazat_rovid = magyarazat.strip()[:100].lower()
+            
+            # Ha a válasz nagy része benne van a magyarázatban, csak a magyarázatot használjuk
+            if valasz.strip() in magyarazat or valasz_rovid in magyarazat.lower():
                 kombinált = magyarazat.strip()
+            elif magyarazat_rovid in valasz.lower():
+                # Ha fordítva: a magyarázat része a válasznak, akkor csak a választ
+                kombinált = valasz.strip()
             else:
                 # Egyesítés narratív formában
                 kombinált = f"{valasz} {magyarazat}".strip()
@@ -362,14 +378,66 @@ def main(mappa_utvonal=None):
         mondatok = re.split(r'(?<=[.!?])\s+(?=[A-ZÁÉÍÓÖŐÚÜŰ])', feldolgozott)
         mondatok = [m.strip() for m in mondatok if m.strip()]
         
-        # Duplikációk eltávolítása - jobb algoritmus: hasonlóság alapján
+        # Duplikációk eltávolítása - javított algoritmus: hasonlóság alapján
         lathatott_mondatok = set()
         egyedi_mondatok = []
         for mondat in mondatok:
-            mondat_rovid = mondat[:80].lower().strip() if len(mondat) > 80 else mondat.lower().strip()  # Első 80 karakter normalizálva
-            mondat_rovid = re.sub(r'\s+', ' ', mondat_rovid)  # Szóközök normalizálása
-            if mondat_rovid not in lathatott_mondatok and len(mondat_rovid) > 10:  # Minimum hossz
+            # Normalizálás: kisbetűs, szóközök egységesítése, írásjelek eltávolítása a hasonlóság ellenőrzéshez
+            mondat_normalizalt = mondat.lower().strip()
+            mondat_normalizalt = re.sub(r'\s+', ' ', mondat_normalizalt)
+            mondat_normalizalt = re.sub(r'[.,;:!?]', '', mondat_normalizalt)  # Írásjelek eltávolítása
+            
+            # Első 100 karakter + kulcsszavak alapján hasonlóság ellenőrzés
+            mondat_rovid = mondat_normalizalt[:100] if len(mondat_normalizalt) > 100 else mondat_normalizalt
+            
+            # Kulcsszavak kinyerése (első 3-4 jelentős szó)
+            szavak = mondat_normalizalt.split()
+            kulcsszavak = ' '.join(szavak[:4]) if len(szavak) >= 4 else ' '.join(szavak)
+            
+            # Hasonlóság ellenőrzés: ha a rövid verzió vagy a kulcsszavak megegyeznek egy már látott mondattal, akkor duplikáció
+            hasonlo = False
+            for latott in lathatott_mondatok:
+                # Első 50 karakter egyezés (hosszabb mondatoknál)
+                if len(mondat_rovid) > 50 and len(latott) > 50:
+                    if mondat_rovid[:50] == latott[:50]:
+                        hasonlo = True
+                        break
+                
+                # Tartalmazás ellenőrzés: ha egyik mondat tartalmazza a másikat (vagy fordítva)
+                if mondat_rovid in latott or latott in mondat_rovid:
+                    if len(mondat_rovid) > 40 and len(latott) > 40:
+                        # Különbség max 40% lehet
+                        kulonbseg = abs(len(mondat_rovid) - len(latott))
+                        if kulonbseg < max(len(mondat_rovid), len(latott)) * 0.4:
+                            hasonlo = True
+                            break
+                
+                # Kulcsszavak alapján: ha az első jelentős szavak megegyeznek
+                if kulcsszavak and len(kulcsszavak) > 25:
+                    kulcs_hossz = min(50, len(kulcsszavak))
+                    if kulcsszavak[:kulcs_hossz] in latott or latott.startswith(kulcsszavak[:kulcs_hossz]):
+                        hasonlo = True
+                        break
+                
+                # Különleges eset: ha ugyanaz a kezdő rész, csak a végben van különbség
+                # Például: "A Ptk. a feldúltsági elvet alkalmazza, ami..." vs "A Ptk. a feldúltsági elvet alkalmazza, amely..."
+                if len(mondat_rovid) > 40 and len(latott) > 40:
+                    # Az első 40 karakter egyezés + hasonló hosszúság
+                    if mondat_rovid[:40] == latott[:40]:
+                        kulonbseg = abs(len(mondat_rovid) - len(latott))
+                        if kulonbseg < 50:  # Max 50 karakter különbség (tágabb tűrés)
+                            # További ellenőrzés: a középső rész is hasonló kell legyen
+                            kozep_resz_1 = mondat_rovid[40:min(80, len(mondat_rovid))]
+                            kozep_resz_2 = latott[40:min(80, len(latott))]
+                            # Ha a középső részek is nagyban egyeznek
+                            if len(kozep_resz_1) > 20 and len(kozep_resz_2) > 20:
+                                if kozep_resz_1[:20] == kozep_resz_2[:20]:
+                                    hasonlo = True
+                                    break
+            
+            if not hasonlo and len(mondat_normalizalt) > 20:  # Minimum hossz
                 lathatott_mondatok.add(mondat_rovid)
+                lathatott_mondatok.add(kulcsszavak)
                 egyedi_mondatok.append(mondat)
         
         mondatok = egyedi_mondatok
