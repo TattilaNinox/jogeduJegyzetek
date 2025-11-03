@@ -386,9 +386,15 @@ def main(mappa_utvonal=None):
         for mondat in mondatok:
             mondat_normalizalt_teljes = mondat.lower().strip()
             mondat_normalizalt_teljes = re.sub(r'\s+', ' ', mondat_normalizalt_teljes)
-            if mondat_normalizalt_teljes not in latott_teljes and len(mondat_normalizalt_teljes) > 30:
-                latott_teljes.add(mondat_normalizalt_teljes)
-                egyedi_teljes_mondatok.append(mondat)
+            # Írásjelek eltávolítása a teljes egyezéshez
+            mondat_normalizalt_teljes_irasmely = re.sub(r'[.,;:!?]', '', mondat_normalizalt_teljes)
+            
+            # Teljes egyezés ellenőrzés (írásjelek nélkül is)
+            if mondat_normalizalt_teljes not in latott_teljes and mondat_normalizalt_teljes_irasmely not in latott_teljes:
+                if len(mondat_normalizalt_teljes) > 30:
+                    latott_teljes.add(mondat_normalizalt_teljes)
+                    latott_teljes.add(mondat_normalizalt_teljes_irasmely)
+                    egyedi_teljes_mondatok.append(mondat)
         
         mondatok = egyedi_teljes_mondatok
         
