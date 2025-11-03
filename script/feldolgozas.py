@@ -394,8 +394,8 @@ def main(mappa_utvonal=None):
         
         kimenet.append(feldolgozott_szoveg)
     
-    # Kimenet írása
-    kimeneti_szoveg = '\n\n\n'.join(kimenet)
+    # Kimenet írása - SSML break tag a blokkok között
+    kimeneti_szoveg = '\n\n<break time="5s"/>\n\n'.join(kimenet)
     
     # Kimeneti mappa létrehozása, ha nem létezik
     kimenet_mappa = os.path.dirname(kimenet_utvonal)
