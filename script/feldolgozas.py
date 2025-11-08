@@ -484,6 +484,69 @@ def torvenyi_hivatkozasok_kinyerese(feldolgozott_szoveg):
     
     return hivatkozasok
 
+def torvenyi_hivatkozasok_kinyerese_forras(forras_szoveg):
+    """Kinyeri az összes törvényi hivatkozást a forrás (feldolgozatlan) szövegből"""
+    hivatkozasok = []
+    
+    # Forrás formátumok: "Ptk. 4:21. § (1)", "Ptk. 4:21. § (2)-(3)", "Ptk. 4:21. §"
+    # Regex: Ptk\.\s*(\d+):(\d+)\.\s*§\s*(\((\d+)\)(-\((\d+)\))?)?
+    
+    # Először a több bekezdéses formátum: "Ptk. 4:21. § (2)-(3)"
+    pattern_tobb = r'Ptk\.\s*(\d+):(\d+)\.\s*§\s*\((\d+)\)-\((\d+)\)'
+    matches = re.finditer(pattern_tobb, forras_szoveg)
+    for match in matches:
+        hivatkozasok.append({
+            'konyv': match.group(1),
+            'paragrafus': match.group(2),
+            'bekezdes': match.group(3),
+            'masodik_bekezdes': match.group(4),
+            'tipus': 'tobb_bekezdes'
+        })
+    
+    # Egy bekezdéses formátum: "Ptk. 4:21. § (1)"
+    pattern_egy = r'Ptk\.\s*(\d+):(\d+)\.\s*§\s*\((\d+)\)'
+    matches = re.finditer(pattern_egy, forras_szoveg)
+    for match in matches:
+        hivatkozasok.append({
+            'konyv': match.group(1),
+            'paragrafus': match.group(2),
+            'bekezdes': match.group(3),
+            'tipus': 'egy_bekezdes'
+        })
+    
+    # Paragrafus formátum (nincs bekezdés): "Ptk. 4:21. §"
+    # Figyeljünk, hogy ne matcheljen a már feldolgozott formátumokra
+    # Negatív lookahead: nem követi zárójel (bekezdés), nem követi kötőjel (rag)
+    pattern_paragrafus = r'Ptk\.\s*(\d+):(\d+)\.\s*§(?!\s*\(|\s*-)'
+    matches = re.finditer(pattern_paragrafus, forras_szoveg)
+    for match in matches:
+        hivatkozasok.append({
+            'konyv': match.group(1),
+            'paragrafus': match.group(2),
+            'tipus': 'paragrafus'
+        })
+    
+    return hivatkozasok
+
+def torvenyi_szoveg_kinyerese_eredeti(torveny_index, konyv, paragrafus, bekezdes=None, masodik_bekezdes=None):
+    """Kinyeri a törvényi szöveget EREDETI formában (nem fonetikusan) és idézőjeles formázással"""
+    torvenyi_szoveg = torvenyi_szoveg_kinyerese(torveny_index, konyv, paragrafus, bekezdes, masodik_bekezdes)
+    
+    if not torvenyi_szoveg:
+        return None
+    
+    # Formázás: idézőjelben, eredeti számokkal
+    if masodik_bekezdes:
+        # Több bekezdés: "A Polgári Törvénykönyv 4:21. § (2)-(3) bekezdései: [szöveg]"
+        bekezdes_str = f"({bekezdes})-({masodik_bekezdes}) bekezdései"
+        return f'"A Polgári Törvénykönyv {konyv}:{paragrafus}. § {bekezdes_str}: {torvenyi_szoveg}"'
+    elif bekezdes:
+        # Egy bekezdés: "A Polgári Törvénykönyv 4:21. § (1) bekezdése: [szöveg]"
+        return f'"A Polgári Törvénykönyv {konyv}:{paragrafus}. § ({bekezdes}) bekezdése: {torvenyi_szoveg}"'
+    else:
+        # Csak paragrafus: "A Polgári Törvénykönyv 4:21. §: [szöveg]"
+        return f'"A Polgári Törvénykönyv {konyv}:{paragrafus}. §: {torvenyi_szoveg}"'
+
 def torvenyi_szoveg_kinyerese(torveny_index, konyv, paragrafus, bekezdes=None, masodik_bekezdes=None):
     """Kinyeri a törvényi szöveget a strukturált indexből"""
     kulcs = f"{konyv}:{paragrafus}"
@@ -634,12 +697,15 @@ def main(mappa_utvonal=None):
     
     # Törvényi fájl beolvasása (egyszer, a fő ciklus előtt)
     script_mappa = os.path.dirname(os.path.abspath(__file__))
-    torveny_fajl_utvonal = os.path.join(script_mappa, '..', 'Források', '2013. évi V. törvény a Polgári Törvénykönyvről.txt')
+    torveny_fajl_utvonal = os.path.join(script_mappa, '..', 'forrasok', '2013. évi V. törvény a Polgári Törvénykönyvről.txt.txt')
     torveny_fajl_utvonal = os.path.normpath(torveny_fajl_utvonal)
     torveny_index = torveny_fajl_beolvasas(torveny_fajl_utvonal)
     
     if not torveny_index:
         print(f"Figyelem: A törvényi fájl üres vagy nem található. A törvényi szövegek beillesztése kihagyva.")
+    
+    # Forrás magyarazatok.txt feldolgozása: törvényi szövegek beillesztése
+    modositott_magyarazatok = []
     
     for i in range(min(50, len(kerdes_tetelek), len(valasz_tetelek), len(magyarazat_tetelek))):
         kerdes = kerdes_tetelek[i].strip() if i < len(kerdes_tetelek) else ''
@@ -775,7 +841,7 @@ def main(mappa_utvonal=None):
         feldolgozott_szoveg = re.sub(r'\s+', ' ', feldolgozott_szoveg)
         feldolgozott_szoveg = feldolgozott_szoveg.strip()
         
-        # Törvényi hivatkozások kinyerése és törvényi szövegek beillesztése
+        # Törvényi hivatkozások kinyerése és törvényi szövegek beillesztése (feldolgozott szöveghez)
         if torveny_index:
             hivatkozasok = torvenyi_hivatkozasok_kinyerese(feldolgozott_szoveg)
             
@@ -866,6 +932,73 @@ def main(mappa_utvonal=None):
                 feldolgozott_szoveg += ' ' + ' '.join(torvenyi_szovegek)
         
         kimenet.append(feldolgozott_szoveg)
+        
+        # Forrás magyarazatok.txt feldolgozása: törvényi szövegek beillesztése EREDETI formában
+        if torveny_index:
+            # Eredeti magyarázat szöveg (még feldolgozatlan)
+            eredeti_magyarazat = magyarazat.strip()
+            
+            # Hivatkozások kinyerése a forrás szövegből
+            forras_hivatkozasok = torvenyi_hivatkozasok_kinyerese_forras(eredeti_magyarazat)
+            
+            # Duplikáció elkerülése: minden egyedi hivatkozás csak egyszer
+            latott_forras_hivatkozasok = set()
+            torvenyi_szovegek_eredeti = []
+            
+            for hiv in forras_hivatkozasok:
+                # Egyedi azonosító létrehozása
+                hiv_id = f"{hiv['konyv']}:{hiv['paragrafus']}"
+                if hiv['tipus'] in ['egy_bekezdes', 'tobb_bekezdes']:
+                    hiv_id += f":{hiv.get('bekezdes', '')}"
+                if hiv['tipus'] == 'tobb_bekezdes':
+                    hiv_id += f"-{hiv.get('masodik_bekezdes', '')}"
+                
+                if hiv_id not in latott_forras_hivatkozasok:
+                    latott_forras_hivatkozasok.add(hiv_id)
+                    
+                    # Törvényi szöveg kinyerése EREDETI formában (nem fonetikusan)
+                    torvenyi_szoveg_eredeti = None
+                    if hiv['tipus'] == 'tobb_bekezdes':
+                        torvenyi_szoveg_eredeti = torvenyi_szoveg_kinyerese_eredeti(
+                            torveny_index,
+                            hiv['konyv'],
+                            hiv['paragrafus'],
+                            hiv['bekezdes'],
+                            hiv['masodik_bekezdes']
+                        )
+                    elif hiv['tipus'] == 'egy_bekezdes':
+                        torvenyi_szoveg_eredeti = torvenyi_szoveg_kinyerese_eredeti(
+                            torveny_index,
+                            hiv['konyv'],
+                            hiv['paragrafus'],
+                            hiv['bekezdes']
+                        )
+                    else:  # paragrafus
+                        torvenyi_szoveg_eredeti = torvenyi_szoveg_kinyerese_eredeti(
+                            torveny_index,
+                            hiv['konyv'],
+                            hiv['paragrafus']
+                        )
+                    
+                    if torvenyi_szoveg_eredeti:
+                        torvenyi_szovegek_eredeti.append(torvenyi_szoveg_eredeti)
+            
+            # Törvényi szövegek hozzáadása a forrás magyarázat végéhez (külön bekezdésként, idézőjelben)
+            if torvenyi_szovegek_eredeti:
+                modositott_magyarazat = eredeti_magyarazat.strip()
+                # Ha nincs végpont, adjunk hozzá
+                if modositott_magyarazat and not re.search(r'[.!?]$', modositott_magyarazat):
+                    modositott_magyarazat += '.'
+                # Törvényi szövegek hozzáfűzése külön bekezdésként (két üres sor + idézetek)
+                # Minden idézet külön sorban
+                torvenyi_szovegek_formazott = '\n'.join(torvenyi_szovegek_eredeti)
+                modositott_magyarazat += '\n\n' + torvenyi_szovegek_formazott
+            else:
+                modositott_magyarazat = eredeti_magyarazat.strip()
+        else:
+            modositott_magyarazat = magyarazat.strip()
+        
+        modositott_magyarazatok.append(modositott_magyarazat)
     
     # Kimenet írása - SSML break tag a blokkok között
     kimeneti_szoveg = '\n\n<break time="5s"/>\n\n'.join(kimenet)
@@ -882,6 +1015,22 @@ def main(mappa_utvonal=None):
         javitasok_utvonal = os.path.join(kimenet_mappa, 'javitasok.txt')
         with open(javitasok_utvonal, 'w', encoding='utf-8') as f:
             f.write('\n'.join(javitasok))
+    
+    # Forrás magyarazatok.txt mentése módosított verzióval
+    if modositott_magyarazatok:
+        # Számozással újraépítjük a fájlt
+        modositott_magyarazatok_szoveg = ''
+        for idx, magyarazat in enumerate(modositott_magyarazatok, start=1):
+            if magyarazat.strip():
+                # A magyarazat már tartalmazza a formázást (külön bekezdés az idézeteknek)
+                # Csak a számozást adjuk hozzá és két üres sort a tétel végén
+                modositott_magyarazatok_szoveg += f"{idx}. {magyarazat}\n\n"
+        
+        # Fájl mentése (a végén lévő üres sorokat eltávolítjuk)
+        with open(magyarazatok_utvonal, 'w', encoding='utf-8') as f:
+            f.write(modositott_magyarazatok_szoveg.rstrip() + '\n')
+        
+        print(f"Forrás magyarazatok.txt fájl módosítva: {magyarazatok_utvonal}")
     
     # Blokkok számának meghatározása (nem üres blokkok)
     blokkok_szama = len([b for b in kimenet if b.strip()])
