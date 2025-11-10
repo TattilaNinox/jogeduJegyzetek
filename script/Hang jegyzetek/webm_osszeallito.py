@@ -391,30 +391,87 @@ def remove_silence_from_file(input_file, output_file):
                 continue
                 
             seg_file = temp_dir / f"segment_{i:03d}.webm"
-            print(f"  Szegmens {i+1}/{len(segments)}: {seg_start:.2f}s - {seg_end:.2f}s")
+            print(f"  Szegmens {i+1}/{len(segments)}: {seg_start:.2f}s - {seg_end:.2f}s ({seg_duration:.2f}s)")
             sys.stdout.flush()
             
             # Vágjuk ki a szegmenst
+            print(f"    Vagas folyamatban...")
+            sys.stdout.flush()
+            
+            # Próbáljuk meg copy codec-cel, de csak audio stream-et másolunk
             cmd = [
                 'ffmpeg',
                 '-ss', str(seg_start),
                 '-i', str(input_file),
                 '-t', str(seg_duration),
-                '-c', 'copy',  # Copy codec, gyors
+                '-map', '0:a',  # Csak audio stream
+                '-c:a', 'copy',  # Copy audio codec
+                '-vn',  # Nincs video
                 '-y',
                 str(seg_file)
             ]
             
             try:
-                subprocess.run(cmd,
-                             capture_output=True,
-                             check=True,
-                             encoding='utf-8',
-                             errors='ignore',
-                             timeout=30)
+                result = subprocess.run(cmd,
+                                     capture_output=True,
+                                     check=True,
+                                     encoding='utf-8',
+                                     errors='ignore',
+                                     timeout=30)
+                print(f"    Szegmens {i+1} kesz (copy codec)")
+                sys.stdout.flush()
                 segment_files.append(seg_file)
-            except:
+                continue  # Sikeres, folytassuk a következővel
+            except Exception as e:
+                # Ha copy codec nem működik, próbáljuk meg MKV formátumban
+                temp_mkv = seg_file.with_suffix('.mkv')
+                try:
+                    cmd_mkv = [
+                        'ffmpeg',
+                        '-ss', str(seg_start),
+                        '-i', str(input_file),
+                        '-t', str(seg_duration),
+                        '-c', 'copy',
+                        '-y',
+                        str(temp_mkv)
+                    ]
+                    subprocess.run(cmd_mkv,
+                                 capture_output=True,
+                                 check=True,
+                                 encoding='utf-8',
+                                 errors='ignore',
+                                 timeout=30)
+                    # Ha MKV-ben sikerült, konvertáljuk WebM-re
+                    if temp_mkv.exists():
+                        cmd_convert = [
+                            'ffmpeg',
+                            '-i', str(temp_mkv),
+                            '-c', 'copy',
+                            '-y',
+                            str(seg_file)
+                        ]
+                        subprocess.run(cmd_convert,
+                                     capture_output=True,
+                                     check=True,
+                                     encoding='utf-8',
+                                     errors='ignore',
+                                     timeout=30)
+                        temp_mkv.unlink()
+                        print(f"    Szegmens {i+1} kesz (MKV copy)")
+                        sys.stdout.flush()
+                        segment_files.append(seg_file)
+                        continue  # Sikeres, folytassuk
+                except:
+                    if temp_mkv.exists():
+                        temp_mkv.unlink()
+                    pass  # Folytassuk az újraencodeolással
                 # Ha copy codec nem működik, újraencodeoljuk
+                print(f"    Copy codec nem mukodott, ujraencodeolas...")
+                sys.stdout.flush()
+                
+                import threading
+                import time
+                
                 cmd = [
                     'ffmpeg',
                     '-ss', str(seg_start),
@@ -425,13 +482,49 @@ def remove_silence_from_file(input_file, output_file):
                     '-y',
                     str(seg_file)
                 ]
-                subprocess.run(cmd,
-                             capture_output=True,
-                             check=True,
-                             encoding='utf-8',
-                             errors='ignore',
-                             timeout=timeout_seconds)
-                segment_files.append(seg_file)
+                
+                # Időzített visszajelzés újraencodeoláshoz
+                process = subprocess.Popen(cmd,
+                                         stdout=subprocess.PIPE,
+                                         stderr=subprocess.PIPE,
+                                         encoding='utf-8',
+                                         errors='ignore')
+                
+                start_time = time.time()
+                progress_printed = False
+                
+                def print_progress():
+                    nonlocal progress_printed
+                    elapsed = 0
+                    while process.poll() is None:
+                        time.sleep(5)  # Minden 5 másodpercben
+                        elapsed = int(time.time() - start_time)
+                        if elapsed > 0:
+                            print(f"    Még fut... ({elapsed}s)")
+                            sys.stdout.flush()
+                            progress_printed = True
+                
+                progress_thread = threading.Thread(target=print_progress, daemon=True)
+                progress_thread.start()
+                
+                try:
+                    stdout, stderr = process.communicate(timeout=timeout_seconds)
+                    if process.returncode == 0:
+                        if progress_printed:
+                            elapsed = int(time.time() - start_time)
+                            print(f"    Szegmens {i+1} kesz ({elapsed}s)")
+                        else:
+                            print(f"    Szegmens {i+1} kesz")
+                        sys.stdout.flush()
+                        segment_files.append(seg_file)
+                    else:
+                        raise subprocess.CalledProcessError(process.returncode, cmd, stderr=stderr)
+                except subprocess.TimeoutExpired:
+                    process.kill()
+                    process.wait()
+                    print(f"    Hiba: Szegmens {i+1} vagasa timeout")
+                    sys.stdout.flush()
+                    raise
         
         if len(segment_files) == 0:
             print("  Hiba: Nem sikerult szegmenseket letrehozni")
@@ -1027,7 +1120,8 @@ def main():
     sys.stdout.flush()
     
     # Útvonalak beállítása
-    base_dir = Path(__file__).parent.parent
+    # A script a script/Hang jegyzetek/ mappában van, szóval 2x parent = script, 3x parent = projekt gyökér
+    base_dir = Path(__file__).parent.parent.parent
     mp3_dir = base_dir / 'MP3'
     
     print(f"Kereses a kovetkezo mappaban: {mp3_dir}")
