@@ -1,0 +1,14 @@
+# Python függőségek a tanulókártya-generátor scripthez
+
+# LLM API támogatás
+openai>=1.0.0
+anthropic>=0.18.0
+
+# Audio feldolgozás (TTS dialógus összeállítás)
+pydub>=0.25.0
+numpy>=1.20.0
+
+# Megjegyzés: API kulcsok beállítása szükséges:
+# export OPENAI_API_KEY='sk-...'  # OpenAI API-hoz
+# export ANTHROPIC_API_KEY='sk-ant-...'  # Anthropic API-hoz
+

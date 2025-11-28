@@ -1,0 +1,355 @@
+================================================================================
+PYTHON SCRIPTEK DOKUMENTÁCIÓJA - 2025. november 1.
+================================================================================
+
+Ez a dokumentum részletesen bemutatja azokat a Python scripteket, amelyeket
+a mai napon (2025. november 1.) hoztunk létre vagy módosítottunk a projektben.
+
+================================================================================
+1. HTML_TO_TXT_CONVERTER.PY
+================================================================================
+
+Fájl neve: html_to_txt_converter.py
+Helye: script/html_to_txt_converter.py
+Készítés dátuma: 2025. november 1.
+Cél: HTML fájlok visszaalakítása Markdown/TXT formátumú fájlokká
+
+--------------------------------------------------------------------------------
+1.1. Áttekintés
+--------------------------------------------------------------------------------
+
+Ez a script a Tételek/html_tetelek mappában található HTML fájlokat konvertálja
+vissza Markdown formátumú .txt fájlokká. A script akkor hasznos, amikor a HTML
+fájlokból vissza kell állítani az eredeti szöveges formátumot.
+
+--------------------------------------------------------------------------------
+1.2. Főbb funkciók
+--------------------------------------------------------------------------------
+
+1. HTML tartalom kinyerése a <body> tagből
+2. HTML elemek konvertálása Markdown formátumra:
+   - <h1> → # (cím)
+   - <h2> → ## (alcím)
+   - <h3> → ### (harmadik szintű alcím)
+   - <h4> → #### (negyedik szintű alcím)
+   - <p> → szöveg (paragraph)
+   - <ul>/<li> → - (felsorolás)
+   - <ol>/<li> → számozott lista
+   - <strong> → **félkövér**
+   - <table> → táblázat szöveges formátumban
+3. HTML entitások dekódolása (&nbsp;, &amp;, stb.)
+4. Szöveg tisztítása (többszörös üres sorok, szóközök)
+
+--------------------------------------------------------------------------------
+1.3. Függvények részletes leírása
+--------------------------------------------------------------------------------
+
+1.3.1. html_to_markdown(html_content)
+   - Bemenet: HTML tartalom (string)
+   - Kimenet: Markdown formátumú szöveg (string)
+   - Feladat:
+     * Kinyeri a <body> tag tartalmát
+     * Konvertálja a HTML elemeket Markdown formátumra
+     * Eltávolítja a HTML címkéket
+     * Dekódolja a HTML entitásokat
+     * Tisztítja a szöveget
+
+1.3.2. convert_html_files()
+   - Bemenet: nincs (a script mappájából számítja az útvonalakat)
+   - Kimenet: konvertált .txt fájlok a Tételek mappába
+   - Feladat:
+     * Beolvassa az összes .html fájlt a Tételek/html_tetelek mappából
+     * Minden fájlt konvertál Markdown formátumra
+     * Elmenti a .txt fájlokat a Tételek mappába
+     * Kiírja a feldolgozás eredményét
+
+--------------------------------------------------------------------------------
+1.4. Használat
+--------------------------------------------------------------------------------
+
+Parancssorban:
+    python script/html_to_txt_converter.py
+
+Vagy Windows batch fájllal:
+    script\convert_html.bat
+
+A script automatikusan:
+- Megkeresi a Tételek/html_tetelek mappát
+- Feldolgozza az összes .html fájlt
+- Létrehozza a megfelelő .txt fájlokat a Tételek mappába
+
+--------------------------------------------------------------------------------
+1.5. Kimenet
+--------------------------------------------------------------------------------
+
+A script minden konvertált fájl esetén kiírja:
+    ✓ Konvertálva: [fájlnév].html -> [fájlnév].txt
+
+Végén megjelenik:
+    Összesen [szám] fájl konvertálva.
+
+Hibák esetén:
+    ✗ Hiba a [fájlnév] feldolgozásakor: [hibaüzenet]
+
+--------------------------------------------------------------------------------
+1.6. Példa működésre
+--------------------------------------------------------------------------------
+
+Bemenet (HTML):
+    <body>
+    <h1>Cím</h1>
+    <p>Szöveg <strong>félkövér</strong> részekkel.</p>
+    <ul>
+    <li>Első pont</li>
+    <li>Második pont</li>
+    </ul>
+    </body>
+
+Kimenet (TXT):
+    # Cím
+    
+    Szöveg **félkövér** részekkel.
+    
+    - Első pont
+    - Második pont
+
+--------------------------------------------------------------------------------
+1.7. Technikai részletek
+--------------------------------------------------------------------------------
+
+- Python verzió: 3.x
+- Szükséges modulok: os, re, pathlib (standard library)
+- Kódolás: UTF-8
+- Fájlkezelés: Path objektumok használata (pathlib)
+- Regex használat: HTML elemek azonosításához és konvertálásához
+
+--------------------------------------------------------------------------------
+1.8. Korlátok és megjegyzések
+--------------------------------------------------------------------------------
+
+- A script csak a <body> tag tartalmát dolgozza fel
+- A táblázatok egyszerű szöveges formátumba kerülnek (| elválasztóval)
+- A CSS stílusok és JavaScript kódok nem kerülnek feldolgozásra
+- A script nem kezeli a beágyazott HTML elemeket (pl. <strong> a <li> belül)
+- A HTML entitások csak alapvető dekódoláson mennek át
+
+================================================================================
+2. CONVERT_HTML.BAT
+================================================================================
+
+Fájl neve: convert_html.bat
+Helye: script/convert_html.bat
+Készítés dátuma: 2025. november 1.
+Cél: Windows batch fájl a html_to_txt_converter.py script futtatásához
+
+--------------------------------------------------------------------------------
+2.1. Áttekintés
+--------------------------------------------------------------------------------
+
+Ez egy Windows batch fájl, amely megkönnyíti a html_to_txt_converter.py script
+futtatását Windows környezetben. A fájl automatikusan beállítja a munkakönyvtárat
+és futtatja a Python scriptet.
+
+--------------------------------------------------------------------------------
+2.2. Tartalma
+--------------------------------------------------------------------------------
+
+@echo off
+chcp 65001 >nul
+cd /d "%~dp0.."
+python script\html_to_txt_converter.py
+pause
+
+Magyarázat:
+- @echo off: Elrejti a parancsok kiírását
+- chcp 65001: UTF-8 karakterkészlet beállítása
+- cd /d "%~dp0..": Váltás a projekt gyökérkönyvtárába
+- python script\html_to_txt_converter.py: A Python script futtatása
+- pause: Várakozás a felhasználó billentyűlenyomására
+
+--------------------------------------------------------------------------------
+2.3. Használat
+--------------------------------------------------------------------------------
+
+Dupla kattintással a fájlra, vagy parancssorból:
+    script\convert_html.bat
+
+================================================================================
+3. ÖSSZEFÜGGÉSEK A TÖBBI SCRIPTEK KÖZÖTT
+================================================================================
+
+A mai napon készített scriptek a következő munkafolyamat részei:
+
+1. Tételek generálása (manuálisan vagy AI segítségével)
+   ↓
+2. HTML formátumba konvertálás (tetelek_html_generator.py)
+   ↓
+3. HTML fájlokból visszaállítás (html_to_txt_converter.py) - ÚJ
+   ↓
+4. Feldolgozás TTS-hez (tetelek_feldolgozas.py)
+
+A html_to_txt_converter.py script akkor hasznos, amikor:
+- A HTML fájlokból vissza kell állítani az eredeti .txt fájlokat
+- A .txt fájlok elvesztek, de a HTML verziók megvannak
+- Biztonsági mentés visszaállítása szükséges
+
+================================================================================
+4. FÜGGŐSÉGEK ÉS KÖVETELMÉNYEK
+================================================================================
+
+4.1. Python verzió
+   - Python 3.x szükséges
+   - Standard library modulok elegendőek
+
+4.2. Fájlstruktúra
+   A script a következő mappastruktúrát várja:
+   
+   projekt/
+   ├── script/
+   │   └── html_to_txt_converter.py
+   └── Tételek/
+       ├── html_tetelek/
+       │   └── *.html fájlok
+       └── (ide kerülnek a .txt fájlok)
+
+4.3. Fájlnevek
+   - A HTML fájlok neve: [tétel_neve].html
+   - A generált TXT fájlok neve: [tétel_neve].txt
+   - A fájlnevek automatikusan egyeznek (csak a kiterjesztés változik)
+
+================================================================================
+5. HIBÁK KEZELÉSE
+================================================================================
+
+5.1. Lehetséges hibák
+
+1. "Hiba: A [mappa] mappa nem található!"
+   - Megoldás: Ellenőrizd, hogy a Tételek/html_tetelek mappa létezik-e
+
+2. "Nincs HTML fájl a mappában!"
+   - Megoldás: Győződj meg róla, hogy vannak .html fájlok a mappában
+
+3. "Figyelmeztetés: [fájl] üres tartalmat adott!"
+   - Ok: A HTML fájl nem tartalmaz <body> taget vagy üres
+   - Megoldás: Ellenőrizd a HTML fájl tartalmát
+
+4. "✗ Hiba a [fájl] feldolgozásakor: [hiba]"
+   - Ok: Fájlolvasási vagy írási hiba
+   - Megoldás: Ellenőrizd a fájl jogosultságokat és a lemezterületet
+
+5.2. Debug mód
+
+A script jelenleg nem tartalmaz részletes debug módot. Ha szükséges,
+hozzáadhatók print() utasítások a hibakereséshez.
+
+================================================================================
+6. JAVÍTÁSI LEHETŐSÉGEK ÉS KITERJESZTÉSEK
+================================================================================
+
+6.1. Lehetséges fejlesztések
+
+1. Parancssori argumentumok támogatása:
+   - Bemeneti mappa megadása
+   - Kimeneti mappa megadása
+   - Egyedi fájlok feldolgozása
+
+2. További HTML elemek támogatása:
+   - <em> (dőlt betű)
+   - <code> (kód blokkok)
+   - <blockquote> (idézet)
+   - <a> (linkek)
+
+3. Konfigurációs fájl:
+   - HTML → Markdown konverziós szabályok testreszabása
+   - Kimeneti formátum beállítása
+
+4. Log fájl generálás:
+   - Részletes naplózás a feldolgozásról
+   - Hibák naplózása fájlba
+
+5. Batch feldolgozás:
+   - Nagy fájlok esetén memóriaoptimalizálás
+   - Progress bar a feldolgozás állapotához
+
+================================================================================
+7. PÉLDA HASZNÁLATI FORGATÓKÖNYVEK
+================================================================================
+
+7.1. Eset 1: Tételek visszaállítása HTML-ből
+
+Helyzet: A Tételek mappában lévő .txt fájlok elvesztek, de a HTML verziók
+megvannak a html_tetelek mappában.
+
+Megoldás:
+1. Futtasd a scriptet: python script/html_to_txt_converter.py
+2. A script automatikusan visszaállítja az összes .txt fájlt
+
+7.2. Eset 2: HTML fájlok tesztelése
+
+Helyzet: Szeretnéd ellenőrizni, hogy a HTML fájlok helyesen konvertálódnak-e
+vissza Markdown formátumra.
+
+Megoldás:
+1. Futtasd a scriptet egy teszt HTML fájllal
+2. Hasonlítsd össze az eredeti .txt fájllal (ha van)
+3. Ellenőrizd a formázást és a tartalmat
+
+7.3. Eset 3: Batch konverzió
+
+Helyzet: Több HTML fájlt szeretnél egyszerre konvertálni.
+
+Megoldás:
+1. Helyezd az összes HTML fájlt a Tételek/html_tetelek mappába
+2. Futtasd a scriptet
+3. Az összes fájl automatikusan konvertálódik
+
+================================================================================
+8. KAPCSOLAT A TÖBBI SCRIPTEK KÖZÖTT
+================================================================================
+
+8.1. tetelek_html_generator.py
+   - Ez a script fordított irányban működik
+   - TXT → HTML konverzió
+   - A html_to_txt_converter.py a fordítottja
+
+8.2. tetelek_feldolgozas.py
+   - A konvertált .txt fájlokat dolgozza fel TTS-hez
+   - A html_to_txt_converter.py által létrehozott fájlok használhatók bemenetként
+
+8.3. feldolgozas.py
+   - Általános feldolgozó script
+   - A konvertált fájlok további feldolgozásra kerülhetnek
+
+================================================================================
+9. ÖSSZEFOGLALÁS
+================================================================================
+
+A mai napon készített scriptek:
+
+1. html_to_txt_converter.py
+   - HTML → Markdown/TXT konverzió
+   - Batch feldolgozás
+   - Automatikus fájlkezelés
+
+2. convert_html.bat
+   - Windows batch fájl
+   - Egyszerű futtatás
+   - UTF-8 támogatás
+
+Ezek a scriptek kiegészítik a meglévő munkafolyamatot és lehetővé teszik
+a HTML fájlokból történő visszaállítást, ami biztonsági mentésként és
+adat-helyreállítási eszközként szolgál.
+
+================================================================================
+VÉGE A DOKUMENTÁCIÓNAK
+================================================================================
+
+Készítve: 2025. november 1.
+Utolsó frissítés: 2025. november 1.
+
+
+
+
+
+
+
