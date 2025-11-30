@@ -15,9 +15,27 @@ TILOS használni absztrakt kifejezéseket, mint: "mechanizmus", "szerkezet",
 TILOS LOGIKÁTLAN KOMBINÁCIÓK: "gömb alakú fogaskerék", "kocka alakú fogaskerék", 
 "gömb alakú kocka" - egy tárgy nem lehet olyan alakú, ami nem valós!
 MINDEN tárgynak VALÓS, KONKRÉT, LOGIKUS tárgynak kell lennie: "fogaskerék" 
-(kör alakú), "óramű", "rugó", "deszka", "pad", "kődarab", "mérleg", "tükör", 
-"kocka" (kocka alakú), "gömb" (gömb alakú), stb.
+(kör alakú), "óramű", "rugó", "deszka", "pad", "kődarab", "mérleg", "kocka" 
+(kocka alakú), stb.
 Ez a legfontosabb szabály - a memorizálás csak valós, logikus tárgyakkal működik!
+
+TILOS TÁRGYAK ÉS KIFEJEZÉSEK:
+- TILOS: "tükör", "kristály", "üveg", "gömb" - ezek nem hétköznapi tárgyak
+- HASZNÁLJ helyettük: "lámpa", "fémlemez", "fémtábla", "deszka", "kocka", "golyó", stb.
+
+TILOS LEHETETLEN CSELEKMÉNYEK:
+- TILOS: "fémlemezből golyó gurul ki" - lehetetlen! Fémlemezből nem tud golyó kigurulni
+- TILOS: "fémlemezből fénysugár lövell" - lehetetlen! Fémlemezből nem tud fénysugár lövellni
+- TILOS: "festék szivárog" - csak akkor, ha logikus (pl. törött dobozból, törött lámpából)
+- TILOS: "törött fémlemez" - fémlemez nem törik, csak hajlítódik! HASZNÁLJ: "lehajlított fémlemez" vagy "törött deszka", "törött tábla"
+- TILOS: "mérleg aljáról golyó gurul" - lehetetlen! HASZNÁLJ: "golyó kiesik a mérleg serpenyőjéből"
+- TILOS: "etikátlan fémtábla" - lehetetlen! Egy tárgy nem lehet etikátlan, csak a kép rajta. HASZNÁLJ: "etikátlan kép a táblán"
+
+MINDEN cselekménynek LOGIKUSNAK kell lennie:
+- Golyó gurul, kiesik, leesik - ezek logikusak
+- Fénysugár lövell lámpákból, fényekből - ez logikus
+- Tárgyak leesnek, elérnek más tárgyakat - ez logikus
+- De: fémlemezből nem tud semmi kigurulni vagy kilövellni!
 
 ================================================================================
 I. SZEREP ÉS KONTEXTUS
@@ -98,10 +116,10 @@ KRITIKUS KÖVETELMÉNY - VALÓS TÁRGYAK:
   - fogaskerék nem lehet kocka, "gömb alakú kocka" - kocka nem lehet gömb)
 - MINDEN tárgynak VALÓS, LOGIKUS alakja és anyaga kell legyen
 - HASZNÁLJ helyettük: "fogaskerék" (kör alakú), "óramű", "csavar", "rugó", 
-  "gumiszalag", "bírói pecsét", "mérleg", "hőmérő", "lámpa", "kötél", "tükör", 
-  "kocka" (kocka alakú), "piramis", "tábla", "dokumentum", "pénz", "kés", "tőr", 
-  "nyíl", "deszka", "pad", "kődarab", "tégla", "beton", "földdarab", "gömb" 
-  (gömb alakú), stb.
+"gumiszalag", "bírói pecsét", "mérleg", "hőmérő", "lámpa", "kötél", 
+"kocka" (kocka alakú), "piramis", "tábla", "dokumentum", "pénz", "kés", "tőr", 
+"nyíl", "deszka", "pad", "kődarab", "tégla", "beton", "földdarab", "golyó", 
+"fémlemez", "fémtábla", stb.
 
 KÖVETELMÉNYEK:
 - Minden kulcsfogalomhoz KONKRÉT, VIZUÁLISAN ERŐS, MEGJEGYEZHETŐ, VALÓS szimbólum
@@ -112,6 +130,25 @@ KÖVETELMÉNYEK:
   alakú, gömb = gömb alakú (ne keverd össze!)
 - Kerüld a misztikus tárgyakat, de törekedj az erős képi hatásra
 
+KRITIKUS SZABÁLY - TÖMÖR LEÍRÁS ÉS TULAJDONSÁGOK:
+- A tárgyak leírása legyen TÖMÖR, EGYSZERŰ, RÖVID
+- TILOS túlmagyarázni a tárgyakat! Ne legyen több információ a tárgyról, mint a 
+  tanulnivalóról!
+- ABSZOLÚT SZABÁLY: A tárgy tulajdonságai CSAK akkor lehetnek, ha a tananyaghoz 
+  kapcsolódnak!
+- Ha a "fekete" színhez NINCS kapcsolódó tananyag → TILOS: "fekete tolmácsgép", 
+  HASZNÁLJ: "tolmácsgép"
+- Ha a "bronz" anyaghoz NINCS kapcsolódó tananyag → TILOS: "bronz mérleg", 
+  HASZNÁLJ: "mérleg"
+- Ha a "piros" színhez NINCS kapcsolódó tananyag → TILOS: "piros lámpa", 
+  HASZNÁLJ: "lámpa"
+- A tárgy tulajdonságai CSAK akkor lehetnek, ha valami tananyaghoz kapcsolódnak!
+- Példa: Ha a tananyagban van "két szint" → akkor lehet "két szintből álló piramis"
+- Példa: Ha a tananyagban NINCS szín → akkor TILOS színt említeni!
+- A tárgy neve ELEGENDŐ, ha nincs kapcsolódó tananyag: "tolmácsgép", "mérleg", 
+  "lámpa", "fogaskerék"
+- A FÓKUSZ A TANULNIVALÓN LEGYEN, NEM A TÁRGY LEÍRÁSÁN!
+
 TILOS:
 - TILOS csak szöveges feliratok használata (pl. "5 haj csak más felirat" - 
   EZ NEM SEGÍTI A MEMORIZÁLÁST)
@@ -121,6 +158,10 @@ TILOS:
   (kivéve, ha konkrét: "hőmérő", "óramű", "beton terület", "földdarab")
 - A szimbólumoknak konkrét, vizuálisan erős, megjegyezhető, VALÓS tárgyaknak, 
   jeleneteknek kell lenniük
+- TILOS túlmagyarázni a tárgyakat! Ne legyen több információ a tárgyról, mint a 
+  tanulnivalóról! A tárgy leírása legyen tömör, maximum 2-3 szó!
+- ABSZOLÚT SZABÁLY: A tárgy tulajdonságai CSAK akkor lehetnek, ha a tananyaghoz 
+  kapcsolódnak! Ha nincs kapcsolódó tananyag, akkor csak a tárgy neve!
 
 PÉLDÁK JÓ SZIMBÓLUMOKRA (VALÓS TÁRGYAK):
 - "Jogvesztő határidő" = homokóra, ami éppen darabokra törik a padlón
@@ -144,6 +185,18 @@ ROSSZ PÉLDÁK (TILOS HASZNÁLNI):
 - "gömb alakú fogaskerék" → helyette: "kör alakú fogaskerék" (fogaskerék nem lehet gömb!)
 - "kocka alakú fogaskerék" → helyette: "kör alakú fogaskerék" (fogaskerék nem lehet kocka!)
 - "gömb alakú kocka" → helyette: "kocka" vagy "gömb" (ne keverd az alakokat!)
+- "tükör", "kristály", "üveg", "gömb" → helyette: "lámpa", "fémlemez", "fémtábla", "deszka", "kocka", "golyó"
+- "fémlemezből golyó gurul ki" → helyette: "golyó kiesik a dobozból" vagy "fémlemez leesik"
+- "fémlemezből fénysugár lövell" → helyette: "lámpából fénysugár lövell" vagy "fémlemez leesik"
+- "törött fémlemez" → helyette: "lehajlított fémlemez" vagy "törött deszka", "törött tábla"
+- "mérleg aljáról golyó gurul" → helyette: "golyó kiesik a mérleg serpenyőjéből"
+- "etikátlan fémtábla" → helyette: "etikátlan kép a táblán" (a tárgy nem lehet etikátlan, csak a kép rajta)
+- "festék szivárog a fémlemezből" → helyette: "fémlemez leesik" vagy "festék szivárog a törött dobozból"
+- "fekete fémből készült tolmácsgép" → helyette: "fekete tolmácsgép" (CSAK ha a "fekete" színhez van kapcsolódó tananyag!) vagy csak "tolmácsgép" (ha nincs)
+- "bronzból készült, precíziós bírói mérleg" → helyette: "bronz mérleg" (CSAK ha a "bronz" anyaghoz van kapcsolódó tananyag!) vagy csak "mérleg" (ha nincs)
+- "kristályos, szivárványos fényt szóró lámpa" → helyette: "lámpa" (TILOS színt, anyagot említeni, ha nincs kapcsolódó tananyag!)
+- TÚLMAGYARÁZÁS: Ne írj 5-6 szavas leírásokat! Maximum 2-3 szó: "tolmácsgép", "bírói pecsét", "mérleg"
+- ABSZOLÚT SZABÁLY: A tárgy tulajdonságai CSAK akkor lehetnek, ha a tananyaghoz kapcsolódnak! Ha nincs kapcsolódó tananyag, akkor csak a tárgy neve!
 
 3.3 OK-OKOZATI KAPCSOLATOK ÉS LÁNCREAKCIÓK
 
@@ -494,6 +547,11 @@ MEMÓRIAPALOTA LEÍRÁS:
 ☐ Minden kulcsfogalomhoz erős vizuális szimbólum (nem csak szöveg)
 ☐ MINDEN szimbólum VALÓS tárgy (nem absztrakt: mechanizmus, szerkezet, platform, terület, zóna, stb.)
 ☐ MINDEN tárgy LOGIKUS alakú (fogaskerék = kör alakú, kocka = kocka alakú, gömb = gömb alakú)
+☐ TILOS tárgyak: tükör, kristály, üveg, gömb - használj: lámpa, fémlemez, fémtábla, deszka, kocka, golyó
+☐ MINDEN cselekmény LOGIKUS (TILOS: fémlemezből golyó gurul, fémlemezből fénysugár lövell, törött fémlemez, mérleg aljáról golyó gurul, etikátlan fémtábla)
+☐ TÖMÖR LEÍRÁS: TILOS túlmagyarázni! Maximum 2-3 szó a tárgyra: "tolmácsgép", "mérleg", "lámpa" (nem: "fekete fémből készült tolmácsgép")
+☐ TULAJDONSÁGOK SZABÁLYA: A tárgy tulajdonságai CSAK akkor lehetnek, ha a tananyaghoz kapcsolódnak! Ha nincs kapcsolódó tananyag, akkor csak a tárgy neve!
+☐ A fókusz a tanulnivalón legyen, nem a tárgy leírásán!
 ☐ Ok-okozati kapcsolatok: tárgyak egymásból következnek
 ☐ Fizikai jelenlét érzékelése (instrukciók a térben való mozgásra)
 ☐ Minden jogszabály szó szerinti idézése
@@ -509,6 +567,11 @@ PODCAST SCRIPTEK:
 ☐ Változatos visszaigazoló fordulatok (nem egysíkú, nem papagály módjára)
 ☐ Tanuló aktív részvétel, kérdések
 ☐ Csak VALÓS tárgyakat említünk, ne absztrakt kifejezéseket
+☐ TILOS tárgyak: tükör, kristály, üveg, gömb - használj: lámpa, fémlemez, fémtábla, deszka, kocka, golyó
+☐ MINDEN cselekmény LOGIKUS (TILOS: fémlemezből golyó gurul, fémlemezből fénysugár lövell, törött fémlemez, mérleg aljáról golyó gurul, etikátlan fémtábla)
+☐ TÖMÖR LEÍRÁS: TILOS túlmagyarázni! Maximum 2-3 szó a tárgyra: "tolmácsgép", "mérleg", "lámpa" (nem: "fekete fémből készült tolmácsgép")
+☐ TULAJDONSÁGOK SZABÁLYA: A tárgy tulajdonságai CSAK akkor lehetnek, ha a tananyaghoz kapcsolódnak! Ha nincs kapcsolódó tananyag, akkor csak a tárgy neve!
+☐ A fókusz a tanulnivalón legyen, nem a tárgy leírásán!
 ☐ Minden jogszabály szó szerinti idézése
 ☐ Forrásmegjelölés minden jogszabálynál
 ☐ Számok betűvel írva
@@ -621,19 +684,43 @@ MINDENKOR TISZTELNI KELL:
    kivéve konkrét: hőmérő, óramű, beton terület, földdarab)
    TILOS LOGIKÁTLAN KOMBINÁCIÓK: "gömb alakú fogaskerék", "kocka alakú fogaskerék" 
    - minden tárgynak VALÓS, LOGIKUS alakja kell legyen!
+   TILOS TÁRGYAK: "tükör", "kristály", "üveg", "gömb" - ezek nem hétköznapi tárgyak!
+   HASZNÁLJ: "lámpa", "fémlemez", "fémtábla", "deszka", "kocka", "golyó"
 
-2. OK-OKOZATI KAPCSOLATOK: A tárgyak egymásból következzenek, ne csak egymás 
+2. LOGIKUS CSELEKMÉNYEK: TILOS lehetetlen cselekmények!
+   - TILOS: "fémlemezből golyó gurul" → helyette: "golyó kiesik a dobozból"
+   - TILOS: "fémlemezből fénysugár lövell" → helyette: "lámpából fénysugár lövell"
+   - TILOS: "törött fémlemez" → helyette: "lehajlított fémlemez" vagy "törött deszka"
+   - TILOS: "mérleg aljáról golyó gurul" → helyette: "golyó kiesik a mérleg serpenyőjéből"
+   - TILOS: "etikátlan fémtábla" → helyette: "etikátlan kép a táblán"
+   - TILOS: "festék szivárog a fémlemezből" → helyette: "fémlemez leesik" vagy "festék szivárog a törött dobozból"
+
+3. TÖMÖR LEÍRÁS ÉS TULAJDONSÁGOK SZABÁLYA: TILOS túlmagyarázni a tárgyakat!
+   - ABSZOLÚT SZABÁLY: A tárgy tulajdonságai CSAK akkor lehetnek, ha a tananyaghoz 
+     kapcsolódnak! Ha nincs kapcsolódó tananyag, akkor csak a tárgy neve!
+   - TILOS: "fekete fémből készült tolmácsgép" → helyette: "fekete tolmácsgép" (CSAK 
+     ha a "fekete" színhez van kapcsolódó tananyag!) vagy csak "tolmácsgép" (ha nincs)
+   - TILOS: "bronzból készült, precíziós bírói mérleg" → helyette: "bronz mérleg" 
+     (CSAK ha a "bronz" anyaghoz van kapcsolódó tananyag!) vagy csak "mérleg" (ha nincs)
+   - TILOS: "kristályos, szivárványos fényt szóró lámpa" → helyette: "lámpa" 
+     (TILOS színt, anyagot említeni, ha nincs kapcsolódó tananyag!)
+   - HASZNÁLJ: Maximum 2-3 szó a tárgyra! A fókusz a tanulnivalón legyen, nem a 
+     tárgy leírásán!
+   - Példa: Ha a tananyagban van "két szint" → akkor lehet "két szintből álló piramis"
+   - Példa: Ha a tananyagban NINCS szín → akkor TILOS színt említeni!
+
+4. OK-OKOZATI KAPCSOLATOK: A tárgyak egymásból következzenek, ne csak egymás 
    mellett legyenek
 
-3. NÉV NÉLKÜLI KARAKTEREK: MENTOR és TANULÓ, de NEM Márk vagy más név
+5. NÉV NÉLKÜLI KARAKTEREK: MENTOR és TANULÓ, de NEM Márk vagy más név
 
-4. VÁLTOZATOS VISSZAIGAZOLÁSOK: Ne papagály módjára, ne egysíkú
+6. VÁLTOZATOS VISSZAIGAZOLÁSOK: Ne papagály módjára, ne egysíkú
 
-5. SZÓRUL SZÓRA IDÉZÉS: Minden jogszabály betűhűen, pontos szöveggel
+7. SZÓRUL SZÓRA IDÉZÉS: Minden jogszabály betűhűen, pontos szöveggel
 
-6. TTS OPTIMALIZÁLÁS: Számok betűvel, nincs rövidítés, nincs speciális karakter
+8. TTS OPTIMALIZÁLÁS: Számok betűvel, nincs rövidítés, nincs speciális karakter
 
-7. EGYEDI KONCEPCIÓ: Minden memóriapalota egyedi, nem sablonos
+9. EGYEDI KONCEPCIÓ: Minden memóriapalota egyedi, nem sablonos
 
 ================================================================================
 VÉGE
