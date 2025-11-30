@@ -1,0 +1,48 @@
+A dolog fogalma, fajtái és csoportosítása:
+
+A dolog szerepe a dologi jogban:
+A dolog a dologi jog, vagyis a vagyoni jog statikus részének központi tárgya. A dologi jog szabályozza a dolgokhoz fűződő jogokat, elsősorban a tulajdonjogot és az egyéb dologi jogokat, például a haszonélvezetet, a zálogjogot és a szolgalmakat. Ezek a jogok mindig egy konkrét, individualizált dologra vonatkoznak, nem általában dolgokra, hanem erre a meghatározott dologra, például erre az ingatlanra vagy erre a gépkocsira. A dologi jog garantálja a dolgokhoz fűződő jogok harmadik személyekkel szembeni hatályát, az úgynevezett erga omnesz hatályt.
+
+A dolog polgári jogi fogalma:
+A kétezer-tizenhárom évi ötödik törvény, vagyis a Polgári Törvénykönyv ötödik könyvének tizennegyedik paragrafusának első bekezdése határozza meg a dolog fogalmát. A rendelkezés kimondja, hogy a birtokba vehető testi tárgy tulajdonjog tárgya lehet. Ez a definíció két konjunktív, együttesen érvényesülő feltételt tartalmaz: a testi tárgy jelleget és a birtokba vehetőséget.
+
+Az első feltétel, a testi tárgy, vagyis a korpusz:
+A dolog testi, anyagi, fizikai léttel rendelkező tárgy, amely érzékszerveinkkel érzékelhető, térben elhelyezhető és mérhető tulajdonságokkal, mint súly, méret vagy térfogat rendelkezik. Ebből következően nem minősülnek dolognak a jogok és követelések, illetve a szellemi alkotások, mivel ezek immateriális javak. Szintén nem dolog az élő emberi test a személyiségi jogi védelem miatt, valamint a holttest sem, amelyre különleges kegyeleti szabályok vonatkoznak.
+
+A második feltétel, a birtokba vehetőség:
+A dolognak olyannak kell lennie, amely felett az ember tényleges hatalmat, uralmat tud gyakorolni. Nem minősülnek dolognak a természeti okokból birtokba nem vehető entitások, mint a csillagok, a nap, a hold, vagy a végtelen légtér és a nyílt tenger. A vadon élő állatok azonban a befogás pillanatában dologgá, és ezzel tulajdonjog tárgyává válnak.
+
+Kiterjesztett dologfogalom és speciális szabályok:
+A törvény bizonyos esetekben a dologfogalmat kiterjeszti, vagy speciális szabályokat alkalmaz.
+Először, a jogi fikciók esete, a Polgári Törvénykönyv ötödik könyvének tizennegyedik paragrafusának második bekezdése szerint. A dolgokra vonatkozó szabályokat kell alkalmazni a pénzre és az értékpapírokra, valamint a dolog módjára hasznosítható természeti erőkre, például a villamos energiára vagy a szélenergiára. Bár az energia önmagában nem testi tárgy, ha uralom alá hajtható, vezethető és mérhető, a jog dologként kezeli a gazdasági forgalom biztosítása érdekében.
+Másodszor, az állatok különleges helyzete, a Polgári Törvénykönyv ötödik könyvének tizennegyedik paragrafusának harmadik bekezdése szerint. Az állatokra a dolgokra vonatkozó szabályokat kell alkalmazni, de a természetüknek megfelelő eltérésekkel. Ez a szabály elismeri az állatok érző lény mivoltát, és előírja az állatvédelmi törvények betartását, korlátozva ezzel a tulajdonosi rendelkezési jogot.
+
+A dolgok osztályozása:
+A dolgok jogi szempontból releváns kategóriái a következők:
+
+Az első, az ingó és ingatlan dolgok megkülönböztetése:
+Ez a legfontosabb osztályozás. Ingatlan a föld és minden, ami a földdel tartósan egyesült, például az épület, a növényzet és a föld alatti rétegek. Az ingó dolog minden más dolog, ami nem ingatlan. A megkülönböztetés jelentősége a tulajdonszerzés módjában áll: ingónál főszabály szerint a birtokbavétel, vagyis a tradíció, míg ingatlannál az ingatlan-nyilvántartási bejegyzés szükséges. Eltérő továbbá az elbirtoklási idő is a Polgári Törvénykönyv ötödik könyvének negyvennegyedik paragrafusa szerint: ingóknál tíz év, ingatlanoknál tizenöt év.
+
+A második, a forgalomképesség szerinti osztályozás:
+A forgalomképes dolgok szabadon átruházhatók. A forgalomképtelen dolgok, mint például a kizárólagos állami tulajdonban álló dolgok vagy a közutak, nem lehetnek magántulajdonban. A korlátozottan forgalomképes dolgok, például lőfegyverek vagy gyógyszerek, csak hatósági engedéllyel vagy meghatározott feltételekkel ruházhatók át közbiztonsági vagy közegészségügyi okokból.
+
+A harmadik, a helyettesíthető és helyettesíthetetlen dolgok:
+A helyettesíthető, latinul fungibilis dolgok fajta és mennyiség szerint meghatározottak, egymással felcserélhetők, mint a gabona vagy a pénz. A helyettesíthetetlen dolgok egyediek, más dologgal nem pótolhatók, mint egy eredeti festmény. Ennek jelentősége például a kölcsönszerződésnél van, amely a Polgári Törvénykönyv hatodik könyvének háromszáznyolcvanötödik paragrafusa szerint csak helyettesíthető dolgokra köthető.
+
+A negyedik, az elhasználható és elhasználhatatlan dolgok:
+Az elhasználható dolgok rendeltetésszerű használata a dolog elfogyasztásában áll, ilyen az élelmiszer vagy a tüzelőanyag. Az elhasználhatatlan dolgok használata nem jár a dolog megsemmisülésével, csak kopásával, ilyen a gépkocsi vagy az ingatlan. Ennek a haszonélvezetnél van szerepe: elhasználható dolgon csak rendhagyó haszonélvezet alapítható, ahol a jogosult tulajdonossá válik, és a jogviszony végén azonos mennyiséget és minőséget köteles visszaadni.
+
+Az ötödik, az osztható és oszthatatlan dolgok:
+Osztható a dolog, ha fizikai megosztása nem jár értékcsökkenéssel vagy a rendeltetés megváltozásával. Oszthatatlan dolog esetén, például egy gépkocsinál, a közös tulajdon megszüntetése természetbeni megosztással nem lehetséges, helyette árverezés vagy megváltás alkalmazandó a Polgári Törvénykönyv ötödik könyvének nyolcvannegyedik paragrafusa szerint.
+
+A dologkapcsolatok rendszere:
+A polgári jog három fontos dologkapcsolatot szabályoz.
+
+Az első, az alkotórész:
+A Polgári Törvénykönyv ötödik könyvének tizenötödik paragrafusa szerint a tulajdonjog kiterjed mindarra, ami a dologgal olyképpen van tartósan egyesítve, hogy az elválasztással a dolog vagy elválasztott része elpusztulna, illetve értéke vagy használhatósága számottevően csökkenne. Az alkotórész nem önálló dolog, jogi sorsa osztja a fődolog sorsát.
+
+A második, a tartozék:
+A Polgári Törvénykönyv ötödik könyvének tizenhatodik paragrafusa szerint a tartozék nem alkotórész, de a dolog rendeltetésszerű használatához vagy épségben tartásához rendszerint szükséges, vagy azt elősegíti. A tartozék önálló dolog, de a törvény vélelmet állít fel: a tulajdonjog kétség esetén kiterjed a tartozékra is, hacsak a felek másként nem állapodnak meg.
+
+A harmadik, a gyümölcs, vagyis a fruktusz:
+A gyümölcs a dolognak a rendeltetésszerű használat során visszatérően keletkező gazdasági előnye. Megkülönböztetünk természetes gyümölcsöt, latinul fruktusz naturálesz, mint a termés vagy szaporulat, és polgári gyümölcsöt, latinul fruktusz civilisz, mint a bérleti díj vagy a kamat. A gyümölcs főszabály szerint a tulajdonost illeti meg, kivéve, ha más személynek, például haszonélvezőnek vagy jóhiszemű birtokosnak van joga a szedésére.

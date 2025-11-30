@@ -1,0 +1,153 @@
+Pontosan, és kezdjük is az elején: mi a különbség a formakényszer és a formaválasztás szabadsága között a házasságkötés esetében, és milyen célokat szolgál a formakényszer?
+<break time="5s"/>
+
+Értem, ez tényleg alapozza meg a rendszert. Akkor mi a jogi következménye annak, hogy a Polgári Törvénykönyv negyedik könyvének ötödik paragrafusának harmadik bekezdése szerint a házasság az alaki feltételek hiányában nem jön létre?
+<break time="5s"/>
+
+Jó, ez világos különbség. És mi a különbség a nem létező házasság és az érvénytelen házasság között abban, hogy miként keletkeznek és milyen joghatásokat váltanak ki?
+<break time="5s"/>
+
+Hmm, ez segít a distinkcióban. Mondd, milyen négy célt szolgál a házasságkötés formakényszere a jogbiztonság, az akarat kinyilvánítása, a publicitás és az állami kontroll szempontjából?
+<break time="5s"/>
+
+Tökéletes, ezek a célok összekötik a rendszert. Most mi a különbség a kétrészes folyamat adminisztratív előkészítő szakasza és az ünnepélyes ceremónia között a házasságkötésben?
+<break time="5s"/>
+
+Igen, ez a kétrészes felépítés logikus. Mi a jogi következménye annak, hogy a Polgári Törvénykönyv negyedik könyvének hetedik paragrafusának első bekezdése szerint a házasulóknak ki kell jelenteniük, hogy házasságuknak nincs jogi akadálya?
+<break time="5s"/>
+
+Értem, ez az ellenőrzés kulcsa. Mi a különbség a nyilatkozat és az igazolás között a házasságkötést megelőző eljárásban?
+<break time="5s"/>
+
+Jó pont, az objektivitás fontos. Milyen okmányokkal kell igazolni a házasulóknak, hogy a házasságkötés jogi feltételei fennállnak?
+<break time="5s"/>
+
+Ezek praktikusak. Mi a különbség a személyes jelenlét és az együttes jelenlét között a bejelentési kötelezettség esetében?
+<break time="5s"/>
+
+Ez védi az akaratot. Milyen jogi következménye van annak, hogy az anyakönyvvezető jegyzőkönyvet vesz fel a bejelentésről?
+<break time="5s"/>
+
+Dokumentáció nélkül káosz lenne. Mi a különbség a harminc napos várakozási idő és a felmentés lehetősége között a Polgári Törvénykönyv negyedik könyvének hetedik paragrafusának második bekezdése alapján?
+<break time="5s"/>
+
+Rugalmasság humanitárius okokból. Milyen három célt szolgál a harminc napos várakozási idő a meggondolt döntéshozatal, az akadályok feltárása és az anyakönyvvezető ellenőrzése szempontjából?
+<break time="5s"/>
+
+Ezek védőhálót képeznek. Mi a különbség a jegyző felmentési jogköre és a gyámhatóság engedélyezési jogköre között a házasságkötés tekintetében?
+<break time="5s"/>
+
+Külön jogkörök, külön célok. Milyen indokolt esetek lehetnek, amikor a jegyző felmentést adhat a várakozási idő alól?
+<break time="5s"/>
+
+Praktikus példák. Mi a különbség a Polgári Törvénykönyv negyedik könyvének hetedik paragrafusának harmadik bekezdése szerinti közeli halállal fenyegető egészségi állapot esete és az általános eljárás között?
+<break time="5s"/>
+
+Humanitárius kivétel, érthető. Milyen jogi következménye van annak, hogy közeli halállal fenyegető egészségi állapot esetén a várakozási idő és az okmányok beszerzése mellőzhető?
+<break time="5s"/>
+
+Egyensúly a sürgősség és a forma között. Mi a különbség a konstitutív feltételek és a nem konstitutív alaki szabályok között a házasságkötésben?
+<break time="5s"/>
+
+Ez magyarázza a merevséget és rugalmassáságot. Milyen jogi következménye van annak, hogy az anyakönyvvezető közreműködése konstitutív hatályú?
+<break time="5s"/>
+
+Állami garancia. Mi a különbség az anyakönyvvezető előtt és más személy, például lelkész előtt tett házassági nyilatkozat között?
+<break time="5s"/>
+
+Csak polgári számít. Milyen állami kontroll lehetőségét biztosítja az anyakönyvvezető közreműködése?
+<break time="5s"/>
+
+Teljes ellenőrzés. Mi a különbség a személyes jelenlét és a képviselet között a házasságkötés esetében?
+<break time="5s"/>
+
+Nincs proxy esküvő. Milyen jogi következménye van annak, hogy a feleknek együttesen, egyidejűleg kell jelen lenniük?
+<break time="5s"/>
+
+Kölcsönösség kulcs. Mi a különbség a házassági akaratnyilatkozat kifejezett jellege és a ráutaló magatartás között?
+<break time="5s"/>
+
+Nincs hallgatólagos igen. Milyen jogi következménye van annak, hogy a felek egybehangzó igenje a házasságkötés konstitutív aktusa?
+<break time="5s"/>
+
+Ez a pillanat dönt. Mi a különbség a feltételhez vagy határidőhöz kötött nyilatkozat és a feltétel nélküli, azonnali hatályú nyilatkozat között?
+<break time="5s"/>
+
+Nincs feltételes esküvő. Milyen jogi következménye van annak, hogy a Polgári Törvénykönyv negyedik könyvének ötödik paragrafusának első bekezdése szerint a nyilatkozat feltételhez vagy határidőhöz nem köthető?
+<break time="5s"/>
+
+Stabilitás elsőbbsége. Mi a különbség a kölcsönös nyilatkozattétel és az egyoldalú nyilatkozat között a házasságkötésben?
+<break time="5s"/>
+
+Két igen kell. Milyen jogi következménye van annak, ha csak az egyik fél mondja ki az igent, a másik hallgat vagy nemmel válaszol?
+<break time="5s"/>
+
+Nincs féloldalas házasság. Mi a különbség a két tanú jelenléte és a nyilvánosság között a házasságkötési ceremónián?
+<break time="5s"/>
+
+Tanúk nélkül nem megy. Milyen jogi szerepe van a tanúknak a házasságkötés során, és milyen követelményeknek kell megfelelniük?
+<break time="5s"/>
+
+Független szemtanúk. Mi a különbség a tanú cselekvőképessége és belátási képessége között a tanúsítás szempontjából?
+<break time="5s"/>
+
+Belátás elég. Milyen jogi következménye van annak, hogy a két tanú jelenléte konstitutív kellék?
+<break time="5s"/>
+
+Alapkövetelmény. Mi a különbség a nyilvánosság főszabálya és a nyilvánosság mellőzése között a Polgári Törvénykönyv negyedik könyvének nyolcadik paragrafusa alapján?
+<break time="5s"/>
+
+Intim opció. Milyen jogi célt szolgál a házasságkötés nyilvánossága a társadalmi kontroll és a kényszer megakadályozása szempontjából?
+<break time="5s"/>
+
+Nyílt szemek védenek. Mi a különbség a hivatali helyiség és a hivatalos helyiségen kívüli más megfelelő hely között a házasságkötés helye tekintetében?
+<break time="5s"/>
+
+Helyszínválasztás. Milyen jogi következménye van annak, hogy a hivatalos helyiségen kívüli házasságkötéshez a jegyző engedélye szükséges?
+<break time="5s"/>
+
+Méltóság védve. Mi a különbség a Polgári Törvénykönyv negyedik könyvének ötödik paragrafusának második bekezdése szerint az anyakönyvvezető által történő házasság létrejöttének megállapítása és az anyakönyvbe való bejegyzés között?
+<break time="5s"/>
+
+Két lépés. Milyen jogi hatálya van az anyakönyvi bejegyzésnek: konstitutív vagy deklaratív?
+<break time="5s"/>
+
+Tanúsít, nem alkot. Mi a különbség a házasság létrejöttének időpontja, a nyilatkozatok megtétele és az anyakönyvezés időpontja között?
+<break time="5s"/>
+
+A pillanat számít. Milyen jogi következménye van annak, ha az anyakönyvezés elmarad?
+<break time="5s"/>
+
+Bizonyítási gond. Mi a különbség az anyakönyvi kivonat közhiteles jellege és az egyszerű okirat között?
+<break time="5s"/>
+
+Erős bizonyíték. Milyen jogi bizonyítékot szolgáltat az anyakönyvi kivonat, és milyen feltételekkel dönthető meg?
+<break time="5s"/>
+
+Vasbizonyíték. Mi a különbség a polgári házasságkötés és a vallási, egyházi szertartás között a jogi hatályuk szempontjából?
+<break time="5s"/>
+
+Csak polgári érvényes. Milyen jogi következménye van annak, hogy a magyar jog csak a polgári házasságot ismeri el?
+<break time="5s"/>
+
+Szétválasztás elve. Mi a különbség az egyházi szertartás és a polgári házasságkötés egymástól való függetlensége és a két ceremónia sorrendje között?
+<break time="5s"/>
+
+Szabadság a sorrendben. Milyen azonnali joghatásai vannak a házasság létrejöttének, családi jogállás, vagyonközösség, házassági név, tartási kötelezettség, öröklési jog, nagykorúság?
+<break time="5s"/>
+
+Sok minden változik azonnal. Mi a különbség a Polgári Törvénykönyv negyedik könyvének hatodik paragrafusának harmadik bekezdése szerinti erga omnes hatály és a szerződések relatív hatálya között a házasság létezését megállapító ítélet esetében?
+<break time="5s"/>
+
+Mindenkire kiterjed. Milyen jogi következménye van annak, hogy a kiskorú a házasságkötéssel nagykorúvá válik?
+<break time="5s"/>
+
+Emancipáció házassággal. Mi a különbség a házasságkötési ceremónia szigorú forgatókönyve és a felek személyes döntési szabadsága között?
+<break time="5s"/>
+
+Forma kötött, akarat szabad. Végül, hogyan alkotnak a házasságkötést megelőző eljárás és a házasságkötési ceremónia együtt egy koherens rendszert, amely biztosítja a jogbiztonságot, a felek akaratának védelmét és a rugalmasságot?
+<break time="5s"/>
+
+Remek összefoglaló, ez mindent összeköt. Köszönöm a beszélgetést, hallgatók, gondolkozzatok el ezeken, és legközelebb a házasság érvénytelenségéről beszélünk! Viszlát!
+<break time="5s"/>
+

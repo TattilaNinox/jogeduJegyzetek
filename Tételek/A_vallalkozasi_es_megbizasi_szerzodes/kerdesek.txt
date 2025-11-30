@@ -1,0 +1,99 @@
+1. Milyen elméleti és gyakorlati következménye van annak, hogy a vállalkozási és megbízási szerződés közötti legfontosabb elhatárolási szempont a vállalt kötelezettség természetében rejlik?
+
+2. Miért állítható, hogy az eredménykötelem és a gondossági kötelem közötti különbség nem pusztán elméleti, hanem minden egyéb jogkövetkezmény alapját képezi?
+
+3. Hogyan viszonyul egymáshoz az eredménykötelem és az eredményfelelősség fogalma, és miért fontos megkülönböztetni őket?
+
+4. Milyen paradoxont rejt magában az, hogy a vállalkozó eredményt garantál, mégis kimentheti magát bizonyos esetekben?
+
+5. Miért nem esedékes a vállalkozói díj előleg formájában történő megfizetése esetén sem a teljesítés előtt, hanem csak az eredmény létrejöttekor?
+
+6. Hogyan kapcsolódik össze a vállalkozói díj esedékessége és a kockázatviselés szabályai a vállalkozási szerződésnél?
+
+7. Milyen elméleti ellentmondás rejlik abban, hogy a megbízott díjra jogosult akkor is, ha a kívánt eredmény nem következett be?
+
+8. Miért tekinthető a megbízási szerződés "bizalmi szerződésnek", és hogyan tükröződik ez a felmondási jog szabályozásában?
+
+9. Hogyan magyarázható az, hogy a megbízó viseli annak kockázatát, hogy gondos eljárás ellenére sem jön létre az eredmény, amikor ő a szolgáltatás igénybe vevője?
+
+10. Milyen dogmatikai jelentősége van annak, hogy a Ptk. 6:238. § szerint a vállalkozó "eredmény megvalósítására", míg a Ptk. 6:272. § szerint a megbízott "feladat ellátására" köteles?
+
+11. Miért szűkebb a megrendelő utasítási joga a vállalkozási szerződésnél, mint a megbízó utasítási joga a megbízási szerződésnél?
+
+12. Hogyan biztosítja a Ptk. 6:240. § (1) bekezdése a vállalkozó önállóságát az utasítási jog korlátozásával?
+
+13. Milyen összefüggés van a megbízási szerződés személyes jellege és a Ptk. 6:273. § szerinti tág utasítási jog között?
+
+14. Miért köteles a megbízott a Ptk. 6:273. § (2) bekezdése szerint utasítástól való eltérés esetén késedelem nélkül értesíteni a megbízót?
+
+15. Hogyan értelmezendő az átalánydíj kikötése a vállalkozási szerződésben, és milyen kockázatot hárít át a vállalkozóra?
+
+16. Milyen módon befolyásolja a tételes elszámolás alkalmazása a felek közötti kockázat megosztását a vállalkozási szerződésnél?
+
+17. Miért nem teszi a sikerdíj kikötése a megbízási szerződést vállalkozási szerződéssé?
+
+18. Hogyan viszonyul egymáshoz a sikerdíj és a megbízási díj, és milyen célt szolgál a sikerdíj intézménye?
+
+19. Milyen elméleti problémát vet fel az, hogy a vállalkozó kimentheti magát, ha az eredmény elmaradása ellenőrzési körén kívül eső okból következett be?
+
+20. Miért nem jogosult a vállalkozó díjra, ha a megkezdett mű megsemmisül, és ez a vállalkozó érdekkörében merül fel?
+
+21. Hogyan módosul a díjigény, ha a lehetetlenülés a megrendelő érdekkörében merül fel a vállalkozási szerződésnél?
+
+22. Milyen módon tükrözi a megbízási díj esedékessége azt, hogy a megbízott gondossági kötelmet vállal?
+
+23. Miért tekinthető az ügyvédi képviselet klasszikus megbízási szerződésnek, és hogyan illusztrálja ez a gondossági kötelem lényegét?
+
+24. Hogyan igazolja az orvosi kezelés szerződéses természete azt, hogy a gondossági kötelem nem eredményt, hanem szakszerű eljárást garantál?
+
+25. Milyen dogmatikai problémát okoz az, hogy bizonyos szerződések esetében a két típus elemei keverednek (vegyes szerződések)?
+
+26. Milyen szempontok alapján dönthető el egy szoftverfejlesztési szerződés esetében, hogy vállalkozási vagy megbízási szerződésről van-e szó?
+
+27. Miért nem a szerződés elnevezése, hanem a valós tartalma és a felek akarata dönt a minősítésről?
+
+28. Hogyan értelmezendő az, hogy a vállalkozó önállóan szervezi meg a tevékenységét, szemben a megbízottal, aki követi a megbízó utasításait?
+
+29. Milyen következménye van annak, hogy a vállalkozási szerződés főszabály szerint nem személyes, míg a megbízási szerződés tipikusan személyes?
+
+30. Miért megengedett a vállalkozási szerződésnél az alvállalkozó igénybevétele, míg a megbízási szerződésnél a személyes teljesítés az elvárás?
+
+31. Hogyan viszonyul egymáshoz a szerződés tárgya (eredmény vs. ügy) és a kötelezettség jellege (eredménykötelem vs. gondossági kötelem)?
+
+32. Milyen módon befolyásolja a kockázatviselés szabályai azt, hogy a vállalkozó saját kockázatra, a megbízott pedig a megbízó kockázatára dolgozik?
+
+33. Miért korlátozottabb a vállalkozási szerződés felmondása, mint a megbízási szerződésé?
+
+34. Hogyan igazolja a megbízási szerződés azonnali hatályú felmondásának lehetősége a szerződés bizalmi jellegét?
+
+35. Milyen kártalanítási kötelezettség terheli a megrendelőt, ha a vállalkozási szerződést teljesítés megkezdése után felmondja?
+
+36. Miért köteles a megbízott kárát megtéríteni, ha alkalmatlan időben mond fel?
+
+37. Hogyan értelmezendő a "szerződésszegés" fogalma vállalkozási szerződés esetén, szemben a megbízási szerződéssel?
+
+38. Milyen különbség van abban, hogy vállalkozási szerződésnél az eredmény elmaradása vagy hibája, megbízási szerződésnél pedig a gondatlan, szakszerűtlen eljárás jelent szerződésszegést?
+
+39. Miért tekinthető a házépítés egyértelmű vállalkozási szerződésnek, és milyen elemei fejezik ki az eredménykötelmet?
+
+40. Hogyan illusztrálja az autójavítás példája azt, hogy a vállalkozó az eredmény létrejöttét garantálja?
+
+41. Milyen elméleti alapon nyugszik az, hogy az ügyvéd díjra jogosult akkor is, ha a pert elveszti, feltéve hogy szakszerűen járt el?
+
+42. Miért nem jelent szerződésszegést az, ha az orvos szakszerűen kezelte a beteget, de a betegség nem gyógyult meg?
+
+43. Hogyan viszonyul egymáshoz az ingatlanközvetítés díja és az eredményesség, ha a szerződés megbízási jellegű?
+
+44. Milyen dogmatikai jelentősége van annak, hogy a vállalkozási szerződésnél a megrendelő utasítása nem terjedhet ki a tevékenység megszervezésére?
+
+45. Miért nem teheti az utasítás a teljesítést terhesebbé a vállalkozási szerződésnél a Ptk. 6:240. § (1) bekezdése szerint?
+
+46. Hogyan kapcsolódik össze a megbízó tág utasítási joga azzal, hogy ő az "ügy ura"?
+
+47. Milyen kumulatív feltételek mellett térhet el a megbízott a megbízó utasításától a Ptk. 6:273. § (2) bekezdése szerint?
+
+48. Miért van alapvető gyakorlati jelentősége a vállalkozási és megbízási szerződés helyes minősítésének a díjigény megállapítása szempontjából?
+
+49. Hogyan befolyásolja a felelősség megállapítását az, hogy a szerződést vállalkozási vagy megbízási szerződésként minősítjük?
+
+50. Milyen módon szolgálja a jogbiztonságot az, hogy a bíróság a konkrét szerződés tartalmát vizsgálja a minősítés során, nem pedig az elnevezést?

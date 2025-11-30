@@ -1,0 +1,195 @@
+Szia Márk! Készüljünk a cselekvőképesség tételre?
+
+<break time="5s"/>
+
+Érdekes! Hogyan kezdjük?
+
+<break time="5s"/>
+
+Szóval ha jól gondolom, alapból mindenki cselekvőképes, kivéve ha a törvény vagy bírósági ítélet korlátozza. Ez a főszabály.
+
+<break time="5s"/>
+
+És a második bekezdés?
+
+<break time="5s"/>
+
+Mi a különbség?
+
+<break time="5s"/>
+
+Értem, akkor a jogképesség azt jelenti, hogy valaki jogok alanya, illetve kötelezettségek viselője lehet; a cselekvőképesség ezzel szemben azt, hogy saját jognyilatkozatával maga szerezhet jogokat és vállalhat kötelezettségeket.
+
+<break time="5s"/>
+
+Kik tartoznak ide?
+
+<break time="5s"/>
+
+Szóval ez azt jelenti, hogy a tizennégy éven aluli kiskorúak mindig cselekvőképtelenek, függetlenül attól, hogy milyen szellemi képességekkel rendelkeznek.
+
+<break time="5s"/>
+
+És mi történik a dobozzal?
+
+<break time="5s"/>
+
+De van kivétel, ugye?
+
+<break time="5s"/>
+
+Akkor ha jól értem, ha egy tizennégy éven aluli gyermek vásárol egy péksüteményt vagy fagylaltot, és teljesítésre is kerül, akkor érvényes?
+
+<break time="5s"/>
+
+És van még valami a doboz mellett?
+
+<break time="5s"/>
+
+Értem, tehát a kiskorú véleményét is figyelembe kell venni, ha már érti a dolgokat, azaz ha ítélőképessége birtokában van.
+
+<break time="5s"/>
+
+Kik tartoznak ide?
+
+<break time="5s"/>
+
+Szóval összefoglalva, a tizennégy éves kor betöltésével a kiskorú automatikusan korlátozottan cselekvőképes lesz.
+
+<break time="5s"/>
+
+És hogyan működik ez a szűrő?
+
+<break time="5s"/>
+
+Tehát ez azt jelenti, hogy a főszabály, hogy a törvényes képviselő hozzájárulása kell a korlátozottan cselekvőképes kiskorú jognyilatkozatának érvényességéhez.
+
+<break time="5s"/>
+
+És ha a kiskorú cselekvőképessé válik?
+
+<break time="5s"/>
+
+De vannak kivételek, amikor a szűrőn keresztül lehet menni a kulcs nélkül?
+
+<break time="5s"/>
+
+Szóval összességében öt kivétel van, amikor a korlátozottan cselekvőképes kiskorú a törvényes képviselő közreműködése nélkül is tehet érvényes nyilatkozatot: személyes jellegű jognyilatkozatok, mindennapi szükségletek, munkával szerzett jövedelem, tisztán előnyös szerződések, és ajándékozás szokásos mértékben.
+
+<break time="5s"/>
+
+És a törvényes képviselő is tehet jognyilatkozatot a kiskorú nevében?
+
+<break time="5s"/>
+
+Értem, szóval kumulatív, egymás mellett is eljárhatnak: a törvényes képviselő és a korlátozottan cselekvőképes kiskorú is tehet jognyilatkozatot, kivéve azokat az ügyeket, ahol a törvény a kiskorú személyes nyilatkozatát írja elő, vagy amelyek a munkával szerzett jövedelmére vonatkoznak.
+
+<break time="5s"/>
+
+Kik tartoznak ide?
+
+<break time="5s"/>
+
+Van kivétel?
+
+<break time="5s"/>
+
+Akkor ez azt jelenti, hogy ha egy kiskorú házasságot köt, akkor cselekvőképes lesz, és ha később válik vagy meghal a házastársa, akkor is cselekvőképes marad, mert a házasságkötéssel megszerzett nagykorúságot a házasság megszűnése nem érinti.
+
+<break time="5s"/>
+
+Ez a részlegesen korlátozó gondnokság?
+
+<break time="5s"/>
+
+És milyen feltételek szükségesek?
+
+<break time="5s"/>
+
+Tehát összefoglalva, a részleges korlátozás feltételei: mentális zavar kell, a belátási képesség nagymértékben csökkent, de nem hiányzik teljesen, és egyéni körülményekre tekintettel meghatározott ügycsoportban történik a korlátozás.
+
+<break time="5s"/>
+
+És van valami korlátozás?
+
+<break time="5s"/>
+
+Szóval ha jól gondolom, csak akkor alkalmazható a részleges korlátozás, ha más módon nem biztosítható a védelem, például támogatott döntéshozatal útján. Ez a szubszidiaritás elve.
+
+<break time="5s"/>
+
+És hogyan működik a hozzájárulás?
+
+<break time="5s"/>
+
+Ez a teljesen korlátozó gondnokság?
+
+<break time="5s"/>
+
+És milyen feltételek szükségesek?
+
+<break time="5s"/>
+
+Értem, akkor itt a belátási képesség teljeskörűen hiányzik, nem csak csökkent, és a részleges korlátozás nem elegendő.
+
+<break time="5s"/>
+
+Szóval ez azt jelenti, hogy ez a legsúlyosabb korlátozás, amely csak ultima ratio jelleggel alkalmazható, vagyis csak akkor, ha sem a cselekvőképességet nem érintő módon, sem a részleges korlátozással nem biztosítható a védelem.
+
+<break time="5s"/>
+
+És van kivétel itt is?
+
+<break time="5s"/>
+
+És a harmadik bekezdés?
+
+<break time="5s"/>
+
+Ez a támogatott döntéshozatal?
+
+<break time="5s"/>
+
+És ez nem korlátozza a cselekvőképességet?
+
+<break time="5s"/>
+
+Tehát ez egy cselekvőképességet nem érintő megoldás, ami sokkal jobban tiszteletben tartja az érintett személy autonómiáját, mint a gondnokság.
+
+<break time="5s"/>
+
+Ez a cselekvőképtelen állapot?
+
+<break time="5s"/>
+
+Tehát ha jól gondolom, ez egy egyébként cselekvőképes személyre vonatkozik, aki átmenetileg, a jognyilatkozat megtételekor olyan állapotban van, például súlyos betegség, eszméletlen állapot, gyógyszeres befolyásoltság, hogy belátási képessége hiányzik.
+
+<break time="5s"/>
+
+És van kivétel?
+
+<break time="5s"/>
+
+Ez a relatív semmisség szabálya?
+
+<break time="5s"/>
+
+Akkor összefoglalva, a kiskorúság miatti semmisségre kizárólag a kiskorú, vagy törvényes képviselője az ő érdekében, hivatkozhat. A jogügylet másik fele nem hivatkozhat a szerződés semmisségére azzal az indokkal, hogy a másik fél kiskorú volt.
+
+<break time="5s"/>
+
+Mit láthatunk rajta?
+
+<break time="5s"/>
+
+Értem, tehát a rendszer jellemzője, hogy nem merev, hanem rugalmas és egyéniesített. A kiskorúak esetében az életkoron alapuló objektív szabályok mellett számos kivétel biztosítja az önállóság fokozatos növekedését. A nagykorúak gondnoksága esetében pedig a bíróság egyéni körülményekre tekintettel, konkrét ügycsoportokat meghatározva, arányosan korlátozza a cselekvőképességet.
+
+<break time="5s"/>
+
+Szóval összességében, az új jogintézmények, mint a támogatott döntéshozatal, az előzetes jognyilatkozat, melyet a Polgári Törvénykönyv második könyvének harminckilencedik paragrafusa szabályoz, valamint a gondnoksági rendszer egyéniesítése tükrözik a fogyatékossággal élő személyek jogairól szóló, New Yorkban kétezer-hét március harmincadikán kelt Egyezmény szellemét, amely a cselekvőképesség megőrzését és az autonómia tiszteletben tartását helyezi előtérbe.
+
+<break time="5s"/>
+
+Köszönöm, nagyon jól megjegyeztem! Menjünk le a toronyból?
+
+<break time="5s"/>

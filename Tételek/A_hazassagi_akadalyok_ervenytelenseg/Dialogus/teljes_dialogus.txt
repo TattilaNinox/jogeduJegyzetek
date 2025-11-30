@@ -1,0 +1,409 @@
+Szia! Most akkor térjünk egy bonyolultabb témára, a házassági akadályokra és az érvénytelenségre! Kezdjük az alapokkal! Mi a különbség a nem létező házasság és az érvénytelen házasság között abban, hogy miként keletkeznek és milyen joghatásokat váltanak ki?
+
+<break time="5s"/>
+
+Fontos különbség ez! A Polgári Törvénykönyv negyedik könyvének ötödik paragrafusának harmadik bekezdése kimondja, hogy a házasság az első bekezdésben foglalt feltételek hiányában nem jön létre, a nemlétező házasságot úgy kell tekinteni, mintha meg sem kötötték volna. Ez azt jelenti, hogy ha bármelyik konstitutív feltétel hiányzik, a házasság létre sem jön, joghatások kiváltására alkalmatlan. A Polgári Törvénykönyv negyedik könyvének tizennegyedik paragrafusának első bekezdése szerint az érvénytelen házasságot akkor lehet érvénytelennek tekinteni, ha érvénytelenségét a bíróság az erre irányuló perben megállapította, ami azt jelenti, hogy az érvénytelen házasság létrejön, de hibás, és érvényesnek tekintendő mindaddig, amíg a bíróság ítélettel érvénytelenné nem nyilvánítja. Tehát az egyik létre sem jön, a másik létrejön, de hibás.
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a Polgári Törvénykönyv negyedik könyvének ötödik paragrafusának harmadik bekezdése kimondja, hogy a nemlétező házasságot úgy kell tekinteni, mintha meg sem kötötték volna?
+
+<break time="5s"/>
+
+Radikális következmény! A Polgári Törvénykönyv negyedik könyvének ötödik paragrafusának harmadik bekezdése szerint ha a nemlétező házasságot úgy kell tekinteni, mintha meg sem kötötték volna, akkor nincs mit érvényteleníteni, mert a házasság jogintézménye egyáltalán nem keletkezett. Ez azt jelenti, hogy nem keletkeznek házassági jogok és kötelezettségek, nem keletkezik házastársi vagyonközösség, a felek nem válnak házastársakká, a gyermek nem származhat házasságból, mert nincs házasság, így a nem létező házasság semmiféle joghatást nem vált ki. Tehát mintha mi sem történt volna.
+
+<break time="5s"/>
+
+Wow! És miért tekinthető a nem létező házasság joghatások kiváltására alkalmatlannak, és milyen konstitutív feltételek hiánya okozza ezt?
+
+<break time="5s"/>
+
+A feltételek hiánya! A nem létező házasság joghatások kiváltására alkalmatlan, mert a Polgári Törvénykönyv negyedik könyvének ötödik paragrafusának első bekezdése szerint a házasságkötés konstitutív feltételei: az együttesen jelen lévő férfi és nő az anyakönyvvezető előtt személyesen kijelenti, hogy egymással házasságot köt, és a nyilatkozat feltételhez vagy határidőhöz nem köthető, hiányoznak. Ha bármelyik ezen feltételek közül hiányzik, a házasság nem jön létre, mert ezek a feltételek konstitutívak, azaz létrehozó jellegűek, és nélkülük a házasság jogintézménye nem keletkezhet. Tehát ezek nélkül nincs házasság.
+
+<break time="5s"/>
+
+Értem! És mi a különbség az érvényesség vélelmének elve és a nemlétezés között abban, hogy miként kezelik a hibás házasságot?
+
+<break time="5s"/>
+
+Két szint van! A Polgári Törvénykönyv negyedik könyvének tizennegyedik paragrafusának első bekezdése szerint az érvényesség vélelmének elve azt jelenti, hogy a házasságot akkor lehet érvénytelennek tekinteni, ha érvénytelenségét a bíróság az erre irányuló perben megállapította, vagyis az érvénytelen házasság is érvényesnek tekintendő mindaddig, amíg a bíróság ítélettel érvénytelenné nem nyilvánítja. A nemlétezés esetében a Polgári Törvénykönyv negyedik könyvének ötödik paragrafusának harmadik bekezdése szerint a nemlétező házasságot úgy kell tekinteni, mintha meg sem kötötték volna, így nincs mit érvényteleníteni, mert a házasság létre sem jött. Tehát az egyik bírósági eljárást igényel, a másik nem.
+
+<break time="5s"/>
+
+Világos! És milyen jogi védelmet biztosít a megdönthető érvényesség vélelmének elve a harmadik személyek, gyermekek és a felek számára?
+
+<break time="5s"/>
+
+Széles körű védelem! A megdönthető érvényesség vélelmének elve biztosítja, hogy a harmadik személyek, hitelezők, vagyonszerzők, az érvényes házasságra támaszkodva jogviszonyokat létesíthetnek a házastársakkal, a gyermekek jogállása nem függhet bizonytalan, tisztázatlan helyzettől, és a felek sem kényszerülnek önkényes, bírósági eljárás nélküli érvénytelenítésre. Ez védi a jogbiztonságot és a különböző érdekeket, biztosítja a bírósági kontrollt, amely garanciát jelent arra, hogy csak valóban érvénytelen házasságot nyilvánítanak érvénytelenné. Tehát mindenkit véd.
+
+<break time="5s"/>
+
+Szuper! Most térjünk a házassági akadályokra! Mi a különbség az abszolút, elháríthatatlan, akadályok és a relatív, elhárítható, akadályok között a házassági akadályok rendszerében?
+
+<break time="5s"/>
+
+Két kategória! Az abszolút akadályok olyan objektív körülmények, amelyek alól felmentés nem adható, és amelyek fennállása esetén a házasság érvénytelenségét bárki kérheti, aki jogi érdekelt, például a korábbi házasság fennállása vagy közeli rokoni kapcsolat. A relatív akadályok olyan körülmények, amelyek alól a gyámhatóság vagy jegyző felmentést adhat, és csak meghatározott személyek, elsősorban az, akinek személyében az akadály fennáll, kérhetik az érvénytelenítést, és csak meghatározott határidőn belül, például kiskorúság vagy gondnokság. Tehát az egyik szigorú, a másik rugalmas.
+
+<break time="5s"/>
+
+Értem! És milyen jogi alapja van a monogámia elvének a magyar családjogban, és hogyan kapcsolódik ez a Polgári Törvénykönyv negyedik könyvének tizenhárom paragrafusához?
+
+<break time="5s"/>
+
+Ez alapelv! A monogámia elvének jogi alapja az, hogy a magyar jog nem engedi meg a bigámiát, kéttárnú házasságot, vagy poligámiát, soktárnú házasságot, csak egy érvényes házasság állhat fenn egy időben ugyanazon személy esetében. A Polgári Törvénykönyv negyedik könyvének tizenhárom paragrafusának első bekezdése kimondja, hogy érvénytelen a házasság, ha a házasulók valamelyikének korábbi házassága fennáll. Ez a klasszikus házassági kötelék akadály, vinculum mátrimónii, amely a monogámia elvén alapul. Tehát csak egy házasság lehet.
+
+<break time="5s"/>
+
+Világos! És mi a különbség a korábbi házasság fennállása és a korábbi házasság megszűnése között a házassági kötelék akadály szempontjából?
+
+<break time="5s"/>
+
+Ez az időpont! A korábbi házasság fennállása azt jelenti, hogy a korábbi házasság még nem szűnt meg halállal, bírósági felbontással vagy érvénytelenítéssel, így az újabb házasság érvénytelen. A korábbi házasság megszűnése azt jelenti, hogy a korábbi házasság megszűnt halállal, bírósági felbontással vagy érvénytelenítéssel, és az újabb házasság érvényessé válhat, mert a házassági kötelék akadály megszűnt. Tehát a korábbi házasság megszűnése feloldja az akadályt.
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha a korábbi házasság utóbb megszűnik vagy érvénytelenné válik, és hogyan működik a konvalidáció ebben az esetben?
+
+<break time="5s"/>
+
+Automatikus érvényessé válás! A Polgári Törvénykönyv negyedik könyvének tizenhárom paragrafusának második bekezdése kimondja, hogy az újabb házasság a korábbi házasság megszűnésének időpontjától érvényessé válik. Ha a bíróság a korábbi házasság érvénytelenségét állapította meg, az újabb házasság a megkötésének időpontjára visszamenőleg válik érvényessé. Ez azt jelenti, hogy ha a korábbi házasság utóbb megszűnik, az újabb házasság automatikusan érvényessé válik attól az időponttól kezdve, amikor a korábbi házasság megszűnt, ha pedig a bíróság a korábbi házasságot érvénytelenné nyilvánítja, az újabb házasság visszamenőleg, ex tunk, érvényessé válik, így a konvalidáció automatikus. Tehát nem kell újra házasodni.
+
+<break time="5s"/>
+
+Szuper! És mi a különbség a Polgári Törvénykönyv negyedik könyvének tizenhárom paragrafusának második bekezdésében szabályozott automatikus érvényessé válás és a fakultatív konvalidáció között?
+
+<break time="5s"/>
+
+Ez a döntés kérdése! Az automatikus konvalidáció a törvény erejénél fogva, a felek akaratától függetlenül bekövetkezik, ha az érvénytelenségi ok elhárul és a jogosult a törvényben meghatározott határidőn belül nem támadja meg a házasságot, például kiskorúság esetén a nagykorúság elérése után hat hónappal. A fakultatív konvalidáció a jogosult döntésétől függ: ha a jogosult nem indít pert, vagy a megindított pert visszavonja, a házasság érvényessé válik, ami minden esetben így van, amikor a perindítási jog időkorlát nélkül fennáll, de a jogosult nem él vele. Tehát az egyik automatikus, a másik a döntéstől függ.
+
+<break time="5s"/>
+
+Értem! Most térjünk a rokoni akadályokra! Milyen biológiai, erkölcsi és jogi okok indokolják a rokoni és hozzátartozói kapcsolaton alapuló házassági tilalmakat?
+
+<break time="5s"/>
+
+Három ok van! A rokoni és hozzátartozói kapcsolaton alapuló házassági tilalmak biológiai okokon alapulnak, mert a közeli rokonok közötti házasság esetén nagyobb a genetikai károsodások kockázata, az egészséges utódok születése veszélyeztetett. Erkölcsi okokon alapulnak, mert a családi kapcsolatokkal szembeni erkölcsi elvárások tiltják a közeli rokonok közötti szexuális kapcsolatot és házasságot. Jogi okokon alapulnak, mert a házasság intézményének védelme megkívánja, hogy csak megfelelő személyek között jöjjön létre házasság. Tehát komplex indoklás.
+
+<break time="5s"/>
+
+Világos! És mi a különbség az egyenesági rokonok és az oldalági rokonok közötti házasság tilalma között a Polgári Törvénykönyv negyedik könyvének tizenkettedik paragrafusa alapján?
+
+<break time="5s"/>
+
+A fokozat különbözik! A Polgári Törvénykönyv negyedik könyvének tizenkettedik paragrafusának első bekezdésének a pontja szerint az egyenesági rokonok házassága érvénytelen, és fokozat nincs, bármilyen távoli egyenesági rokon közötti házasság tilos, például apa és lánya, nagyapa és unokája, anya és fia. Az oldalági rokonok közötti házasság esetén csak a b és c pontok szerint a testvérek egymással kötött házassága és a testvérnek testvére vér szerinti leszármazójával kötött házassága tilos, így különbség van a tilalom terjedelme között, mert az egyenesági rokonság esetén általános a tilalom, míg az oldalági rokonság esetén csak bizonyos fokig. Tehát az egyenes ágon szigorúbb.
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a testvérnek testvére vér szerinti leszármazójával kötött házassága esetén felmentés adható?
+
+<break time="5s"/>
+
+Ez az egyetlen kivétel! A Polgári Törvénykönyv negyedik könyvének tizenkettedik paragrafusának második bekezdése kimondja, hogy a testvérnek testvére vér szerinti leszármazójával kötött házassága nem érvénytelen, ha a jegyző e házassági akadály alól a házasságkötés előtt vagy a házasság fennállása alatt felmentést ad. Felmentés akkor adható, ha a házassággal létrejövő kapcsolat a születendő gyermekek egészségét nem veszélyezteti. Ez az egyetlen eset, amikor a rokoni akadály alól felmentés adható, és a felmentés visszaható hatályú is lehet, a házasság fennállása alatt is megadható, és ekkor a házasság érvényessé válik. Tehát van egy kis mozgástér.
+
+<break time="5s"/>
+
+Világos! És mi a különbség a jegyző és a gyámhatóság felmentési jogköre között a házassági akadályok tekintetében?
+
+<break time="5s"/>
+
+Más akadályra vonatkoznak! A jegyző felmentési jogköre csak a Polgári Törvénykönyv negyedik könyvének tizenkettedik paragrafusának második bekezdése szerint a testvérnek testvére vér szerinti leszármazójával kötött házasság esetén áll fenn, és feltétele, hogy a házasság a születendő gyermekek egészségét ne veszélyeztesse. A gyámhatóság felmentési jogköre a Polgári Törvénykönyv negyedik könyvének kilencedik paragrafusa szerint a kiskorúság esetén áll fenn, és csak a tizenhatodik életévét betöltött korlátozottan cselekvőképes kiskorúnak adhat engedélyt, így különböző szervek és különböző feltételek mellett adhatnak felmentést. Tehát más szerv, más akadály.
+
+<break time="5s"/>
+
+Értem! És milyen feltételeknek kell megfelelnie ahhoz, hogy a jegyző felmentést adhasson a testvérnek testvére vér szerinti leszármazójával kötött házasság esetén?
+
+<break time="5s"/>
+
+Orvosi szakvélemény kell! A Polgári Törvénykönyv negyedik könyvének tizenkettedik paragrafusának második bekezdése szerint felmentés akkor adható, ha a házassággal létrejövő kapcsolat a születendő gyermekek egészségét nem veszélyezteti. Ez gyakorlatban orvosi szakvélemény beszerzését jelenti genetikai szempontból, amely vizsgálja, hogy a rokoni kapcsolat miatt nagyobb e a genetikai károsodások kockázata, és ha nem veszélyezteti az egészségüket, akkor felmentés adható. Tehát tudományos vizsgálat alapján.
+
+<break time="5s"/>
+
+Világos! És mi a különbség az örökbefogadó és örökbefogadott közötti házasság tilalma és az egyenesági rokonok közötti házasság tilalma között?
+
+<break time="5s"/>
+
+Időbeli különbség! A Polgári Törvénykönyv negyedik könyvének tizenkettedik paragrafusának első bekezdésének d pontja szerint az örökbefogadónak az örökbefogadottal az örökbefogadás fennállása alatt kötött házassága érvénytelen, ami azt jelenti, hogy a tilalom csak az örökbefogadás fennállása alatt áll fenn. Az egyenesági rokonok közötti házasság tilalma a pont szerint feltétlen, nincs időbeli korlátozás, így különbség van a tilalom időbeli hatálya között, mert az örökbefogadás megszűnése után az örökbefogadó és az örökbefogadott házasságot köthetnek. Tehát az örökbefogadás megszüntethető, a vérrokonság nem.
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha az örökbefogadás megszűnik, és milyen hatása van ez a házassági akadályra?
+
+<break time="5s"/>
+
+Megszűnik az akadály! Ha az örökbefogadás megszűnik, akkor a Polgári Törvénykönyv negyedik könyvének tizenkettedik paragrafusának első bekezdésének d pontja szerinti házassági akadály megszűnik, mert a tilalom csak az örökbefogadás fennállása alatt áll fenn. Ez azt jelenti, hogy az örökbefogadó és az örökbefogadott házasságot köthetnek, ha az örökbefogadást felbontották vagy más okból megszűnt, így a házassági akadály az örökbefogadás megszűnésével automatikusan megszűnik. Tehát az örökbefogadás megszűnésével minden megszűnik.
+
+<break time="5s"/>
+
+Világos! Most térjünk a kiskorúság és gondnokság miatti akadályokra! Mi a különbség a kiskorúság miatti érvénytelenség és a cselekvőképességet teljesen korlátozó gondnokság miatti érvénytelenség között?
+
+<break time="5s"/>
+
+Más a feltétel! A Polgári Törvénykönyv negyedik könyvének kilencedik paragrafusának első bekezdése szerint a kiskorúság miatti érvénytelenség esetén érvénytelen a kiskorú házassága, ha azt a gyámhatóság előzetes engedélye nélkül kötötte, így gyámhatósági engedéllyel érvényes lehet. A Polgári Törvénykönyv negyedik könyvének tizedik paragrafusának első bekezdése szerint a cselekvőképességet teljesen korlátozó gondnokság esetén érvénytelen annak a házassága, aki a házasság megkötésekor cselekvőképességet teljesen korlátozó gondnokság alatt állt, így különbség van a feltételekben, mert a kiskorúságnál engedély kell, a gondnokságnál nem lehet engedélyt adni. Tehát az egyik engedélyezhető, a másik nem.
+
+<break time="5s"/>
+
+Értem! És milyen feltételeknek kell megfelelnie ahhoz, hogy a gyámhatóság engedélyt adhasson a kiskorú házasságkötéséhez?
+
+<break time="5s"/>
+
+Szigorú feltételek! A Polgári Törvénykönyv negyedik könyvének kilencedik paragrafusának második bekezdése kimondja, hogy a gyámhatóság a tizenhatodik életévét betöltött korlátozottan cselekvőképes kiskorúnak a házasságkötésre jogszabályban meghatározott esetben engedélyt adhat. A harmadik bekezdés szerint az engedély megadásáról vagy megtagadásáról a gyámhatóság a szülő vagy gyám meghallgatása után határoz. Ezek az életkor, cselekvőképesség és jogszabályban meghatározott eset feltételek, és az engedély megadása nem automatikus, hanem mérlegelési döntés, amely az eset körülményeinek figyelembevételével történik. Tehát nem könnyű engedélyt kapni.
+
+<break time="5s"/>
+
+Világos! És mi a különbség a tizenhat életév előtt és a tizenhat életév után, de tizennyolc életév előtt kötött házasság között a gyámhatósági engedély szempontjából?
+
+<break time="5s"/>
+
+Éles határ! A tizenhat életév előtt kötött házasság érvénytelen és a Polgári Törvénykönyv negyedik könyvének kilencedik paragrafusának második bekezdése szerint gyámhatósági engedély sem adható, mert csak a tizenhatodik életévét betöltött kiskorúnak adhat engedélyt a gyámhatóság. A tizenhat életév után, de tizennyolc életév előtt kötött házasság a Polgári Törvénykönyv negyedik könyvének kilencedik paragrafusának első bekezdése szerint érvénytelen a gyámhatóság előzetes engedélye nélkül, de gyámhatósági engedéllyel érvényes lehet, így különbség van az engedély lehetősége között. Tehát tizenhat év a határ.
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha a kiskorú a nagykorúság elérése után hat hónapon belül nem támadja meg a házasságot?
+
+<break time="5s"/>
+
+Érvényessé válik! A Polgári Törvénykönyv negyedik könyvének kilencedik paragrafusának negyedik bekezdése kimondja, hogy a gyámhatóság engedélye nélkül vagy a tizenhatodik életév betöltése előtt kötött házasság a házastárs nagykorúságának elérését követő hat hónap elteltével a megkötésének időpontjára visszamenőleg érvényessé válik, ha az érintett házastárs a fennálló házasságot e jogvesztő határidő alatt nem támadja meg. Ez azt jelenti, hogy ha a kiskorú a nagykorúság elérése után hat hónapon belül nem támadja meg a házasságot, automatikusan érvényessé válik, visszamenőleges hatállyal, mert ha fenn akarja tartani, akkor a házasság a valódi akaratán alapul. Tehát döntési lehetőség.
+
+<break time="5s"/>
+
+Világos! És mi a különbség a cselekvőképességet teljesen korlátozó gondnokság és a cselekvőképtelen állapot között a házassági akadályok szempontjából?
+
+<break time="5s"/>
+
+Tartós és átmeneti! A Polgári Törvénykönyv negyedik könyvének tizedik paragrafusa szerint a cselekvőképességet teljesen korlátozó gondnokság tartós állapot, amely mentális zavaron alapul és bírósági ítélettel kerül megállapításra, és a gondnokság alatt álló személy nem rendelkezik belátási képességgel. A Polgári Törvénykönyv negyedik könyvének tizenegyedik paragrafusa szerint a cselekvőképtelen állapot átmeneti állapot, amikor a személy belátási képessége teljesen hiányzik, például súlyos betegség, eszméletlen állapot, kábítószer hatása, súlyos alkoholos befolyásoltság, így különbség van a tartósság és az alapjuk között. Tehát az egyik hosszú távú, a másik rövid távú.
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha a gondnokságot megszüntetik, és a gondnokolt hat hónapon belül nem támadja meg a házasságot?
+
+<break time="5s"/>
+
+Hasonló a kiskorúsághoz! A Polgári Törvénykönyv negyedik könyvének tizedik paragrafusának második bekezdése kimondja, hogy a gondnokság alá helyezett házassága a gondnokság alá helyezés megszüntetését követő hat hónap elteltével a megkötésének időpontjára visszamenőleg érvényessé válik, ha az a házastárs, akinek személyében az érvénytelenség oka megvalósult, a fennálló házasságot e jogvesztő határidő alatt nem támadja meg. Ez logikus, mert ha a gondnokolt visszanyerte belátási képességét, és fenn akarja tartani a házasságot, az érvényessé válhat, így a konvalidáció automatikus és visszamenőleges hatályú. Tehát hat hónap a döntésre.
+
+<break time="5s"/>
+
+Világos! És mi a különbség a cselekvőképtelen állapot átmeneti jellege és a gondnokság tartós jellege között?
+
+<break time="5s"/>
+
+Ez a lényeg! A cselekvőképtelen állapot a Polgári Törvénykönyv negyedik könyvének tizenegyedik paragrafusa szerint átmeneti állapot, amikor a személy belátási képessége teljesen hiányzik, például súlyos betegség, eszméletlen állapot, kábítószer hatása, súlyos alkoholos befolyásoltság miatt. A gondnokság a Polgári Törvénykönyv negyedik könyvének tizedik paragrafusa szerint tartós állapot, amely mentális zavaron alapul és bírósági ítélettel kerül megállapításra, és a gondnokság alatt álló személy tartósan nem rendelkezik belátási képességgel, így különbség van a tartósság, az alapjuk és a megállapítás módja között. Tehát időbeli és okbeli különbség.
+
+<break time="5s"/>
+
+Értem! És milyen jogi védelmet biztosít a hat hónapos konvalidációs határidő a cselekvőképességüket visszanyert személyek számára?
+
+<break time="5s"/>
+
+Döntési szabadság! A hat hónapos konvalidációs határidő biztosítja, hogy a cselekvőképességüket visszanyert személyek, akik visszanyerték belátási képességüket a cselekvőképtelen állapot megszűnése után vagy a gondnokság megszüntetése után, dönthetnek arról, hogy fenn akarják e tartani a házasságot. Ha hat hónapon belül nem támadják meg, a házasság érvényessé válik, így védve az autonómiájukat és a döntési szabadságukat, mert ők dönthetnek arról, hogy elfogadják e a házasságot vagy megtámadják. Tehát tiszteletben tartják az akaratukat.
+
+<break time="5s"/>
+
+Szuper! És mi a különbség az automatikus konvalidáció és a fakultatív konvalidáció között abban, hogy miként válik érvényessé az érvénytelen házasság?
+
+<break time="5s"/>
+
+Már volt ez, de részletezzük! Az automatikus konvalidáció a törvény erejénél fogva, a felek akaratától függetlenül bekövetkezik, ha az érvénytelenségi ok elhárul és a jogosult a törvényben meghatározott határidőn belül nem támadja meg a házasságot, például a Polgári Törvénykönyv negyedik könyvének kilencedik paragrafusának negyedik bekezdése, negyedik könyv tizedik paragrafusának második bekezdése, negyedik könyv tizenegyedik paragrafusának második bekezdése és negyedik könyv tizenhárom paragrafusának második bekezdése szerint. A fakultatív konvalidáció a jogosult döntésétől függ: ha a jogosult nem indít pert, vagy a megindított pert visszavonja, a házasság érvényessé válik, ami minden esetben így van, amikor a perindítási jog időkorlát nélkül fennáll, de a jogosult nem él vele. Tehát törvény vagy akarat.
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a konvalidáció általában visszamenőleges hatályú, ex tunk?
+
+<break time="5s"/>
+
+Teljes hatás! Ha a konvalidáció visszamenőleges hatályú, ex tunk, akkor a házasság a megkötésének időpontjára visszamenőleg válik érvényessé, vagyis úgy kell tekinteni, mintha kezdettől fogva érvényes lett volna. Ez azt jelenti, hogy a házasság joghatásai is visszamenőleg keletkeznek, a házastársi vagyonközösség a házasság megkötésétől fennáll, az apaság vélelme fennáll, a házassági név viselése érvényes, így a konvalidáció visszamenőleges hatálya biztosítja a házasság joghatásainak teljes körű érvényesülését. Tehát mintha mindig is érvényes lett volna.
+
+<break time="5s"/>
+
+Világos! És mi a különbség a jogvesztő határidő és az elévülés között a házassági akadályok megtámadása tekintetében?
+
+<break time="5s"/>
+
+Szigorúbb! A Polgári Törvénykönyv negyedik könyvének tizenhatodik paragrafusának harmadik bekezdése kimondja, hogy az első és második bekezdésben megjelölt határidők elmulasztása jogvesztéssel jár. Ez azt jelenti, hogy a jogvesztő határidő elmulasztása esetén a jogosult elveszíti a perindítási jogát, és a házasság érvényessé válik, a jog véglegesen megszűnik. Az elévülés csak az igény bírósági érvényesíthetőségét korlátozza, az alanyi jogot nem szünteti meg, így a jogvesztő határidő szigorúbb, mert a jog véglegesen megszűnik. Tehát ez végleges.
+
+<break time="5s"/>
+
+Értem! Most térjünk a perindítási jogosultságra! Milyen jogi alapja van annak, hogy bármelyik házastárs, az ügyész vagy az, akinek jogi érdeke fűződik, jogosult az érvénytelenítési per indítására?
+
+<break time="5s"/>
+
+Széles kör! A Polgári Törvénykönyv negyedik könyvének tizenötödik paragrafusának második bekezdése kimondja, hogy érvénytelenítési per indítására, ha e törvény eltérően nem rendelkezik, bármelyik házastárs, az ügyész vagy az jogosult, akinek a házasság érvénytelenségének megállapításához jogi érdeke fűződik. Ez azt jelenti, hogy bármelyik házastárs jogosult, függetlenül attól, hogy ő maga felel e meg a törvényi feltételeknek vagy a másik házastárs személyében áll fenn az akadály, az ügyész a közérdek védelmében, és bárki, akinek jogi érdeke fűződik, például a korábbi házastárs, örökös vagy hitelező. Tehát sok jogosult lehet.
+
+<break time="5s"/>
+
+Világos! És mi a különbség a házastárs és az ügyész perindítási jogának alapja között?
+
+<break time="5s"/>
+
+Személyes és közérdek! A házastárs perindítási joga személyes érdeken alapul, mert saját házasságának érvénytelenségét kéri, függetlenül attól, hogy ő maga felel e meg a törvényi feltételeknek vagy a másik házastárs személyében áll fenn az akadály. Az ügyész perindítási joga objektív jogi érdeken, a közérdek védelmén alapul, különösen akkor, ha súlyos közérdeksértés áll fenn, például házastársi kötelék akadály, közeli rokoni kapcsolat, és nem szükséges, hogy személyes sérelme legyen. Tehát az egyik magánérdek, a másik közérdek.
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha az érvénytelenítési pert megindító jogosult meghal?
+
+<break time="5s"/>
+
+A per folytatható! A Polgári Törvénykönyv negyedik könyvének tizenötödik paragrafusának harmadik bekezdése kimondja, hogy ha az a jogosult, aki a pert megindította, meghal, a perben helyére bármelyik másik jogosult beléphet. Ez biztosítja, hogy a per ne maradjon félbe a felperes halála miatt, hanem más jogosult, például örökös, ügyész, más jogi érdekelt, folytathassa a pert, így védve az érvénytelenítés lehetőségét és a jogbiztonságot. Tehát nem vész el a perindítás.
+
+<break time="5s"/>
+
+Világos! És mi a különbség a kiskorúság és gondnokság miatti érvénytelenség esetén a perindítási jogosultság korlátozása és az abszolút akadályok esetén a jogosultság terjedelme között?
+
+<break time="5s"/>
+
+Nagy különbség! A Polgári Törvénykönyv negyedik könyvének tizenhatodik paragrafusa szerint a kiskorúság és gondnokság miatti érvénytelenség esetén a perindítási jogosultság korlátozott, csak az érintett házastárs jogosult, aki személyében az érvénytelenség oka megvalósult, és csak hat hónapos jogvesztő határidőn belül a nagykorúság elérésétől vagy a gondnokság megszüntetésétől számítva. Az abszolút akadályok esetén a Polgári Törvénykönyv negyedik könyvének tizenötödik paragrafusának második bekezdése szerint bárki jogosult, aki jogi érdekelt, és nincs határidő, így különbség van a jogosultak körében és a határidőben. Tehát az egyik szűk és határidős, a másik széles és határidő nélküli.
+
+<break time="5s"/>
+
+Értem! És milyen jogi védelmet biztosít a Polgári Törvénykönyv negyedik könyvének tizenhatodik paragrafusának első bekezdése az érintett házastárs számára azzal, hogy kizárólagosan ő jogosult a perindításra?
+
+<break time="5s"/>
+
+Autonómia védelem! A Polgári Törvénykönyv negyedik könyvének tizenhatodik paragrafusának első bekezdése biztosítja, hogy kizárólag az érintett házastárs jogosult a perindításra, aki személyében az érvénytelenség oka megvalósult, így védve őt attól, hogy harmadik személyek, például szülők, rokonok, megtámadják a házasságát. Ez biztosítja a döntési szabadságát, hogy fenn akarja e tartani a házasságot, és ha nem támadja meg hat hónapon belül, a házasság érvényessé válik, így az érintett házastárs autonómiája védve van. Tehát ez az ő döntése.
+
+<break time="5s"/>
+
+Szuper! És mi a különbség a hat hónapos jogvesztő határidő és a hat hónapos konvalidációs határidő között?
+
+<break time="5s"/>
+
+Ez egy és ugyanaz! A hat hónapos jogvesztő határidő azt jelenti, hogy a jogosult a határidőn belül kell hogy megindítsa a pert, különben a Polgári Törvénykönyv negyedik könyvének tizenhatodik paragrafusának harmadik bekezdése szerint jogvesztéssel jár, vagyis elveszíti a perindítási jogát. A hat hónapos konvalidációs határidő azt jelenti, hogy ha a határidő letelik és nem támadja meg, a házasság érvényessé válik, például a Polgári Törvénykönyv negyedik könyvének kilencedik paragrafusának negyedik bekezdése szerint a nagykorúság elérését követő hat hónap elteltével a házasság érvényessé válik, így a jogvesztő határidő a perindítási jog elvesztését, a konvalidációs határidő pedig az érvényessé válást jelenti. Tehát ugyanannak a jelenségnek két oldala.
+
+<break time="5s"/>
+
+Világos! És milyen jogi következménye van annak, ha a cselekvőképtelen állapotban lévő házastárs a cselekvőképességének visszanyerése előtt meghal?
+
+<break time="5s"/>
+
+Az ügyész lép be! A Polgári Törvénykönyv negyedik könyvének tizenhatodik paragrafusának második bekezdése kimondja, hogy ha a házastárs a cselekvőképességének visszanyerése előtt meghalt, a házastárs halálától számított hat hónapon belül a házasság érvénytelenségének megállapítása iránt az ügyész indíthat pert. Ez azt jelenti, hogy ha a cselekvőképtelen állapotban lévő házastárs nem nyerte vissza a cselekvőképességét, mert meghalt, akkor az ügyész jogosult a perindításra hat hónapon belül a halálától számítva, így biztosítva, hogy az érvénytelenítés lehetősége ne vesszen el. Tehát az ügyész védi a közérdeket.
+
+<break time="5s"/>
+
+Értem! Most térjünk az eljárási kérdésekre! Mi a különbség a személyes perindítási kötelezettség és a törvényes képviselő általi perindítás között?
+
+<break time="5s"/>
+
+Személyes ügy! A Polgári Törvénykönyv negyedik könyvének tizenhetedik paragrafusának első bekezdése szerint a személyes perindítási kötelezettség azt jelenti, hogy a házasság érvénytelenítése iránt a pert a jogosultnak személyesen kell megindítania, nem lehet meghatalmazott útján megindítani. A törvényes képviselő általi perindítás a harmadik bekezdés szerint cselekvőképtelen jogosult esetében lehetséges, ha a jogosult cselekvőképtelen, a pert nevében a gyámhatóság hozzájárulásával törvényes képviselője indíthatja meg, így különbség van a perindítás módjában. Tehát főszabály a személyes, de van kivétel.
+
+<break time="5s"/>
+
+Világos! És milyen jogi védelmet biztosít a Polgári Törvénykönyv negyedik könyvének tizenhetedik paragrafusának második bekezdése a cselekvőképességében részlegesen korlátozott házastárs számára?
+
+<break time="5s"/>
+
+Önálló perindítás! A Polgári Törvénykönyv negyedik könyvének tizenhetedik paragrafusának második bekezdése kimondja, hogy törvényes képviselőjének hozzájárulása nélkül indíthat pert az a házastárs, aki cselekvőképességében a perindítás tekintetében részlegesen korlátozott. Ez biztosítja, hogy a cselekvőképességében részlegesen korlátozott házastárs élhessen a perindítás jogával törvényes képviselő közreműködése nélkül, így védelmet biztosítva számára, hogy ne legyen kiszolgáltatva a törvényes képviselőnek, és önállóan dönthessen a házassága sorsáról. Tehát autonómia itt is.
+
+<break time="5s"/>
+
+Értem! És mi a különbség az ügyész és a házastárs alpereseinek meghatározása között az érvénytelenítési perben?
+
+<break time="5s"/>
+
+Más az alperes! A Polgári Törvénykönyv negyedik könyvének tizennyolcadik paragrafusa szerint a házastárs a másik házastárs ellen kell hogy indítsa az érvénytelenítési pert, mert a házasság két fél között jön létre, és csak a másik fél ellen lehet indítani. Az ügyésznek és a per megindítására jogosult más személynek mindkét házastárs ellen kell indítania, mert ők nem házastársak, és mindkét házastárs érintettsége biztosítja, hogy mindkét fél védekezni tudjon, így különbség van az alperesek meghatározásában. Tehát a házastárs csak a másikat pereli, az ügyész mindkettőt.
+
+<break time="5s"/>
+
+Világos! És milyen jogi következménye van annak, ha az alperes már nem él, és a bíróság ügygondnokot rendel ki?
+
+<break time="5s"/>
+
+A per folytatható! A Polgári Törvénykönyv negyedik könyvének tizennyolcadik paragrafusa kimondja, hogy ha az a fél, aki ellen a pert meg kellene indítani, már nem él, a keresetet a bíróság által kirendelt ügygondnok ellen kell indítani. Ez biztosítja, hogy a per lefolytatható legyen, és az ügygondnok védi a meghalt fél érdekeit, képviseli őt a perben, így nem akadályozza a per lefolytatását az alperes halála, és a per folytatható. Tehát az ügygondnok képviseli.
+
+<break time="5s"/>
+
+Értem! Most térjünk az érvénytelenítő ítélet hatályára! Mi a különbség az érvénytelenítő ítélet ergá omnész hatálya és az ex tunk hatálya között?
+
+<break time="5s"/>
+
+Két különböző hatály! A Polgári Törvénykönyv negyedik könyvének tizennegyedik paragrafusának második bekezdése kimondja, hogy a házasság érvénytelenségét megállapító ítélet mindenkivel szemben hatályos. Ez az ergá omnész hatály azt jelenti, hogy a bírósági ítélet mindenkivel szemben hatályos, nemcsak a felekkel szemben, hanem harmadik személyeket, hatóságokat is kötelezi. Az ex tunk hatály azt jelenti, hogy visszamenőleges hatályú, a házasságot a megkötésének időpontjára visszamenőleg nyilvánítja érvénytelenné, vagyis úgy kell tekinteni, mintha soha nem jött volna létre. Tehát az egyik személyi hatály, a másik időbeli hatály.
+
+<break time="5s"/>
+
+Világos! És milyen logikai következménye van annak, hogy az érvénytelenségi ok a házasságkötés időpontjában állt fenn, és az érvénytelenítésnek visszamenőlegesen kell hatályosulnia?
+
+<break time="5s"/>
+
+Logikus! Ha az érvénytelenségi ok a házasságkötés időpontjában állt fenn, akkor logikusan az érvénytelenítésnek is visszamenőlegesen kell hatályosulnia, mert ha a házasság már a kezdetektől hibás volt, az érvénytelenítésnek is visszamenőleg kell hatályosulnia. Ez az ex tunk hatály logikai következménye annak, hogy az érvénytelenségi ok a házasságkötés időpontjában állt fenn, így a házasság már a kezdetektől nem felelt meg a törvényi feltételeknek, és nem keletkezhetett érvényes házasság. Tehát a hiba kezdettől fogva ott volt.
+
+<break time="5s"/>
+
+Értem! És mi a különbség a gyermek jogállásának védelme és a felek vagyoni viszonyainak rendezése között az érvénytelenítés jogkövetkezményei tekintetében?
+
+<break time="5s"/>
+
+Különböző szabályok! A gyermek jogállásának védelme azt jelenti, hogy a magyar családjog alapelve, hogy a gyermek jogállását az érvénytelenné nyilvánítás nem érinti, továbbra is házasságból származónak tekintendő, minden jogkövetkezménnyel, például származás vélelme, tartás, öröklés. A felek vagyoni viszonyainak rendezése azt jelenti, hogy az élettársi vagyonjogi szabályokat kell alkalmazni, mert az érvénytelen házasság nem keletkeztet házastársi vagyonközösséget, így különböző szabályok vonatkoznak rájuk. Tehát a gyermeket védik, a vagyont megosztják.
+
+<break time="5s"/>
+
+Világos! És milyen jogi alapja van annak, hogy a gyermek jogállását az érvénytelenné nyilvánítás nem érinti?
+
+<break time="5s"/>
+
+A gyermek védelme! A gyermek jogállását az érvénytelenné nyilvánítás nem érinti, mert a magyar családjog alapelve, hogy a gyermek nem felelős a szülei hibájáért, nem büntethető azért, hogy a szülei házassága érvénytelen volt. A gyermek jogállása önálló, független a házasság érvényességétől, és a gyermek védelme elsődleges szempont, így a gyermek továbbra is házasságból származónak tekintendő, minden jogkövetkezménnyel. Tehát a gyermek ártatlan.
+
+<break time="5s"/>
+
+Értem! És mi a különbség a házastársi vagyonközösség szabályai és az élettársi vagyonjogi szabályok között az érvénytelen házasság vagyoni viszonyainak rendezésében?
+
+<break time="5s"/>
+
+Automatikus versus egyedi! A házastársi vagyonközösség szabályai szerint a Polgári Törvénykönyv negyedik könyvének harminchét harminchárom paragrafusai alapján a felek az életközösség alatt szerzett vagyonra közös tulajdont szereznek automatikusan, kivéve a különvagyont. Az élettársi vagyonjogi szabályok szerint a Polgári Törvénykönyv hatodik könyvének ötszáztizennégy ötszáztizenöt paragrafusai alapján a felek nem szereznek közös tulajdont automatikusan, hanem mindegyik a saját nevén szerzett vagyon tulajdonosa marad, és ha közös vagyontárgyat szereztek, közös tulajdon keletkezik, amelyet meg kell osztani, így különbség van az automatikus vagyonközösség és az egyedi vagyonszerzés között. Tehát az egyik automatikus, a másik név szerinti.
+
+<break time="5s"/>
+
+Világos! És milyen jogi következménye van annak, hogy az érvénytelen házasság alapján felvett házassági nevet a házastárs megtarthatja vagy visszaveheti?
+
+<break time="5s"/>
+
+Szabad választás! Az érvénytelen házasság alapján felvett házassági nevet a házastárs megtarthatja vagy visszaveheti korábbi nevét, mert döntési szabadság illeti meg. Ez azt jelenti, hogy nem kényszerül arra, hogy visszavegye korábbi nevét vagy megtartsa a házassági nevet, hanem szabadon dönthet arról, hogy melyik nevet kívánja viselni, így védve a névviseléshez való jogát és az autonómiáját. Tehát nem automatikus a változás.
+
+<break time="5s"/>
+
+Értem! És mi a különbség a házastársi tartási kötelezettség és a méltányossági alapon való tartásra kötelezés között az érvénytelen házasság esetében?
+
+<break time="5s"/>
+
+Automatikus versus méltányossági! A házastársi tartási kötelezettség automatikusan keletkezik az érvényes házasság alapján, ha az egyik házastárs rászorul, és a másik házastárs tehetős, a Polgári Törvénykönyv negyedik könyvének huszonkilencedik paragrafusa szerint. Az érvénytelen házasság nem keletkeztet házastársi tartási kötelezettséget, mert nem érvényes házasság, de ha az egyik fél rászorul, és a másik fél tehetős, méltányossági alapon tartásra kötelezhető lehet, analógia az élettársi szabályokkal, így különbség van az automatikus kötelezettség és a méltányossági alapon való kötelezés között. Tehát nem kötelező, de lehetséges.
+
+<break time="5s"/>
+
+Világos! És milyen jogi védelmet biztosít a jogbiztonság szempontjából a megdönthető érvényesség vélelmének elve?
+
+<break time="5s"/>
+
+Teljes körű védelem! A megdönthető érvényesség vélelmének elve biztosítja a jogbiztonságot azzal, hogy a hibás házasságot is csak bírósági eljárás keretében lehet megszüntetni, védve a házastársakat attól, hogy önkényesen, bírósági eljárás nélkül bárki kijelenthesse a házasságot érvénytelennek. Védi a harmadik személyeket, hitelezők, vagyonszerzők, akik az érvényes házasságra támaszkodva jogviszonyokat létesítenek, védi a gyermekeket, akiknek jogállása nem függhet bizonytalan, tisztázatlan helyzettől, és biztosítja a bírósági kontrollt, amely garanciát jelent arra, hogy csak valóban érvénytelen házasságot nyilvánítanak érvénytelenné. Tehát mindenkit véd.
+
+<break time="5s"/>
+
+Szuper! És mi a különbség a visszamenőleges hatály, ex tunk, és a jövőre szóló hatály, ex nunk, között az érvénytelenítő ítélet esetében?
+
+<break time="5s"/>
+
+Időbeli hatály! A visszamenőleges hatály, ex tunk, azt jelenti, hogy a házasságot a megkötésének időpontjára visszamenőleg nyilvánítja érvénytelenné, vagyis úgy kell tekinteni, mintha soha nem jött volna létre, és a házasság joghatásai is visszamenőleg megszűnnek. A jövőre szóló hatály, ex nunk, azt jelenti, hogy csak a jövőre nézve szűnik meg a jogviszony, a korábbi joghatások megmaradnak, így különbség van abban, hogy visszamenőlegesen vagy csak a jövőre nézve szűnik meg a házasság. Tehát az egyik törli a múltat, a másik nem.
+
+<break time="5s"/>
+
+Értem! És milyen logikai kapcsolat van a házassági akadályok rendszere, az érvénytelenítési per és a konvalidáció között?
+
+<break time="5s"/>
+
+Ez az egész rendszer! A házassági akadályok rendszere meghatározza, hogy mely esetekben érvénytelen a házasság, megkülönböztetünk abszolút és relatív akadályokat. Az érvénytelenítési per biztosítja a bírósági kontroll lehetőségét, amely garanciát jelent arra, hogy csak valóban érvénytelen házasságot nyilvánítanak érvénytelenné, és meghatározza a perindítási jogosultakat, a határidőket, az eljárási szabályokat. A konvalidáció biztosítja, hogy az érvénytelenségi ok elhárulása után a házasság érvényessé válhasson, automatikusan vagy a jogosult döntésétől függően, így együtt alkotnak egy koherens rendszert, amely biztosítja a házasság jogintézményének védelmét, a felek autonómiáját és a jogbiztonságot. Tehát minden elem kiegészíti egymást.
+
+<break time="5s"/>
+
+És végül, hogyan szolgálja a házassági akadályok és az érvénytelenség intézménye a házasság jogintézményének, a felek és a társadalom érdekeinek védelmét?
+
+<break time="5s"/>
+
+Komplex védelem! A házassági akadályok és az érvénytelenség intézménye védi a házasság jogintézményét azzal, hogy csak megfelelő személyek között engedi meg a házasságkötést, kizárva a közeli rokonokat, a bigámiát, a cselekvőképtelen személyeket. Védi a felek érdekeit azzal, hogy biztosítja a bírósági kontroll lehetőségét, a megdönthető érvényesség vélelmét, a konvalidációt és a gyermekek jogállásának védelmét. Védi a társadalom érdekeit azzal, hogy megakadályozza a közeli rokonok közötti házasságot, biztosítja a monogámia elvének érvényesülését, és biztosítja a jogbiztonságot a harmadik személyek számára, így együttesen szolgálva a különböző érdekeket. Tehát mindenki érdeke benne van.
+
+<break time="5s"/>
+
+Remek! Akkor most már átlátjuk a házassági akadályok és az érvénytelenség bonyolult rendszerét! Köszönöm szépen ezt a részletes áttekintést!
+
+<break time="5s"/>
+
+Szívesen! Hajrá a vizsgához, ez egy összetett, de fontos téma volt!
+
+<break time="5s"/>
+
+

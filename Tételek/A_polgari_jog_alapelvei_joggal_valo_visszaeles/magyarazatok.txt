@@ -1,0 +1,119 @@
+1. A polgári jogi alapelvek jogértelmezési funkciója különösen akkor nyer jelentőséget, amikor egy jogszabályi rendelkezés szövege nem egyértelmű vagy többféle értelmezést enged meg. Ilyen esetben az alapelvek iránymutatást nyújtanak arra vonatkozóan, hogy a többféle lehetséges értelmezés közül melyik felel meg legjobban a jogrendszer értékeinek és céljainak, így biztosítva a következetes jogalkalmazást.
+
+2. A joghézagkitöltő funkció azt jelenti, hogy amikor a jogszabályok explicit módon nem szabályoznak egy élethelyzetet vagy jogkérdést, az alapelvek alapján mégis eldönthető, hogy mi minősül jogszerű magatartásnak. Ez a funkció biztosítja, hogy ne maradjanak "jogi vákuumban" olyan élethelyzetek, amelyekre nincsen konkrét szabály, így a jogrendszer valóban teljes és minden helyzetre választ ad.
+
+3. A korrekciós funkció révén a bíró nem pusztán mechanikusan alkalmazza a jogszabályokat, hanem az alapelvek segítségével mérlegeli, hogy a jogszabály merev alkalmazása az adott konkrét esetben nem vezet-e igazságtalan vagy méltánytalan eredményre. Ha igen, akkor az alapelvekre hivatkozással korrigálhatja a döntését, ami a bírói mérlegelés lényege és egyben a jogrendszer igazságosságának biztosítéka.
+
+4. Az alapelvek nyitott normajellege azt jelenti, hogy nem konkrét tényállásokat és jogkövetkezményeket tartalmaznak, hanem általános értékeket és követelményeket fogalmaznak meg. Ez a jelleg teszi lehetővé, hogy a jogrendszer változó társadalmi, gazdasági és kulturális körülmények között is működőképes maradjon, mert az alapelvek képesek befogadni az új élethelyzeteket anélkül, hogy magát a jogszabályszöveget módosítani kellene.
+
+5. A Ptk. 1:1. § kimondja: "E törvény a mellérendeltség és egyenjogúság elve szerint szabályozza a személyek alapvető vagyoni és személyi viszonyait." Ez az alapelv azt fejezi ki, hogy a polgári jogi jogviszonyokban a résztvevők egyenrangúak, egyik félnek sincs jogszabály alapján alapuló többletjoga vagy kiváltságos pozíciója. Ezzel szemben a közjogban (pl. közigazgatási jog, büntetőjog) a jogviszonyok jellemzően vertikálisak, alá-fölérendeltségi viszonyok, ahol az állam vagy hatóság fölöttes pozíciót foglal el.
+
+6. A Ptk. 1:2. § (1) bekezdése szerint: "E törvény rendelkezéseit Magyarország alkotmányos rendjével összhangban kell értelmezni." Ez a hierarchikus értelmezési szabály biztosítja, hogy a Ptk. alkalmazása során mindig figyelembe vegyék az alkotmányos értékeket és alapjogokat. Ha egy Ptk.-beli rendelkezésnek több lehetséges értelmezése van, akkor azt kell választani, amely leginkább megfelel az Alaptörvénynek és az alkotmánybírósági gyakorlatnak, így megvalósul az egységes jogrendszer követelménye.
+
+7. Magyarország nemzetközi kötelezettségvállalásai, különösen az Emberi Jogok Európai Egyezménye és az Európai Unió joga, az alkotmányos rend részét képezik, és ezért közvetlenül befolyásolják a Ptk. értelmezését. Az Emberi Jogok Európai Bírósága és az Európai Unió Bírósága gyakorlata így szintén irányadó lehet a polgári jogi normák alkalmazásában, biztosítva a nemzetközi jogharmonizációt és az európai jogfejlődéssel való összhangot.
+
+8. A Ptk. 1:3. § (1) bekezdése kimondja: "A jogok gyakorlása és a kötelezettségek teljesítése során a felek a jóhiszeműség és tisztesség követelményének megfelelően kötelesek eljárni." A jóhiszeműség szubjektív jellege azt jelenti, hogy a fél tudatállapotára utal (nem tud olyan tényről, amely joggyakorlását jogszerűtlenné tenné), míg a tisztesség objektív jellege azt jelenti, hogy a magatartást külső, objektív mérce szerint értékelik: megfelel-e az általánosan elvárható, tisztességes magatartásnak.
+
+9. A tisztesség követelménye nem pusztán jogi, hanem erkölcsi és üzleti etikai normákat is magában foglal. A tisztességes magatartás magában foglalja a lojalitást (hűséget a szerződő félhez), a kooperációt (együttműködési készséget a közös cél elérése érdekében), a tájékoztatási kötelezettséget (lényeges körülmények közlése), valamint az általánosan elfogadott üzleti etikai standardok betartását, ami biztosítja a kereskedelmi forgalom biztonságát és tisztaságát.
+
+10. A Ptk. 1:3. § (2) bekezdése kifejezetten kimondja: "A jóhiszeműség és tisztesség követelményét sérti az is, akinek joggyakorlása szemben áll olyan korábbi magatartásával, amelyben a másik fél okkal bízhatott." A venire contra factum proprium tehát a jóhiszeműség és tisztesség elvének konkrét megnyilvánulása, amely tiltja, hogy valaki ellentétesen járjon el korábbi magatartásával, ha ezzel sérti a másik fél jogos bizalmát. Ez a tilalom a bizalomvédelem és a jogbiztonság alapvető követelménye.
+
+11. A Ptk. 1:3. § (2) bekezdésében megfogalmazott venire contra factum proprium tilalom alkalmazásának feltételei szerint: léteznie kell egy korábbi magatartásnak, amelyben a másik fél "okkal bízhatott" (azaz ésszerűen, jogosan bízott), a későbbi magatartásnak ellentétesnek kell lennie a korábbiakkal, és ennek a másik fél hátrányára kell lennie. Ezek a feltételek együttesen biztosítják, hogy csak olyan esetekben lehessen hivatkozni a tilalomra, ahol valóban sérül a jogos bizalom védelme.
+
+12. Az "okkal bízhatott" feltétel azt jelenti, hogy a másik fél bizalmának objektíve megalapozottnak kell lennie: egy ésszerű, gondos személy a korábbi magatartás alapján jogosan feltételezhette, hogy a jövőben is hasonlóképpen fog a másik fél eljárni. A jogpolitikai megfontolás az, hogy a bizalomvédelem csak akkor indokolt, ha a bizalom valóban jogos volt, nem pedig alaptalan vagy könnyelmű, így védi a jogbiztonságot és a jogforgalom tisztaságát.
+
+13. A Ptk. 1:4. § (1) bekezdése kimondja: "Ha e törvény eltérő követelményt nem támaszt, a polgári jogi viszonyokban úgy kell eljárni, ahogy az az adott helyzetben általában elvárható." Ez az objektív gondossági kötelezettség alapja, amely nem azt vizsgálja, hogy az adott személy képességeihez vagy ismereteihez képest hogyan járt el, hanem hogy megfelelt-e annak a magatartásnak, amit egy átlagos, ésszerű, gondos ember tanúsított volna az adott helyzetben.
+
+14. A "reasonable man" (ésszerű ember) mércéje egy objektív, elvont standard, amely biztosítja a jogalkalmazás egységességét és kiszámíthatóságát. Ha mindenki a saját egyéni képességei szerint felelne, az jogbizonytalanságot teremtene, mert nehéz lenne megállapítani, ki milyen szinten járt el gondosan. Az objektív mérce azt jelenti, hogy mindenkit ugyanaz a gondossági standard terhel, függetlenül egyéni képességeitől, ami egyenlőséget és kiszámíthatóságot teremt.
+
+15. A Ptk. 1:4. § (2) bekezdése kimondja: "Felróható magatartására előnyök szerzése végett senki nem hivatkozhat." A nemo turpitudinem suam allegans auditur latin elv lényege, hogy senki nem használhatja ki saját felróható, jogellenes vagy tisztességtelen magatartását arra, hogy abból előnyöket szerezzen. Ez az önkontradikció tilalmának egyik legfontosabb megnyilvánulása, amely megakadályozza, hogy valaki saját jogsértéséből profitáljon.
+
+16. A Ptk. 1:4. § (2) bekezdése konkrét tilalmat mond ki arra vonatkozóan, hogy valaki felróható magatartására ne hivatkozhasson előnyök szerzése végett. Így például a károkozó nem mentesülhet a felelősség alól azzal, hogy saját gondatlanságára hivatkozik, a szerződésszegő nem szerezhet előnyöket azzal, hogy szerződésszegésre hivatkozik, vagy aki érvénytelen szerződést kötött saját felróható magatartása (pl. megtévesztés) miatt, nem hivatkozhat erre az érvénytelenségre saját javára.
+
+17. A Ptk. 1:4. § (3) bekezdése kimondja: "A másik fél felróható magatartására hivatkozhat az is, aki maga felróhatóan járt el." Ez azt jelenti, hogy a másik fél felróható magatartására való hivatkozáshoz nem követelmény a hivatkozó fél kifogástalan magatartása. Ez különösen fontos a kármegosztási szabályok alkalmazásánál, ahol mindkét fél hozzájárulhatott a kár bekövetkezéséhez, és a kárt arányosan kell megosztani közöttük, anélkül hogy az egyik fél felróható magatartása kizárná a másik fél felróható magatartására való hivatkozást.
+
+18. A joggal való visszaélés lényege, hogy a joggyakorló formálisan rendelkezik a joggal (pl. tulajdonos, hitelező, szerződő fél), de a jog gyakorlásának módja olyan, hogy az ellentétes a jog céljával, rendeltetésével, vagy aránytalanul sérti mások érdekeit. Tehát nem arról van szó, hogy a joggyakorló nem rendelkezik joggal (jog hiánya), hanem arról, hogy a jog gyakorlásának módja teszi a magatartást jogellenessé, ami alapvetően különbözik a jog hiányától.
+
+19. A jogtudomány szerint a joggal való visszaélés (abus de droit, Rechtsmissbrauch) azt jelenti, hogy valaki egy egyébként jogos, formálisan jogszerű magatartást (pl. tulajdonjog gyakorlása, követelés érvényesítése) olyan módon vagy célból gyakorol, hogy az a joggyakorlás módja miatt jogellenessé válik. Ez akkor történik meg, ha a joggyakorlás sérti a jog rendeltetését, célját, vagy mások jogos érdekeit aránytalanul vagy tisztességtelenül, így a formálisan jogszerű magatartás tartalmilag jogellenessé válik.
+
+20. A svájci ZGB (Zivilgesetzbuch) 2. cikke kimondja: "Senki sem gyakorolhatja jogát visszaélésszerűen." Ez a rendelkezés az egyik legkorábbi pozitív jogi szabály, amely kifejezetten kimondja a joggal való visszaélés tilalmát, és ezért nemzetközi jelentőségű precedensként szolgál. A svájci szabályozás hatással volt számos európai jogrendszerre, köztük a magyar polgári jogra is, amely átvette és továbbfejlesztette ezt az elvet.
+
+21. A német BGB (Bürgerliches Gesetzbuch) 226. §-a kimondja: "Einem anderen zur Schikane dient" – azaz ha a jog gyakorlása kizárólag mások zaklatására szolgál, az nem élvez jogi védelmet. Ez a rendelkezés a chicane, vagyis a kizárólag károkozási szándékkal történő joggyakorlás klasszikus megfogalmazása, amely azt a szélsőséges esetet szabályozza, amikor a joggyakorlónak semmilyen ésszerű előnye nincs a joggyakorlásból, csak a másik fél károsítása a célja.
+
+22. Az 1959. évi IV. törvény (régi Ptk.) 5. §-a taxatíve felsorolta a joggal való visszaélés eseteit, mint például a csekély jelentőségű érdeksérelem, az aránytalanság, vagy a tisztességtelenség. A 2013. évi V. törvény (új Ptk.) 1:5. § (1) bekezdése ezzel szemben csak röviden kimondja: "A törvény tiltja a joggal való visszaélést", anélkül hogy nevesítené az eseteket. Ez rugalmasabb szabályozást eredményez, mert a bírói gyakorlat szabadabban értékelheti, mi minősül joggal való visszaélésnek, így az alapelv jobban alkalmazkodik a változó társadalmi viszonyokhoz.
+
+23. Az aránytalanság azt jelenti, hogy a joggyakorló minimális vagy elhanyagolható előnyt szerez, miközben a másik félnek aránytalan, súlyos hátrányt vagy kárt okoz. A bírói gyakorlat szerint például ha egy ingatlan tulajdonosa megtiltja a szomszédnak a villanyvezeték átvezetését a telkén, miközben ez neki semmi hátrányt nem okoz, a szomszédnak viszont lehetetlenné teszi az áramszolgáltatást, ez tipikus aránytalanság, amely joggal való visszaélésnek minősül.
+
+24. A tisztességtelenség mint fogalmi jegy azt jelenti, hogy a joggyakorlás ellentétes az általánosan elfogadott erkölcsi normákkal, az üzleti etikával vagy a jóhiszeműség és tisztesség követelményével. Például ha a hitelező korábban lemondott a követelés érvényesítéséről, majd később mégis érvényesíti azt (venire contra factum proprium), az tisztességtelen magatartás, amely egyben joggal való visszaélésnek is minősülhet.
+
+25. A chicane esetében a joggyakorlás kizárólag vagy elsősorban azzal a céllal történik, hogy másnak kárt okozzon, zaklatást vagy bosszantást jelentsen, anélkül hogy a joggyakorlónak bármilyen ésszerű, legitim előnye származna belőle. Ez a legsúlyosabb eset, mert teljesen nélkülözi a jogszerű érdeket: a jog gyakorlása tisztán rosszhiszemű, károkozási szándékból történik, ami a leginkább ellentétes a jog rendeltetésével.
+
+26. Minden jognak van rendeltetése, azaz az a cél, amiért a jogrendszer azt a jogot megadja a jogosultnak. Ha valaki a jogot nem erre a célra, hanem más, a jog rendeltetésével ellentétes célra használja, az joggal való visszaélésnek minősül. Például a felmondási jog arra való, hogy megszüntessék a szerződést, ha az már nem felel meg az érdekeknek – nem arra, hogy a másik felet megzsarolják vagy zaklatják vele.
+
+27. A Ptk. 1:5. § (1) bekezdése kimondja, hogy "A törvény tiltja a joggal való visszaélést", ami azt jelenti, hogy a visszaélésszerűen gyakorolt jog nem élvez jogi védelmet. Ha a bíróság megállapítja, hogy valaki joggal él vissza, akkor a kívánt joghatás nem következik be: ha valaki visszaélésszerűen érvényesít követelést, a bíróság elutasítja a keresetet; ha valaki visszaélésszerűen tagad meg jognyilatkozatot, a bíróság pótolhatja azt.
+
+28. Ha a joggal való visszaélés kárt okoz a másik félnek, a visszaélő kártérítési felelősséggel tartozik. A kártérítés jogcíme lehet a szerződésszegéssel okozott kárért való felelősség (Ptk. 6:142. §), ha a visszaélés szerződéses jogviszonyban történt (pl. a szerződő fél visszaélésszerűen gyakorolja szerződéses jogát), vagy a deliktuális (szerződésen kívüli) felelősség (Ptk. 6:519. §), ha a visszaélés szerződésen kívüli jogviszonyban történt (pl. szomszédjogi jogviszony).
+
+29. A Ptk. 1:5. § (2) bekezdése kimondja: "Ha a joggal való visszaélés jogszabály által megkívánt nyilatkozat megtagadásában áll, és ez a magatartás nyomós közérdeket vagy különös méltánylást érdemlő magánérdeket sért, a bíróság a nyilatkozatot ítéletével pótolhatja, feltéve, hogy az érdeksérelem másképpen nem hárítható el." Az "érdeksérelem másképpen nem hárítható el" feltétel az ultima ratio jelleget biztosítja: a bírósági pótlás csak akkor megengedett, ha más jogorvoslatok (pl. kártérítés) nem elegendőek.
+
+30. A Ptk. 1:5. § (2) bekezdése négy kumulatív feltételt határoz meg: (1) jogszabály által megkívánt nyilatkozat megtagadása, (2) a megtagadás visszaélésszerű, (3) nyomós közérdek vagy különös méltánylást érdemlő magánérdek sérelme, és (4) az érdeksérelem másképpen nem hárítható el. Ezek a feltételek együttesen biztosítják, hogy a bírósági pótlás csak kivételes, indokolt esetekben legyen lehetséges, így védi a jognyilatkozat szabadságát.
+
+31. A bírói gyakorlat szerint jogszabály által megkívánt nyilatkozatnak minősül például a házastárs hozzájárulása a közös lakás eladásához (Ptk. 4:38. §), a tulajdonostárs hozzájárulása a közös tulajdon megszüntetéséhez (Ptk. 5:83. §), vagy a vezető tisztségviselő nyilatkozata a cégbírósági eljárásban (Ctv. rendelkezései alapján). Ezek olyan nyilatkozatok, amelyeket jogszabály kifejezetten megkövetel egy jogügylet vagy eljárás érvényességéhez vagy lefolytatásához.
+
+32. A "nyomós közérdek" vagy "különös méltánylást érdemlő magánérdek" feltétel biztosítja, hogy a bírósági pótlás – mint a jognyilatkozat szabadságába való súlyos beavatkozás – csak olyan esetekben legyen lehetséges, ahol valóban jelentős érdek sérül. A nyomós közérdek lehet például közigazgatási eljárás akadályozása, míg a különös méltánylást érdemlő magánérdek lehet a lakhatáshoz való jog vagy más egzisztenciális érdek, amely az emberi méltóság alapvető része.
+
+33. Az "érdeksérelem másképpen nem hárítható el" feltétel azt jelenti, hogy a bíróságnak vizsgálnia kell, hogy létezik-e más, kevésbé invazív jogorvoslat, amely alkalmas lenne az érdeksérelem orvoslására. Ha például kártérítéssel, vagy más polgári jogi eszközzel (pl. kényszerbejegyzés, zálogjog) orvosolható lenne az érdeksérelem, akkor a bírósági pótlás nem alkalmazható, mert az csak akkor megengedett, ha valóban nincs más megoldás.
+
+34. A "pótolhatja" szó fakultatív (nem kötelező) jellege azt jelenti, hogy még akkor is, ha minden törvényi feltétel teljesül, a bíróság mérlegelési jogkörben dönt arról, hogy pótol-e nyilatkozatot vagy sem. A bíróság széles mérlegelési jogköre lehetővé teszi, hogy a konkrét eset minden körülményét (a felek viszonya, a nyilatkozat megtagadásának indokai, az arányosság) figyelembe vegye, és az adott esetben legmegfelelőbb döntést hozza meg.
+
+35. Ha az egyik tulajdonostárs (például A) indokolatlanul, kizárólag a másik tulajdonostárs (például B) zaklatása céljából megtagadja a hozzájárulását a közös tulajdon megszüntetéséhez, miközben B-nek súlyos hátránya származik ebből (nem tudja értékesíteni a hányadát, nem tudja használni az ingatlant), akkor a bíróság a Ptk. 1:5. § (2) bekezdése alapján pótolhatja A hozzájáruló nyilatkozatát, feltéve hogy különös méltánylást érdemlő magánérdek sérül és az érdeksérelem másképpen nem hárítható el.
+
+36. Ha a cég vezető tisztségviselője szándékosan megtagadja a cégbírósági eljárásban szükséges nyilatkozat megtételét (pl. nem nyilatkozik a cégadatok változásáról, vagy nem írja alá a szükséges dokumentumokat), és ezzel blokkolja a cég működését vagy a jogszerű változások átvezetését, akkor a bíróság a Ptk. 1:5. § (2) bekezdése alapján pótolhatja a nyilatkozatot. Ez a közérdeket (cégnyilvántartás közhitelessége) és a többi tulajdonos magánérdekét is védi.
+
+37. Ha az egyik házastárs (például A) visszaélésszerűen megtagadja a hozzájárulását a közös lakás eladásához, miközz már nem lakik ott, elköltözött, és kizárólag bosszúból vagy zaklatási célból nem járul hozzá, az a másik házastárs (például B) különös méltánylást érdemlő magánérdekét (lakhatáshoz való jog, egzisztenciális érdek) sérti. Ilyen esetben a bíróság pótolhatja A hozzájáruló nyilatkozatát, különösen ha B-nek szüksége van az eladásra (pl. új lakás vásárlása, adósság törlesztése).
+
+38. A Ptk. 1:5. § (2) bekezdése szerint ha a bíróság ítéletével pótolja a jognyilatkozatot, akkor az ítélet olyan hatállyal bír, mintha a kötelezett megtette volna a nyilatkozatot. Ez azt jelenti, hogy az ítélet alapján a joghatások (pl. tulajdonjog átszállása, cégbejegyzés) bekövetkeznek, és az ítélet felhasználható ugyanúgy, mint egy eredeti jognyilatkozat (pl. tulajdonjog átírása az ingatlan-nyilvántartásban, cégbírósági bejegyzés).
+
+39. A Ptk. 1:3. § kimondja a jóhiszeműség és tisztesség követelményét, míg a Ptk. 1:5. § tiltja a joggal való visszaélést. A két alapelv között szoros átfedés van, mert a joggal való visszaélés (pl. tisztességtelenség, aránytalanság) gyakran egyben a jóhiszeműség és tisztesség követelményének megsértése is. Ugyanakkor a joggal való visszaélés tágabb fogalom, mert nemcsak a tisztességtelenséget, hanem más eseteket (pl. chicane, jog rendeltetésével való ellentét) is magában foglal.
+
+40. A Ptk. 1:3. § (2) bekezdése kimondja a venire contra factum proprium tilalmát: "A jóhiszeműség és tisztesség követelményét sérti az is, akinek joggyakorlása szemben áll olyan korábbi magatartásával, amelyben a másik fél okkal bízhatott." Ez a tilalom gyakran átfedésben van a joggal való visszaélés tilalmával, mert aki saját korábbi magatartásával ellentétesen jár el, az gyakran visszaélésszerűen gyakorolja jogát, hiszen sérti a másik fél jogos bizalmát és tisztességtelenül jár el.
+
+41. Mind a Ptk. 1:4. § (1) bekezdése szerinti elvárható magatartás elve ("úgy kell eljárni, ahogy az az adott helyzetben általában elvárható"), mind a Ptk. 1:3. § szerinti tisztesség követelménye objektív mércét állít fel: nem azt vizsgálják, mit gondolt vagy tudott a fél, hanem hogy magatartása megfelel-e az általánosan elvárható, objektív standardnak. Ezért a két alapelv átfedi egymást az objektív magatartási követelmények terén.
+
+42. A dogmatikai pontosság azt jelenti, hogy a jogalkalmazó mindig arra az alapelvre vagy jogszabályhelyre hivatkozik, amely a legszorosabban és legspecifikusabban szabályozza az adott tényállást. Ez azért fontos, mert biztosítja a jogbiztonságot (egyértelmű, milyen jogalappal éltek), a kiszámíthatóságot (a jogalanyok tudják, mire számíthatnak), és a jogfejlődést (a bírói gyakorlat egységes, következetes), így a precedens-jellegű döntések is tisztán és egyértelműen alakulhatnak ki.
+
+43. A dogmatikai pontosság követelménye azt jelenti, hogy mindig a legspecifikusabb, leginkább helytálló jogalapra kell hivatkozni. Ez biztosítja, hogy a jogalkalmazás ne legyen önkényes vagy kiszámíthatatlan: ha hasonló esetekben ugyanazokat az alapelveket és jogszabályhelyeket alkalmazzák, akkor a jogalanyok tudják, milyen jogkövetkezményekkel kell számolniuk, és a bírói gyakorlat is egységessé és követhetővé válik.
+
+44. Ha a bírói gyakorlat következetesen alkalmazza a dogmatikailag helyes jogalapokat, akkor az egyes döntések precedens-jelleggel bírnak, azaz a későbbi hasonló esetekben is irányadók lesznek. Ez biztosítja a bírói gyakorlat egységességét és kiszámíthatóságát, ami a jogbiztonság és a jogállamiság alapvető követelménye. Ezzel szemben ha a bíróságok különböző jogalapokra hivatkoznának hasonló esetekben, az jogbizonytalanságot és következetlenséget eredményezne.
+
+45. Egy közös tulajdon megszüntetése során, ha az egyik tulajdonostárs visszaélésszerűen megtagadja a hozzájárulását, több alapelv is alkalmazható: a Ptk. 1:3. § szerinti jóhiszeműség és tisztesség elve (mert a megtagadás tisztességtelen), a Ptk. 1:4. § (2) bekezdés szerinti nemo turpitudinem elve (ha a megtagadó maga is hozzájárult a közös tulajdon létrejöttéhez), és a Ptk. 1:5. § szerinti joggal való visszaélés tilalma, különösen a (2) bekezdés szerinti jognyilatkozat bírósági pótlása. A legpontosabb jogalap azonban a Ptk. 1:5. § (2) bekezdés, mert kifejezetten a jogszabály által megkívánt nyilatkozat visszaélésszerű megtagadását szabályozza.
+
+46. Egy magatartás gyakran egyidejűleg több alapelvet is sért: például tisztességtelen (Ptk. 1:3. §), felróható (Ptk. 1:4. §), és joggal való visszaélés (Ptk. 1:5. §). Ilyen esetekben a jogalkalmazónak az összes releváns alapelvet meg kell vizsgálnia, hogy teljes körű jogi értékelést adhasson. Ez nem jelenti azt, hogy minden alapelvre egyformán kell hivatkozni, hanem hogy az értékelés során figyelembe kell venni az összes érintett alapelvet, és végül a legpontosabb jogalapot kell alkalmazni.
+
+47. Az alapelvek korrekciós funkciója azt jelenti, hogy a bíró nem pusztán mechanikusan alkalmazza a jogszabályokat, hanem mérlegeli, hogy a jogszabály alkalmazása az adott esetben nem vezet-e igazságtalan eredményre. Ha igen, akkor az alapelvekre (pl. jóhiszeműség és tisztesség, joggal való visszaélés tilalma) hivatkozással korrigálhatja a merev jogszabályok alkalmazását, így biztosítva, hogy a döntés az adott eset sajátosságait figyelembe véve igazságos legyen.
+
+48. A Ptk. 1:5. § (1) bekezdése kimondja, hogy "A törvény tiltja a joggal való visszaélést", ami azt jelenti, hogy a visszaélésszerűen gyakorolt jog nem élvez jogi védelmet. Ez biztosítja, hogy a formális jogosultság (pl. tulajdonjog, követelés) ne válhasson eszközzé mások igazságtalan károsítására vagy zaklatására, hanem a jog rendeltetése, célja és az igazságosság előtérbe kerüljön a formalizmussal szemben, így a polgári jog valóban az igazságos érdekegyensúlyt szolgálja.
+
+49. A jóhiszemű, tisztességes és gondos magatartás előnyt jelent, mert a Ptk. alapelvei (jóhiszeműség és tisztesség, elvárható magatartás) védik és jutalmazzák az ilyen magatartást, míg a visszaélésszerű, tisztességtelen vagy gondatlan magatartás szankciókat von maga után (kártérítés, joghatás elmaradása). Ez ösztönzi a jogalanyokat arra, hogy jogszerűen, tisztességesen és gondosan járjanak el, ami a polgári jog egészének megfelelő működését biztosítja.
+
+50. Az alapelvek rugalmassá, adaptívvá és élővé teszik a jogrendszert, mert lehetővé teszik, hogy a jog alkalmazkodjon a változó társadalmi, gazdasági és kulturális viszonyokhoz anélkül, hogy a jogszabályokat folyamatosan módosítani kellene. Az alapelvek révén a bíróságok új élethelyzeteket is értékelni tudnak, és mindig az adott kor értékrendjének és igazságosságérzetének megfelelő döntést hozhatnak, így a polgári jog nem merevedik formális szabályrendszerré, hanem élő, fejlődő normahalmaz marad.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

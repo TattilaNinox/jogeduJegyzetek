@@ -1,0 +1,118 @@
+1. Milyen dogmatikai jelentősége van annak, hogy az idegen dologbeli jogok "más személy tulajdonában álló dolgon" állnak fenn?
+
+2. Hogyan viszonyul egymáshoz az idegen dologbeli jog szűkebb tartalma és a tulajdonjog teljes jellege?
+
+3. Miért tekinthető az idegen dologbeli jogok abszolút szerkezete a dologi jogi jelleg meghatározó elemének?
+
+4. Milyen elméleti problémát vet fel a konfúzió jelensége, amikor a jog és a tulajdon egy kézbe kerül?
+
+5. Hogyan korlátozza az idegen dologbeli jog a tulajdonos tulajdonjogát, és milyen részjogosítványokat von el tőle?
+
+6. Milyen dogmatikai különbség van a használati jogok és az értékjogok között a korlátolt dologi jogok rendszerében?
+
+7. Miért tekinthető a használati jogok és az értékjogok megkülönböztetése funkcionális alapú rendszerezésnek?
+
+8. Hogyan kapcsolódik össze a haszonélvezet részjogosítványai (birtoklás, használat, hasznok szedése) és a tulajdonjog triásza?
+
+9. Milyen elméleti ellentmondást old fel az, hogy a haszonélvező birtokolhatja, használhatja és hasznait szedheti a dolognak, mégsem tulajdonos?
+
+10. Miért nem illeti meg a haszonélvezőt a rendelkezési jog, és hogyan védi ez a tulajdonos jogait?
+
+11. Hogyan biztosítja a haszonélvezet személyes jellege a jogosult és a tulajdonos közötti bizalmi kapcsolatot?
+
+12. Milyen jogpolitikai indokot tükröz az, hogy a haszonélvezet főszabály szerint a jogosult haláláig áll fenn természetes személynél?
+
+13. Miért korlátozza a Ptk. a jogi személy haszonélvezeti jogát maximum 50 évben?
+
+14. Hogyan viszonyul egymáshoz a haszonélvezet visszaadási kötelezettsége és az állag sérelme nélküli használat követelménye?
+
+15. Milyen kötelezettségek megoszlását biztosítja a rendes fenntartás (haszonélvező) és a rendkívüli javítások (tulajdonos) megkülönböztetése?
+
+16. Miért keletkezhet haszonélvezet jogszabály alapján (pl. özvegyi haszonélvezet), nem csak szerződéssel?
+
+17. Hogyan biztosítja a haszonélvezet megszűnése a jogosult halálával vagy határozott idő lejártával a tulajdonjog ideiglenes jellegű korlátozását?
+
+18. Milyen elméleti alapon nyugszik a használat joga mint a haszonélvezetnél szűkebb jogosultság?
+
+19. Miért korlátozza a Ptk. 5:159. § (1) bekezdése a használat jogát "a saját, valamint vele együtt élő családtagjai szükségleteit meg nem haladó mértékben"?
+
+20. Hogyan értelmezendő a jogi személy használati joga a Ptk. 5:159. § (1) bekezdése szerint?
+
+21. Miért nem engedhető át másnak a használat joga gyakorlása a Ptk. 5:159. § (1) bekezdése szerint?
+
+22. Milyen összefüggés van a használat joga szűkebb terjedelme és a személyes jelleg fokozottabb érvényesülése között?
+
+23. Hogyan különbözik a telki szolgalom szerkezete a haszonélvezet szerkezetétől a jogosult és kötelezett meghatározása szempontjából?
+
+24. Miért szükséges a telki szolgalomnál két ingatlan (uralkodó és szolgáló telek) megléte?
+
+25. Hogyan biztosítja a telki szolgalom ingatlanhoz kötött jellege a szolgalom tartósságát és az ingatlantulajdonosok közötti viszony stabilitását?
+
+26. Milyen elméleti alapon nyugszik az, hogy a telki szolgalom az ingatlannal együtt száll át az új tulajdonosra?
+
+27. Miért nem ruházható át a telki szolgalom önállóan, csak az ingatlannal együtt?
+
+28. Hogyan szolgálja az átjárási szolgalom az ingatlanok ésszerű használatát, különösen a zártkert esetében?
+
+29. Milyen jogpolitikai indokot tükröz a szükségbeli út szolgalmának jogszabályi keletkezése?
+
+30. Miért keletkezhet telki szolgalom elbirtoklással (15 év zavartalan gyakorlás), hasonlóan a tulajdonjog elbirtoklásához?
+
+31. Hogyan kapcsolódik össze a szolgalommentesség elbirtoklása (15 éves nem gyakorlás) és a telki szolgalom megszűnése?
+
+32. Milyen dogmatikai jelentősége van a zálogjog mint értékjog biztosítéki funkciójának?
+
+33. Miért tekinthető a Ptk. 5:86. § (1) bekezdése szerinti preferált kielégítés a zálogjog lényegének?
+
+34. Hogyan értelmezendő a "más követeléseket megelőző sorrendben" fordulat a zálogjog esetén?
+
+35. Milyen összefüggés van a zálogjog és a személyes kötelezett nem teljesítése között?
+
+36. Miért tekinthető a zálogjog járulékos jellege a zálogjog és az alapkövetelés szétválaszthatatlanságát kifejező elvnek?
+
+37. Hogyan biztosítja a járulékos jelleg, hogy a zálogjog mindig az alapkövetelést kövesse?
+
+38. Milyen jogkövetkezménye van annak, hogy ha az alapkövetelés megszűnik, a zálogjog is megszűnik?
+
+39. Miért nem lehet a zálogjog nagyobb, mint az alapkövetelés a járulékos jelleg alapján?
+
+40. Hogyan különbözik a jelzálogjog és a kézizálogjog a birtok helyzete szempontjából?
+
+41. Milyen előnyöket biztosít a jelzálogjog a kötelezett számára, szemben a kézizáloggal?
+
+42. Miért biztonságosabb a zálogjogosult számára a kézizálogjog, mint a jelzálogjog?
+
+43. Hogyan biztosítja a Ptk. 5:88. § szerinti nyilvántartásba bejegyzés a jelzálogjog publicitását?
+
+44. Milyen szerepet tölt be a zálogszerződés a zálogjog létrejöttében a Ptk. 5:87. § szerint?
+
+45. Miért szükséges feltétel, hogy a zálogkötelezett rendelkezési joggal bírjon a zálogtárgy felett?
+
+46. Hogyan különbözik a törvényes zálogjog (Ptk. 5:92. §) a szerződéses zálogjogtól a keletkezés alapja szempontjából?
+
+47. Milyen jogpolitikai célt szolgál a törvényes zálogjog intézménye a vállalkozó vagy fuvarozó védelme esetén?
+
+48. Miért tekinthetők az idegen dologbeli jogok rugalmas eszközöknek a tulajdonjog tartalmának időleges megosztására?
+
+49. Hogyan szolgálják az idegen dologbeli jogok egyaránt a tulajdonos, a jogosult és a gazdasági forgalom érdekeit?
+
+50. Milyen kiegyensúlyozott rendszert alkotnak a használati jogok és az értékjogok együttesen a vagyoni forgalom hatékony működésében?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,119 @@
+1. A szerződésen kívüli kárfelelősség alapja a törvény és az általános magatartási szabályok megsértése, míg a szerződésszegéssel okozott károkért való felelősség alapja a szerződéses kötelezettség nem teljesítése, és a felek előzetesen rögzíthetik a felelősség feltételeit.
+
+2. A Ptk. 6:518. § általános károkozási tilalma azt jelenti, hogy minden ember köteles úgy viselkedni, hogy másnak ne okozzon kárt, és ez a Ptk. 6:519. § generálklauzulájának alapját képezi, amely kimondja, hogy aki jogellenesen kárt okoz, köteles azt megtéríteni.
+
+3. A Ptk. 6:519. § generálklauzula, mert egyetlen rendelkezésben foglalja össze a kártérítési felelősség alapvető feltételeit és adja a kártérítési jog alapját, amelyre a speciális felelősségi alakzatok épülnek.
+
+4. A négy klasszikus kárfelelősségi feltétel konjunktívak, mert mindegyiknek együttesen kell teljesülnie ahhoz, hogy a kártérítési felelősség megállapítható legyen, és ha akár egyetlen elem hiányzik, a felelősség nem állapítható meg.
+
+5. A jogellenesség vélelmezett, így nem kell külön bizonyítani, csak akkor nem jogellenes a károkozás, ha valamelyik jogellenességet kizáró ok fennáll, amelyet a károkozónak kell bizonyítania.
+
+6. A károsult beleegyezésének cselekvőképesnek kell lennie, valódi, szabad akaratból kell fakadnia, és olyan jogra kell vonatkoznia, amely rendelkezési jogkörében van.
+
+7. A jogos védelem a jogtalan támadás elhárítására irányul és a támadónak okoz kárt, míg a szükséghelyzet elhárítható veszély elhárítására irányul és más személy jogát sérti, mindkettőnél az arányosság követelménye érvényesül.
+
+8. A jogos védelemnek jogtalan támadásnak kell fennállnia, a védekezésnek a támadás elhárítására kell irányulnia, és nem lépheti túl a szükséges mértéket, különben túlvédelemről van szó, és a kártérítés mértéke méltányossági alapon csökkenthető.
+
+9. A felmerült kár a ténylegesen bekövetkezett vagyoni veszteség, az elmaradt vagyoni előny az a haszon, amellyel a károsult vagyona gyarapodott volna, a költségek pedig a kár kiküszöböléséhez szükséges kiadások.
+
+10. Ha a károsult a károkozásból vagyoni előnyhöz jut, a kártérítést csökkenteni kell ezzel az előnnyel, kivéve, ha az eset körülményeire tekintettel ez nem indokolt, így megakadályozva a káronszerzést.
+
+11. Az egyenértékűség elmélete túl széles körű felelősséget eredményezne, az ok-kiválasztó elméletek szubjektívek, az adekvát kauzalitás elmélete az emberi tapasztalat szerint értékeli az okokat, és ezt követi a magyar polgári jog az előreláthatóság követelményével.
+
+12. Az előreláthatóság követelménye elvágja az okozatossági láncolatot, védi a károkozót a távoli, előre nem látható következményekért, és kétféle: tényleges előreláthatóság és elvárható előreláthatóság.
+
+13. A tényleges előreláthatóság azt jelenti, hogy a károkozó konkrétan előre látta a kár bekövetkezését, míg az elvárható előreláthatóság azt, hogy egy átlagos, ésszerű ember az adott helyzetben előre látta volna.
+
+14. A felróhatóság a felelősség szubjektív eleme, mert azt vizsgálja, hogy a károkozó magatartása mennyiben róható fel neki, és a bizonyítási teher megfordítása azt jelenti, hogy a károkozónak kell bizonyítania a felróhatóság hiányát.
+
+15. A felróhatóság vélelmezett, így nem kell külön bizonyítani, de a károkozó kimentkezhet, ha bizonyítja, hogy magatartása nem volt felróható, ami fordított bizonyítási terhet jelent a károkozó számára.
+
+16. A kimentésnél objektív mérce alkalmazandó: a károkozónak azt kell bizonyítania, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható, nem szubjektív szándékát vagy tudását kell bizonyítania.
+
+17. A jogellenességet kizáró okok az első feltételt (jogellenes magatartás) érintik, mert a károkozás maga nem jogellenes, míg a kimentés a negyedik feltételt (felróhatóság) érinti, mert a károkozás jogellenes, de nem felróható.
+
+18. Ha a károkozó sikeresen bizonyítja a kimentést, mentesül a felelősség alól, ha nem sikerül, köteles a teljes kárt megtéríteni, mert a felróhatóság vélelmezett.
+
+19. A teljes kártérítés elve azt jelenti, hogy a károsultat olyan helyzetbe kell hozni, mintha a kár be sem következett volna, míg a méltányossági mérséklés különös méltánylást érdemlő körülmények esetén alkalmazható, amikor a teljes kártérítés túlzott lenne.
+
+20. A természetbeni kártérítés akkor alkalmazható, ha a körülmények a kár természetben való megtérítését indokolják, és a bíróság nem kötve a károsult kérelméhez, de nem alkalmazhatja azt a módot, amely ellen valamennyi fél tiltakozik.
+
+21. A járadék időszakonként visszatérően előre fizetendő összeg a jövőben rendszeresen felmerülő károk megtérítésére, míg a pénzbeli kártérítés egyszeri összeg, és a járadék tipikusan munkaképesség-csökkenés vagy tartás elvesztése esetén alkalmazandó.
+
+22. Ha a károsult felróhatóan megsérti a kárenyhítési kötelezettségét, és ennek következtében kár keletkezik vagy növekszik, ezt a kárt vagy kárnövekedést a károkozó nem köteles megtéríteni.
+
+23. A kármegelőzési kötelezettség a kár bekövetkeztét akadályozza meg, a kárelhárítási kötelezettség a már kezdődő, de még be nem következett kárt hárítja el, a kárenyhítési kötelezettség pedig a már bekövetkezett kár további növekedését akadályozza meg.
+
+24. Ha mindketten közrehattak, a kárt magatartásuk felróhatósága arányában kell megosztani, ha ez nem megállapítható, közrehatásuk arányában, ha ez sem, egyenlő arányban.
+
+25. Az egyetemleges felelősség azt jelenti, hogy többen közösen okoznak kárt, és mindegyikük a teljes kárt köteles megtéríteni, míg a kármegosztás esetében a kárt a károkozók között osztják meg.
+
+26. A járadék meghatározásánál figyelembe vett körülmények lényeges megváltozása esetén bármelyik fél kérheti a járadék mértékének és időtartamának megváltoztatását vagy megszüntetését.
+
+27. A jövedelempótló járadék munkaképesség-csökkenés miatti jövedelemkiesés esetén alkalmazandó, míg a tartást pótló járadék a károkozás folytán meghalt személy tartására jogosult részére jár.
+
+28. Ha a kár mértéke nem állapítható meg, a károkozó olyan összegű kártérítés megfizetésére köteles, amely a károsult kárának a kiegyenlítésére alkalmas, ami általános kártérítésként értelmezendő.
+
+29. A kártérítés a károsodás bekövetkeztekor nyomban esedékes, míg az elévülés általában 5 év, de bűncselekménnyel okozott kár esetén addig nem évül el, amíg a bűncselekmény büntethetősége el nem évül.
+
+30. Az értékviszonyok változásának figyelembevétele biztosítja, hogy a károsult a vásárlóértéket kapja meg, és a bíróság az ítélethozatal időpontjában fennállt értékviszonyok szerint határozhatja meg a kárt, de ha a károsult felróhatóan késlekedik, maga viseli a kockázatot.
+
+31. A károsult bizonyítja a jogellenes magatartást, a kárt és az okozati összefüggést, míg a károkozó bizonyítja a felróhatóság hiányát vagy valamelyik jogellenességet kizáró ok fennállását.
+
+32. Ha a károsult nem bizonyítja az okozati összefüggést, a kártérítési felelősség nem állapítható meg, ha a károkozó nem bizonyítja a kimentést, köteles a teljes kárt megtéríteni, mert a felróhatóság vélelmezett.
+
+33. A károkozás általános tilalma általános magatartási szabály, míg a konkrét kártérítési kötelezettség csak akkor áll fenn, ha mind a négy feltétel teljesül, és a károkozó nem tudott kimentkezni.
+
+34. A méltányossági mérséklés kivételes jogintézmény, amely különös méltánylást érdemlő körülmények esetén biztosít lehetőséget a teljes kártérítési kötelezettség mérséklésére, de nem alkalmazható rutinszerűen.
+
+35. A bíróság a kártérítés módjának meghatározásánál nincs kötve a károsult kérelméhez, de nem alkalmazhatja azt a módot, amely ellen valamennyi fél tiltakozik, így biztosítva a felek akaratának minimális tiszteletben tartását.
+
+36. Ha a károsult a kármegelőzési kötelezettségét felróhatóan megsérti, és ennek következtében kár keletkezik, ezt a kárt a károkozó nem köteles megtéríteni, mert a károsult maga viseli azt a kárt, amely a kötelezettség megszegéséből ered.
+
+37. A károsulti közrehatás azt jelenti, hogy a károsult maga is közrehatott a kár bekövetkezésében, míg a többek közös károkozása azt jelenti, hogy többen közösen okoztak kárt, és mindkettő esetében kármegosztásra kerül sor.
+
+38. A járadék meghatározásánál a jövedelemkiesést a károsodást megelőző egy évben elért havi átlagjövedelem alapján kell meghatározni, és figyelembe kell venni a jövőbeli változásokat is, de nem vehető figyelembe a rendkívüli munkateljesítménnyel elért jövedelem.
+
+39. A kártérítés módja azt határozza meg, hogy pénzben, természetben vagy járadék formájában történik-e a megtérítés, míg a kártérítés mértéke azt határozza meg, hogy mekkora összeget kell megtéríteni.
+
+40. A kárenyhítési kötelezettség biztosítja, hogy a károsult ne legyen passzív, ne spekuláljon a kár növekedésével, hanem aktívan működjön közre a kár csökkentésében, különben maga viseli azt a kárt, amely a kötelezettség megszegéséből ered.
+
+41. Az általános deliktuális felelősségi alakzat generálklauzula, amely minden károkozásra alkalmazandó, míg a speciális felelősségi alakzatok csak meghatározott esetekre vonatkoznak és eltérő szabályokat tartalmaznak.
+
+42. Ha a károkozó bizonyítja, hogy a károsult beleegyezett a károkozásba, a károkozás nem jogellenes, így már az első feltétel hiányzik, és a kártérítési felelősség nem állapítható meg.
+
+43. A kártérítés korlátozásának vagy kizárásának szerződéses kikötése semmis szándékosan okozott kárra, emberi életet, testi épséget vagy egészséget megkárosító kárra, míg a törvényi szabályok kötelezően alkalmazandók.
+
+44. A károsodás veszélyének megelőzése lehetővé teszi, hogy a veszélyeztetett kérje a veszélyeztető magatartás eltiltását, a kár megelőzéséhez szükséges intézkedések megtételét vagy megfelelő biztosíték adását, így megelőzve a kár bekövetkezését.
+
+45. A bíróság a kártérítés módjának meghatározásánál nincs kötve a károsult kérelméhez, de nem alkalmazhatja azt a módot, amely ellen valamennyi fél tiltakozik, így a felek megállapodása csak akkor érvényes, ha mindkét fél egyetért.
+
+46. A károsult beleegyezésének személyiségi jogokba való beleegyezésként való érvényességéhez cselekvőképesnek kell lennie, valódi, szabad akaratból kell fakadnia, és korlátozottan alkalmazandó, mert a személyiségi jogokba való beleegyezés nem mindig lehetséges.
+
+47. A kártérítés esedékessége azt jelenti, hogy a károsodás bekövetkeztekor nyomban esedékes, míg a kártérítés követelhetősége azt jelenti, hogy a károsult követelheti a kártérítést, de ez függ a négy feltétel teljesülésétől és a károkozó kimentésének lehetőségétől.
+
+48. Az előreláthatóság elvágja az okozatossági láncolatot azáltal, hogy csak azokkal a károkkal kapcsolatban állapítható meg az okozati összefüggés, amelyeket a károkozó előre látott vagy előre kellett volna látnia, így védve a károkozót a távoli következményekért.
+
+49. A károsulti közrehatás azt jelenti, hogy a károsult maga is közrehatott a kár bekövetkezésében, és a kárt a károkozó és a károsult között kell megosztani, míg a károkozó közrehatása több károkozó esetében a károkozók közötti belső viszonyra vonatkozik.
+
+50. Az általános deliktuális felelősségi alakzat elemei logikusan kapcsolódnak egymáshoz: a jogellenes magatartás okozza a kárt, az okozati összefüggés biztosítja a kapcsolatot, a felróhatóság pedig a felelősség szubjektív elemét adja, és erre épülnek a speciális felelősségi alakzatok, amelyek eltérő szabályokat tartalmaznak.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

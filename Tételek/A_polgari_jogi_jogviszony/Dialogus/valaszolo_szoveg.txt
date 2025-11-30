@@ -1,0 +1,204 @@
+Fontos kérdés! A polgári jogi jogviszony lényege, hogy a társadalmi viszonyokat a jog szabályozza, vagyis meghatározza, hogy a feleknek milyen konkrét jogaik és kötelezettségeik vannak egymással szemben. Ez az egyértelműség és konkrétság teszi lehetővé, hogy a felek előre tudják, mire számíthatnak, milyen jogaik vannak, és milyen kötelezettségeket kell teljesíteniük. A jogbiztonság lényege éppen az, hogy a jogalanyok kiszámíthatóan, előreláthatóan élhetnek jogaikkal, és ismerik kötelezettségeiket, ami nélkül a jogrendszer nem működne hatékonyan. Tehát egyértelműség és kiszámíthatóság.
+
+<break time="5s"/>
+
+Alapvető elv! A Polgári Törvénykönyv első könyvének első paragrafusa szerint e törvény a mellérendeltség és egyenjogúság elve szerint szabályozza a személyek alapvető vagyoni és személyi viszonyait. Ez a megfogalmazás azt fejezi ki, hogy a polgári jogban a felek nem alá fölérendeltségi viszonyban állnak egymással, hanem egyenrangúak, horizontális viszonyban. Ez alapvető különbség a közjogtól, ahol az állam vagy hatóság fölötte áll az állampolgárnak, míg a polgári jogban az egyik fél sem foglal el kiváltságos pozíciót pusztán jogi minősége alapján. Tehát horizontális viszony.
+
+<break time="5s"/>
+
+Két fő kategória! A vagyoni jellegű jogviszonyok, tulajdon, szerződések, öröklés, gazdasági jellegűek, vagyoni értékkel bírnak, és tipikusan pénzben kifejezhetők, így a teljesítés pénzben is lehetséges. A személyi jellegű jogviszonyok, személyiségi jogok, családi jogok, az ember személyiségéhez, emberi méltóságához, családi kapcsolataihoz fűződnek, és jellemzőjük, hogy nem elsősorban vagyoni természetűek, nem átruházhatók, és személyhez kötöttek. Ez a különbség meghatározza a szabályozás jellegét, a védelmi eszközöket és a jogkövetkezményeket is. Tehát vagyoni versus személyi.
+
+<break time="5s"/>
+
+Teljesítés és átruházhatóság! A vagyoni jellegű jogviszonyokban a teljesítés általában pénzben is lehetséges, mert a vagyoni értékkel bíró javak pénzben kifejezhetők, például ha az eladó nem adja át a dolgot, a vevő kártérítést követelhet pénzben. A személyi jellegű jogviszonyok viszont személyhez fűződnek, nem átruházhatók, és nem pénzértékben mérhetők elsősorban, bár vagyoni vonzatuk lehet, például személyiségi jog megsértése esetén sérelemdíj, így ezek jogsértése esetén is más eszközök állnak rendelkezésre, sérelemdíj, jogsértés abbahagyása. Tehát pénzben kifejezhető versus személyhez kötött.
+
+<break time="5s"/>
+
+Horizontális versus vertikális! A Polgári Törvénykönyv első könyvének első paragrafusa szerinti mellérendeltség azt jelenti, hogy a polgári jogi jogviszonyokban a felek egyenrangúak, egyik félnek sincs jogszabály alapján alapuló többletjoga vagy hatalmi pozíciója a másikkal szemben. Ezzel szemben a közjogi jogviszonyokban, közigazgatási jog, büntetőjog, az állam vagy hatóság felettes pozícióban van, hatalmi jogosítványokkal rendelkezik az állampolgárral szemben, így a viszony vertikális, alá fölérendeltségi. Ez alapvető különbség, amely meghatározza a jogviszonyok teljes jellegét. Tehát egyenrangúság versus hatalmi viszony.
+
+<break time="5s"/>
+
+Szabadság versus kényszer! A polgári jogban a felek mellérendeltek és autonómok, így szabadon alakíthatják jogviszonyaikat, ami a diszpozitív normák dominanciájában nyilvánul meg: a törvényi szabályoktól eltérhetnek. A közjogban az állam hatalmat gyakorol, és a szabályok javarészt kógensek, imperatívak, amelyektől nem lehet eltérni, mert az állami hatalomgyakorlás nem tárgya alkufolyamatnak. Ez a különbség tükrözi a polgári jog és a közjog alapvetően eltérő természetét. Tehát eltérés lehetősége versus kötelező szabályok.
+
+<break time="5s"/>
+
+Önrendelkezés! A privát autonómia azt jelenti, hogy a polgári jogi jogalanyok önállóan, szabadon alakíthatják jogviszonyaikat, rendelkezhetnek jogaikról, vállalhatnak kötelezettségeket. A szerződési szabadság ennek konkrét megnyilvánulása: a felek szabadon dönthetnek arról, hogy kötnek e szerződést, kötési szabadság, kivel kötnek szerződést, partnerkiválasztási szabadság, és milyen tartalommal, tartalmi szabadság. Ez a szabadság a polgári jog alapelve, amely a piaci gazdaság működésének is alapja. Tehát szabad döntés és alakítás.
+
+<break time="5s"/>
+
+Két képesség! A jogképesség azt a képességet jelenti, hogy valaki jogok és kötelezettségek alanya lehet, vagyis jogviszonyokban részt vehet, passzív, statikus képesség. A cselekvőképesség viszont azt jelenti, hogy valaki saját akaratnyilatkozatával, saját nevében jogokat szerezhet és kötelezettségeket vállalhat, aktív, dinamikus képesség. A megkülönböztetés azért fontos, mert a jogképesség védi a jogalanyi minőséget, mindenki jogképes, míg a cselekvőképesség korlátozható a jogalany védelme érdekében, például kiskorú, gondnokolt, ha saját érdekvédelmét nem tudja ellátni, így védi a cselekvőképtelent a hátrányos döntésektől, miközben megőrzi jogalanyiságát. Tehát alapvető védelem.
+
+<break time="5s"/>
+
+Passzív versus aktív! A jogképesség statikus, mert arról szól, hogy valaki jogviszonyokban jogok és kötelezettségek alanya lehet, vagyis jogok passzív hordozója. Ez nem aktív cselekvést jelent, hanem egy állapotot: a jogalanyiságot. A cselekvőképesség viszont dinamikus, mert arról szól, hogy valaki maga, aktívan, önállóan tehet jognyilatkozatokat, köthet szerződéseket, vállalhat kötelezettségeket. A cselekvőképesség tehát aktív cselekvést, jogviszonyok alakítását jelenti, ezért dinamikus képesség. Tehát állapot versus cselekvés.
+
+<break time="5s"/>
+
+Egyetemes elv! A Polgári Törvénykönyv második könyvének első paragrafusának első bekezdése kimondja, hogy minden ember jogképes, jogai és kötelezettségei lehetnek. Ez az egyetemes jogképesség elve, amely szerint a jogképesség minden embert megillet, senkitől nem tagadható meg, és senkivel szemben nem korlátozható. Ez az elv az emberi méltóság és az egyenlőség alapjogi követelményéből fakad, és biztosítja, hogy minden ember a jog alanya lehet, függetlenül bármilyen tulajdonságától, kor, nemesség, vagyoni helyzet, stb. A Polgári Törvénykönyv második könyvének első paragrafusának második bekezdése ezt erősíti: a jogképességet korlátozó jognyilatkozat semmis. Tehát mindenki jogképes.
+
+<break time="5s"/>
+
+Automatikus versus konstitutív! A természetes személy jogképessége a Polgári Törvénykönyv második könyvének második paragrafusa szerint a fogamzás időpontjától, élve születés feltételével, kezdődik és a Polgári Törvénykönyv második könyvének negyedik paragrafusa szerint a halálig tart, vagyis automatikusan, törvény erejénél fogva keletkezik és szűnik meg. A jogi személy jogképessége viszont a Polgári Törvénykönyv harmadik könyvének negyedik paragrafusának negyedik bekezdése szerint a jogi személy típusnak megfelelő létesítő okiratán alapuló bírósági nyilvántartásba vétellel jön létre, vagyis konstitutív, jogkeletkeztető, aktussal, és csak akkor, ha a nyilvántartó bíróság bejegyzi. Ez alapvető különbség a természetes és jogi személy között. Tehát automatikus versus bejegyzés.
+
+<break time="5s"/>
+
+Védőeszköz! A Polgári Törvénykönyv második könyvének nyolcadik paragrafusának első bekezdése szerint minden ember cselekvőképes, akinek cselekvőképességét e törvény vagy a bíróság gondnokság alá helyezést elrendelő ítélete nem korlátozza. A cselekvőképesség korlátozása azt szolgálja, hogy ha valaki, például kiskorú, vagy gondnokság alá helyezett személy, saját érdekvédelmét nem tudja megfelelően ellátni, ne kössön olyan szerződéseket vagy ne tegyen olyan jognyilatkozatokat, amelyek hátrányosak rá nézve. A korlátozás tehát védőeszköz, amely megőrzi a cselekvőképtelen személy jogképességét, de megakadályozza a hátrányos jogügyletek megkötését. Tehát védelem a hátrányos döntésektől.
+
+<break time="5s"/>
+
+Két versus több alany! A kétpólusú, dualisztikus, jogviszonyban a felek két szembenálló érdekállásban vannak: az egyik fél jogosult, a másik fél kötelezett, például adás vételnél az eladó jogosult a vételárra, a vevő kötelezett azt megfizetni. A többpólusú, pluralisztikus, jogviszonyban több alany van különböző érdekpozíciókkal, amelyek nem egyértelműen szembenállók vagy azonosak, például társasági szerződésben a tagok különböző érdekekkel rendelkezhetnek. Ez a különbségtétel azért fontos, mert a jogviszony szabályozása és a jogviták rendezése eltérő lehet. Tehát szembenálló érdekek versus komplex érdekek.
+
+<break time="5s"/>
+
+Teljes követelés! Az egyetemleges kötelezettség esetén több kötelezett közül bármelyiktől a teljes követelés követelhető, vagyis a hitelező szabadon választhat, hogy melyik kötelezettet pereli be, vagy melyiktől követeli a teljesítést. Ez jelentős védelmet nyújt a hitelezőnek, mert nem függ attól, hogy melyik kötelezett fizet vagy melyik vagyonos, hanem bármelyiktől behajthatja a teljes követelését. Az egyetemleges kötelezettség egyik kötelezett általi teljesítése megszünteti a többi kötelezett kötelezettségét is a hitelezővel szemben. Tehát választási lehetőség és teljes védelm.
+
+<break time="5s"/>
+
+Teljes versus részleges! Az egyetemes, universzális, jogutódlás esetén a jogelőd vagyona mint egész, osztatlanul száll át a jogutódra, például öröklés esetén az örökös az örökhagyó összes jogát és kötelezettségét megszerzi. A különös, szinguláris, jogutódlás esetén csak egyes, meghatározott jogok és kötelezettségek szállnak át, például engedményezésnél csak a konkrét követelés. Az egyetemes jogutódlás biztosítja a jogviszony teljes kontinuitását, míg a különös jogutódlás csak részben. Tehát teljes átruházás versus részleges átruházás.
+
+<break time="5s"/>
+
+Magatartás versus dolog! A jogviszony közvetlen tárgya az emberi magatartás, vagyis az a szolgáltatás, amit a kötelezett köteles teljesíteni, például dolog átadása, munka elvégzése. A közvetett tárgy pedig az a dolog vagy jog, amelyre a magatartás irányul, például az eladott lakás, a bérbe adott autó. Ez a megkülönböztetés azért fontos elméleti szempontból, mert segít pontosan elemezni a jogviszonyt: a közvetlen tárgy a kötelezettség tartalmát, a közvetett tárgy pedig a jogviszony fizikai vagy jogi objektumát határozza meg. Tehát szolgáltatás versus dolog.
+
+<break time="5s"/>
+
+Három típus! A római jogban a kötelezett magatartását három típusra osztották: dare, adni, jelentette a dolog vagy jog átruházását, például tulajdonjog átadása adás vételnél, facere, tenni, jelentette valamilyen tevékenység kifejtését, például munka elvégzése vállalkozási szerződésnél, praestare, nyújtani, pedig tartós rendelkezésre állást, például dolog használatra bocsátása bérletnél. Ez a hármas felosztás ma is hasznos a kötelezettségtípusok megkülönböztetésében és a teljesítés elemzésében. Tehát átruházás, tevékenység és rendelkezésre állás.
+
+<break time="5s"/>
+
+Közvetlen meghatározás! A jogviszony közvetlen tárgya közvetlenül meghatározza, hogy a kötelezett mit köteles tenni: ha a közvetlen tárgy dolog átruházása, dare, akkor a kötelezett köteles a dolgot átadni és a tulajdonjogot átruházni, ha munka elvégzése, facere, akkor a kötelezett köteles a munkát elvégezni, ha használatra bocsátás, praestare, akkor a kötelezett köteles a dolgot a jogosult használatára bocsátani. A közvetlen tárgy tehát pontosan leírja a szolgáltatás tartalmát. Tehát közvetlenül meghatározza a kötelezettséget.
+
+<break time="5s"/>
+
+Személyiség és család! A személyiségi jogi jogviszonyokban, például névhez való jog, becsülethez való jog, nincs dolog, amely a jogviszony tárgya lenne, mert a jogviszony az ember személyiségének védelmét szolgálja. A családi jogi jogviszonyokban, például házastársi viszony, szülő gyermek viszony, szintén nincs közvetett tárgy értelemben vett dolog, mert ezek a jogviszonyok személyi kapcsolatokra vonatkoznak. Tehát ahol a jogviszony nem dologra, hanem személyiségre vagy családi kapcsolatra vonatkozik, ott hiányzik a közvetett tárgy. Tehát személyiség és kapcsolatok.
+
+<break time="5s"/>
+
+Kiegyensúlyozás! Az alanyi jogok és kötelezettségek korrelációja azt jelenti, hogy a jogviszonyban a jogosult jogosultsága és a kötelezett kötelezettsége egymást feltételezik és kiegyensúlyozzák. Például adás vételi szerződésben a vevő joga a dolog tulajdonjogának megszerzéséhez korrelál az eladó kötelezettségével a tulajdonjog átruházására, és fordítva, az eladó joga a vételár követeléséhez korrelál a vevő kötelezettségével a vételár megfizetésére. Ez a korreláció biztosítja a jogviszony egyensúlyát és igazságosságát. Tehát kölcsönös függőség.
+
+<break time="5s"/>
+
+Kikényszeríthetőség! Az igényjoggal rendelkező alanyi jog esetén a jogosult nemcsak jogosult a követelésre, hanem bírósági úton is kikényszerítheti azt, ha a kötelezett nem teljesít. A naturalis obligatio, természetes kötelezettség, esetén viszont a kötelezettség ugyan fennáll, például elévült követelés esetén, de bírósági úton nem érvényesíthető, vagyis nincs igényalapja. A különbség gyakorlati jelentősége, hogy a naturalis obligatio esetén ha a kötelezett teljesít, a teljesítést nem követelheti vissza, jogalap nélküli gazdagodásként, de kényszeríteni nem lehet. Tehát kikényszeríthető versus nem kikényszeríthető.
+
+<break time="5s"/>
+
+Egyoldalú változtatás! Az alakító jogok, hatalmasságok, olyan különleges alanyi jogok, amelyek révén a jogosult egyoldalú jognyilatkozatával jogváltozást idézhet elő anélkül, hogy a másik fél hozzájárulása szükséges lenne. Példák: felmondási jog, megszünteti a szerződést, elállási jog, megszünteti a szerződést, elővásárlási jog, tulajdonszerzést eredményez. Az alakító jogok különlegessége, hogy a jogosult egyedül, a kötelezett közreműködése nélkül változtathatja meg a jogviszonyt, ami erős jogosultságot jelent. Tehát egyoldalú változtatás.
+
+<break time="5s"/>
+
+Mindenki ellen! Az erga omnes, mindenki ellen, hatály azt jelenti, hogy az abszolút szerkezetű jogviszonyokban, például tulajdonjog, személyiségi jogok, a jogosulttal szemben nemcsak egy vagy néhány meghatározott személy, hanem mindenki kötelezett arra, hogy elismerjék a jogosult jogát, tűrjék annak gyakorlását, és tartózkodjanak a jog megsértésétől. Ez széles körű, általános védelmet biztosít a jogosultnak, aki mindenki ellen védekezhet, aki megsérti jogát. Tehát általános védelem.
+
+<break time="5s"/>
+
+Konkrét jogsértő! Az abszolút szerkezetű jogviszony, például tulajdonjog, jogsértés nélkül úgy áll fenn, hogy a jogosulttal szemben mindenki kötelezett tartózkodni a jogsértéstől. Ha azonban valaki megsérti a jogot, például ellopja a dolgot, becsületsértést követ el, akkor a jogosult és a jogsértő között konkrét, relatív szerkezetű jogviszony keletkezik: a jogosult követelheti a jogsértőtől a dolog visszaszolgáltatását, kártérítést, sérelemdíjat. Ez a relatív szerkezetű jogviszony már csak a két konkrét fél, jogosult és jogsértő, között áll fenn. Tehát általános védelemből konkrét követelés.
+
+<break time="5s"/>
+
+Kógens védelem! Az abszolút szerkezetű jogviszonyok, tulajdonjog, személyiségi jogok, szellemi alkotásokhoz fűződő jogok, elsősorban a jogosult pozíciójának, státuszának védelmét szolgálják, nem a felek közötti vagyonforgalmat. Ezért kógens szabályozás szükséges, hogy a védelem ne gyengülhessen meg a felek megállapodásával, például nem mondhatnak le a tulajdonjog védelméről, nem korlátozhatják a személyiségi jogokat szerződésben. A kógens szabályozás biztosítja a védelem hatékonyságát. Tehát kötelező védelem.
+
+<break time="5s"/>
+
+Felek között versus mindenki ellen! A relatív szerkezetű jogviszonyokban csak a felek között áll fenn a jogviszony, inter partes hatály, vagyis csak a meghatározott jogosult érvényesítheti jogát a meghatározott kötelezett, ek, kel szemben, harmadik személyekkel szemben nem. Például adás vételi szerződésben csak a vevő követelheti az eladótól a dolog átadását, más személyek nem. Az abszolút szerkezetű jogviszonyokban viszont a jogosult mindenkivel szemben érvényesítheti jogát, erga omnes hatály. Tehát korlátozott versus általános hatály.
+
+<break time="5s"/>
+
+Szabad alakítás! A relatív szerkezetű jogviszonyok, például szerződések, tipikusan a felek szabad akaratából, szerződéskötéssel jönnek létre, és a szerződési szabadság elve megköveteli, hogy a felek szabadon alakíthassák jogviszonyaikat. Ezért a szabályok javarészt diszpozitívek: a felek eltérhetnek tőlük, saját érdekeiknek megfelelően módosíthatják a törvényi szabályokat. Ez a diszpozitivitás tiszteletben tartja a privát autonómiát és a szerződési szabadságot. Tehát eltérés lehetősége.
+
+<break time="5s"/>
+
+Kölcsönös kötelezettségek! A szinallagma, kölcsönösség, azt jelenti, hogy a relatív szerkezetű jogviszonyokban, különösen szerződésekben, a felek kölcsönösen jogosultak és kötelezettek: az egyik fél jogosultsága a másik fél kötelezettségével párosul, és fordítva. Például adás vételnél az eladó jogosult a vételárra, és köteles átadni a dolgot, a vevő jogosult a dolog megszerzésére, és köteles fizetni. Ez a kölcsönösség biztosítja a felek egyensúlyát és az ellenszolgáltatás megjelenését. Tehát kölcsönös jogok és kötelezettségek.
+
+<break time="5s"/>
+
+Dologra vonatkozó jogok! A dologi jogi jogviszonyok, tulajdonjog, birtok, zálogjog, szolgalmi jogok, dolgokra vonatkozó jogokat szabályoznak, és ezek a jogok tipikusan abszolút szerkezetűek: a jogosulttal, tulajdonos, birtokos, zálogjogosult, szemben mindenki kötelezett arra, hogy elismerjék jogát, tűrjék annak gyakorlását, és tartózkodjanak a jog megsértésétől. Ez az abszolút szerkezet tükrözi a dologi jogok természetét: a dologi jog mindenkivel szemben véd. Tehát általános védelem dolgokra.
+
+<break time="5s"/>
+
+Szolgáltatásra irányuló viszonyok! A kötelmi jogi jogviszonyok szolgáltatásra irányuló viszonyokat szabályoznak, és ezek tipikusan relatív szerkezetűek: a jogosult és a kötelezett személy szerint meghatározott. Ez teszi lehetővé a vagyonforgalmat, vagyis azt, hogy a felek szerződések útján cseréljenek jogokat és kötelezettségeket, adják át egymásnak a dolgokat, végezzenek munkát egymásnak. A relatív szerkezet biztosítja a felek közötti konkrét kötelezettségeket és a forgalom rugalmasságát. Tehát szabad szerződéskötés.
+
+<break time="5s"/>
+
+Konkrét dolog és védelem! A dologi jogi jogviszonyok corpusa, dologra vonatkozás, azt jelenti, hogy a jogviszony tárgya egy konkrét, fizikai értelemben vett dolog, ingatlan, ingó, amelyre a dologi jog, tulajdonjog, zálogjog, stb, vonatkozik. A védelmi funkció azt jelenti, hogy a dologi jog védi a jogosultat abban, hogy nyugodtan birtokolhassa és használhassa a dolgot, mert mindenki köteles tiszteletben tartani jogát. A corpus és a védelmi funkció együtt biztosítja a dologi jogok hatékonyságát. Tehát konkrét dolog és általános védelem.
+
+<break time="5s"/>
+
+Szabad szerződéskötés! A kötelmi jogi jogviszonyok cselekvési szabadságot biztosító jellege azt jelenti, hogy ezek a jogviszonyok lehetővé teszik a felek számára, hogy szabadon kössenek szerződéseket, vállaljanak kötelezettségeket, cseréljenek jogokat. Ez a szabadság rugalmassá teszi a gazdasági forgalmat, mert a felek különböző szerződéseket köthetnek, adás vétel, bérlet, kölcsön, megbízás, stb, így alkalmazkodhatnak a gazdasági szükségletekhez és érdekeikhez. A kötelmi jog így a vagyonforgalom alapja. Tehát rugalmas gazdasági forgalom.
+
+<break time="5s"/>
+
+Változás magyarázata! A jogi tény fogalma azt foglalja össze, hogy milyen jelenségek, emberi magatartások, események, hatósági aktusok, váltják ki a jogviszonyok keletkezését, módosulását vagy megszűnését. A jogi tények tehát a jogviszonyok dinamikáját, változását magyarázzák: hogyan keletkeznek új jogviszonyok, hogyan módosulnak a meglévők, és hogyan szűnnek meg. A jogi tény fogalma nélkül nem érthető meg, hogyan változnak a jogviszonyok az időben. Tehát változás magyarázata.
+
+<break time="5s"/>
+
+Új versus átruházás! Az eredeti jogszerzésnél a jog más személy jogától függetlenül, újonnan keletkezik, vagyis a jogot szerző nem egy korábbi jogosulttól veszi át a jogot, hanem a jog újonnan jön létre, például uratlan dolog elsajátítása, elbirtoklás. A származékos jogszerzésnél viszont a jogot szerző egy korábbi jogosulttól, jogelődtől, szerzi meg a jogot, vagyis a jog átszáll, például adás vétel, öröklés. A különbség jelentősége, hogy származékos jogszerzésnél a jogutód nem szerezhet több jogot, mint amennyi a jogelődöt megillette. Tehát új keletkezés versus átruházás.
+
+<break time="5s"/>
+
+Fennmaradás módosítással! A jogviszonyokat módosító jogi tény, például tartozásátvállalás, szerződésmódosítás, engedményezés, nem szünteti meg a jogviszonyt, hanem annak valamely elemét, alany, tárgy, tartalom, megváltoztatja. Például tartozásátvállalás esetén a kötelezett személye változik, de a jogviszony, követelés, fennmarad. A módosítás tehát biztosítja a jogviszony kontinuitását, miközben az új körülményekhez igazítja a jogviszony egyes elemeit. Tehát fennmaradás új körülményekkel.
+
+<break time="5s"/>
+
+Jövőre nézve versus visszamenőleges! Az ex nunk, a jövőre nézve, hatályú megszűnés esetén a jogviszony a megszűnés időpontjától szűnik meg, de az addig teljesített szolgáltatások megmaradnak, például felmondás esetén a szerződés megszűnik, de a felmondás előtti teljesítéseket nem kell visszaszolgáltatni. Az ex tunk, visszamenőleg, hatályú megszűnés esetén a jogviszony úgy tekintendő, mintha soha nem jött volna létre, és a teljesítéseket vissza kell szolgáltatni, például érvénytelenség esetén. A különbség alapvető jelentőségű a jogkövetkezmények szempontjából. Tehát jövőre nézve versus visszamenőleges.
+
+<break time="5s"/>
+
+Szabad akarat! A jogügylet olyan emberi magatartás, amely joghatások kiváltására irányul, és amelyet a jogalkotó joghatásokkal ruház fel. A jogügylet lényege, hogy a cselekvő akarata és a joghatás megfelelnek egymásnak: a fél meg akarja kötni a szerződést, és a szerződés valóban létrejön. A jogügylet a leggyakoribb módja a jogviszonyok keletkezésének, mert a modern polgári jog a szerződési szabadságra és a privát autonómiára épül, így a jogviszonyok tipikusan a felek szabad akaratából, jogügylettel, szerződéssel, keletkeznek. Tehát szabad akaratból való keletkezés.
+
+<break time="5s"/>
+
+Kívánt versus nem kívánt! A jogügylet célja joghatások kiváltása, és a joghatás a cselekvő akaratának megfelelően következik be: ha valaki szerződést köt, a szerződés létrejön, ha végrendeletet tesz, a végrendelet érvényes. A jogellenes magatartás viszont nem kívánt, hanem nem kívánt, hátrányos jogkövetkezményeket vált ki: ha valaki kárt okoz, kártérítési kötelezettség keletkezik, ami nem a károkozó akarata szerint történik. A jogügylet tehát kívánt, a jogellenes magatartás nem kívánt joghatásokat eredményez. Tehát kívánt versus nem kívánt következmények.
+
+<break time="5s"/>
+
+Kártérítési kötelezettség! A Polgári Törvénykönyv hatodik könyvének ötszáztizenkilencedik paragrafusa kimondja, hogy aki másnak jogellenesen kárt okoz, köteles azt megtéríteni. Ez azt jelenti, hogy a jogellenes károkozás mint jogi tény, jogellenes emberi magatartás, létrehozza a kártérítési jogviszonyt: a károsult jogosulttá válik a kártérítés követelésére, a károkozó pedig kötelezetté válik a kártérítés megfizetésére. A károkozás mint jogi tény tehát a kártérítési jogviszony keletkezésének alapja. Tehát jogellenes magatartás következménye.
+
+<break time="5s"/>
+
+Idő múlása hatása! Az idő múlása emberi magatartástól független jogi tény, amely bizonyos időtartam eltelte után joghatásokat vált ki. Az elbirtoklás esetén a hosszú ideig tartó birtoklás, tizenöt vagy húsz év, a Polgári Törvénykönyv ötödik könyvének negyvenhetedik és negyvennyolcadik paragrafusa szerint, tulajdonszerzést eredményez, az elévülés esetén pedig a Polgári Törvénykönyv hatodik könyvének huszonegyedik paragrafusa szerint az igény kikényszeríthetősége elvész, általában öt év. Mindkét esetben az idő múlása önállóan, emberi akarat nélkül váltja ki a joghatást, így az idő múlása önálló jogi ténnyé válik. Tehát idő múlása hatása.
+
+<break time="5s"/>
+
+Kikényszeríthetőség elvesztése! Az elévülés a Polgári Törvénykönyv hatodik könyvének huszonegyedik és huszonhatodik paragrafusai szerint azt jelenti, hogy az igény bizonyos idő, általában öt év, elteltével bírósági úton nem érvényesíthető többé, vagyis a követelés kikényszeríthetősége megszűnik. Ez jogbiztonságot teremt, mert a kötelezett nem lehet korlátlan ideig kitéve a követelés érvényesítésének, és védi a kötelezettet a régi, esetleg igazolhatatlan követelésektől. Az elévült követelés naturalis obligatióvá, természetes kötelezettséggé, válik: ha a kötelezett teljesít, nem követelheti vissza. Tehát időbeli korlát.
+
+<break time="5s"/>
+
+Létrehozás versus megállapítás! A konstitutív határozat nem csak megállapítja a jogviszonyt, hanem maga hozza létre, módosítja vagy szünteti meg azt, vagyis a jogviszony változása a határozattól függ, például házasság felbontása, gondnokság alá helyezés, kisajátítás. A deklaratív határozat viszont csak megállapítja a már fennálló jogviszonyt, nem hozza létre azt, például tulajdonjog megállapítása, apaság megállapítása. A különbség jelentősége, hogy konstitutív határozat nélkül a jogviszony nem változik, míg deklaratív határozat hiányában is fennáll a jogviszony. Tehát létrehozás versus megállapítás.
+
+<break time="5s"/>
+
+Alkotó jelleg! A házasság felbontása a Polgári Törvénykönyv negyedik könyvének huszonharmadik paragrafusa szerint konstitutív bírósági határozattal történik: a házasságot a bíróság bontja fel. Ez azt jelenti, hogy a bíróság felbontó ítélete nélkül a házassági jogviszony nem szűnik meg, még akkor sem, ha a házastársak között tartósan megromlott a viszony. A bírósági határozat tehát nem csak megállapítja, hogy a házasság felbontandó, hanem meg is szünteti a házassági jogviszonyt, így a határozat alkotó, konstitutív, jellegű. Tehát bírósági döntés szükséges.
+
+<break time="5s"/>
+
+Bejegyzéssel keletkezik! Az ingatlan nyilvántartási bejegyzés sok esetben konstitutív hatályú, vagyis a bejegyzéssel keletkezik a jog, vagy száll át a tulajdonjog. A Polgári Törvénykönyv ötödik könyvének nyolcvanhatodik paragrafusa szerint például a jelzálogjog az ingatlan nyilvántartásba való bejegyzéssel keletkezik. A Polgári Törvénykönyv ötödik könyvének harmincnyolcadik paragrafusa szerint ingatlan tulajdonjogának átruházása esetén is a bejegyzés szükséges a tulajdonjog átszállásához szerződéssel történő átruházás esetén. A bejegyzés tehát nem csak tanúsítja, hanem létrehozza vagy átalakítja a dologi jogi jogviszonyt. Tehát bejegyzés szükséges.
+
+<break time="5s"/>
+
+Teljes életút! Az adás vételi szerződés kötése, jogügylet mint jogi tény, létrehozza a szerződéses jogviszonyt: az eladó köteles átadni a dolgot, a vevő köteles fizetni a vételárat. A szerződés módosítása, újabb jogügylet, módosítja a jogviszonyt: például a vételár összege megváltozik. A teljesítés, szintén jogügylet, megszünteti a jogviszonyt: az eladó átadja a dolgot, a vevő megfizeti a vételárat, a jogviszony megszűnik. Így egy jogviszony életútja során különböző jogi tények váltják ki a keletkezést, módosulást és megszűnést. Tehát keletkezés, módosítás és megszűnés.
+
+<break time="5s"/>
+
+Megszűnés és keletkezés! A halál mint esemény, emberi magatartástól független jogi tény, megszünteti a természetes személy jogképességét a Polgári Törvénykönyv második könyvének negyedik paragrafusa szerint: a jogképesség a halállal szűnik meg. Ezzel egyidejűleg azonban megnyitja az öröklést a Polgári Törvénykönyv hetedik könyvének első paragrafusa szerint, vagyis létrehozza az öröklési jogviszonyt az örökösök és az örökség között. A halál tehát megszüntető jogi tény az elhunyt személy jogképessége szempontjából, és keletkeztető jogi tény az öröklési jogviszony szempontjából. Tehát egyidejűleg megszüntet és keletkeztet.
+
+<break time="5s"/>
+
+Jogi kategóriák! A jogviszony tan azáltal teszi lehetővé a társadalmi viszonyok jogi modellezését, hogy a komplex társadalmi, gazdasági, családi kapcsolatokat jogi kategóriákkal, alanyok, tárgy, tartalom, jogosult kötelezett, jog kötelezettség, írja le. Így a társadalmi élet különböző jelenségei, vagyoncsere, munkavégzés, családi kapcsolatok, jogviszonyokká alakíthatók, amelyeket a jog szabályoz és véd. A jogviszony tan tehát a társadalmi élet jogi szabályozásának eszköze. Tehát társadalmi viszonyok jogi leírása.
+
+<break time="5s"/>
+
+Egyértelmű elemzés! Ha a jogalkalmazó, például bíróság, ismeri a jogviszony szerkezeti elemeit, meg tudja állapítani, kik a jogviszony alanyai, ki a jogosult, ki a kötelezett, mi a jogviszony tárgya, milyen magatartást kell tanúsítani, milyen dolog a jogviszony tárgya, és mi a jogviszony tartalma, milyen konkrét jogok és kötelezettségek állnak fenn. Ez teszi lehetővé a jogviták helyes rendezését: egyértelművé válik, kinek milyen jogai vannak, és kinek milyen kötelezettségei, így a bíróság helyes döntést hozhat. Tehát egyértelmű alapok.
+
+<break time="5s"/>
+
+Alapfogalom! A jogviszony tan a polgári jog alapfogalma, mert minden polgári jogi szabály jogviszonyokra vonatkozik: a tulajdonjog szabályai a tulajdoni jogviszonyra, a szerződési jog szabályai a szerződéses jogviszonyokra, az öröklési jog szabályai az öröklési jogviszonyra. A jogviszony tan nélkül nem érthető meg, hogyan működik a polgári jog, hogyan keletkeznek, változnak és szűnnek meg a jogok és kötelezettségek. Ezért a jogviszony tan a polgári jog dogmatikai magja, amelyre a teljes jogrendszer épül. Tehát minden polgári jogi szabály alapja.
+
+<break time="5s"/>
+
+Kiszámíthatóság és biztonság! Ha a jogviszony szerkezete, alanyok, tárgy, tartalom, egyértelmű, akkor a jogalkalmazó kiszámíthatóan meg tudja állapítani, kinek milyen jogai és kötelezettségei vannak egy adott jogviszonyban. Ez azt jelenti, hogy a jogalanyok előre tudják, mire számíthatnak, milyen jogaik vannak, és milyen kötelezettségeket kell teljesíteniük. Ez a kiszámíthatóság a jogbiztonság alapja: a jogalanyok bizalommal lehetnek a jog iránt, mert tudják, hogy a jog egyértelműen és következetesen fog alkalmazódni. Tehát egyértelműség és következetesség.
+
+<break time="5s"/>
+
+Szívesen! Hajrá a vizsgához, ez egy nagyon fontos elméleti alapozó téma volt!
+
+<break time="5s"/>
+

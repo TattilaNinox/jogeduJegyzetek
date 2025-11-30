@@ -1,0 +1,205 @@
+Szia! Most akkor vegyük sorra a jogalanyiság és a jogképesség témát! Ez egy alapvető, elméleti téma. Kezdjük az elején! Mi a különbség a jogalanyiság általános, jogelméleti kategóriája és a jogképesség konkrét, pozitív jogi fogalma között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a Polgári Törvénykönyv második könyvének első paragrafusának első bekezdése szerint minden ember jogképes?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a jogképesség általános, egyenlő és feltétlen jellege között, és miért fontosak ezek a jellemzők?
+
+<break time="5s"/>
+
+Értem! És milyen jogi védelmet biztosít a Polgári Törvénykönyv második könyvének első paragrafusának második bekezdése azzal, hogy a jogképességet korlátozó jognyilatkozat semmis?
+
+<break time="5s"/>
+
+Világos! Most térjünk a cselekvőképességre! Mi a különbség a jogképesség statikus jellege és a cselekvőképesség dinamikus jellege között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy minden ember jogképes, de nem minden ember cselekvőképes?
+
+<break time="5s"/>
+
+Világos! Most térjünk a jogalanyokra! Mi a különbség az ember, természetes személy, a jogi személy és az állam között mint polgári jogi jogalanyok?
+
+<break time="5s"/>
+
+Értem! És milyen jogi alapja van annak, hogy az ember jogképessége elsődleges és természetes, míg a jogi személy jogképessége mesterséges?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a természetes személy teljes körű jogképessége és a jogi személy korlátozott jogképessége között?
+
+<break time="5s"/>
+
+Értem! Most térjünk a jogképesség kezdetére! Milyen jogi következménye van annak, hogy a Polgári Törvénykönyv második könyvének második paragrafusának első bekezdése szerint a jogképesség az embert a fogamzásának időpontjától illeti meg?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a fogamzás időpontja és a születés időpontja között a jogképesség kezdete szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen jogi védelmet biztosít a nászitúrusz, méhmagzat, feltételes jogképessége?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a feltételes jogképesség és a teljes jogképesség között a méhmagzat esetében?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha a gyermek élve születik vagy halva születik a jogképesség szempontjából?
+
+<break time="5s"/>
+
+Világos! Most térjünk a fogamzás időpontjára! Mi a különbség a Polgári Törvénykönyv második könyvének második paragrafusának második bekezdése szerinti háromszáz napos vélelem és a tényleges fogamzási időpont között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a fogamzás időpontjának meghatározására vonatkozó vélelem megdönthető?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a méhmagzat gyámjának rendelése és a kiskorú gyámjának rendelése között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi feltételek mellett rendel a gyámhatóság gyámot a magzat részére a Polgári Törvénykönyv második könyvének harmadik paragrafusa szerint?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a méhmagzat törvényes képviselője, gyám, és a méhmagzat maga között a jognyilatkozattétel szempontjából?
+
+<break time="5s"/>
+
+Értem! Most térjünk a jogképesség végére! Milyen jogi következménye van annak, hogy a Polgári Törvénykönyv második könyvének negyedik paragrafusa szerint a jogképesség a halállal szűnik meg?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a halál ténye és a halál időpontja között a jogképesség megszűnése szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen jogi bizonyítékot szolgáltat a halotti anyakönyvi kivonat, és milyen szerepe van az öröklés megnyílásában?
+
+<break time="5s"/>
+
+Világos! Most térjünk a holtnak nyilvánításra! Mi a különbség a holtnak nyilvánítás és a halál tényének bírósági megállapítása között?
+
+<break time="5s"/>
+
+Értem! És milyen három feltételt kell teljesítenie a holtnak nyilvánításnak a Polgári Törvénykönyv második könyvének ötödik paragrafusának első bekezdése szerint?
+
+<break time="5s"/>
+
+Világos! És mi a különbség az eltűnés és a halál között a holtnak nyilvánítás szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a Polgári Törvénykönyv második könyvének ötödik paragrafusának második bekezdése szerint a holtnak nyilvánított személyt az ellenkező bizonyításáig halottnak kell tekinteni?
+
+<break time="5s"/>
+
+Világos! És mi a különbség az öt éves határidő és az életben létére utaló adat hiánya között a holtnak nyilvánítás feltételei szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen jogi jogosultságot biztosít a Polgári Törvénykönyv második könyvének ötödik paragrafusának harmadik bekezdése az eltűnt személy közeli hozzátartozója, az ügyész, a gyámhatóság és az, akinek jogi érdeke fűződik számára?
+
+<break time="5s"/>
+
+Világos! Most térjünk a halál időpontjára! Mi a különbség a bíróság mérlegelése és a vélelmi szabály között a halál időpontjának meghatározásában a Polgári Törvénykönyv második könyvének hatodik paragrafusa szerint?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha a bíróság nem tudja megállapítani az eltűnés pontos időpontját?
+
+<break time="5s"/>
+
+Világos! Most térjünk a határozat módosítására! Mi a különbség a holtnak nyilvánító határozat módosítása és hatályon kívül helyezése között a Polgári Törvénykönyv második könyvének hetedik paragrafusa alapján?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha a holtnak nyilvánított előkerül?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a jogkövetkezmények semmissége és a határozat hatálytalansága között a holtnak nyilvánított előkerülése esetén?
+
+<break time="5s"/>
+
+Értem! És milyen jogi védelmet biztosít a Polgári Törvénykönyv második könyvének hetedik paragrafusának negyedik bekezdése azzal, hogy ha a holtnak nyilvánított előkerül, a határozat ipszo júre hatálytalanná válik?
+
+<break time="5s"/>
+
+Világos! Most térjünk a jogi személyre! Mi a különbség a jogi személy fogalma és a természetes személy fogalma között a jogképesség eredete szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen négy kritériumot kell teljesítenie egy szervezetnek ahhoz, hogy jogi személynek minősüljön a Polgári Törvénykönyv harmadik könyvének első paragrafusának ötödik bekezdése szerint?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a saját név és a székhely szerepe között a jogi személy azonosításában?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a jogi személynek tagjaitól vagy alapítójától elkülönített vagyona van?
+
+<break time="5s"/>
+
+Világos! És mi a különbség az ügyvezetés és a képviselet között a jogi személy szervezeti működésében?
+
+<break time="5s"/>
+
+Értem! Most térjünk a jogi személy jogképességére! Milyen jogi következménye van annak, hogy a Polgári Törvénykönyv harmadik könyvének első paragrafusának második bekezdése szerint a jogi személy jogképessége csak azokra a jogokra terjed ki, amelyek jellegénél fogva nem csupán az emberhez fűződnek?
+
+<break time="5s"/>
+
+Világos! És melyek azok a jogok, amelyek a jogi személy jogképességébe tartoznak és melyek azok, amelyek nem?
+
+<break time="5s"/>
+
+Értem! És milyen jogi védelmet biztosít a Polgári Törvénykönyv harmadik könyvének első paragrafusának harmadik bekezdése a jogi személy személyiségi jogai tekintetében?
+
+<break time="5s"/>
+
+Világos! Most térjünk a jogképesség keletkezésére! Mi a különbség a jogi személy jogképességének kezdete, nyilvántartásba vétel, és a természetes személy jogképességének kezdete, fogamzás, között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a jogi személy jogképessége konstitutív hatályú bírósági aktussal keletkezik?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a létesítő okirat megléte és a nyilvántartásba vétel között a jogi személy létrejötte szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a jogi személy jogképessége a nyilvántartásból való törléssel szűnik meg?
+
+<break time="5s"/>
+
+Világos! Most térjünk a korlátolt felelősségre! Mi a különbség a korlátolt felelősség elve és a korlátlan felelősség között a Polgári Törvénykönyv harmadik könyvének második paragrafusa alapján?
+
+<break time="5s"/>
+
+Értem! És milyen jogi védelmet biztosít a korlátolt felelősség elve a tagok számára, és milyen gazdasági jelentősége van?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a korlátolt felelősséggel való visszaélés és a rendes gazdálkodás között a Polgári Törvénykönyv harmadik könyvének második paragrafusának második bekezdése alapján?
+
+<break time="5s"/>
+
+És végül, hogyan kapcsolódnak egymáshoz a jogalanyiság, a jogképesség, a természetes és jogi személyek jogképessége, és milyen koherens rendszert alkotnak a polgári jogban?
+
+<break time="5s"/>
+
+Remek! Akkor most már átlátjuk a jogalanyiság és a jogképesség összetett rendszerét! Köszönöm szépen ezt a részletes áttekintést!
+
+<break time="5s"/>
+
+

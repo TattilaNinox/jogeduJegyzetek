@@ -1,0 +1,57 @@
+AI Feladat-Prompt: Témaspecifikus Jogászi Tétel Kidolgozása
+
+1. Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkészülését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat megtalálod a "forrasok" mappában Feltétlen használd fel őket nagyon fontos!!!! ? hogy idézd meg pontosan szorul szóra azokat a jogszabályokat amelyek a jelen témakörhöz kapcsolódnak, illetve amik alapján ki lett dolgozva a tétel tartalma. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd
+
+2. Feladat Célja:
+A feladatod egy teljeskörű, részletes és jól strukturált tétel kidolgozása a következő témakörben:
+"A szerződés fogalma, létrejötte, megkötése"
+
+A végeredmény egy olyan önálló, koherens dokumentum legyen, amely önmagában is elegendő a téma alapos megértéséhez és egy sikeres vizsgához.
+
+3. Strukturális és Tartalmi Követelmények:
+
+I. Bevezetés: A Szerződés mint Kötelemkeletkeztető Tény
+- Definiáld a **szerződés** fogalmát a **Ptk. 6:58. §** alapján: a felek kölcsönös és egybehangzó akaratnyilatkozata, amelyből szolgáltatás teljesítésére irányuló kötelezettség, és a szolgáltatás követelésére irányuló jogosultság keletkezik.
+- Emeld ki a szerződés szerepét, mint a legfontosabb **kötelemkeletkeztető jogi tényt** és a piacgazdaság alapvető jogi eszközét.
+- Tárgyald a **szerződési szabadság** elvét és annak korlátait.
+
+II. A Szerződés Létrejötte: Az Akaratnyilatkozatok Találkozása
+- Mutasd be a szerződés létrejöttének klasszikus modelljét: **ajánlat + elfogadás**.
+- **1. Az ajánlat (Ptk. 6:64. §):**
+    - Definiáld az ajánlat fogalmát: a szerződés megkötésére irányuló, kellően meghatározott, a lényeges kérdésekre kiterjedő és a címzetthez intézett jognyilatkozat.
+    - Tárgyald az **ajánlati kötöttség** intézményét: az ajánlattevő az ajánlatához kötve van. Részletezd az ajánlati kötöttség időtartamát jelenlévők és távollévők között tett ajánlat esetén.
+- **2. Az elfogadás (Ptk. 6:66. §):**
+    - Definiáld az elfogadás fogalmát: az ajánlattal egyező tartalmú, az ajánlati kötöttség időtartama alatt tett címzett jognyilatkozat.
+    - Különítsd el az **ellenajánlattól**: ha az elfogadás az ajánlattól eltérő tartalommal bír.
+    - Tárgyald a **hallgatás vagy a magatartástól való tartózkodás** főszabály szerint nem minősül elfogadásnak, de térj ki a kivételekre (pl. a felek korábbi megállapodása).
+
+III. A Szerződés Megkötésének Ideje és Helye:
+- Részletezd a Ptk. szabályait a szerződéskötés időpontjának és helyének meghatározására, különbséget téve az alábbi esetek között:
+    - **Jelenlévők között kötött szerződés:** A szerződés az elfogadó nyilatkozat megtételével jön létre.
+    - **Távollévők között kötött szerződés:** A szerződés az elfogadó nyilatkozatnak az ajánlattevőhöz való megérkezésével jön létre.
+- Térj ki röviden az **elektronikus úton történő szerződéskötés** speciális szabályaira.
+
+IV. A Szerződés Tartalma és Értelmezése:
+- Tárgyald a felek megállapodásának szerepét a szerződés tartalmának meghatározásában.
+- Különítsd el a **lényeges** (amelyekben a feleknek meg kell állapodniuk a szerződés létrejöttéhez) és a **nem lényeges** (amelyek hiányában a jogszabályok diszpozitív szabályai vagy a bírói gyakorlat tölti ki a szerződést) feltételeket.
+
+V. Összegzés:
+- Foglald össze a szerződés létrejöttének konszenzuális természetét: a felek egybehangzó akaratának (konszenzus) van jogviszonyt keletkeztető ereje.
+- Hangsúlyozd a világos és egyértelmű akaratnyilatkozatok fontosságát a jogviták elkerülése érdekében.
+
+4. Formázási és Stilisztikai Utasítások:
+- Tagolás: Használj egyértelmű címsorokat és alcímeket a fenti struktúra szerint.
+- Kiemelés: A **kulcsfontosságú jogi szakkifejezéseket** (pl. **szerződés**, **kötelem**, **ajánlat**, **elfogadás**, **ajánlati kötöttség**) és a **jogszabályi hivatkozásokat** emeld ki félkövér formázással.
+- Hivatkozások: Pontosan és következetesen hivatkozz a **Ptk. Hatodik Könyvének releváns szakaszaira**.
+- Nyelvezet: Maradj végig a tudományos, szakmai nyelvezetnél, de törekedj a világos és érthető fogalmazásra.
+
+A végeredmény legyen egy professzionális, informatív és a tanulást hatékonyan támogató dokumentum. A kimenet egy TXT fájl legyen a Tételek mappába
+
+
+
+
+
+
+
+

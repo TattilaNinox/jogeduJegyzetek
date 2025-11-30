@@ -1,0 +1,206 @@
+Na akkor kezdjük el ezt a deliktuális felelősség témát! Elsőként hadd kérdezzem meg, mi a különbség a szerződésen kívüli, vagyis a deliktuális kárfelelősség és a szerződésszegéssel okozott károkért való felelősség között? Miért fontos egyáltalán ezt elhatárolni?
+
+<break time="5s"/>
+
+Értem, szóval az egyik esetben a törvény ad egy fix keretet, a másiknál meg a felek alakíthatják. És akkor beszéljünk a törvényi keretről! A Polgári Törvénykönyv hatodik könyvének ötszáztizennyolcadik paragrafusa tartalmaz egy általános károkozási tilalmat, ugye? Ennek mi a jogi következménye, és hogyan kapcsolódik ez a hatodik könyv ötszáztizenkilencedik paragrafusának generálklauzulájához?
+
+<break time="5s"/>
+
+Oké, szóval van egy általános elvi szint és egy konkrét alkalmazási szint. De miért hívjuk egyáltalán generálklauzulának a hatodik könyv ötszáztizenkilencedik paragrafusát? Milyen szerepet tölt be ez a kártérítési jog rendszerében?
+
+<break time="5s"/>
+
+Aha, értem! Tehát ez az alapkő. És akkor térjünk rá a feltételekre! Milyen logikai kapcsolat van a négy klasszikus kárfelelősségi feltétel között? Miért mondjuk, hogy konjunktívak ezek a feltételek?
+
+<break time="5s"/>
+
+Szóval mind a négy feltételnek együtt kell állnia. Érdekes! És akkor vegyük sorra ezeket. Kezdjük a jogellenességgel! Mi a különbség a jogellenesség vélelmének és a jogellenességet kizáró okok bizonyítási terhe között a hatodik könyv ötszázhuszadik paragrafusa alapján?
+
+<break time="5s"/>
+
+Aha, szóval a károsultnak nem kell bizonyítania, hogy jogellenes volt, hanem a károkozónak kell bizonyítania, hogy mégsem. Okés! És akkor melyek ezek a jogellenességet kizáró okok? Például a károsult beleegyezése. Milyen feltételeknek kell ennek megfelelnie ahhoz, hogy jogellenességet kizáró okként működjön?
+
+<break time="5s"/>
+
+Rendben, tehát nem elég csak azt mondani, hogy beleegyeztem, hanem komoly feltételeknek kell teljesülnie. És akkor van még két másik jogellenességet kizáró ok is: a jogos védelem és a szükséghelyzet. Mi a különbség a kettő között abban, hogy miként zárják ki a jogellenességet?
+
+<break time="5s"/>
+
+Értem, szóval a jogos védelemnél magának a támadónak okozok kárt, a szükséghelyzetben meg egy ártatlan harmadik félnek. És a jogos védelemnél milyen követelményeknek kell megfelelni ahhoz, hogy a károkozás ne legyen jogellenes? Mi történik, ha ezek a követelmények nem teljesülnek?
+
+<break time="5s"/>
+
+Oké, szóval ha túlreagálom, akkor még mindig van egy kis mozgástér. Na most térjünk át a kárra magára! Mi a különbség a kár három összetevője között: a felmerült kár, az elmaradt vagyoni előny és a károsultat ért vagyoni hátrányok kiküszöböléséhez szükséges költségek?
+
+<break time="5s"/>
+
+Világos! Szóval nemcsak az számít, ami elveszett, hanem az is, ami meg sem született, meg az is, amibe kerül helyrehozni. És mi van akkor, ha a károsult a károkozásból vagyoni előnyhöz jut? Milyen jogi következménye van ennek? Hogyan kezeli ezt a hatodik könyv ötszázhuszonkettedik paragrafusának harmadik bekezdése?
+
+<break time="5s"/>
+
+Értem, szóval nem lehet meggazdagodni a saját káromon. És akkor térjünk át az okozati összefüggésre! Mi a különbség az okozati összefüggés megállapítására vonatkozó különböző elméletek között, és melyiket követi a magyar polgári jog?
+
+<break time="5s"/>
+
+Aha! Szóval az előreláthatóság az, ami leszűkíti a felelősséget. És ennek mi a jelentősége az okozati összefüggés megállapításában? Milyen kétféle előreláthatóságot különböztetünk meg?
+
+<break time="5s"/>
+
+És mi a különbség a tényleges előreláthatóság és az elvárható előreláthatóság között? Melyikük milyen helyzetekben alkalmazandó?
+
+<break time="5s"/>
+
+Jó, szóval objektív mércét alkalmazunk. És akkor jöjjön a negyedik feltétel, a felróhatóság! Miért tekinthető a felróhatóság a felelősség szubjektív elemének, és milyen szerepe van a bizonyítási teher megfordításának?
+
+<break time="5s"/>
+
+Szóval megint fordított bizonyítási teher, mint a jogellenességnél. És mi a különbség a felróhatóság vélelmének és a kimentés lehetőségének között? Hogyan kapcsolódik ez a bizonyítási teher megoszlásához?
+
+<break time="5s"/>
+
+És akkor milyen mércét kell alkalmazni a kimentésnél? Miért objektív ez a mérce, nem szubjektív?
+
+<break time="5s"/>
+
+Világos! Szóval nem menteget a butaság vagy a tapasztalatlanság önmagában. És mi a különbség a jogellenességet kizáró okok és a kimentés között abban, hogy melyik kárfelelősségi feltételt érintik?
+
+<break time="5s"/>
+
+Értem, szóval az egyik esetben nem is jogellenes a dolog, a másik esetben jogellenes ugyan, de nem róható fel. És milyen következménye van annak, ha a károkozó sikeresen bizonyítja, hogy magatartása nem volt felróható? És milyen következménye van, ha nem sikerül a kimentés?
+
+<break time="5s"/>
+
+Na jó, most akkor beszéljünk a kártérítésről magáról! Mi a különbség a teljes kártérítés elve és a részleges kártérítés között? Milyen esetekben alkalmazható a méltányossági mérséglés?
+
+<break time="5s"/>
+
+Tehát a főszabály a teljes kártérítés, de van mozgástér. És milyen feltételeket kell teljesítenie a természetbeni kártérítésnek ahhoz, hogy a pénzbeli kártérítés helyett alkalmazható legyen?
+
+<break time="5s"/>
+
+Rendben, szóval pénz az alap, de lehet természetben is. És mi a különbség a járadék és a pénzbeli kártérítés között? Milyen esetekben alkalmazandó a járadék?
+
+<break time="5s"/>
+
+Aha, szóval nem egyszerre kapok mindent, hanem folyamatosan, ahogy a kár jelentkezik. És most beszéljünk a károsult kötelezettségeiről! Milyen jogi következménye van annak, ha a károsult felróhatóan megsérti a kárenyhítési kötelezettségét?
+
+<break time="5s"/>
+
+Szóval a károsult sem ülhet ölbe tett kézzel. És mi a különbség a kármegelőzési, kárelhárítási és kárenyhítési kötelezettség között?
+
+<break time="5s"/>
+
+Világos! Tehát időben változik, hogy mit kell tenni. És ha mindketten, vagyis a károkozó és a károsult is közrehattak a kár bekövetkezésében, milyen szabályok szerint osztódik meg a kár?
+
+<break time="5s"/>
+
+Értem, szóval van egy lépcsőzetes rendszer. És mi a különbség az egyetemleges felelősség és a kármegosztás között több károkozó esetében?
+
+<break time="5s"/>
+
+Oké, szóval a károsult választhat, kitől követeli a teljes kárt, aztán ők egymás között elszámolnak. És térjünk vissza a járadékhoz! Milyen követelményeknek kell megfelelnie a járadék meghatározásának, és milyen körülmények változása esetén módosítható vagy megszüntethető?
+
+<break time="5s"/>
+
+Ez teljesen logikus, hiszen az élet változik. És mi a különbség a jövedelempótló járadék és a tartást pótló járadék között?
+
+<break time="5s"/>
+
+Világos! És mi van akkor, ha a kár mértéke nem állapítható meg pontosan? Hogyan kezeli ezt a hatodik könyv ötszázharmincegyedik paragrafusa?
+
+<break time="5s"/>
+
+Szóval van mozgástere a bíróságnak, amikor nem lehet pontosan megállapítani. És mi a különbség a kártérítés esedékessége és az elévülés között? Milyen speciális szabályok vonatkoznak bűncselekménnyel okozott kárra?
+
+<break time="5s"/>
+
+Értem! Szóval azonnal esedékes, de az elévülés már más kérdés. És milyen szerepe van az értékviszonyok változásának figyelembevételének a kártérítés mértékének meghatározásában?
+
+<break time="5s"/>
+
+Aha, szóval az infláció nem eszi meg a kártérítés értékét, ha időben érvényesítem. És térjünk vissza a bizonyítási terhekhez! Mi a különbség a károsult és a károkozó bizonyítási terhe között az általános deliktuális felelősségi alakzatban?
+
+<break time="5s"/>
+
+És milyen következménye van annak, ha a károsult nem bizonyítja az okozati összefüggést? És milyen következménye van, ha a károkozó nem bizonyítja a kimentést?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a károkozás általános tilalma és a konkrét kártérítési kötelezettség között?
+
+<break time="5s"/>
+
+Értem! És térjünk vissza a méltányossági mérséglésre! Milyen szerepe van a méltányossági mérséglésnek a kártérítési rendszerben, és milyen körülmények esetén alkalmazható?
+
+<break time="5s"/>
+
+Szóval tényleg kivételes esetekre van fenntartva. És mi a különbség a kártérítés módjának bírósági meghatározása és a felek akaratának tiszteletben tartása között?
+
+<break time="5s"/>
+
+Értem! És térjünk vissza a károsult kötelezettségeihez! Milyen jogi következménye van annak, ha a károsult a kármegelőzési kötelezettségét felróhatóan megsérti?
+
+<break time="5s"/>
+
+Szóval a károsult sem mehet el minden felelősség nélkül. És mi a különbség a károsulti közrehatás és a többek közös károkozása között?
+
+<break time="5s"/>
+
+Világos! És milyen követelményeknek kell megfelelnie a járadék meghatározásának a jövedelemkiesés mértékének figyelembevételekor?
+
+<break time="5s"/>
+
+Aha, szóval nem lehet azzal számolni, hogy túlóráztam volna. És mi a különbség a kártérítés módjának meghatározása és a kártérítés mértékének meghatározása között?
+
+<break time="5s"/>
+
+Világos! És milyen szerepe van a kárenyhítési kötelezettségnek abban, hogy a károsult ne spekuláljon a kár növekedésével?
+
+<break time="5s"/>
+
+Értem! És mi a különbség az általános deliktuális felelősségi alakzat és a speciális felelősségi alakzatok között?
+
+<break time="5s"/>
+
+Világos! És milyen következménye van annak, ha a károkozó bizonyítja, hogy a károsult beleegyezett a károkozásba?
+
+<break time="5s"/>
+
+Szóval ha beleegyeztem, akkor nincs felelősség. És mi a különbség a kártérítés korlátozásának vagy kizárásának szerződéses kikötése és a törvényi szabályok között?
+
+<break time="5s"/>
+
+Értem! És milyen szerepe van a károsodás veszélyének megelőzésének a kártérítési rendszerben?
+
+<break time="5s"/>
+
+Szóval preventív jellegű is a rendszer. És mi a különbség a kártérítés módjának bírósági meghatározása és a felek megállapodása között?
+
+<break time="5s"/>
+
+Világos! És milyen követelményeknek kell megfelelnie a károsult beleegyezésének ahhoz, hogy személyiségi jogokba való beleegyezésként érvényes legyen?
+
+<break time="5s"/>
+
+Értem! És mi a különbség a kártérítés esedékessége és a kártérítés követelhetősége között?
+
+<break time="5s"/>
+
+Világos! És milyen szerepe van az előreláthatóságnak abban, hogy az okozatossági láncolatot elvágja?
+
+<break time="5s"/>
+
+Értem! És mi a különbség a károsulti közrehatás és a károkozó közrehatása között a kármegosztás szempontjából?
+
+<break time="5s"/>
+
+És végül, milyen logikai kapcsolat van az általános deliktuális felelősségi alakzat elemei között, és hogyan épülnek rá a speciális felelősségi alakzatok?
+
+<break time="5s"/>
+
+Remek! Akkor most már átlátjuk a deliktuális felelősség rendszerét. Köszönöm szépen ezt az áttekintést!
+
+<break time="5s"/>
+
+
+

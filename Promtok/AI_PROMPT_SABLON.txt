@@ -10,7 +10,7 @@ Ezt a szöveget másold be az AI prompt mezőbe, majd add hozzá a konkrét tét
 
 Olvasd el a fenti fájlt, majd generáld le a memóriapalota leírást és podcast scriptet a következő tételhez:
 
-/Users/tolgyesiattila/Desktop/POLGÁRI JOG/Tételek/Az_idegen_dologbeli_jogok.txt
+
 
 ⚠️⚠️⚠️ KRITIKUS PARANCS: AUTOMATIKUSAN ELLENŐRIZD ÉS JAVÍTSD! ⚠️⚠️⚠️
 

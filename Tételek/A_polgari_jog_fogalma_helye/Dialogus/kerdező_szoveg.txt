@@ -1,0 +1,204 @@
+Szia! Most akkor vegyük sorra a polgári jog fogalmát és helyét a jogrendszerben! Ez egy alapvető elméleti téma. Kezdjük az alapokkal! Mi a különbség a polgári jog mint a magánjog központi jogága és a magánjog fogalma között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a Polgári Törvénykönyv első könyvének első paragrafusa szerint a törvény a mellérendeltség és egyenjogúság elve szerint szabályozza a személyek alapvető vagyoni és személyi viszonyait?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a vagyoni viszonyok és a személyi viszonyok között a polgári jog szabályozási tárgykörei szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen négy tárgyköre van a vagyoni viszonyoknak a polgári jogban?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a személyiségi jogok és a családi viszonyok között a személyi viszonyok körében?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van a mellérendeltség elvének abban, hogy a polgári jogi viszonyokban nincs alá fölérendeltségi viszony?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a mellérendeltség, horizontális viszony, és az alá fölérendeltség, vertikális viszony, között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi védelmet biztosít az egyenjogúság elve azzal, hogy a polgári jogi viszonyokban a felek egyenlő jogokkal és kötelezettségekkel rendelkeznek?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a jogi egyenjogúság és a tényleges egyenlőség között a polgári jogi viszonyokban?
+
+<break time="5s"/>
+
+Értem! Most térjünk a Polgári Törvénykönyv szerkezetére! Milyen nyolc könyvre tagolódik a Polgári Törvénykönyv, és milyen rendszert követ?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a pandekta rendszer és más jogrendszerezési módok között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a Polgári Törvénykönyv elkülöníti az általános részt és a különös részt?
+
+<break time="5s"/>
+
+Világos! Most térjünk a közjog magánjog elhatárolására! Mi a különbség a közjog és a magánjog között a védett érdek szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen három elméletet különböztetünk meg a közjog magánjog elhatárolására?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a vertikális, alá fölérendeltségi viszony és a horizontális, mellérendelt viszony között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a közjogi szabályok imperatív, kógens, jellegűek, míg a magánjogi szabályok javarészt diszpozitívek?
+
+<break time="5s"/>
+
+Világos! És mi a különbség az állam vagy állami szerv mint alany és a magánszemélyek, jogi személyek mint alanyok között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a közjogi jogok közvetlen kényszer útján, míg a magánjogi jogok bírói úton érvényesülnek?
+
+<break time="5s"/>
+
+Világos! Most térjünk a polgári jog helyére! Mi a különbség a polgári jog mint a magánjog általános, anyajoga és a speciális magánjogi jogágak, munkajog, kereskedelmi jog, között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van a polgári jog szubszidiárius jellegének?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a polgári jog mint jogászok anyajoga és más jogágak között abban, hogy milyen alapfogalmakat és gondolkodásmódot biztosít?
+
+<break time="5s"/>
+
+Értem! Most térjünk az alkotmányos kapcsolatokra! Milyen jogi alapja van az Alaptörvény tizenharmadik cikkében foglalt tulajdonhoz való jognak a polgári jogi szabályozásban?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a tulajdonhoz való jog alkotmányos védelme és a polgári jogi tulajdonjog védelme között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a szerződési szabadság az Alaptörvényből következik?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a szerződési szabadság négy aspektusa között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi védelmet biztosít a Polgári Törvénykönyv első könyvének második paragrafusának első bekezdése azzal, hogy a törvény rendelkezéseit Magyarország alkotmányos rendjével összhangban kell értelmezni?
+
+<break time="5s"/>
+
+Világos! Most térjünk a kapcsolódó jogágakra! Mi a különbség a családjog mint önálló jogág és a családjog mint a Polgári Törvénykönyv negyedik könyve között?
+
+<break time="5s"/>
+
+Értem! És milyen sajátosságai vannak a családjognak?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a munkajog és a polgári jog viszonya között abban, hogy a munkajog speciális jogág?
+
+<break time="5s"/>
+
+Értem! És milyen jogi védelmet biztosít a munkajog munkavállalót védő jellege, és hogyan tér el ez a polgári jog mellérendeltségi elvétől?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a megbízási szerződés, a vállalkozási szerződés és a munkaszerződés között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van a szubszidiaritásnak a munkajog és a polgári jog viszonyában?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a társasági jog mint a polgári jog része és a társasági jog mint önálló jogág között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi alapja van annak, hogy a Polgári Törvénykönyv harmadik könyve tartalmazza a jogi személyekre vonatkozó általános szabályokat?
+
+<break time="5s"/>
+
+Világos! Most térjünk az eljárásjogra! Mi a különbség a polgári eljárásjog mint kiszolgáló jogág és az anyagi polgári jog között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van a Polgári Törvénykönyv első könyvének hatodik paragrafusa szerint annak, hogy az e törvényben biztosított jogok érvényesítése bírói útra tartozik?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a bírói út és a közigazgatási út között a jogérvényesítés szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen kapcsolódási pontjai vannak a közigazgatási jognak és a polgári jognak?
+
+<break time="5s"/>
+
+Világos! És mi a különbség az ingatlan nyilvántartás közhiteles jellege és más nyilvántartások között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a bűncselekménnyel okozott kár megtérítése egyszerre büntetőjogi és polgári jogi kérdés?
+
+<break time="5s"/>
+
+Világos! És mi a különbség az adhéziós eljárás és a külön polgári per között a bűncselekménnyel okozott kár megtérítése esetén?
+
+<break time="5s"/>
+
+Értem! Most térjünk a privát autonómiára! Milyen jogi alapja van a privát autonómia elvének a polgári jogban?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a privát autonómia megnyilvánulásai között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi korlátai vannak a privát autonómiának?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a privát autonómia mint főszabály és a korlátok mint kivételek között?
+
+<break time="5s"/>
+
+Értem! Most térjünk a piacgazdasághoz! Milyen jogi jelentősége van a polgári jognak a modern piacgazdaság működése szempontjából?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a tulajdonjog védelme és a szerződési szabadság között a piacgazdaság működésében?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a jogi személyek lehetővé teszik a vállalkozások szervezett működését?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a hatáskör és illetékesség meghatározása között a közjogi és magánjogi ügyek elhatárolásánál?
+
+<break time="5s"/>
+
+Értem! És végül, hogyan alkotják a polgári jog fogalma, helye a jogrendszerben, összefüggései más jogágakkal és a privát autonómia elve együtt egy koherens rendszert, amely biztosítja a modern piacgazdaság és a civil társadalom jogi alapját?
+
+<break time="5s"/>
+
+Remek! Akkor most már átlátjuk a polgári jog fogalmát, helyét a jogrendszerben és összefüggéseit! Köszönöm szépen ezt a részletes áttekintést!
+
+<break time="5s"/>
+

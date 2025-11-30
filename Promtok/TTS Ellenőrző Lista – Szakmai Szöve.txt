@@ -1,0 +1,43 @@
+TTS Ellenőrző Lista – Szakmai Szöveg Átalakítási Követelmények
+
+ELLENŐRIZD LE!!!
+
+Tartalmi és Pontossági Ellenőrzés
+
+[ ] Az eredeti szöveg minden érdemi szakmai információja megmaradt.
+
+[ ] A jogszabályi hivatkozások (törvény, paragrafus, bekezdés) teljes pontossággal szerepelnek.
+
+[ ] Nincs benne felesleges témakör ismétlés vagy redundáns magyarázat (kivéve, ha a törvény is megismétli, pl. gondnokság esetén).
+
+[ ] A logikai felépítés és a sorrend megegyezik az eredeti szövegével.
+
+TTS-Optimalizált Átalakítási Szabályok
+
+[ ] Számok és számjegyek ki vannak írva szavakkal (pl. 2013 → kétezer-tizenhárom; 5 → öt).
+
+[ ] Jogszabályi hivatkozások fonetikusan fel vannak oldva (pl. Ptk. 4:21. § (1) → a Polgári Törvénykönyv negyedik könyvének huszonegyedik paragrafusának első bekezdése).
+
+[ ] Rövidítések ki vannak bontva (pl. Ptk. → Polgári Törvénykönyv; pl. → például; stb. → és így tovább).
+
+[ ] Latin és idegen kifejezések fonetikusan vannak kiírva (pl. nemo plusz jürisz) vagy megtartva, ha azok közismert szakmai kifejezések (erga omnesz).
+
+Formázás és Struktúra
+
+[ ] Minden Markdown formázás (címsor-jelek, félkövér, dőlt) el lett távolítva.
+
+[ ] A címsorok/fejezetcímek folyó szöveggé, bevezető mondatokká vagy bekezdés-címkékké lettek alakítva, melyek kettősponttal végződnek (pl. "A tulajdonostársak jogai és kötelezettségei a következő:").
+
+[ ] A felsorolások és listák folyó szöveggé lettek alakítva, logikai átkötésekkel (pl. "Először, Másodszor, Harmadszor...").
+
+[ ] A struktúrát jelölő zárójelek (pl. bekezdések számai) be lettek építve a mondatba a jogszabályi feloldás részeként.
+
+[ ] Magyarázó jellegű zárójelek fel vannak oldva, vagy be vannak építve a mondatba.
+
+Stílus és Ritmus
+
+[ ] A hangnem végig szakmai és precíz maradt.
+
+[ ] A mondatszerkesztés világos és logikus.
+
+[ ] A vesszők és írásjelek segítik a természetes beszédszünetek és ütemezés visszaadását.

@@ -1,0 +1,206 @@
+Jó kérdés! Szóval a szerződésen kívüli kárfelelősség alapja a törvény és az általános magatartási szabályok megsértése, míg a szerződésszegéssel okozott károkért való felelősség alapja a szerződéses kötelezettség nem teljesítése. Ami igazán érdekes, hogy a Polgári Törvénykönyv hatodik könyvének ötszáztizenkilencedik paragrafusa generálklauzulája a szerződésen kívüli kárfelelősségre vonatkozik. Itt a felek előzetesen nem korlátozhatják a felelősséget, kivéve dologi károknál. Viszont a szerződéses felelősség esetében a felek előzetesen rögzíthetik a felelősség feltételeit és mértékét is. Tehát nagy különbség van a két terület szabályozási logikájában.
+
+<break time="5s"/>
+
+Igen, pontosan! A Polgári Törvénykönyv hatodik könyvének ötszáztizennyolcadik paragrafusa kimondja, hogy a törvény tiltja a jogellenes károkozást. Ez a generális tiltó rendelkezés azt jelenti, hogy minden ember köteles úgy viselkedni, hogy más személynek vagy vagyonának ne okozzon kárt. A hatodik könyv ötszáztizenkilencedik paragrafusa pedig kimondja, hogy aki másnak jogellenesen kárt okoz, köteles azt megtéríteni. Mentesül a felelősség alól a károkozó, ha bizonyítja, hogy magatartása nem volt felróható. Ez a két rendelkezés együtt alkotja a kártérítési jog alapját, ahol az általános tilalom az alapelvet, a generálklauzula pedig a felelősség feltételeit tartalmazza.
+
+<break time="5s"/>
+
+Azért generálklauzula, mert egyetlen rendelkezésben foglalja össze a kártérítési felelősség alapvető feltételeit: a jogellenes károkozást, a kártérítési kötelezettséget és a kimentés lehetőségét. Ez a rendelkezés adja a kártérítési jog alapját, amelyre a speciális felelősségi alakzatok épülnek. Lehetővé teszi a rugalmas alkalmazást minden olyan esetben, amelyre nincs külön szabályozás. Tehát ez egyfajta alaptétel, amiből minden más levezetődik.
+
+<break time="5s"/>
+
+Nagyon fontos ez! A négy klasszikus kárfelelősségi feltétel konjunktívak, mert mindegyiknek együttesen kell teljesülnie ahhoz, hogy a kártérítési felelősség megállapítható legyen. A Polgári Törvénykönyv hatodik könyvének ötszáztizenkilencedik paragrafusa implicit módon tartalmazza ezeket a feltételeket: a jogellenes magatartást, amikor azt mondja jogellenesen kárt okoz, a kárt, amikor azt mondja kárt okoz, az okozati összefüggést, amikor azt mondja okoz, és a felróhatóságot, amikor kimondja, hogy ha bizonyítja, hogy magatartása nem volt felróható. Ha akár egyetlen elem hiányzik, a felelősség nem állapítható meg. Tehát ez olyan, mint egy lánc, ahol minden szem kell.
+
+<break time="5s"/>
+
+A hatodik könyv ötszázhuszadik paragrafusa fordított logikát követ. Azt mondja, hogy minden károkozás jogellenes, kivéve, ha a károkozó a kárt valamelyik jogellenességet kizáró okkal okozta. Ez azt jelenti, hogy a jogellenesség vélelmezett, nem kell külön bizonyítani. Csak akkor nem jogellenes a károkozás, ha valamelyik jogellenességet kizáró ok fennáll, amelyet a károkozónak kell bizonyítania. Ez fordított bizonyítási terhet jelent a károkozó számára, ami egyébként nagyon sokat segít a károsultnak.
+
+<break time="5s"/>
+
+A károsult beleegyezésének, hogy jogellenességet kizáró okként működjön, cselekvőképesnek kell lennie vagy legalább belátási képességgel kell rendelkeznie. A beleegyezésnek valódi, szabad akaratból kell fakadnia, tehát nincs kényszer, tévedés vagy megtévesztés. És olyan jogra kell vonatkoznia, amely rendelkezési jogkörében van. A Polgári Törvénykönyv hatodik könyvének ötszázhuszadik paragrafusának a pontja szerint a károsult beleegyezésével okozott kár nem jogellenes, de csak akkor, ha ezek a feltételek teljesülnek.
+
+<break time="5s"/>
+
+Jó kérdés! A jogos védelem a Polgári Törvénykönyv hatodik könyvének ötszázhuszadik paragrafusának b pontja szerint akkor áll fenn, ha valaki a jogtalan támadás vagy a jogtalan és közvetlen támadásra utaló fenyegetés elhárítása érdekében a támadónak kárt okoz, feltéve, hogy az elhárítással a szükséges mértéket nem lépte túl. A szükséghelyzet a c pont szerint akkor áll fenn, ha valaki elhárítható veszély elhárítása érdekében más személy jogát sérti, és ezáltal kárt okoz, azzal arányos mértékben. Mindkettőnél az arányosság követelménye érvényesül, de a jogos védelem a támadónak, a szükséghelyzet más személynek okoz kárt. Ez a lényegi különbség.
+
+<break time="5s"/>
+
+A jogos védelemnek a Polgári Törvénykönyv hatodik könyvének ötszázhuszadik paragrafusának b pontja szerint jogtalan támadásnak vagy jogtalan és közvetlen támadásra utaló fenyegetésnek kell fennállnia. A védekező magatartásnak a támadás elhárítására kell irányulnia, és az elhárítás nem lépheti túl a szükséges mértéket. Ha ezek a követelmények nem teljesülnek, túlvédelemről van szó, és a károkozás jogellenes marad. Viszont a Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának negyedik bekezdése szerint a kártérítés mértéke méltányossági alapon csökkenthető. Tehát nem mentesül teljesen, de enyhíthetnek rajta.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának második bekezdése szerint a teljes kártérítés körében a károkozó köteles megtéríteni a károsult vagyonában beállott értékcsökkenést, vagyis a felmerült kárt, az elmaradt vagyoni előnyt, vagyis az elmaradt hasznot, és a károsultat ért vagyoni hátrányok kiküszöböléséhez szükséges költségeket. A felmerült kár a ténylegesen bekövetkezett vagyoni veszteség, az elmaradt vagyoni előny az a haszon, amellyel a károsult vagyona gyarapodott volna, a költségek pedig a kár kiküszöböléséhez szükséges indokolt kiadások. Tehát három különböző szemszögből nézzük a kárt.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának harmadik bekezdése kimondja, hogy a kártérítést csökkenteni kell a károsultnak a károkozásból származó vagyoni előnyével, kivéve, ha ez az eset körülményeire tekintettel nem indokolt. Ez a káronszerzés tilalma biztosítja, hogy a károsult ne gazdagodjon a károkozás révén. Az előnyök elszámolása a bíróság hatásköre, akárcsak a kártérítés mértékének mérséklése. Tehát nem lehet spekulálni a kárral.
+
+<break time="5s"/>
+
+Három fő elméletet különböztetünk meg. Az egyenértékűség elmélete, vagyis a kondíció színe kvá non, túl széles körű felelősséget eredményezne, mert minden olyan feltételt oknak tekintene, amely nélkül a következmény nem állhatott volna be. Az ok kiválasztó elméletek szubjektívek, mert kiválasztanak egyet az egyenértékű okok közül. Az adekvát kauzalitás elmélete azt tekinti oknak, ami az emberi tapasztalat szerint hasonló esetekben az eredményt létrehozza. Ezt követi a magyar polgári jog a Polgári Törvénykönyv hatodik könyvének ötszázhuszonegyedik paragrafusa előreláthatóság követelményével. Tehát nem minden okot fogadunk el, csak amit előre lehetett látni.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonegyedik paragrafusa kimondja, hogy nem állapítható meg az okozati összefüggés azzal a kárral kapcsolatban, amelyet a károkozó nem látott előre és nem is kellett előre látnia. Az előreláthatóság követelménye elvágja az okozatossági láncolatot, védi a károkozót a távoli, előre nem látható következményekért, és biztosítja a kártérítési igények ésszerű mederben tartását. Kétféle előreláthatóságot különböztetünk meg: tényleges előreláthatóságot és elvárható előreláthatóságot. Tehát vagy tényleg látta előre, vagy látnia kellett volna.
+
+<break time="5s"/>
+
+A tényleges előreláthatóság azt jelenti, hogy a károkozó konkrétan előre látta a kár bekövetkezését, míg az elvárható előreláthatóság azt, hogy egy átlagos, ésszerű ember, vagyis a rízönöböl män, az adott helyzetben előre látta volna a kár bekövetkezését. Mindkettő elegendő az okozati összefüggés megállapításához, de az elvárható előreláthatóság objektív mérce, amely nem függ a károkozó konkrét tudásától. Tehát nem lehet arra hivatkozni, hogy én személy szerint hülye vagyok és nem láttam előre, hanem az számít, hogy egy normális ember előre látta volna e.
+
+<break time="5s"/>
+
+A felróhatóság a felelősség szubjektív eleme, mert azt vizsgálja, hogy a károkozó magatartása mennyiben róható fel neki, mennyiben terheli őt hibásság. A Polgári Törvénykönyv hatodik könyvének ötszáztizenkilencedik paragrafusa szerint a felróhatóság vélelmezett, és a bizonyítási teher megfordítása azt jelenti, hogy nem a károsultnak kell bizonyítania a felróhatóságot, hanem a károkozónak kell bizonyítania a felróhatóság hiányát. Ez jelentős előny a károsult számára, mert ő csak a tényállást kell, hogy bizonyítsa.
+
+<break time="5s"/>
+
+A felróhatóság vélelmezett a Polgári Törvénykönyv hatodik könyvének ötszáztizenkilencedik paragrafusa szerint, így nem kell külön bizonyítani. De a károkozó kimentkezhet, ha bizonyítja, hogy magatartása nem volt felróható. Ez fordított bizonyítási terhet jelent a károkozó számára, mert neki kell bizonyítania, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható. Nem a károsultnak kell bizonyítania a felróhatóságot. Tehát a vélelmet ő döntheti meg, de neki kell bizonyítania.
+
+<break time="5s"/>
+
+A kimentésnél objektív mérce alkalmazandó. A károkozónak azt kell bizonyítania, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható. Ez az objektív mérce figyelembe veszi az adott helyzet jellegét, körülményeit, a károkozó által végzett tevékenység jellegét, és az általában elvárható gondosságot egy hasonló helyzetben lévő személytől. Nem elegendő azt állítani, hogy én mindig ilyen vagyok vagy én nem tudtam, hanem azt kell bizonyítani, hogy egy átlagos, ésszerű ember is ugyanígy járt volna el. Tehát nem a személyes tulajdonságai számítanak, hanem hogy egy normális ember mit tett volna.
+
+<break time="5s"/>
+
+Nagyon fontos különbség ez! A jogellenességet kizáró okok, vagyis a károsult beleegyezése, jogos védelem, szükséghelyzet, jogszabály által megengedett magatartás, az első feltételt érintik, vagyis a jogellenes magatartást. Mert ha valamelyik fennáll, a károkozás maga nem jogellenes, így már az első feltétel hiányzik. A kimentés a negyedik feltételt érinti, vagyis a felróhatóságot. Mert a károkozás jogellenes marad, de a károkozó bizonyítja, hogy magatartása nem volt felróható, így a negyedik feltétel hiányzik. Tehát más szinten avatkoznak be.
+
+<break time="5s"/>
+
+Ha a károkozó sikeresen bizonyítja a kimentést, azaz azt, hogy magatartása nem volt felróható, akkor a Polgári Törvénykönyv hatodik könyvének ötszáztizenkilencedik paragrafusa szerint mentesül a felelősség alól, azaz nem köteles kártérítést fizetni. Ha nem sikerül a kimentés, akkor köteles a teljes kárt megtéríteni, mert a felróhatóság vélelmezett, és ha nem tudja megcáfolni, akkor felróhatónak tekintendő. Tehát vagy-vagy, nincs középút.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának első bekezdése kimondja, hogy a károkozó a károsult teljes kárát köteles megtéríteni. Ez a teljes kártérítés elve azt jelenti, hogy a károsultat olyan helyzetbe kell hozni, mintha a kár be sem következett volna, vagyis resztitúció in integrum. A negyedik bekezdés szerint a bíróság különös méltánylást érdemlő körülmények fennállása esetén a kártérítés mértékét a teljes kárnál alacsonyabb összegben is meghatározhatja, ami méltányossági mérséklésként értelmezendő. Ez tehát kivételes lehetőség, nem automatikus.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonhetedik paragrafusának első bekezdése kimondja, hogy a károkozó a kárt pénzben köteles megtéríteni, kivéve, ha a körülmények a kár természetben való megtérítését indokolják. A harmadik bekezdés szerint a bíróság a kártérítés módjának meghatározásánál nincs kötve a károsult kérelméhez, de a kártérítésnek azt a módját nem alkalmazhatja, amely ellen valamennyi fél tiltakozik. Ez azt jelenti, hogy a természetbeni kártérítés akkor alkalmazható, ha a körülmények indokolják, és nem mindkét fél tiltakozik ellene. Tehát a bíróság dönt, de vannak korlátai.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonhetedik paragrafusának második bekezdése kimondja, hogy a jövőben rendszeresen felmerülő károk megtérítésére a bíróság időszakonként visszatérően előre fizetendő, meghatározott összegű járadékot is meghatározhat. A járadék tipikusan olyan esetekben alkalmazandó, amikor a kár folyamatosan, hosszú távon jelentkezik, például munkaképesség csökkenés miatti jövedelemkiesés vagy tartás elvesztése esetén. Míg a pénzbeli kártérítés egyszeri összeg, amely azonnal esedékes. Tehát a járadék hosszú távú megoldás.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonötödik paragrafusának első bekezdése kimondja, hogy a károsultat kármegelőzési, kárelhárítási és kárenyhítési kötelezettség terheli. Az e kötelezettségek felróható megszegése miatt keletkezett kárt a károkozó nem köteles megtéríteni. Ez azt jelenti, hogy ha a károsult felróhatóan megsérti ezeket a kötelezettségeit, és ennek következtében kár keletkezik vagy növekszik, ezt a kárt vagy kárnövekedést a károkozó nem köteles megtéríteni, mert a károsult maga viseli azt a kárt, amely a kötelezettség megszegéséből ered.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonötödik paragrafusának első bekezdése szerint a károsultat három kötelezettség terheli. A kármegelőzési kötelezettség azt jelenti, hogy a károsult köteles olyan magatartást tanúsítani, amely a kár bekövetkeztét megakadályozza. A kárelhárítási kötelezettség azt jelenti, hogy a károsult köteles a már kezdődő, de még be nem következett kárt elhárítani. A kárenyhítési kötelezettség azt jelenti, hogy a károsult köteles a már bekövetkezett kár további növekedését megakadályozni, csökkenteni. Tehát három időpontban kell cselekednie: előtte, közben és utána.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonötödik paragrafusának második bekezdése kimondja, hogy a károkozó és a károsult között a kárt magatartásuk felróhatósága arányában, ha ez nem megállapítható, közrehatásuk arányában kell megosztani. Ha a közrehatás arányát sem lehet megállapítani, a kárt a károkozó és a károsult között egyenlő arányban kell megosztani. Ez a kármegosztás szabálya biztosítja, hogy ha mindketten közrehattak a kár bekövetkezésében, a kárt arányosan osszák meg, először a felróhatóság, majd a közrehatás, végül egyenlő arány alapján.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonnegyedik paragrafusának első bekezdése szerint ha többen közösen okoznak kárt, felelősségük a károsulttal szemben egyetemleges, ami azt jelenti, hogy mindegyikük a teljes kárt köteles megtéríteni. A kármegosztás a károkozók belső viszonyára vonatkozik, és a harmadik bekezdés szerint a károkozók a kárt egymás között magatartásuk felróhatósága arányában, ha ez nem megállapítható, közrehatásuk arányában viselik. Tehát kifelé mindegyik felel a teljes kárért, de belső viszonyukban megosztják.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázharmincadik paragrafusa kimondja, hogy a járadék meghatározásánál figyelembe vett körülmények lényeges megváltozása esetén bármelyik fél kérheti a járadék mértékének és a járadékfizetés időtartamának megváltoztatását vagy a járadékfizetési kötelezettség megszüntetését. Ez biztosítja, hogy a járadék dinamikusan alkalmazkodjon a változó körülményekhez, és ne legyen merev, hosszú távon is érvényes szabály. Tehát rugalmas a rendszer.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonnyolcadik paragrafusa a jövedelempótló járadékot szabályozza, amely akkor követelhető, ha valakinek munkaképessége a károkozás folytán csökkent, és a káreset utáni jövedelme az azt megelőző időszak jövedelmét nem éri el. A hatodik könyv ötszázhuszonkilencedik paragrafusa a tartást pótló járadékot szabályozza, amely a károkozás folytán meghalt személy tartására jogosult részére jár. Mindkettő járadék, de különböző célra és különböző feltételek mellett alkalmazandó. Az egyik munkaképesség csökkenéshez, a másik halálhoz kapcsolódik.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázharmincegyedik paragrafusa kimondja, hogy ha a kár mértéke nem állapítható meg, a károkozásért felelős személy olyan összegű kártérítés megfizetésére köteles, amely a károsult kárának a kiegyenlítésére alkalmas. Ez az általános kártérítés arra az esetre vonatkozik, amikor a kár ténye kétségtelen, de pontos mértékét nem lehet megállapítani, például egyedi műalkotás elpusztulása vagy immateriális javak károsodása esetén. Ilyenkor a bíróság becslés útján állapítja meg a kártérítés összegét.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázharminchatodik paragrafusa kimondja, hogy a kártérítés a károsodás bekövetkeztekor nyomban esedékes. Ez azt jelenti, hogy a károsult azonnal követelheti a kártérítést, nem kell megvárnia a bírósági ítéletet vagy bármilyen más eseményt. A hatodik könyv ötszázharminchárom paragrafusának első bekezdése szerint a kártérítésre az elévülés szabályait azzal az eltéréssel kell alkalmazni, hogy bűncselekménnyel okozott kár esetén a követelés öt éven túl sem évül el mindaddig, amíg a bűncselekmény büntethetősége el nem évül. Tehát bűncselekmény esetén hosszabb az elévülési idő.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázharmincnegyedik paragrafusának első bekezdése szerint ha a károkozás és az ítélethozatal között az időmúlásra vagy egyéb körülményre tekintettel az értékviszonyokban jelentős változás következett be, a bíróság az okozott kár mértékét az ítélethozatal időpontjában fennállt értékviszonyok szerint határozhatja meg. A második bekezdés szerint ha a károsult kártérítési igénye érvényesítésével felróhatóan késlekedik, az ár és értékviszonyok változásának kockázatát maga viseli. Ez különösen fontos inflációs környezetben, hogy a károsult a vásárlóértéket kapja meg.
+
+<break time="5s"/>
+
+A bizonyítási teher megoszlása a következő: a károsult bizonyítja a jogellenes magatartást, a kárt és az okozati összefüggést, míg a károkozó bizonyítja a felróhatóság hiányát, vagyis a kimentést, vagy valamelyik jogellenességet kizáró ok fennállását. Ez a megoszlás a károsult helyzetét jelentősen megkönnyíti, mert neki csak a tényállást kell bizonyítania, míg a károkozónak kell bizonyítania, hogy mentesül a felelősség alól. Tehát fordított bizonyítási teher.
+
+<break time="5s"/>
+
+Ha a károsult nem bizonyítja az okozati összefüggést, akkor a harmadik feltétel hiányzik, így a kártérítési felelősség nem állapítható meg. Ha a károkozó nem bizonyítja a kimentést, akkor a felróhatóság vélelmezett marad, és köteles a teljes kárt megtéríteni, mert a Polgári Törvénykönyv hatodik könyvének ötszáztizenkilencedik paragrafusa szerint a felróhatóság vélelmezett, és ha nem tudja megcáfolni, akkor felróhatónak tekintendő. Tehát egyik esetben nincs felelősség, másik esetben teljes felelősség.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszáztizennyolcadik paragrafusa általános károkozási tilalma általános magatartási szabály, amely minden emberre vonatkozik és minden károkozásra alkalmazandó. A konkrét kártérítési kötelezettség csak akkor áll fenn, ha mind a négy feltétel teljesül, vagyis jogellenes magatartás, kár, okozati összefüggés, felróhatóság, és a károkozó nem tudott kimentkezni. Az általános tilalom az alapelv, a konkrét kötelezettség az egyedi esetben megállapított következmény. Tehát az egyik elvont, a másik konkrét.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának negyedik bekezdése szerint a bíróság különös méltánylást érdemlő körülmények fennállása esetén a kártérítés mértékét a teljes kárnál alacsonyabb összegben is meghatározhatja. Ez a méltányossági mérséglés kivételes jogintézmény, nem alkalmazható rutinszerűen, és a bíróságnak mérlegelni kell az eset összes körülményét, különösen a károkozó és a károsult vagyoni és szociális helyzetét, a károkozás körülményeit, a felróhatóság mértékét és a kár nagyságát. Tehát nem automatikus, hanem egyedi mérlegelés.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonhetedik paragrafusának harmadik bekezdése kimondja, hogy a bíróság a kártérítés módjának meghatározásánál nincs kötve a károsult kérelméhez, de a kártérítésnek azt a módját nem alkalmazhatja, amely ellen valamennyi fél tiltakozik. Ez azt jelenti, hogy a bíróság hivatalból is elrendelheti a természetbeni kártérítést, ha azt a körülmények indokolják, még akkor is, ha a károsult pénzbeli kártérítést kért. De nem alkalmazhatja azt a módot, amely ellen mindkét fél tiltakozik, így biztosítva a felek akaratának minimális tiszteletben tartását. Tehát van mozgástér, de vannak korlátok is.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonötödik paragrafusának első bekezdése szerint a károsultat kármegelőzési kötelezettség terheli, és az e kötelezettség felróható megszegése miatt keletkezett kárt a károkozó nem köteles megtéríteni. Ez azt jelenti, hogy ha a károsult felróhatóan nem tette meg a kármegelőzési intézkedéseket, és ennek következtében kár keletkezett, ezt a kárt a károkozó nem köteles megtéríteni, mert a károsult maga viseli azt a kárt, amely a kötelezettség megszegéséből ered. Tehát a károsult felelőssége is felmerül.
+
+<break time="5s"/>
+
+A károsulti közrehatás a Polgári Törvénykönyv hatodik könyvének ötszázhuszonötödik paragrafusa szerint azt jelenti, hogy a károsult maga is közrehatott a kár bekövetkezésében, és a kárt a károkozó és a károsult között kell megosztani. A többek közös károkozása a hatodik könyv ötszázhuszonnegyedik paragrafusa szerint azt jelenti, hogy többen közösen okoztak kárt, és felelősségük a károsulttal szemben egyetemleges. De a károkozók belső viszonyában kármegosztásra kerül sor. Mindkettő esetében kármegosztásra kerül sor, de más szereplők között.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonnyolcadik paragrafusának harmadik bekezdése szerint a károsult jövedelemkiesését a károsodást megelőző egy évben elért havi átlagjövedelmének alapulvételével kell meghatározni. A negyedik bekezdés szerint ha a jövedelemkiesés nem határozható meg így, az azonos vagy hasonló tevékenységet végző személyek havi átlagjövedelmét kell alapul venni. Az ötödik bekezdés szerint figyelembe kell venni a jövőbeli változásokat is, de a hatodik bekezdés szerint nem vehető figyelembe a rendkívüli munkateljesítménnyel elért jövedelem. Tehát átlagokat nézünk, nem extrém értékeket.
+
+<break time="5s"/>
+
+A kártérítés módja azt határozza meg, hogy pénzben, természetben vagy járadék formájában történik e a megtérítés, és ezt a Polgári Törvénykönyv hatodik könyvének ötszázhuszonhetedik paragrafusa szabályozza. A kártérítés mértéke azt határozza meg, hogy mekkora összeget kell megtéríteni, és ezt a hatodik könyv ötszázhuszonkettedik paragrafusa szabályozza, amely a teljes kárt határozza meg, vagy a hatodik könyv ötszázharmincegyedik paragrafusa, amely az általános kártérítést szabályozza, ha a kár mértéke nem állapítható meg. Tehát az egyik a hogyan, a másik a mennyi.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonötödik paragrafusának első bekezdése szerint a károsultat kárenyhítési kötelezettség terheli, és az e kötelezettség felróható megszegése miatt keletkezett kárt a károkozó nem köteles megtéríteni. Ez biztosítja, hogy a károsult ne legyen passzív, ne spekuláljon a kár növekedésével, hanem aktívan működjön közre a kár csökkentésében. Különben maga viseli azt a kárt, amely a kötelezettség megszegéséből ered, így ösztönözve az aktív, kárcsökkentő magatartásra. Tehát meg kell tenni mindent a kár csökkentésére.
+
+<break time="5s"/>
+
+Az általános deliktuális felelősségi alakzat a Polgári Törvénykönyv hatodik könyvének ötszáztizenkilencedik paragrafusa generálklauzulája, amely minden károkozásra alkalmazandó, és tartalmazza a négy alapvető feltételt. A speciális felelősségi alakzatok, például veszélyes üzemi felelősség, felelősség más személy károkozásáért, csak meghatározott esetekre vonatkoznak, és eltérő szabályokat tartalmaznak, például szigorúbb felelősséget vagy eltérő kimentési szabályokat. De mindegyik az általános alakzatra épül. Tehát az általános az alap, a speciális az ahhoz képesti eltérés.
+
+<break time="5s"/>
+
+Ha a károkozó bizonyítja, hogy a károsult beleegyezett a károkozásba, akkor a Polgári Törvénykönyv hatodik könyvének ötszázhuszadik paragrafusának a pontja szerint a károkozás nem jogellenes, mert a károsult beleegyezésével okozott kár nem jogellenes. Ez azt jelenti, hogy már az első feltétel, vagyis a jogellenes magatartás hiányzik, így a kártérítési felelősség nem állapítható meg, mert nem teljesül mind a négy feltétel együttesen. Tehát az egész felelősség eleve nem jön létre.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonhatodik paragrafusa kimondja, hogy a szándékosan okozott, továbbá az emberi életet, testi épséget vagy egészséget megkárosító károkozásért való felelősséget korlátozó vagy kizáró szerződési kikötés semmis. Ez azt jelenti, hogy a szerződéses kikötések semmisek ezekre a károkra, míg a törvényi szabályok kötelezően alkalmazandók, és nem lehet eltérni tőlük szerződéssel, kivéve dologi károknál, ahol előzetes korlátozás lehetséges. Tehát bizonyos területeken a törvény kógens, nem lehet kikerülni.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonharmadik paragrafusa kimondja, hogy károsodás veszélye esetén a veszélyeztetett kérheti a bíróságtól, hogy azt, aki a veszélyt előidézte, az eset körülményeihez képest tiltsa el a veszélyeztető magatartástól, kötelezze a kár megelőzéséhez szükséges intézkedések megtételére, vagy kötelezze megfelelő biztosíték adására. Ez lehetővé teszi, hogy a veszélyeztetett megelőzze a kár bekövetkezését, így megelőzve a kártérítési igényt is, és biztosítva a proaktív védekezést. Tehát nem kell megvárni, hogy bekövetkezzen a kár.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonhetedik paragrafusának harmadik bekezdése szerint a bíróság a kártérítés módjának meghatározásánál nincs kötve a károsult kérelméhez, de a kártérítésnek azt a módját nem alkalmazhatja, amely ellen valamennyi fél tiltakozik. Ez azt jelenti, hogy a bíróság hivatalból is elrendelheti a természetbeni kártérítést, ha azt a körülmények indokolják, de a felek megállapodása csak akkor érvényes, ha mindkét fél egyetért, és nem tiltakozik ellene. Tehát a bíróság aktív szerepet játszhat, de a felek együttes akarata korlátot szab.
+
+<break time="5s"/>
+
+A károsult beleegyezésének személyiségi jogokba való beleegyezésként való érvényességéhez cselekvőképesnek kell lennie vagy legalább belátási képességgel kell rendelkeznie, valódi, szabad akaratból kell fakadnia, és korlátozottan alkalmazandó, mert a személyiségi jogokba való beleegyezés nem mindig lehetséges. Bizonyos személyiségi jogokba való beleegyezés korlátozottan vagy egyáltalán nem lehetséges, mert ezek elidegeníthetetlen jogok. Tehát nem lehet mindent feladni, még ha akarom is.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázharmincketedik paragrafusa kimondja, hogy a kártérítés a károsodás bekövetkeztekor nyomban esedékes. Ez azt jelenti, hogy a kártérítés esedékessége automatikusan bekövetkezik a károsodás bekövetkeztekor, és az esedékesség időpontjától kezdve késedelmi kamat is jár. A kártérítés követelhetősége azonban függ a négy feltétel teljesülésétől és a károkozó kimentésének lehetőségétől. Így lehet, hogy a kártérítés esedékes, de még nem követelhető, amíg a bíróság meg nem állapítja a felelősséget. Tehát az esedékesség objektív, a követelhetőség szubjektív feltételektől függ.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonegyedik paragrafusa előreláthatóság követelménye elvágja az okozatossági láncolatot azáltal, hogy csak azokkal a károkkal kapcsolatban állapítható meg az okozati összefüggés, amelyeket a károkozó előre látott vagy előre kellett volna látnia. Ez egyrészt védi a károkozót, hogy ne feleljen olyan távoli, előre nem látható következményekért, másrészt biztosítja a kártérítési igények ésszerű mederben tartását. Megakadályozva, hogy a károkozó feleljen olyan károkért, amelyeket objektíven sem lehetett előre látni. Tehát ez egy lényeges korlátozó tényező.
+
+<break time="5s"/>
+
+A károsulti közrehatás a Polgári Törvénykönyv hatodik könyvének ötszázhuszonötödik paragrafusa szerint azt jelenti, hogy a károsult maga is közrehatott a kár bekövetkezésében, és a kárt a károkozó és a károsult között kell megosztani magatartásuk felróhatósága arányában, ha ez nem megállapítható, közrehatásuk arányában. A károkozó közrehatása több károkozó esetében a hatodik könyv ötszázhuszonnegyedik paragrafusa szerint a károkozók belső viszonyára vonatkozik, és a károkozók a kárt egymás között magatartásuk felróhatósága arányában viselik. Tehát mindkét esetben arányosítás van, de más viszonylatban.
+
+<break time="5s"/>
+
+Az általános deliktuális felelősségi alakzat elemei logikusan kapcsolódnak egymáshoz. A jogellenes magatartás okozza a kárt, az okozati összefüggés biztosítja a kapcsolatot a magatartás és a kár között, a felróhatóság pedig a felelősség szubjektív elemét adja. A Polgári Törvénykönyv hatodik könyvének ötszáztizenkilencedik paragrafusa generálklauzulája adja ezt az alapot, amelyre a speciális felelősségi alakzatok épülnek, amelyek eltérő szabályokat tartalmaznak meghatározott esetekre, például szigorúbb felelősséget vagy eltérő kimentési szabályokat. De mindegyik az általános alakzat logikáját követi. Tehát van egy egységes rendszer, ahol az általános alakzat az alap, és a speciális alakzatok ehhez képest térnek el.
+
+<break time="5s"/>
+
+Szívesen! Hajrá a vizsgához!
+
+<break time="5s"/>
+
+
+

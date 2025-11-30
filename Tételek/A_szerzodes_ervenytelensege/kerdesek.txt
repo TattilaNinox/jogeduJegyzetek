@@ -1,0 +1,119 @@
+1. Mi a különbség az érvénytelenség mint eredeti hiba és a hatálytalanság vagy szerződésszegés mint utólagos hiba között?
+
+2. Milyen három elemet tartalmaz az érvénytelenség fogalma (eredeti hiba, súlyos hiba, joghatások elmaradása)?
+
+3. Mi a különbség a semmisség (abszolút érvénytelenség) és a megtámadhatóság (relatív érvénytelenség) között a Ptk. duális rendszerében?
+
+4. Milyen jogi következménye van annak, hogy a Ptk. 6:88. § (1) bekezdése szerint a semmis szerződés megkötésének időpontjától érvénytelen?
+
+5. Mi a különbség az ipso iure (a törvény erejénél fogva) érvénytelenség és a feltételes érvénytelenség között?
+
+6. Milyen jogi védelmet biztosít az, hogy a bíróság hivatalból (ex officio) észleli a semmisséget?
+
+7. Mi a különbség a 2013. évi Ptk. szerint, hogy a semmisségre aki jogi érdeket igazol, hivatkozhat, és a régi Ptk. szerint bárki hivatkozhatott?
+
+8. Milyen jogi következménye van annak, hogy a semmisségre időbeli korlát nélkül lehet hivatkozni, kivéve az általános elévülést?
+
+9. Mi a különbség a közérdekben okozott sérelem és az uzsorás szerződés esetén az ügyész kereseti jogosultsága és más semmisségi okok között?
+
+10. Milyen jogi alapja van a jogszabályba ütközés vagy jogszabály megkerülése mint semmisségi oknak?
+
+11. Mi a különbség a jogszabályba ütköző szerződés és a jogszabály megkerülésével kötött szerződés között?
+
+12. Milyen jogi következménye van annak, hogy a Ptk. 6:96. § szerint semmis az a szerződés, amely nyilvánvalóan a jóerkölcsbe ütközik?
+
+13. Mi a különbség a jóerkölcs és a jogszabály között mint érvénytelenségi okok?
+
+14. Milyen három feltételt tartalmaz az uzsorás szerződés tényállása a Ptk. 6:97. § szerint?
+
+15. Mi a különbség a másik fél helyzetének kihasználása és a feltűnően aránytalan előny között az uzsorás szerződésben?
+
+16. Milyen jogi következménye van az uzsorás szerződés semmisségének a sérelmet szenvedő fél védelmében?
+
+17. Mi a különbség a lehetetlen szolgáltatásra irányuló szerződés és a nehezen teljesíthető szerződés között?
+
+18. Milyen jogi alapja van annak, hogy a cselekvőképtelen személy jognyilatkozata semmis?
+
+19. Mi a különbség a cselekvőképtelen személy szerződése és a csekély jelentőségű, teljesített szerződések között?
+
+20. Milyen jogi következménye van az alaki hibának, ha a jogszabály kötelező alakiságot ír elő?
+
+21. Mi a különbség a megtámadható szerződés feltételes érvénytelensége és a semmis szerződés feltétlen érvénytelensége között?
+
+22. Milyen jogi következménye van annak, hogy a Ptk. 6:89. § (1) bekezdése szerint a megtámadható szerződés csak az eredményes megtámadás következtében válik érvénytelenné?
+
+23. Mi a különbség a sérelmet szenvedett fél és más személyek között a megtámadási jogosultság szempontjából?
+
+24. Milyen jogi védelmet biztosít az egyéves jogvesztő határidő a megtámadhatóság esetében?
+
+25. Mi a különbség a jogvesztő határidő és az elévülés között a megtámadási jog szempontjából?
+
+26. Milyen jogi következménye van annak, hogy a megtámadási határidő nyugszik, amíg a jogosult a megtámadási okot nem ismerte?
+
+27. Mi a különbség a megerősítés és a lemondás között a megtámadás jogának megszűnése szempontjából?
+
+28. Milyen jogi alapja van annak, hogy a konvalidáció (utólagos érvényessé válás) lehetséges a megtámadhatóság esetében?
+
+29. Mi a különbség a tévedés és a megtévesztés között mint megtámadási okok?
+
+30. Milyen feltételeknek kell megfelelnie a tévedésnek ahhoz, hogy megtámadási okot képezzen a Ptk. 6:90. § szerint?
+
+31. Mi a különbség a tényre vonatkozó tévedés és az értékítéletre vonatkozó tévedés között?
+
+32. Milyen jogi következménye van annak, hogy a tévedést a másik fél okozta vagy felismerhette?
+
+33. Mi a különbség a tévedésbe ejtés és a tévedésben tartás között a megtévesztés esetében?
+
+34. Milyen jogi alapja van annak, hogy a megtévesztés súlyosabb, mint a tévedés?
+
+35. Mi a különbség a jogellenes fenyegetés és a jogszerű figyelmeztetés között?
+
+36. Milyen feltételeknek kell megfelelnie a fenyegetésnek ahhoz, hogy megtámadási okot képezzen?
+
+37. Mi a különbség a feltűnő értékaránytalanság és az uzsorás szerződés között?
+
+38. Milyen jogi következménye van annak, hogy a Ptk. 6:98. § szerint a feltűnő értékaránytalanságot felismerő vagy annak kockázatát vállaló fél nem támadhatja meg a szerződést?
+
+39. Mi a különbség az ingyenes juttatási szándék és a feltűnő értékaránytalanság között?
+
+40. Milyen jogi alapja van annak, hogy a Ptk. 6:108. § szerint érvénytelen szerződésre jogosultságot alapítani és teljesítést követelni nem lehet?
+
+41. Mi a különbség az eredeti állapot helyreállítása (restitutio in integrum) és más jogkövetkezmények között?
+
+42. Milyen feltételeknek kell megfelelnie ahhoz, hogy az eredeti állapot helyreállítása alkalmazható legyen?
+
+43. Mi a különbség a természetbeni visszatérítés és a pénzbeni megtérítés között az érvénytelenség jogkövetkezményei szempontjából?
+
+44. Milyen jogi védelmet biztosít az értékegyensúly fenntartásának követelménye az eredeti állapot helyreállításánál?
+
+45. Mi a különbség a bírósági érvényessé nyilvánítás visszamenő hatállyal (konvalidáció) és az eredeti állapot helyreállítása között?
+
+46. Milyen két esetben nyilváníthatja a bíróság érvényessé a szerződést a Ptk. 6:110. § szerint?
+
+47. Mi a különbség az alaptalan gazdagodás pénzbeni megtérítése ("hatályosítás") és az eredeti állapot helyreállítása között?
+
+48. Milyen jogi következménye van a részleges érvénytelenségnek a Ptk. 6:114. § szerint?
+
+49. Mi a különbség az érvénytelen szerződésből eredő kárigények és a járulékos igények között?
+
+50. Hogyan alkotják az érvénytelenség fajtái (semmisség és megtámadhatóság), okai és jogkövetkezményei együtt egy rugalmas, méltányos és differenciált rendszert, amely a szerződési forgalom védelmét és az igazságosságot szolgálja?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

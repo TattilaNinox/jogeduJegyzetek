@@ -1,0 +1,119 @@
+1. A szerződés mint kötelemkeletkeztető jogi tény a felek akaratán alapul, konszenzus szükséges, kétoldalú vagy többoldalú jogügylet, míg más kötelemkeletkeztető tények (jogellenes károkozás, jogalap nélküli gazdagodás, megbízás nélküli ügyvitel) nem a felek akaratán, hanem törvényen, tényen alapulnak, így különbség van az akarat szerepében.
+
+2. A Ptk. 6:58. § két elemet tartalmaz: a felek kölcsönös és egybehangzó jognyilatkozata (forma: hogyan jön létre, kölcsönös akarat, konszenzus), és ebből kötelezettség keletkezik a szolgáltatás teljesítésére és jogosultság a szolgáltatás követelésére (tartalom: mi keletkezik, jogok és kötelezettségek), így forma és tartalom.
+
+3. A kölcsönös jognyilatkozat azt jelenti, hogy mindkét fél (vagy több fél) tesz jognyilatkozatot, kölcsönösség, mindkettő nyilatkozik, míg az egybehangzó jognyilatkozat azt jelenti, hogy a jognyilatkozatok tartalmilag egyeznek, nincs lényeges eltérés, konszenzus, megegyezés, így a kölcsönösség a nyilatkozatok számára, az egybehangzóság a tartalmukra vonatkozik.
+
+4. Ha a szerződésből kötelezettség keletkezik a szolgáltatás teljesítésére és jogosultság a szolgáltatás követelésére, akkor a szerződés kétoldalú jellege érvényesül, mindkét fél egyszerre jogosult (követelheti a másik fél teljesítését) és kötelezett (köteles teljesíteni saját kötelezettségét), így kölcsönös jogok és kötelezettségek.
+
+5. A szerződés kétoldalú jellege azt jelenti, hogy legalább két fél jognyilatkozata szükséges, mindkét fél jogosult és kötelezett, kölcsönös, míg az egyoldalú jogügylet csak az egyik fél jognyilatkozatával jön létre (végrendelet, felmondás), nincs kölcsönösség, így különbség van a felek számában és a kölcsönösségben.
+
+6. A szerződés négy szerepet tölt be: jogviszony-keletkeztető (létrehozza a szerződéses jogviszonyt a felek között), forgalmi eszköz (a vagyoni forgalom jogi kerete: csere, átruházás, szolgáltatásnyújtás), piacgazdaság alapja (a piacgazdaság nem működhetne szerződések nélkül), autonómia megnyilvánulása (a felek autonómiájának, önrendelkezésének eszköze), így központi szerepe van a polgári jogban és a gazdaságban.
+
+7. A szerződési szabadság négy dimenziója: kötési szabadság (szabadon dönthetnek, hogy kötnek-e szerződést), partnerválasztási szabadság (szabadon választhatják meg, kivel kötnek), típusválasztási szabadság (szabadon dönthetnek, milyen típusú szerződést kötnek), tartalmi szabadság (szabadon állapíthatják meg a szerződés tartalmát, eltérhetnek a diszpozitív szabályoktól), így négy különböző területen érvényesül a szabadság.
+
+8. A Ptk. 6:59. § szerinti szerződési szabadság elvének jogi alapja a privát autonómia, hogy a felek önállóan, saját akaratukból alakítják jogviszonyaikat, az emberi méltóság és szabadság következménye, az Alaptörvényből (általános cselekvési szabadság, vállalkozáshoz való jog) eredeztethető, így alkotmányos alap.
+
+9. A kógens (imperatív) jogszabályok tiltó vagy parancsoló jellegűek, nem lehet eltérni tőlük szerződéssel (például fogyasztóvédelmi szabályok, munkajogi szabályok), kötelezően alkalmazandók, míg a diszpozitív jogszabályok eltérést engedőek, a felek megállapodhatnak másban, csak akkor alkalmazandók, ha a felek nem térnek el tőlük, így a kógens korlátoz, a diszpozitív enged.
+
+10. Ha a szerződési szabadságnak korlátai vannak, akkor nem abszolút, hanem korlátozott szabadság, a felek nem köthetnek bármilyen szerződést, bizonyos korlátokat be kell tartaniuk (kógens jogszabályok: kötelező szabályok; jóerkölcs: erkölcsi normák; közrend: közérdek védelme; szerződéskötési kötelezettség: kötelező szerződéskötés), így védve a közérdeket, az erkölcsöt, a gyengébb felet.
+
+11. A konszenzuális szerződés a megállapodással, konszenzussal létrejön, nincs szükség dolog átadására, csak a felek akaratának egybecsengése kell, a Ptk. konszenzuális, míg a reál szerződés esetében a dolog átadása is feltétel volt a létrejöttéhez, a megállapodás önmagában nem elég, római jog, így a konszenzuális egyszerűbb, gyorsabb.
+
+12. A Ptk. 6:63. § (1) bekezdése szerinti konszenzuális szerződéskötés elvének jogi alapja az, hogy a felek akaratának kölcsönös és egybehangzó kifejezésével jön létre a szerződés, konszenzus, megállapodás elegendő, nincs szükség dolog átadására vagy formára (kivéve ha jogszabály írja elő), így az akarat a döntő, nem a forma vagy a dolog átadása.
+
+13. Az ajánlat a szerződés megkötésére irányuló, kellően meghatározott, lényeges kérdésekre kiterjedő, címzetthez intézett jognyilatkozat, kezdeményezés, első lépés, kötöttséget eredményez, míg az elfogadás az ajánlattal egyező tartalmú, az ajánlati kötöttség időtartama alatt tett jognyilatkozat, hozzájárulás, második lépés, szerződést létrehoz, így az ajánlat kezdeményez, az elfogadás létrehoz.
+
+14. Az ajánlat a Ptk. 6:64. § szerint három elemet tartalmaz: szerződés megkötésére irányuló szándék egyértelmű kifejezése (világosan ki kell fejeznie, hogy szerződést kíván kötni), a lényeges kérdésekre kiterjedő (tartalmaznia kell a szerződés lényeges elemeit: tárgy, ár), címzetthez intézett (meghatározott személyhez intézett, nem általános felhívás), így három konjunktív elem, mindhárom szükséges.
+
+15. A szerződés megkötésére irányuló szándék egyértelmű kifejezése azt jelenti, hogy az ajánlattevő világosan ki kell fejeznie, hogy szerződést kíván kötni, határozott, kötelező erejű ajánlat, míg a puszta érdeklődés azt jelenti, hogy csak érdeklődik, tárgyalásra invitál, nem kötelező, nem ajánlat (például árajánlatkérés, tájékozódás), így a szándék kötelező, az érdeklődés nem.
+
+16. Ha az ajánlatnak a lényeges kérdésekre kiterjedőnek kell lennie, akkor a Ptk. 6:64. § szerint tartalmaznia kell a szerződés lényeges elemeit (adás-vételnél: a dolog meghatározása, a vételár; bérletnél: a bérlemény, a bérleti díj), így az elfogadással azonnal létrejöhet a szerződés, nem kell további tárgyalás, megállapodás a lényeges kérdésekben.
+
+17. A címzetthez intézett ajánlat meghatározott személyhez intézett, konkrét címzett van, személyre szóló, ajánlati kötöttséget eredményez, míg az általános felhívás mindenkihez szól, nincs konkrét címzett, nyilvános, nem ajánlat, hanem felhívás ajánlattételre (invitatio ad offerendum), így a címzett konkrét, a felhívás általános.
+
+18. Az ajánlati kötöttség biztosítja a címzett számára, hogy az ajánlattevő az ajánlatához kötve van, nem vonhatja vissza szabadon (csak bizonyos feltételekkel), a címzett dönthet, hogy elfogadja-e, biztos lehet benne, hogy az ajánlat fennáll, így védelem, biztonság, kiszámíthatóság.
+
+19. Az ajánlati kötöttség meghatározott ideje az, amelyet az ajánlattevő kifejezetten meghatároz (például "az ajánlat 30 napig érvényes"), konkrét, rögzített, míg az ésszerű idő az, amelyet a Ptk. 6:65. § (1) bekezdése vélelmez, ha nincs meghatározva (jelenlévőknél: nyomban; távollevőknél: amíg ésszerűen várható a válasz), becsült, objektív, így a meghatározott konkrét, az ésszerű becsült.
+
+20. Ha a Ptk. 6:65. § (1) bekezdése megkülönbözteti a jelenlévők és távollévők között tett ajánlatot, akkor az ajánlati kötöttség időtartama eltérő (jelenlévőknél: nyomban megszűnik, ha nem fogadja el; távollevőknél: ésszerű idő, amíg várható a válasz), figyelembe véve a kommunikáció módját, így differenciált szabályozás.
+
+21. A jelenlévők között tett ajánlat ajánlati kötöttsége a Ptk. 6:65. § (1) a) pontja szerint nyomban megszűnik, ha a másik fél nem fogadja el késedelem nélkül, azonnali reakció szükséges, rövid, míg a távollévők között tett ajánlat ajánlati kötöttsége a b) pont szerint addig tart, amíg az ajánlattevő ésszerűen várhatja a válasz megérkezését, hosszabb, figyelembe véve a kommunikáció módját, így a jelenlévőknél rövid, a távollevőknél hosszabb.
+
+22. Annak, hogy az ajánlati kötöttség megszűnik a másik fél általi visszautasítással, a Ptk. 6:65. § (1) c) pontja szerint az az alapja, hogy ha a címzett visszautasítja az ajánlatot, világos, hogy nem akarja elfogadni, felesleges az ajánlati kötöttséget fenntartani, így a visszautasítás azonnali, egyértelmű jelzés, amely megszünteti a kötöttséget.
+
+23. Az ajánlat visszavonása a Ptk. 6:65. § (2) bekezdése szerint az ajánlattevő aktusa, az ajánlattevő visszavonja az ajánlatát jognyilatkozattal, az elfogadás elküldése előtt, az ajánlattevő cselekménye, míg az ajánlati kötöttség megszűnése automatikus, törvény erejénél fogva következik be (időmúlás, visszautasítás), nem kell aktus, így a visszavonás aktív, a megszűnés passzív.
+
+24. Ahhoz, hogy az ajánlat visszavonható legyen, a Ptk. 6:65. § (2) bekezdése szerint az ajánlattevőnek a másik fél elfogadó jognyilatkozatának elküldését megelőzően kell visszavonnia, időbeli feltétel, az elfogadás elküldése előtt, és a visszavonást a másik félhez intézett jognyilatkozattal kell megtenni, formai feltétel, jognyilatkozat, így két feltételnek kell teljesülnie.
+
+25. A visszavonható ajánlat a Ptk. 6:65. § (2) bekezdése szerint főszabály szerint visszavonható az elfogadás elküldése előtt, rugalmas, az ajánlattevő meggondolhatja magát, míg a visszavonhatatlan ajánlat a (4) bekezdés szerint nem vonható vissza, ha az ajánlat tartalmazza, hogy visszavonhatatlan, vagy határidőt állapít meg, kötött, az ajánlattevő nem gondolhatja meg magát, így különbség van a rugalmasságban és kötöttségben.
+
+26. Ha a hatályossá vált ajánlat nem vonható vissza, ha visszavonhatatlan vagy határidőt állapít meg, akkor a Ptk. 6:65. § (4) bekezdése szerint fokozott védelem a címzett számára, biztos lehet benne, hogy az ajánlat fennmarad, megbízhat benne, kiszámíthatóság, így erősebb ajánlati kötöttség, fokozott védelem.
+
+27. Az elfogadás az ajánlattal egyező tartalmú jognyilatkozat, tartalmilag azonos az ajánlattal, konszenzus, szerződést létrehoz, míg az ellenajánlat a Ptk. 6:67. § (1) bekezdése szerint lényeges kérdésben eltérő tartalmú, nem azonos, disszenzus, új ajánlatnak tekintendő, nem hoz létre szerződést, így az elfogadás egyező, létrehoz, az ellenajánlat eltérő, nem hoz létre.
+
+28. Az elfogadásnak a Ptk. 6:66. § szerint az ajánlattal való egyetértést kell kifejezenie (hozzájárulás az ajánlathoz), azonos tartalmúnak kell lennie az ajánlattal (tartalmilag egyező, nincs lényeges eltérés), és időben kell lennie (az ajánlati kötöttség időtartama alatt kell megtenni, nem késedelmes), így három feltételnek kell teljesülnie.
+
+29. A lényeges kérdésben eltérő elfogadás a Ptk. 6:67. § (1) bekezdése szerint nem elfogadás, hanem új ajánlat (ellenajánlat), nem jön létre a szerződés, míg a nem lényeges kérdésben eltérő elfogadás a (2) bekezdés szerint elfogadásnak minősül, a szerződés létrejön, a kiegészítő vagy eltérő feltételek a szerződés részévé válnak, így a lényeges eltérés megakadályozza, a nem lényeges nem.
+
+30. Ha a lényeges kérdésben eltérő elfogadást új ajánlatnak kell tekinteni, akkor a Ptk. 6:67. § (1) bekezdése szerint nem jön létre a szerződés az eredeti ajánlat alapján, hanem új ajánlattételi helyzet alakul ki, az eredeti ajánlattevő válhat címzetté, aki eldönti, hogy elfogadja-e az ellenajánlatot, így szerepcsere, új tárgyalási kör.
+
+31. A módosított elfogadás a Ptk. 6:67. § (2) bekezdése szerint nem lényeges kérdésben eltérő vagy kiegészítő feltételt tartalmaz, elfogadásnak minősül, a szerződés létrejön, a feltételek a szerződés részévé válnak, míg az ellenajánlat lényeges kérdésben eltér, új ajánlatnak minősül, nem jön létre a szerződés, így különbség van a lényeges és nem lényeges eltérés hatásában.
+
+32. Annak, hogy főszabály szerint a hallgatás vagy a magatartástól való tartózkodás nem minősül elfogadásnak, az az alapja, hogy a jognyilatkozatnak kifejezettnek kell lennie, aktív, világos akaratnyilvánítás szükséges, a hallgatás passzív, nem egyértelmű, nem fejezi ki az akaratot, így nem lehet elfogadás, védve a felek akaratát.
+
+33. A kifejezett jognyilatkozat aktív, világos akaratnyilvánítás (szóban, írásban, egyértelmű magatartással kifejezi az akaratot), egyértelmű, elfogadásnak minősülhet, míg a hallgatás passzív, nem nyilvánít semmit, nem cselekszik, nem egyértelmű, főszabály szerint nem elfogadás, így az egyik aktív, világos, a másik passzív, nem világos.
+
+34. A hallgatás nem minősül elfogadásnak főszabály alól három kivétel van: ha a felek között korábbi megállapodás van arra, hogy a hallgatás elfogadásnak minősül (szerződéses kikötés, a felek így állapodtak meg), ha jogszabály úgy rendelkezik (törvényi szabály, például biztosítási szerződésnél fogyasztók esetén), és ha a kereskedelmi szokások szerint a hallgatás elfogadásnak minősül (üzleti gyakorlat, szokásjog), így három különböző jogcím, mindhárom kivétel a főszabály alól.
+
+35. A késedelmes elfogadás főszabálya a Ptk. 6:68. § (1) bekezdése szerint, hogy a szerződés nem jön létre, ha az elfogadás késedelmes, az ajánlati kötöttség már megszűnt, míg a kivételek a (2)-(3) bekezdések szerint, hogy az ajánlattevő elfogadja a késedelmes elfogadást, vagy a közvetítő közeg hibája miatt késedelmes, és az ajánlattevő nem tiltakozik, így a főszabály elutasító, a kivételek engedékenyek.
+
+36. Ha a közvetítő közeg hibája miatt késedelmes elfogadás esetén a szerződés létrejön, akkor a Ptk. 6:68. § (3) bekezdése szerint a közvetítő közeg (posta, futárszolgálat) késése nem róható a címzett terhére, nem veszíti el a szerződéskötés lehetőségét a közvetítő hibája miatt, így védelem a címzett számára, méltányos megoldás.
+
+37. A vételi elv azt jelenti, hogy a szerződés az elfogadó nyilatkozat megtételével jön létre, amikor a címzett kifejezi az elfogadást (jelenlévők között), azonnali, az érkezési elv azt jelenti, hogy az elfogadó nyilatkozatnak az ajánlattevőhöz való megérkezésével jön létre (távollévők között), késleltetett, így különbség van az időpontban, a vételi azonnali, az érkezési késleltetett.
+
+38. Annak, hogy jelenlévők között az elfogadó nyilatkozat megtételével, távollévők között az ajánlattevőhöz való megérkezéssel jön létre a szerződés, a Ptk. 6:69. § szerint az az alapja, hogy a kommunikáció módját figyelembe veszi (jelenlévők: egyidejűleg kommunikálnak, azonnal értesül; távollévők: közvetítő közegen keresztül, később értesül), így differenciált, a kommunikáció sajátosságaihoz igazodó szabályozás.
+
+39. A szerződés létrejöttének időpontja meghatározza, hogy mikor keletkeznek a jogok és kötelezettségek, mikor kezdődik a teljesítési határidő, mikor nyílik meg az igényérvényesítés, időbeli kérdések, míg a szerződéskötés helye meghatározza az illetékességet, az alkalmazandó jogot, a teljesítés helyét, területi kérdések, így az idő időbeli, a hely területi jelentőségű.
+
+40. A szerződéskötés helyének három területen van jelentősége: illetékesség (melyik bíróság járhat el polgári perben, területi illetékesség), alkalmazandó jog (nemzetközi szerződéseknél melyik ország joga alkalmazandó, kollíziós jog), teljesítés helye (ha a szerződés nem határozza meg, a szerződéskötés helye lehet a teljesítés helye, jogszabály alapján), így eljárásjogi, kollíziós és kötelmi jogi jelentőség.
+
+41. Az elektronikus úton történő szerződéskötés interneten, e-mailben, webshopban történik, digitális kommunikáció, távollevők között, speciális szabályok (Ptk. 6:82-6:85. §), míg a hagyományos szerződéskötés személyesen, levélben, telefonon történik, analóg kommunikáció, általános szabályok, így különbség van a kommunikáció módjában és a szabályozásban.
+
+42. Annak, hogy az elektronikus szerződéskötés főszabály szerint távollévők közötti szerződéskötésnek minősül, az az alapja, hogy nem egyidejűleg kommunikálnak, közvetítő közegen (internet, e-mail rendszer) keresztül, nem személyesen, így a távollevők szabályai alkalmazandók, érkezési elv, ésszerű idő, de speciális szabályok is vannak.
+
+43. A lényeges feltételek (essentialia negotii) azok, amelyek nélkül a szerződés nem jöhet létre, szükségesek (szerződéstípushoz hozzátartozó elemek, felek által lényegesnek minősített), meg kell állapodni bennük, míg a nem lényeges feltételek azok, amelyek hiányában is létrejön a szerződés, nem szükségesek, jogszabály, szokás, gyakorlat tölti ki, így a lényeges nélkülözhetetlen, a nem lényeges kiegészítő.
+
+44. A Ptk. 6:63. § (2) bekezdése szerint két típusa van: a szerződéstípushoz szükségszerűen hozzátartozó elemek (objektív lényegesség, minden ilyen szerződésnél szükséges, például adás-vételnél: dolog, vételár), és a bármelyik fél által lényegesnek minősített kérdések (szubjektív lényegesség, a fél egyértelműen kifejezi, hogy lényeges számára, például szállítási mód), így objektív és szubjektív lényegesség.
+
+45. A disszenzus azt jelenti, hogy a felek nem egyeznek meg, nincs konszenzus, a lényeges feltételekben eltérés van, a szerződés nem jön létre, míg a konszenzus azt jelenti, hogy a felek megegyeznek, egyetértenek, a lényeges feltételekben egyezés van, a szerződés létrejön, így a disszenzus akadályozza, a konszenzus létrehozza a szerződést.
+
+46. A Ptk. 6:63. § (3) bekezdése szerint ha az ár nincs meghatározva, a piaci középár irányadó, biztosítva, hogy a szerződés ne váljék érvénytelenné határozatlanság miatt, a piaci középár objektív, ellenőrizhető, igazságos (piaci viszonyokat tükrözi), így védelem mindkét fél számára, jogbiztonság, a szerződés fennmarad.
+
+47. A szokások a Ptk. 6:63. § (5) bekezdése szerint olyan gyakorlatok, amelyeket széles körben ismernek és rendszeresen alkalmaznak az adott üzletágban, objektív, általános, külső, az adott üzletágra jellemző, míg a gyakorlat olyan szokás, amelyet a felek egymás között kialakítottak, korábbi üzleti kapcsolatukban alkalmaztak, szubjektív, egyedi, belső, az adott felek közötti, így a szokás általános, a gyakorlat egyedi.
+
+48. Az együttműködési és tájékoztatási kötelezettségnek a Ptk. 6:62. § szerint az az alapja, hogy a jóhiszeműség és tisztesség elvéből (Ptk. 1:3. §) ered, a felek kötelesek jóhiszeműen, tisztességesen eljárni, együttműködni, tájékoztatni egymást, így védve a másik felet, biztosítva a fair eljárást, az információs egyensúlyt.
+
+49. A prekontrukális kötelezettség a szerződéskötési tárgyalások alatt áll fenn (a szerződés megkötése előtt, tárgyalások során), kontraktuális kötelezettség a szerződés fennállása alatt (a szerződés hatálya alatt, teljesítés során), posztkontrukális kötelezettség a szerződés megszüntetése során és után (a szerződés megszűnése után, elszámolás során), így három időbeli szakasz, mindháromban kötelezettség.
+
+50. A szerződés fogalma (a Ptk. 6:58. § szerint kölcsönös és egybehangzó jognyilatkozat, kötelezettség és jogosultság keletkezése) meghatározza a szerződés lényegét, a létrejöttének modellje (ajánlat a Ptk. 6:64. § + elfogadás a Ptk. 6:66. §, ajánlati kötöttség, ellenajánlat, késedelmes elfogadás) biztosítja a létrejöttés menetét, a szerződési szabadság elve (a Ptk. 6:59. § szerint kötési, partnerválasztási, típusválasztási, tartalmi szabadság, korlátokkal: kógens jogszabályok, jóerkölcs, közrend) biztosítja a felek autonómiáját, a szerződés tartalma (lényeges és nem lényeges feltételek, piaci ár, szokások és gyakorlat, együttműködési és tájékoztatási kötelezettség) biztosítja a tartalmi szabályozást, így együtt alkotnak egy koherens rendszert, amely biztosítja a szerződési szabadságot (a felek szabadon alakíthatják jogviszonyaikat), a jogbiztonságot (világos szabályok az ajánlat, elfogadás, létrejöttés időpontjáról és helyéről) és a forgalom biztonságát (az ajánlati kötöttség védi a címzettet, a konszenzus biztosítja a megállapodást, a piaci ár védi a határozatlanságtól), így a szerződéskötési szabályok átlátható, logikus rendszert alkotnak.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

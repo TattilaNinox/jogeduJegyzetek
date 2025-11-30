@@ -1,0 +1,258 @@
+AZ EGYESÜLET ÉS AZ ALAPÍTVÁNY
+
+I. Bevezetés: A Nonprofit Jogi Személyek
+
+Az **egyesület** és az **alapítvány** a **2013. évi V. törvény (Polgári Törvénykönyv)** által nevesített két alapvető **nonprofit** (civil) szervezeti forma, amelyek a **jogi személyek rendszerében** különleges helyet foglalnak el.
+
+**Közös jellemzőjük:**
+
+**1. Nonprofit jelleg**: Elsődleges céljuk **nem a gazdasági tevékenység** folytatása, hanem valamilyen közösségi, kulturális, tudományos, művészeti, sport, jótékonysági vagy más **közhasznú vagy közérdekű cél** megvalósítása.
+
+**2. Vagyonfelhasználási korlát** (Ptk. 3:63. § (4) bekezdés egyesületnél): "Az egyesület vagyonát céljának megfelelően használhatja, vagyonát nem oszthatja fel tagjai között, és a tagok részére nyereséget nem juttathat."
+
+Ez azt jelenti:
+- a vagyont csak a **célra** lehet használni;
+- a vagyont **nem lehet felosztani** a tagok/alapítók között;
+- **nyereséget nem lehet juttatni** nekik (osztalék, tagoknak való kifizetés).
+
+Ez éles ellentétben áll a gazdasági társaságokkal (Kft., Rt.), amelyek célja a profit termelése és a nyereség tagok közötti felosztása.
+
+**3. Közhasznú vagy közérdekű célok szolgálata**: Az egyesület és az alapítvány a **civil társadalom** működésének alapvető jogi keretei, amelyek biztosítják, hogy az államon és a piacon kívül is működjenek szervezett formák a közjó szolgálatára.
+
+
+II. Az Egyesület (Universitas Personarum – Személyegyesülés)
+
+Az **egyesület** **személyi közösségen** alapuló nonprofit jogi személy: a **tagok** (személyek) közössége hozza létre közös cél megvalósítására.
+
+**1. Az egyesület fogalma (Ptk. 3:63. §)**
+
+A **Ptk. 3:63. § (1) bekezdése** szerint:
+
+"(1) Az egyesület a tagok közös, tartós, alapszabályban meghatározott céljának folyamatos megvalósítására létesített, nyilvántartott tagsággal rendelkező jogi személy."
+
+Ez a definíció kifejezi az egyesület **lényegét**:
+
+- **Tagok közös célja**: az egyesületet a tagok közös célra hozzák létre;
+- **Tartós cél**: nem egyszeri, hanem folyamatos, tartós tevékenység;
+- **Alapszabályban meghatározott**: a cél az alapszabályban rögzített;
+- **Nyilvántartott tagság**: a tagokat nyilvántartják (tagnyilvántartás).
+
+**A Ptk. 3:63. § (2)-(3) bekezdései** szerint:
+
+"(2) Egyesület nem alapítható gazdasági tevékenység céljára.
+(3) Az egyesület az egyesületi cél megvalósításával közvetlenül összefüggő gazdasági tevékenység végzésére jogosult."
+
+Ez azt jelenti:
+- **Nem alapítható** gazdasági tevékenység **céljára** (nem lehet pl. kereskedelem az elsődleges cél);
+- **Végezhet** gazdasági tevékenységet, de csak **járulékosan**, az egyesületi cél megvalósítását **szolgálva** (pl. sportegyesület működtethet büfét).
+
+**2. Az egyesület létesítése (Ptk. 3:64. §)**
+
+"Az egyesület létrehozásához alapszabály elfogadása, az alapszabály elfogadásához legalább tíz személy egybehangzó akaratnyilatkozata szükséges."
+
+Az egyesület létesítéséhez:
+- **Alapszabály** elfogadása szükséges (létesítő okirat);
+- Legalább **tíz személy** egybehangzó akaratnyilatkozata kell.
+
+Az alapszabály az egyesület "alkotmánya": meghatározza a célt, a szervezetet, a működés szabályait, a tagok jogait és kötelezettségeit.
+
+**3. A tagsági jogviszony**
+
+**a) Az egyesületi tag jogállása (Ptk. 3:65. §)**
+
+A **Ptk. 3:65. § (1)-(2) bekezdései** szerint:
+
+"(1) Az egyesület tagja jogosult az egyesület tevékenységében részt venni.
+(2) Az egyesület tagjait egyenlő jogok illetik meg és egyenlő kötelezettségek terhelik, kivéve, ha az alapszabály különleges jogállású tagságot határoz meg."
+
+A tagok **egyenlőek**: egyenlő jogok és kötelezettségek (kivéve, ha az alapszabály eltérően rendelkezik, pl. tiszteletbeli tag, pártoló tag).
+
+A **Ptk. 3:65. § (4) bekezdése** szerint:
+
+"(4) Az egyesület tagja nem köteles vagyoni hozzájárulást teljesíteni. A tag az egyesület tartozásaiért saját vagyonával nem felel."
+
+Ez **korlátolt felelősség**: a tag **nem felel** személyes vagyonával az egyesület tartozásaiért. A tag nem is köteles vagyoni hozzájárulást teljesíteni (de az alapszabály előírhat **tagdíjat**).
+
+**b) A tagsági jogviszony keletkezése (Ptk. 3:67. §)**
+
+"(1) Az egyesületi tagság az alapításkor az egyesület nyilvántartásba vételével, az alapítást követően a belépési kérelemnek a közgyűlés általi elfogadásával keletkezik."
+
+**c) A tagsági jogviszony megszűnése (Ptk. 3:68. §)**
+
+"(1) A tagsági jogviszony megszűnik
+a) a tag kilépésével;
+b) a tagsági jogviszony egyesület általi felmondásával;
+c) a tag kizárásával;
+d) a tag halálával vagy jogutód nélküli megszűnésével."
+
+A tag **bármikor kiléphet** indokolás nélkül (Ptk. 3:68. § (2) bekezdés). Az egyesület **felmondhatja** a tagsági jogviszonyt, ha a tag nem felel meg a feltételeknek (Ptk. 3:69. §). Az egyesület **kizárhatja** a tagot súlyos vagy ismételt jogsértés esetén (Ptk. 3:70. §).
+
+**4. Az egyesület szervezete**
+
+**a) A közgyűlés (Ptk. 3:71. §)**
+
+A **Ptk. 3:71. § (1) bekezdése** szerint:
+
+"(1) Az egyesület döntéshozó szerve a közgyűlés."
+
+A **közgyűlés** az egyesület **legfőbb döntéshozó szerve**, amely a **tagok összességéből** áll. A közgyűlés dönt a legfontosabb kérdésekben (alapszabály módosítása, ügyvezetés megválasztása, költségvetés elfogadása stb.).
+
+A közgyűlés **évente legalább egyszer** ülésezik (Ptk. 3:72. § (1) bekezdés).
+
+**b) Az ügyvezetés**
+
+Az egyesület **ügyvezető szerve** lehet elnökség vagy ügyvezető, amely az egyesület **operatív irányítását** végzi, **képviseli** az egyesületet, és **végrehajtja** a közgyűlés határozatait.
+
+
+III. Az Alapítvány (Universitas Bonorum – Vagyonegyesülés)
+
+Az **alapítvány** **vagyonon** alapuló nonprofit jogi személy: az **alapító(k) által rendelt vagyon** szolgálja a cél megvalósítását, **tagság nélkül**.
+
+**1. Az alapítvány fogalma**
+
+Bár a Ptk. nem tartalmaz kifejezett definíciót, az alapítvány fogalma a szabályokból következik: az **alapító(k) által** egy **tartós cél** folyamatos megvalósítására rendelt, **meghatározott vagyonnal rendelkező**, **tagság nélküli** jogi személy.
+
+Az alapítvány jellemzői:
+- **Vagyonegyesülés**: a vagyon a lényeg, nem a személyek;
+- **Tagság nélküli**: nincs tagnyilvántartás, nincs tagok közössége;
+- **Tartós cél**: a vagyon hozadéka szolgálja a célt folyamatosan;
+- **Önálló szervezet**: kuratórium kezeli.
+
+**2. Az alapítvány létesítése**
+
+Az alapítvány létrehozható:
+
+**a) Alapító okirattal** (életben)
+
+Az **alapító** (egy vagy több személy) **egyoldalú jogügylettel** létesíti az alapítványt: **alapító okiratot** készít, amelyben meghatározza:
+- az alapítvány **célját**;
+- az alapítványnak juttatott **vagyont**;
+- az alapítvány **szervezetét** (kuratórium).
+
+**b) Végintézkedéssel** (Ptk. 3:388. §)
+
+"(1) Alapítvány írásbeli végrendeletben vagy öröklési szerződésben is létesíthető. Ilyen esetben a végintézkedésnek tartalmaznia kell az alapító okirat tartalmi elemeit.
+(3) A végrendeletben vagy öröklési szerződésben létesített alapítvány a nyilvántartásba vétellel az alapító halálának időpontjára visszamenő hatállyal jön létre."
+
+Az alapítvány **végrendeletben** vagy **öröklési szerződésben** is létesíthető. Ilyenkor az alapítvány az alapító **halálának időpontjára visszamenőleg** jön létre (jogi fikció).
+
+**Az alapítványi vagyon**:
+
+Az alapítónak **vagyont** kell juttatnia az alapítványnak. A minimum vagyon értéke **nem számszerűsített**, de az alapítvány működéséhez **szükségesnek** kell lennie. Az alapítónak legalább a működés megkezdéséhez szükséges vagyont a nyilvántartásba-vételi kérelem benyújtásáig, a teljes vagyont legkésőbb egy éven belül át kell ruháznia.
+
+**3. Az alapítvány szervezete és működése**
+
+**a) A kuratórium (Ptk. 3:397. §)**
+
+A **kuratórium** az alapítvány **ügyvezető szerve**, amely az alapítvány **irányítását** végzi, **képviseli** az alapítványt, és **kezeli** a vagyont.
+
+A kuratórium tagjai az alapítvány **vezető tisztségviselői**. A kuratórium **legalább három** természetes személyből áll (de lehet akár 15 is), akik közül legalább **kettőnek** állandó belföldi lakóhellyel kell rendelkeznie.
+
+A kuratórium tagjait az **alapító jelöli ki** az alapító okiratban (első kuratórium), később a kuratórium vagy az alapító választja/nevezi ki.
+
+**b) Az alapító jogai**
+
+Az alapítót a nyilvántartásba vétel után **korlátozott jogok** illetik meg:
+- **Az alapító okirat módosítása**: az alapító módosíthatja az alapító okiratot bizonyos kereteken belül;
+- **A kuratóriumi tagok visszahívása**: ha a működésük veszélyezteti az alapítvány célját;
+- **Felügyeleti jogok**: ellenőrizheti a kuratórium munkáját.
+
+**Fontos**: Az alapító **nem szüntetheti meg** az alapítványt (Ptk. 3:394. § (2) bekezdés): "Az alapító nem szüntetheti meg az alapítványt."
+
+Ez azt tükrözi, hogy az alapítvány a vagyon **elidegenítése**: az alapító leválik a vagyonról, az önálló jogi személlyé válik.
+
+**c) A kedvezményezettek**
+
+A **kedvezményezettek** azok a személyek vagy személyek köre, akiknek az alapítvány vagyona **juttatásokat nyújt** (pl. ösztöndíj, támogatás, segély). A kedvezményezettek **nem tagjai** az alapítványnak, csak **kedvezményezettjei**.
+
+**4. Az alapítvány megszűnése (Ptk. 3:394. §)**
+
+Az alapítvány jogutód nélkül megszűnik, ha:
+- az alapítvány a **célját megvalósította**, és az alapító új célt nem határozott meg;
+- az alapítvány **céljának megvalósítása lehetetlenné vált**, és a cél módosítására vagy más alapítvánnyal való egyesülésre nincs mód;
+- az alapítvány **három éven át** a célja megvalósítása érdekében **nem folytat tevékenységet**.
+
+A megszűnő alapítvány vagyona (a hitelezők kielégítése után) az **alapító okiratban megjelölt személyt** illeti meg. Ha nincs ilyen rendelkezés, a nyilvántartó bíróság **azonos vagy hasonló célú** szervezetnek juttatja.
+
+
+IV. Az Egyesület és az Alapítvány Összehasonlítása
+
+| **Szempont** | **Egyesület** | **Alapítvány** |
+|--------------|---------------|----------------|
+| **Latin elnevezés** | Universitas personarum (személyegyesülés) | Universitas bonorum (vagyonegyesülés) |
+| **Létrehozás alapja** | Személyi közösség (tagok) | Célvagyon (alapító vagyona) |
+| **Létesítő okirat** | Alapszabály (többoldalú) | Alapító okirat (egyoldalú) |
+| **Létesítők száma** | Legalább 10 személy | Egy vagy több alapító |
+| **Tagság** | Van (nyilvántartott tagság) | Nincs (tagság nélküli) |
+| **Legfőbb szerv** | Közgyűlés (tagok összessége) | Kuratórium (ügyvezető szerv) |
+| **Alapító(k) szerepe** | A működésben tagként vesz(nek) részt | Korlátozott, külső jogai (módosítás, visszahívás) |
+| **Felelősség** | Tagok nem felelnek | Alapító nem felel |
+| **Cél** | Tagok közös célja | Alapító által meghatározott cél |
+| **Vagyon** | Nem feltétel (lehet vagyontalan is) | Meghatározott vagyon szükséges |
+| **Gazdasági tevékenység** | Járulékosan, célhoz kapcsolódóan | Csak a működéshez szükséges mértékben |
+| **Megszüntetés** | Közgyűlés dönthet róla | Alapító NEM szüntetheti meg |
+| **Megszűnési ok** | Taglétszám 10 fő alá csökkenése | Cél megvalósulása/lehetetlenülése, 3 éves tétlenség |
+| **Vagyon sorsa megszűnéskor** | Alapszabályban megjelölt közhasznú szervezet | Alapító okiratban megjelölt személy, vagy hasonló célú szervezet |
+
+**Alapvető különbség:**
+
+- **Egyesület**: **személyek közössége** (tagok) hozza létre közös célra → **személyegyesülés**
+- **Alapítvány**: **vagyon** szolgál egy cél megvalósítására → **vagyonegyesülés**
+
+
+V. Összegzés
+
+Az **egyesület és az alapítvány** a **civil társadalom** működésének **alapvető jogi keretei**, amelyek különböző típusú társadalmi célok megvalósítására kínálnak hatékony szervezeti formát.
+
+**Az egyesület** (Ptk. 3:63-3:77. §):
+- **Személyegyesülés** (universitas personarum)
+- **Tagok** közös célja
+- **Közgyűlés** a legfőbb szerv
+- Legalább **10 tag** létesíti
+- **Demokratikus** működés (tagok döntenek)
+
+**Az alapítvány** (Ptk. 3:378-3:404. §):
+- **Vagyonegyesülés** (universitas bonorum)
+- **Alapító** célja
+- **Kuratórium** az ügyvezető szerv
+- **Egy vagy több** alapító létesíti
+- **Autokratikus** működés (alapító/kuratórium dönt)
+
+**A két eltérő modell előnyei:**
+
+**Egyesület előnyei:**
+- **Demokratikus**: a tagok közösen döntenek;
+- **Rugalmas**: a tagok változhatnak, beléphetnek, kiléphetnek;
+- **Participatív**: a tagok aktívan részt vesznek;
+- Alkalmas **közösségi célok** megvalósítására (sport, kultúra, hobbi).
+
+**Alapítvány előnyei:**
+- **Stabilitás**: a vagyon tartósan szolgálja a célt;
+- **Függetlenség**: az alapító szándéka érvényesül, nem függ a tagok változásától;
+- **Hosszú távúság**: a cél tartós megvalósítása biztosított;
+- Alkalmas **közérdekű célok** tartós szolgálatára (ösztöndíj, tudományos kutatás, műemlékvédelem).
+
+Az egyesület és az alapítvány így **kiegészítik egymást**: az egyesület a **személyek közös cselekvésére**, az alapítvány a **vagyon tartós célra fordítására** épül. Mindkét forma **nélkülözhetetlen** a modern civil társadalom működéséhez, és biztosítja, hogy a közhasznú és közérdekű célok hatékonyan, szervezett formában megvalósuljanak.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

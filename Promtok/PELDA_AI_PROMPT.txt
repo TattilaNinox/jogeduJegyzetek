@@ -1,0 +1,67 @@
+================================================================================
+KONKRÉT PÉLDA: HOGYAN ADJ ÁT INPUTOT AZ AI-NAK
+================================================================================
+
+LÉPÉS 1: Másold be ezt a szöveget az AI prompt mezőbe:
+
+---
+
+@VEGLEGES_PROFESSZIONALIS_PROMPT_2.0.txt
+
+Olvasd el a fenti fájlt, majd generáld le a memóriapalota leírást és podcast scriptet a következő tételhez:
+
+A POLGÁRI JOG ALAPVETŐ ELVEI
+
+[Itt jön a tétel teljes tartalma...]
+
+⚠️ KRITIKUS SZABÁLYOK - MINDEN MONDATNÁL ELLENŐRIZD! ⚠️
+
+1. "Ez logikus? Lehetséges a valóságban?"
+   ❌ TILOS: "deszka pulzál", "fémlemezből golyó gurul"
+   ✅ JÓ: "deszka mellett lámpák pulzálnak", "golyó kiesik a dobozból"
+
+2. "Ez a tárgy valós? Konkrét? Nem absztrakt?"
+   ❌ TILOS: "tükör", "kristály", "üveg", "gömb", "mechanizmus"
+   ✅ JÓ: "lámpa", "fémlemez", "fogaskerék", "mérleg"
+
+3. "A leírás tömör? Maximum 2-3 szó?"
+   ❌ TILOS: "fekete fémből készült, precíziós tolmácsgép"
+   ✅ JÓ: "tolmácsgép", "mérleg", "lámpa"
+
+4. "A tárgy tulajdonságai kapcsolódnak a tananyaghoz?"
+   ✅ JÓ: "két szintből álló piramis" (ha van "két szint" a tananyagban)
+   ❌ ROSSZ: "fekete tolmácsgép" (ha nincs "fekete" a tananyagban)
+
+5. "Az ok-okozati lánc folyamatos? Nem szakad meg?"
+   ✅ JÓ: "golyó eléri a kockát, és amikor eléri, a rugó összenyomódik"
+   ❌ ROSSZ: "golyó eléri a kockát." [új bekezdés] "Ez a korrekciós funkció?"
+
+FONTOS: Csak lámpák, fények tudnak pulzálni! Deszka, pálca, pecsét, tábla stb. NEM tud pulzálni!
+
+---
+
+LÉPÉS 2: Az AI generálja a szöveget
+
+LÉPÉS 3: Ellenőrizd a generált szöveget:
+
+1. Keresd meg: "pulzál" → Ha deszka, pálca, pecsét mellett van → JAVÍTSD!
+2. Keresd meg: "tükör", "kristály", "üveg", "gömb" → Ha van → JAVÍTSD!
+3. Keresd meg: "fémlemezből" → Ha golyó gurul vagy fénysugár lövell → JAVÍTSD!
+4. Minden tárgy leírásnál: maximum 2-3 szó? → Ha több → JAVÍTSD!
+5. Minden ok-okozati láncnál: folytatódik-e? → Ha nem → JAVÍTSD!
+
+LÉPÉS 4: Javítsd ki a hibákat
+
+LÉPÉS 5: Ismételd az ellenőrzést, amíg nincs hiba
+
+================================================================================
+AUTOMATIKUS ELLENŐRZÉS (OPCIONÁLIS):
+================================================================================
+
+A generálás után futtasd:
+python script/ellenoriz_generalas.py "Tételek/podcast/fájl_neve.txt"
+
+Ez automatikusan megtalálja a hibákat!
+
+================================================================================
+

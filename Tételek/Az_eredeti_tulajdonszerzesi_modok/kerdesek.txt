@@ -1,0 +1,118 @@
+1. Milyen dogmatikai jelentősége van a nemo plus iuris elv érvényesülésének a származékos szerzésmódoknál, és miért nem érvényesül az eredeti szerzésmódoknál?
+
+2. Hogyan kapcsolódik össze az eredeti szerzésmód és a tehermentes tulajdonszerzés, és miért tekinthető ez az eredeti szerzés legfontosabb joghatásának?
+
+3. Milyen elméleti problémát vet fel az, hogy az eredeti szerzésmód megszakítja a tulajdonjogok láncolatát?
+
+4. Miért tekinthető az eredeti szerzésmód "új tulajdonjog" keletkezésének, szemben a származékos szerzésmód "átszállásával"?
+
+5. Hogyan igazolja a tehermentes szerzés elve azt, hogy az eredeti szerzésmódnál valóban új tulajdonjog keletkezik?
+
+6. Milyen összefüggés van a korábbi tulajdonosi jog függetlensége és az eredeti szerzésmód között?
+
+7. Miért tekinthető a Ptk. 5:41. § (1) bekezdése szerinti hatósági határozat vagy hatósági árverés eredeti tulajdonszerzésnek?
+
+8. Hogyan értelmezendő a Ptk. 5:41. § (1) bekezdésének fordulata, hogy "tekintet nélkül arra, hogy korábban ki volt a tulajdonos"?
+
+9. Milyen jogpolitikai indokot tükröz az, hogy a végrehajtási árverésen történő szerzés eredeti szerzésmód?
+
+10. Miért szükséges a Ptk. 5:41. § (4) bekezdése szerint a jóhiszeműség a tehermentes szerzéshez hatósági árverés esetén?
+
+11. Hogyan viszonyul egymáshoz a kisajátítás mint hatósági határozat és az eredeti tulajdonszerzés jellege?
+
+12. Milyen dogmatikai szerepe van az időnek az elbirtoklás jogintézményében?
+
+13. Miért különböztet meg a Ptk. 5:44. § (1) bekezdése eltérő elbirtoklási időt ingó dolgok (10 év) és ingatlanok (15 év) esetén?
+
+14. Hogyan értelmezendő a "sajátkénti birtoklás" fogalma az elbirtoklás feltételeként?
+
+15. Milyen elméleti ellentmondást old fel az, hogy az elbirtokló nem tulajdonos, mégis "sajátjaként" birtokolja a dolgot?
+
+16. Miért követeli meg a Ptk. 5:44. § (1) bekezdése a birtoklás "szakadatlanságát" az elbirtoklás feltételeként?
+
+17. Hogyan különbözik a jogcímes elbirtoklás (Ptk. 5:45. §) rövidebb ideje (5 év) a rendes elbirtoklástól?
+
+18. Milyen jogpolitikai célt szolgál a jogcímes elbirtoklás kedvezőbb szabályozása (5 év ingatlaonknál)?
+
+19. Miért szükséges a Ptk. 5:45. § szerint, hogy a birtokos az ellenszolgáltatást teljesítette legyen a jogcímes elbirtokláshoz?
+
+20. Hogyan értelmezendő a Ptk. 5:48. § szerinti elbirtoklás nyugvása, és milyen méltányossági funkciót tölt be?
+
+21. Milyen különbség van az elbirtoklás nyugvása és megszakadása között a jogkövetkezmények szempontjából?
+
+22. Miért szakítja meg az elbirtoklást a Ptk. 5:49. § (1) bekezdés a) pontja szerint a tulajdonos bírósági úton való követelése?
+
+23. Hogyan viszonyul egymáshoz a tulajdonos tulajdonosi jogának gyakorlása és az elbirtoklás megszakadása a Ptk. 5:49. § (1) bekezdés b) pontja szerint?
+
+24. Milyen jogpolitikai indokot tükröz a Ptk. 5:49. § (1) bekezdés c) pontja, hogy a birtokos birtokvesztése megszakítja az elbirtoklást?
+
+25. Miért tekinthető az elbirtoklás megszakadása drasztikus jogkövetkezménynek a birtokos szempontjából?
+
+26. Hogyan kapcsolódik össze a Ptk. 5:50. § (1) bekezdése szerinti tulajdonszerzés terméken, terményen és szaporulaton az eredeti szerzésmód fogalmával?
+
+27. Milyen jogokat említ a Ptk. 5:50. § (1) bekezdése, amelyek jogosítják a jogosultat a termékek tulajdonbavételére?
+
+28. Miért keletkezik a tulajdonjog az "elválással" a Ptk. 5:50. § szerint, nem pedig korábban?
+
+29. Hogyan igazolja a jóhiszemű birtokos terméken való tulajdonszerzése (Ptk. 5:50. § (3) bekezdés) a jóhiszeműség védelmét a dologi jogban?
+
+30. Milyen dogmatikai elhatárolást szolgál a gazdátlan és az elveszett dolog megkülönböztetése?
+
+31. Miért nem lehet ingatlan gazdátlan a Ptk. rendszerében, csak ingó dolog?
+
+32. Hogyan értelmezendő a Ptk. 5:52. § (2) bekezdése szerinti "tulajdonról való lemondás szándékával" való felhagyás?
+
+33. Milyen szerepet tölt be az animus rem sibi habendi (tulajdonszerzés szándéka) a gazdátlan dolog elsajátításánál?
+
+34. Miért tekinthető az uratlan dolog (még soha senkinek sem volt tulajdona) klasszikus eredeti szerzésmódnak?
+
+35. Hogyan különbözik a találás a gazdátlan dolog elsajátításától a Ptk. rendszerében?
+
+36. Milyen kötelezettségeket ró a Ptk. 5:55. § a találóra, és hogyan biztosítják ezek a tulajdonos védelmét?
+
+37. Miért követeli meg a Ptk. 5:54. § (1) bekezdése, hogy a találó "megtett mindent annak érdekében, hogy a dolgot a tulajdonos visszakaphassa"?
+
+38. Hogyan értelmezendő az egyéves határidő (élő állatnál 3 hónap) a találásnál, és milyen jogpolitikai funkciót tölt be?
+
+39. Miért rövidebb az élő állat esetén a határidő (3 hónap), mint általában a találásnál (1 év)?
+
+40. Milyen összefüggés van a találó igénytartási nyilatkozata és a tulajdonszerzés között?
+
+41. Hogyan viszonyul egymáshoz a feldolgozás, az egyesülés és a vegyülés mint eredeti szerzésmódok?
+
+42. Miért keletkezik közös tulajdon a Ptk. szerint, ha mások dolgai úgy keverednek, hogy a szétválasztás aránytalan károsodással járna?
+
+43. Hogyan biztosítja a Ptk. 5:51. § szerinti növedék szabálya (accessio elve) a föld tulajdonosának jogait?
+
+44. Milyen elméleti alapon nyugszik az accessio elve, hogy "ami a földdel tartósan egyesül, annak tulajdonjoga a föld tulajdonosát illeti"?
+
+45. Miért tesz kivételt a Ptk. 5:51. §, hogy "ha az valamely jogviszony alapján mást illet"?
+
+46. Hogyan valósít meg a Ptk. 5:39. § (2)-(3) bekezdése szerinti kereskedelmi forgalomban való szerzés eredeti szerzésmódot?
+
+47. Milyen paradoxont rejt magában az, hogy a kereskedelmi forgalomban való szerzés formálisan származékos, de joghatásaiban eredeti szerzésmód?
+
+48. Miért átlépi a kereskedelmi forgalomban való szerzés a nemo plus iuris elvét, és milyen jogpolitikai célt szolgál ez?
+
+49. Hogyan biztosítja a Ptk. 5:39. § (4) bekezdése szerinti tehermentes szerzés a jóhiszemű vásárló védelmét?
+
+50. Milyen kiegyensúlyozott rendszert alkotnak az eredeti tulajdonszerzési módok a jogbiztonság, a forgalom biztonsága és a méltányosság szolgálatában?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

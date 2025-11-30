@@ -1,0 +1,119 @@
+1. Az érvénytelenség mint eredeti hiba a szerződés létrejöttekor fennálló súlyos hiba, amely miatt nem váltja ki a joghatásokat, míg a hatálytalanság vagy szerződésszegés mint utólagos hiba a szerződés létrejötte után keletkező hiba, amely a szerződés megszűnését vagy jogkövetkezményeket eredményez.
+
+2. Az érvénytelenség három eleme: eredeti hiba (a szerződés létrejöttekor fennálló hiba), súlyos hiba (olyan súlyú, hogy nem lehet érvényesnek tekinteni, törvényben meghatározott), joghatások elmaradása (nem váltja ki a kívánt joghatásokat, nem keletkeznek jogok és kötelezettségek vagy nem érvényesíthetők).
+
+3. A semmisség abszolút, feltétlen érvénytelenség, ipso iure érvénytelen, a bíróság hivatalból észleli, bárki hivatkozhat rá aki jogi érdeket igazol, míg a megtámadhatóság relatív, feltételes érvénytelenség, csak eredményes megtámadással válik érvénytelenné, csak a sérelmet szenvedett fél támadhatja meg, egyéves határidővel.
+
+4. Ha a semmis szerződés megkötésének időpontjától érvénytelen, akkor ex tunc hatállyal, visszamenőleg semmis, automatikusan, a törvény erejénél fogva, nincs szükség külön eljárásra, megtámadásra, bírósági megállapításra, így ipso iure érvénytelen.
+
+5. Az ipso iure (a törvény erejénél fogva) érvénytelenség azt jelenti, hogy automatikusan, a megkötésének időpontjától érvénytelen, nincs szükség megtámadásra, azonnal, feltétel nélkül, míg a feltételes érvénytelenség azt jelenti, hogy csak eredményes megtámadással válik érvénytelenné, feltétel: megtámadás, így az ipso iure azonnali, a feltételes késleltetett.
+
+6. Ha a bíróság hivatalból (ex officio) észleli a semmisséget, akkor köteles figyelembe venni, még akkor is, ha a felek nem hivatkoznak rá, és nem ítélheti meg a semmis szerződés alapján a teljesítést, így védelmet biztosítva, megakadályozva a semmis szerződések érvényesülését.
+
+7. A 2013. évi Ptk. szerint a Ptk. 6:88. § (3) bekezdése alapján a semmisségre az hivatkozhat, akinek jogi érdeke fűződik, jogi érdek igazolása szükséges, míg a régi Ptk. szerint bárki hivatkozhatott, jogi érdek nélkül is, így az újítás szűkíti a jogosultak körét, megakadályozva a visszaélésszerű hivatkozást.
+
+8. Ha a semmisségre időbeli korlát nélkül lehet hivatkozni, kivéve az általános elévülést (5 év), akkor a semmisség bármikor megállapítható, nem szűnik meg az idő múlásával, de az általános elévülés (5 év) korlátot jelent, így a semmisség tartós, de nem örökkévaló, az elévülés korlátot szab.
+
+9. A közérdekben okozott sérelem és az uzsorás szerződés esetén a Ptk. 6:88. § (4) bekezdése szerint az ügyész keresetet indíthat, közérdekből, anélkül hogy személyes jogi érdeke lenne, míg más semmisségi okok esetén csak az indíthat keresetet, akinek jogi érdeke fűződik, így különbség van a jogosultságban, az ügyész szélesebb jogosultsággal bír ezekben az esetekben.
+
+10. A jogszabályba ütközés vagy jogszabály megkerülése mint semmisségi ok jogi alapja a Ptk. 6:95. § szerint az, hogy a szerződés ellentétes a jogszabállyal vagy kijátsza annak célját, így sérti a jogrendet, közérdeket, ezért nem lehet érvényes, semmis.
+
+11. A jogszabályba ütköző szerződés a Ptk. 6:95. § szerint olyan, amely ellentétes egy jogszabály rendelkezésével (például cselekvőképtelen személy szerződése, kötelező alakiság nélkül), nyíltan sérti a jogszabályt, míg a jogszabály megkerülésével kötött szerződés formálisan megfelel a jogszabálynak, de célja a jogszabály céljának kijátszása (színlelt szerződés, látszatügylet), rejtetten sérti.
+
+12. Ha a Ptk. 6:96. § szerint semmis az a szerződés, amely nyilvánvalóan a jóerkölcsbe ütközik, akkor az erkölcsileg elfogadhatatlan szerződések nem érvényesek (prostitúciós szerződés, bérgyilkosság), így védve az erkölcsi normákat, biztosítva, hogy a jog ne támogassa az erkölcstelen magatartásokat.
+
+13. A jóerkölcs az adott társadalomban általánosan elfogadott erkölcsi normák, értékítéletek összessége, erkölcsi mérce, szubjektívebb, míg a jogszabály konkrét, írott norma, objektívebb, így a jóerkölcs tágabb, rugalmasabb, a jogszabály szűkebb, konkrétabb, mindkettő korlátozhatja a szerződési szabadságot.
+
+14. Az uzsorás szerződés a Ptk. 6:97. § szerint három feltételt tartalmaz: a másik fél helyzetének kihasználása (kényszerhelyzet, tapasztalatlanság, szorult helyzet), feltűnően aránytalan előny kikötése (szolgáltatás és ellenszolgáltatás között nagy aránytalanság), és a kettő között okozati összefüggés (a kihasználás miatt sikerült az aránytalan előnyt kikötni), így mindhárom konjunktív feltétel.
+
+15. A másik fél helyzetének kihasználása azt jelenti, hogy a fél kényszerhelyzetben van, tapasztalatlan, szorult helyzetben, és ezt a másik fél kihasználja, szubjektív elem, míg a feltűnően aránytalan előny azt jelenti, hogy a szolgáltatás és ellenszolgáltatás értéke között nagy aránytalanság van, objektív elem, így az egyik szubjektív, a másik objektív.
+
+16. Az uzsorás szerződés semmisségének következménye a sérelmet szenvedő fél védelmében a Ptk. 6:113. § (3) bekezdése szerint, hogy a bíróság elengedheti a visszatérítést, ha az súlyos helyzetbe hozná a sérelmet szenvedő felet, és a sérelmet okozó fél csak az aránytalan előnynek megfelelő részt kapja vissza, így különös védelem.
+
+17. A lehetetlen szolgáltatásra irányuló szerződés olyan, amely objektíve lehetetlen, egyáltalán nem teljesíthető (például a Hold eladása, halott személy munkavégzése), míg a nehezen teljesíthető szerződés csak nehéz, de lehetséges (drága, bonyolult, de elvégezhető), így a lehetetlen semmis, a nehéz érvényes.
+
+18. Annak, hogy a cselekvőképtelen személy jognyilatkozata semmis, a Ptk. 2:14. § és 2:22. § szerint az az alapja, hogy nincs belátási képessége, nem tudja felmérni a következményeket, védelem szükséges, így a jognyilatkozata nem lehet érvényes, kivéve csekély jelentőségű szerződéseket.
+
+19. A cselekvőképtelen személy szerződése főszabály szerint semmis, nem váltja ki a joghatásokat, védelem a cselekvőképtelen számára, míg a csekély jelentőségű, teljesített szerződések kivétel a Ptk. 2:14. § (2) és 2:22. § (2) bekezdései szerint, nem semmisek, érvényesek, ha teljesítettek és mindennapi életben tömegesen előfordulnak, így a főszabály semmisség, a kivétel érvényesség.
+
+20. Ha a jogszabály kötelező alakiságot ír elő, és a szerződés ezt nem tartja be, akkor a Ptk. 6:94. § szerint a szerződés semmis, például ingatlan adás-vételi szerződésnek írásbelinek kell lennie, ha szóban kötik, semmis, így az alaki hiba semmisséget eredményez, védve a forma jelentőségét.
+
+21. A megtámadható szerződés feltételes érvénytelensége azt jelenti, hogy a szerződés a megkötésekor érvényesen létrejön, joghatásokat vált ki, de csak akkor válik érvénytelenné, ha a jogosult eredményesen megtámadja, feltétel: megtámadás, míg a semmis szerződés feltétlen érvénytelensége azt jelenti, hogy automatikusan, a megkötésének időpontjától érvénytelen, nincs feltétel, azonnal.
+
+22. Ha a megtámadható szerződés csak az eredményes megtámadás következtében válik érvénytelenné, akkor a Ptk. 6:89. § (1) bekezdése szerint addig érvényes, joghatásokat vált ki, teljesíthető, csak a megtámadással válik érvénytelenné visszamenőleg, így a megtámadás konstitutív (létrehozó) aktus, létrehozza az érvénytelenséget.
+
+23. A sérelmet szenvedett fél az, akit a hiba közvetlenül érint, akit megtévesztettek, tévedésben volt, fenyegettek, őt illeti meg elsődlegesen a megtámadás joga, míg más személyek csak akkor jogosultak, ha jogi érdekük fűződik, közvetett érintettség, így a sérelmet szenvedett fél elsődleges, mások másodlagosak.
+
+24. Az egyéves jogvesztő határidő a megtámadhatóság esetében a Ptk. 6:89. § (3) bekezdése szerint biztosítja, hogy a megtámadási jog egy éven belül gyakorolandó, elmulasztása esetén a jog elvész, a szerződés érvényessé válik (konvalidáció), így jogbiztonságot teremtve, a jogviszonyok ne legyenek hosszú ideig bizonytalanok.
+
+25. A jogvesztő határidő elmulasztása jogvesztéssel jár, a jog véglegesen megszűnik, nem hosszabbítható meg, nem szakítható meg (bár nyugodhat), míg az elévülés csak az igény bírósági kikényszeríthetőségét korlátozza, az alanyi jog fennmarad, így a jogvesztő határidő véglegesebb, szigorúbb.
+
+26. Ha a megtámadási határidő nyugszik, amíg a jogosult a megtámadási okot nem ismerte, akkor a Ptk. 6:89. § (3) bekezdése szerint az idő nem telik, amíg nem tudja vagy nem kellene tudnia az okot, csak a tudomásszerzéstől kezdődik, így védve a jogosultat, hogy ne veszítse el a jogát, mielőtt egyáltalán tudna róla.
+
+27. A megerősítés azt jelenti, hogy a jogosult a megtámadási ok ismeretében megerősíti a szerződési akaratát, elfogadja a szerződést a hiba ellenére, kifejezett vagy ráutaló magatartással, míg a lemondás azt jelenti, hogy lemond a megtámadás jogáról, kifejezett nyilatkozattal, mindkettő megszünteti a megtámadás jogát, konvalidációt eredményez.
+
+28. Annak, hogy a konvalidáció (utólagos érvényessé válás) lehetséges a megtámadhatóság esetében, az az alapja, hogy a megtámadható szerződés enyhébb hibával rendelkezik, amelyet a felek elfogadhatnak, és ha a jogosult nem támadja meg (nem él a jogával), vagy megerősíti, vagy lemond, a szerződés érvényessé válik, így tiszteletben tartva a felek akaratát.
+
+29. A tévedés azt jelenti, hogy a fél valamely lényeges körülmény tekintetében tévedésben volt, nem tudatos akarathiány, nem szándékos (a Ptk. 6:90. § szerint a másik fél okozta vagy felismerhette), míg a megtévesztés azt jelenti, hogy a másik fél szándékos magatartásával tévedésbe ejtette vagy tévedésben tartotta, tudatos, szándékos rosszhiszemű magatartás (a Ptk. 6:91. § (1) bekezdés szerint), így a tévedés nem szándékos, a megtévesztés szándékos.
+
+30. A tévedésnek a Ptk. 6:90. § szerint tényre kell vonatkoznia (nem értékítéletre, véleményre), lényeges körülményre kell vonatkoznia (amelynek ismeretében a fél nem vagy más tartalommal kötötte volna meg), és a tévedést a másik félnek okoznia vagy felismernie kellett, így három feltételnek kell teljesülnie.
+
+31. A tényre vonatkozó tévedés objektív tényállásra vonatkozik, konkrét, megállapítható (például a festmény antik vagy hamisítvány), megtámadási ok lehet, míg az értékítéletre vonatkozó tévedés szubjektív véleményre vonatkozik, nem objektív (például szép vagy csúnya), nem megtámadási ok, így csak a tényre vonatkozó tévedés releváns.
+
+32. Ha a tévedést a másik fél okozta vagy felismerhette, akkor a Ptk. 6:90. § szerint kapcsolat van a másik fél és a tévedés között, a másik fél felelős vagy tudhatott róla, így megtámadási ok, de ha nem okozta és nem is ismerhette fel, nincs kapcsolat, nem megtámadási ok.
+
+33. A tévedésbe ejtés azt jelenti, hogy a másik fél aktívan valótlan információt közöl, aktív, szándékos cselekvés (hazudik, hamis adatot ad), míg a tévedésben tartás azt jelenti, hogy elhallgat lényeges körülményt, passzív, szándékos mulasztás (nem mond el fontos dolgot), így az egyik aktív, a másik passzív, mindkettő megtévesztés a Ptk. 6:91. § (1) bekezdése szerint.
+
+34. Annak, hogy a megtévesztés súlyosabb, mint a tévedés, az az alapja, hogy szándékos, tudatos, rosszhiszemű magatartás, a másik fél szándékosan tévedésbe ejti, erkölcsileg elítélendőbb, míg a tévedés nem szándékos, a másik fél csak okozta vagy felismerhette, így a megtévesztés erkölcsileg súlyosabb.
+
+35. A jogellenes fenyegetés jogellenesen félelmet kelt a másik félben, hogy hátrány éri, ha nem köti meg a szerződést, jogellenes (például erőszakkal, garázsda fenyegeti), megtámadási ok, míg a jogszerű figyelmeztetés jogszerűen figyelmezteti a következményekre (például ha nem fizet, pert indít), jogszerű, nem megtámadási ok, így a jogellenesség a különbség.
+
+36. Ahhoz, hogy a fenyegetés megtámadási okot képezzen, a Ptk. 6:91. § (2) bekezdése szerint jogellenesnek kell lennie (nem elég a fenyegetés ténye, jogellenes fenyegetés kell, például erőszakkal való fenyegetés, família bántalmazásával való fenyegetés), és a fenyegetés hatására kell megkötni a szerződést (okozati összefüggés), így két feltételnek kell teljesülnie.
+
+37. A feltűnő értékaránytalanság a Ptk. 6:98. § szerint megtámadási ok, relatív érvénytelenség, egyéves határidővel, csak a sérelmet szenvedett fél támadhatja meg, enyhébb, míg az uzsorás szerződés a Ptk. 6:97. § szerint semmisségi ok, abszolút érvénytelenség, bárki hivatkozhat rá aki jogi érdeket igazol, súlyosabb, így különbség van a súlyosságban és a jogkövetkezményekben.
+
+38. Ha a feltűnő értékaránytalanságot felismerő vagy annak kockázatát vállaló fél nem támadhatja meg a szerződést, akkor a Ptk. 6:98. § (1) bekezdése szerint védelem csak a jóhiszemű, nem felismerő félnek jár, aki nem tudta vagy nem vállalta a kockázatot, így a rosszhiszemű vagy kockázatvállaló fél nem védett.
+
+39. Az ingyenes juttatási szándék azt jelenti, hogy a fél ajándékozni akar, szándékosan ad ingyenesen, tudatosan, elfogadja az aránytalanságot (ajándékozás), kizárja a feltűnő értékaránytalanság miatti megtámadást, míg a feltűnő értékaránytalanság azt jelenti, hogy nincs ingyenes juttatási szándék, visszterhes ügylet, de nagy aránytalanság van, megtámadási ok, így az ajándékozási szándék kizárja a megtámadást.
+
+40. Annak, hogy a Ptk. 6:108. § szerint érvénytelen szerződésre jogosultságot alapítani és teljesítést követelni nem lehet, az az alapja, hogy az érvénytelen szerződés nem váltja ki a kívánt joghatásokat, nem keletkeznek jogok és kötelezettségek (vagy nem érvényesíthetők), így egyik fél sem követelheti a teljesítést a másiktól, a szerződés nem kötelező.
+
+41. Az eredeti állapot helyreállítása (restitutio in integrum) a Ptk. 6:112. § szerint a felek visszatérítik a teljesített szolgáltatásokat természetben, visszaállítva az eredeti állapotot, főszabály, elsődleges jogkövetkezmény, míg más jogkövetkezmények (érvényessé nyilvánítás, pénzbeni megtérítés) másodlagosak, alternatívák, csak ha az eredeti állapot nem állítható helyre, így hierarchia van.
+
+42. Ahhoz, hogy az eredeti állapot helyreállítása alkalmazható legyen, mindkét fél részéről természetben lehetséges kell hogy legyen a visszatérítés (a teljesített szolgáltatások léteznek, visszaadhatók), és az értékegyensúly fenntartható kell hogy legyen, így feltételek, ha nem teljesülnek, más jogkövetkezmény alkalmazandó.
+
+43. A természetbeni visszatérítés a Ptk. 6:112. § szerint azt jelenti, hogy a felek visszaadják magát a dolgot, szolgáltatást, amit kaptak, eredeti állapot helyreállítása, főszabály, míg a pénzbeni megtérítés a Ptk. 6:113. § szerint azt jelenti, hogy pénzben térítik meg az ellenszolgáltatás nélkül maradt szolgáltatás értékét, pénzbeli elszámolás, másodlagos, így a természetbeni elsődleges, a pénzbeni másodlagos.
+
+44. Az értékegyensúly fenntartásának követelménye a Ptk. 6:112. § (2) bekezdése szerint biztosítja, hogy az eredeti állapot helyreállítása során gondoskodni kell a szolgáltatások eredeti értékegyensúlyának fenntartásáról, ne gazdagodjon egyik fél sem, ne szegényedjen, így igazságos, méltányos eredmény, védve mindkét felet.
+
+45. A bírósági érvényessé nyilvánítás visszamenő hatállyal (konvalidáció) a Ptk. 6:110. § szerint azt jelenti, hogy a bíróság érvényessé nyilvánítja a szerződést ex tunc hatállyal, visszamenőleg, a szerződés érvényessé válik, mintha mindig is érvényes lett volna, míg az eredeti állapot helyreállítása azt jelenti, hogy visszatérítik a szolgáltatásokat, a szerződés érvénytelen marad, így az egyik érvényessé teszi, a másik érvénytelenként kezeli.
+
+46. A Ptk. 6:110. § (1) bekezdése szerint két esetben: ha az érvénytelenség miatti érdeksérelem a szerződés megfelelő módosításával kiküszöbölhető (a hiba kijavítható, például feltűnő értékaránytalanság megszüntetése), vagy ha az érvénytelenség oka utóbb megszűnt (a hiányzó feltétel teljesült, például hatósági engedélyt megszerezték), így két alternatív feltétel.
+
+47. Az alaptalan gazdagodás pénzbeni megtérítése ("hatályosítás") a Ptk. 6:113. § szerint azt jelenti, hogy pénzben térítik meg az ellenszolgáltatás nélkül maradt szolgáltatás értékét, úgy tekinti, mintha a szerződés eddig hatályos volt (ex nunc), pénzbeli elszámolás, míg az eredeti állapot helyreállítása azt jelenti, hogy természetben térítik vissza a szolgáltatásokat, mintha nem is kötötték volna meg (ex tunc), így különbség van a hatályban és a visszatérítés módjában.
+
+48. A részleges érvénytelenség a Ptk. 6:114. § szerint azt jelenti, hogy csak az érvénytelennel érintett rész dől meg, a többi érvényes marad, főszabály, de az egész szerződés akkor dől meg, ha feltehető, hogy a felek az érvénytelen rész nélkül nem kötötték volna meg, így a részleges érvénytelenség védi a szerződés fennmaradását.
+
+49. Az érvénytelen szerződésből eredő kárigények a Ptk. 6:115. § (2) bekezdése szerint a szerződésen kívül okozott károkért való felelősség (deliktuális felelősség) szabályai szerint rendezendők, kártérítés, míg a járulékos igények (hasznok, kamatok, költségek) a jogalap nélküli birtoklás vagy gazdagodás szabályai szerint, így különbség van a jogcímben és a szabályozásban.
+
+50. Az érvénytelenség fajtái (semmisség: abszolút, súlyosabb hibák, szigorúbb; megtámadhatóság: relatív, enyhébb hibák, rugalmasabb) differenciált megközelítést biztosítanak a hiba súlyától függően, az okai (jogszabályba ütközés, jóerkölcsbe ütközés, uzsorás szerződés, tévedés, megtévesztés, fenyegetés, feltűnő értékaránytalanság) lefedik a különböző hibatípusokat, a jogkövetkezményei (eredeti állapot helyreállítása, érvényessé nyilvánítás, pénzbeni megtérítés, részleges érvénytelenség) rugalmas, méltányos megoldásokat kínálnak, így együtt alkotnak egy koherens rendszert, amely a szerződési forgalom tisztaságát és biztonságát védi (érvénytelen szerződések nem érvényesülnek), a felek akarati autonómiáját tiszteletben tartja (megtámadhatóság, konvalidáció), és méltányos, igazságos megoldásokat biztosít (különböző jogkövetkezmények, védelem a sérelmet szenvedő félnek), így egyszerre szolgálva a jogbiztonságot, az igazságosságot és a szerződési forgalom védelmét.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

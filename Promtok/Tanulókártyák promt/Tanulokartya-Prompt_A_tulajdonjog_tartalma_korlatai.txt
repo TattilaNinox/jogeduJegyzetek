@@ -1,0 +1,85 @@
+Témaspecifikus AI Feladatprompt – Tanulókártya Kérdésbank Generálás: A tulajdonjog tartalma, korlátai
+
+Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkészülését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat a "forrasok" mappa teljes tartalmában találod. Emellett a fő forrás a kidolgozott tétel, amelynek elérési útvonalát alább adom meg. Feltétlen használd fel ezeket a forrásokat, és idézd pontosan, szóról szóra azokat a jogszabályokat, amelyek a jelen témakörhöz kapcsolódnak. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd.
+
+Kidolgozott tétel forrásfájl:
+
+forrasok\2013. évi V. törvény a Polgári Törvénykönyvről.txt.txt, forrasok\PJZV_HEJ_MR-kidolgozott tételek.txt,forrasok\VÉKÁS-GÁRDOS_ PTK KOMMENTÁR_2018 január 1-től hatályos.txt
+
+
+
+Feladat:
+Készíts pontosan [50] darab EGYETEMI SZINTŰ kérdést és választ az alább részletezett tananyagból a tanulási folyamat támogatására.
+
+A Témakör: A tulajdonjog tartalma, korlátai
+A kérdések és válaszok alapját a következő strukturális és tartalmi követelmények képezik:
+
+I. Bevezetés: A Tulajdonjog Abszolút Jellege
+- Definiáld a **tulajdonjog** fogalmát a **Ptk. 5:13. §** alapján, mint a tulajdonost megillető teljes és kizárólagos jogi hatalmat a dolgon.
+- Emeld ki a tulajdonjog **abszolút szerkezetét**: a tulajdonossal szemben mindenki más kötelezett a jog sértésétől való tartózkodásra.
+- Tárgyald a tulajdonjog jelentőségét, mint a piacgazdaság alapját képező vagyoni jogot, amelynek védelmét az Alaptörvény is biztosítja.
+
+II. A Tulajdonjog Tartalma: A Tulajdonosi Részjogosítványok
+- Részletezd a tulajdonjog tartalmát alkotó klasszikus "szent hármasságot" (triász):
+    - **1. A birtoklás joga (ius possidendi):** A dolog feletti tényleges hatalom gyakorlásának joga.
+    - **2. A használat és a hasznok szedésének joga (ius utendi et fruendi):**
+        - A dolog állagának sérelme nélküli használata.
+        - A dologból származó "gyümölcsök" (természetes és polgári hasznok) beszedésének joga.
+    - **3. A rendelkezési jog (ius disponendi):** A tulajdonos legteljesebb jogosítványa.
+        - A dolog birtokának, használatának átengedése másnak.
+        - A dolog megterhelése (pl. haszonélvezettel, zálogjoggal).
+        - A tulajdonjog átruházása másra.
+        - A tulajdonjoggal való felhagyás (ingók esetében).
+
+III. A Tulajdonjog Korlátai:
+- Rendserezd a tulajdonjog korlátait, amelyek megmutatják, hogy a "teljes" jogi hatalom sem korlátlan:
+    - **1. A tulajdonjog általános (belső) korlátai:**
+        - A Ptk. alapelvei, különösen a **joggal való visszaélés tilalma**.
+    - **2. A tulajdonjog külső korlátai:**
+        - **A szomszédjogok (Ptk. 5:25-26. §):** A szomszédos ingatlanok tulajdonosainak egymás közötti viszonyát szabályozó, a szükségtelen zavarás tilalmára épülő normarendszer (pl. áthajló ágak, átszálló gyökerek, zaj- és immisszióvédelem).
+        - **A túlépítés szabályai.**
+        - **A közérdekű használat (Ptk. 5:27. §):** Hatósági határozaton alapuló korlátozás, amelyért a tulajdonost kártalanítás illeti meg (pl. vezetékjog).
+        - **A kisajátítás:** A tulajdonjog végső, közérdekből, törvényben meghatározott esetekben és módon, teljes, azonnali és feltétlen kártalanítás ellenében történő elvonása.
+        - **Elidegenítési és terhelési tilalom:** A rendelkezési jog szerződésen vagy bírósági/hatósági határozaton alapuló korlátozása.
+
+IV. Összegzés:
+- Foglald össze, hogy a tulajdonjog tartalma és korlátai együttesen határozzák meg a tulajdonos jogi mozgásterét.
+- Hangsúlyozd a szabályozás mögött meghúzódó egyensúlyt: az egyéni tulajdonosi szabadság lehető legteljesebb biztosítása, ugyanakkor a mások jogainak és a közösség érdekeinek védelme.
+
+Kérdésekre vonatkozó szabályok:
+- A kérdések legyenek EGYETEMI SZINTŰ, nehéz szintűek – kerüld az egyszerű definíciós jellegű kérdéseket.
+- Minden kérdés legyen egyértelmű, gondolkodtató, a tananyag mélyebb megértését mérje.
+- A kérdések legyenek változatosak: tárjanak fel fogalmakat, ok-okozati összefüggéseket, különbségeket, gyakorlati vonatkozásokat a fenti témakörön belül.
+- A kérdések között ne legyen ismétlés. Tilos a duplikálás a kérdésekben és a válaszokban is!
+
+Válaszokra vonatkozó szabályok:
+- Minden kérdéshez tartozzon egyetlen, egyértelmű válasz.
+- A válasz ne legyen túl hosszú (1–3 mondat).
+- A válasz közvetlenül kapcsolódjon a kérdéshez, ne tartalmazzon felesleges információt.
+
+Kimeneti formátum:
+A kimenet a `Tételek` mappába kerüljön. Ott hozz létre egy mappát a témakör nevével (pl. `A_tulajdonjog_tartalma_korlatai`), és a következő három fájlt ebbe az új mappába generáld:
+
+1.  **Kérdések (Előlap)** – csak az [50] kérdés felsorolva. Fájlnév: `kerdesek.txt`
+2.  **Válaszok (Hátlap)** – az [50] kérdéshez tartozó [50] válasz felsorolva, sorrendben megegyezően. Fájlnév: `valaszok.txt`
+3.  **Magyarázatok (Indoklás)** – Minden kártyához legalább 2 mondatos indoklás, magyarázat, ami tartalmazza a vonatkozó jogszabályok szövegét is. Az indoklásnál a számozás kell, de ne legyenek címek, csak a tartalom. Ne szerepeljen benne, hogy pld: Magyarázat:, vagy Indoklás:. Szigorúan TILOS, hogy az indoklás szövege egyezzen akár a kérdéssel, akár a kérdésre adott válasszal! Fájlnév: `magyarazatok.txt`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

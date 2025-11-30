@@ -1,0 +1,204 @@
+Szia! Most akkor vegyük sorra a kártérítés általános szabályait! Ez egy gyakorlati és fontos téma. Kezdjük az alapokkal! Mi a különbség a reparatív kompenzációs funkció és a szankcionáló funkció között a kártérítés céljai szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának első bekezdése szerint a károkozó a károsult teljes kárát köteles megtéríteni?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a teljes kártérítés elve és a részleges kártérítés között, és milyen jogi védelmet biztosít a teljes kártérítés elve a károsult számára?
+
+<break time="5s"/>
+
+Értem! És milyen jogi alapja van a resztitúció in integrüm elvének, és hogyan kapcsolódik ez a teljes kártérítés elvéhez?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a prevenciós funkció és a szankcionáló funkció között a kártérítés céljai szempontjából?
+
+<break time="5s"/>
+
+Értem! Most térjünk a kár fogalmára! Milyen három elemet tartalmaz a Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának második bekezdése szerinti teljes kártérítés fogalma?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a felmerült kár, damnüm emérgenész, és az elmaradt vagyoni előny, lükrüm cesszánsz, között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a felmerült kár már bekövetkezett, objektíven mérhető veszteség, míg az elmaradt haszon jövőbeli, bizonytalan esemény?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a károsult vagyonának csökkenése és a károsult vagyonának nem gyarapodása között a kár fogalmában?
+
+<break time="5s"/>
+
+Értem! És milyen bizonyítási eszközök állnak rendelkezésre a felmerült kár megállapításához?
+
+<break time="5s"/>
+
+Világos! Most térjünk az elmaradt haszonra! Mi a különbség a bizonyosan bekövetkezett volna haszon és a puszta lehetőség között az elmaradt haszon megállapításánál?
+
+<break time="5s"/>
+
+Értem! És milyen mércét alkalmaz a bíróság az elmaradt haszon megállapításánál, és miért nehezebb megállapítani, mint a felmerült kárt?
+
+<break time="5s"/>
+
+Világos! Most térjünk a költségekre! Mi a különbség a károsultat ért vagyoni hátrányok kiküszöböléséhez szükséges költségek és a felmerült kár között?
+
+<break time="5s"/>
+
+Értem! És milyen feltételeknek kell megfelelnie ahhoz, hogy egy költség indokoltnak minősüljön a Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának második bekezdés c pontja szerint?
+
+<break time="5s"/>
+
+Világos! És mi a különbség az objektíve szükséges, célszerű és arányos költségek között az indokolt költségek megállapításánál?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a károsult köteles bizonyítani a kár minden elemét és összegét?
+
+<break time="5s"/>
+
+Világos! Most térjünk a kártérítés módjára! Mi a különbség a pénzbeli kártérítés és a természetbeni kártérítés között a Polgári Törvénykönyv hatodik könyvének ötszázhuszonhetedik paragrafusa alapján?
+
+<break time="5s"/>
+
+Értem! És milyen jogi alapja van annak, hogy a Polgári Törvénykönyv hatodik könyvének ötszázhuszonhetedik paragrafusának első bekezdése szerint a pénzbeli kártérítés a főszabály?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a pénzbeli kártérítés előnyei, egyszerű, rugalmas, univerzális, és a természetbeni kártérítés előnyei, valódi helyreállítás, között?
+
+<break time="5s"/>
+
+Értem! És milyen feltételeknek kell megfelelnie ahhoz, hogy a természetbeni kártérítés alkalmazható legyen?
+
+<break time="5s"/>
+
+Világos! Most térjünk a bíróság döntési jogkörére! Mi a különbség a Polgári Törvénykönyv hatodik könyvének ötszázhuszonhetedik paragrafusának harmadik bekezdése szerint a bíróság hivatalbóli döntési jogköre és a felek akaratának tiszteletben tartása között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a bíróság nem alkalmazhatja azt a kártérítési módot, amely ellen valamennyi fél tiltakozik?
+
+<break time="5s"/>
+
+Világos! Most térjünk a járadékra! Mi a különbség a járadék és a pénzbeli kártérítés, egyszeri összeg, között?
+
+<break time="5s"/>
+
+Értem! És milyen feltételeknek kell megfelelnie a járadéknak a Polgári Törvénykönyv hatodik könyvének ötszázhuszonhetedik paragrafusának második bekezdése szerint?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a jövedelempótló járadék és a tartást pótló járadék között?
+
+<break time="5s"/>
+
+Értem! És milyen két tényező együttes figyelembevételével kell megállapítani a jövedelempótló járadékot a Polgári Törvénykönyv hatodik könyvének ötszázhuszonnyolcadik paragrafusa szerint?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a teljes munkaképtelenség és a részleges munkaképtelenség között a jövedelempótló járadék szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a Polgári Törvénykönyv hatodik könyvének ötszázhuszonkilencedik paragrafusának második bekezdése szerint a tartást pótló járadék jár akkor is, ha a meghalt személy ténylegesen nem nyújtott tartást?
+
+<break time="5s"/>
+
+Világos! Most térjünk a járadék módosítására! Mi a különbség a járadék meghatározásánál figyelembe vett körülmények lényeges megváltozása és a változatlan körülmények között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi alapja van a Polgári Törvénykönyv hatodik könyvének ötszázharmincadik paragrafusa szerinti klauzsula rébus zsik sztántibusz elvének a járadék módosításában?
+
+<break time="5s"/>
+
+Világos! Most térjünk a kárenyhítési kötelezettségre! Mi a különbség a kárenyhítési kötelezettség három típusa, kármegelőzési, kárelhárítási, kárenyhítési, között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a károsult felróhatóan megsérti a kárenyhítési kötelezettségét?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a károsult passzív magatartása és az aktív, kárcsökkentő magatartás között a kárenyhítési kötelezettség szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen jogi alapja van annak, hogy az e kötelezettségek felróható megszegése miatt keletkezett kárt a károkozó nem köteles megtéríteni?
+
+<break time="5s"/>
+
+Világos! Most térjünk a kármegosztásra! Mi a különbség a kármegosztás három szempontja, felróhatóság aránya, közrehatás aránya, egyenlő arány, között?
+
+<break time="5s"/>
+
+Értem! És milyen hierarchikus sorrendet követ a Polgári Törvénykönyv hatodik könyvének ötszázhuszonötödik paragrafusának második bekezdése a kármegosztás megállapításánál?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a felróhatóság arányában való megosztás és a közrehatás arányában való megosztás között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha sem a felróhatóság, sem a közrehatás aránya nem állapítható meg?
+
+<break time="5s"/>
+
+Világos! Most térjünk a vagyoni előnyökre! Mi a különbség a kompenzáció lükri kum damnó elve és a káronszerzés tilalma között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának harmadik bekezdése szerint a károkozásból származó vagyoni előnyöket el kell számolni?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a biztosítási összeg, segély és alapítványi támogatás között a károkozásból származó vagyoni előnyök szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen feltételeknek kell megfelelnie ahhoz, hogy a bíróság ne számolja el a vagyoni előnyt?
+
+<break time="5s"/>
+
+Világos! Most térjünk a méltányossági mérséglésre! Mi a különbség a méltányossági mérséglés és a teljes kártérítés elve között?
+
+<break time="5s"/>
+
+Értem! És milyen feltételeknek kell megfelelnie ahhoz, hogy a bíróság a Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának negyedik bekezdése szerint méltányosságból mérsékelje a kártérítést?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a különös méltánylást érdemlő körülmények és a szokásos körülmények között a méltányossági mérséglés szempontjából?
+
+<break time="5s"/>
+
+Értem! Most térjünk az általános kártérítésre! Milyen jogi következménye van annak, hogy a Polgári Törvénykönyv hatodik könyvének ötszázharmincegyedik paragrafusa szerint ha a kár mértéke nem állapítható meg, általános kártérítésnek van helye?
+
+<break time="5s"/>
+
+Világos! És mi a különbség az általános kártérítés, becslés, és a pontos kár megállapítása között?
+
+<break time="5s"/>
+
+Értem! Most térjünk az inflációra! Milyen jogi következménye van annak, hogy a Polgári Törvénykönyv hatodik könyvének ötszázharmincnegyedik paragrafusa szerint az inflációs kockázat főszabály szerint a károkozót terheli?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a károkozáskori értékviszonyok és az ítélethozatalkori értékviszonyok között?
+
+<break time="5s"/>
+
+És végül, hogyan biztosítják a kártérítés szabályai a károsult teljes vagyoni kompenzációját, és hogyan ösztönzik a károsultat aktív, kárcsökkentő magatartásra, alkotva egy kiegyensúlyozott rendszert?
+
+<break time="5s"/>
+
+Remek! Akkor most már átlátjuk a kártérítés általános szabályainak összetett rendszerét! Köszönöm szépen ezt a részletes áttekintést!
+
+<break time="5s"/>
+

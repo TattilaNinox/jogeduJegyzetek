@@ -1,0 +1,24 @@
+================================================================================
+GYORS REFERENCIA - MINDEN GENERÁLÁS ELŐTT
+================================================================================
+
+1. Másold be: @VEGLEGES_PROFESSZIONALIS_PROMPT_2.0.txt
+2. Add hozzá a tételt
+3. Add hozzá ezt:
+
+⚠️ KRITIKUS SZABÁLYOK:
+- Csak VALÓS tárgyak (fogaskerék, mérleg, lámpa, deszka)
+- Csak LOGIKUS cselekmények (lámpa kigyullad, golyó gurul)
+- TILOS: tükör, kristály, üveg, gömb
+- TILOS: deszka pulzál, pálca pulzál, pecsét pulzál
+- Tömör leírás (max 2-3 szó)
+- Tulajdonságok csak akkor, ha kapcsolódnak a tananyaghoz
+- Folyamatos ok-okozati lánc
+
+4. Generálj
+5. Ellenőrizd: keresd meg "pulzál", "tükör", "fémlemezből"
+6. Javítsd ki
+7. Kész!
+
+================================================================================
+

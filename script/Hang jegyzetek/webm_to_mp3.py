@@ -139,22 +139,65 @@ def convert_webm_to_mp3(input_file, output_file, bitrate=128):
         True ha sikeres, False ha nem
     """
     try:
+        # Abszolút útvonalak és Windows-kompatibilis formátum
+        input_path = Path(input_file).resolve()
+        output_path = Path(output_file).resolve()
+        
+        # Windows-on forward slash-okat használunk az ffmpeg számára
+        input_str = str(input_path).replace('\\', '/')
+        output_str = str(output_path).replace('\\', '/')
+        
         cmd = [
             'ffmpeg',
-            '-i', str(input_file),
-            '-codec:a', 'libmp3lame',
-            '-b:a', f'{bitrate}k',
+            '-i', input_str,
+            '-vn',  # Nincs video (csak audio)
+            '-codec:a', 'libmp3lame',  # Audio codec
+            '-b:a', f'{bitrate}k',  # Audio bitrate
             '-y',  # Felülírja a kimeneti fájlt ha létezik
-            str(output_file)
+            output_str
         ]
         
         result = subprocess.run(cmd, 
                       capture_output=True, 
-                      check=True)
+                      check=True,
+                      text=True,
+                      encoding='utf-8',
+                      errors='ignore',
+                      timeout=600)  # 10 perc timeout nagy fájlokhoz
         return True
     except subprocess.CalledProcessError as e:
-        error_msg = e.stderr.decode('utf-8', errors='ignore') if e.stderr else str(e)
-        print(f"Hiba a konverzio soran: {error_msg[:200]}")
+        # Az ffmpeg a stderr-re írja a hibákat és a verziót is
+        error_msg = ''
+        if e.stderr:
+            if isinstance(e.stderr, bytes):
+                error_msg = e.stderr.decode('utf-8', errors='ignore')
+            else:
+                error_msg = str(e.stderr)
+        elif e.stdout:
+            if isinstance(e.stdout, bytes):
+                error_msg = e.stdout.decode('utf-8', errors='ignore')
+            else:
+                error_msg = str(e.stdout)
+        else:
+            error_msg = str(e)
+        
+        # Keresünk a hibaüzenetben releváns információkat (kihagyjuk a verziót)
+        error_lines = error_msg.split('\n') if error_msg else []
+        # Keresünk olyan sorokat, amelyek tartalmaznak hibát (nem csak verziót)
+        relevant_errors = [line for line in error_lines if any(keyword in line.lower() for keyword in ['error', 'invalid', 'cannot', 'not found', 'no such', 'failed', 'unable'])]
+        
+        if relevant_errors:
+            print(f"Hiba a konverzio soran:")
+            for err_line in relevant_errors[:5]:  # Maximum 5 releváns hiba sor
+                print(f"  {err_line}")
+        else:
+            # Ha nincs releváns hiba, mutassuk az utolsó sorokat
+            last_lines = error_lines[-10:] if len(error_lines) > 10 else error_lines
+            print(f"Hiba a konverzio soran (utolso sorok):")
+            for err_line in last_lines:
+                if err_line.strip():  # Csak nem üres sorokat
+                    print(f"  {err_line}")
+        
         return False
 
 def convert_with_size_limit(input_file, output_file):
@@ -258,7 +301,8 @@ def main():
     sys.stdout.flush()
     
     # Útvonalak beállítása
-    base_dir = Path(__file__).parent.parent
+    # A script a script/Hang jegyzetek/ mappában van, szóval 2x parent = script, 3x parent = projekt gyökér
+    base_dir = Path(__file__).parent.parent.parent
     mp3_dir = base_dir / 'MP3'
     
     print(f"Kereses a kovetkezo mappaban: {mp3_dir}")

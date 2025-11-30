@@ -1,0 +1,393 @@
+A KÁRTÉRÍTÉS ÁLTALÁNOS SZABÁLYAI, A FELELŐSSÉG MÓDJA, MÉRTÉKE
+
+I. Bevezetés: A Kártérítési Kötelezettség Célja
+
+A **kártérítés** a polgári jog egyik legfontosabb szankciója és jogorvoslati eszköze, amely a jogellenes károkozás jogkövetkezményeként a károkozót terhelő kötelezettséget jelenti. A kártérítés alapvető **célja** a **reparatív-kompenzációs funkció**: a károsultat olyan vagyoni helyzetbe hozni, **mintha a károkozás meg sem történt volna** (restitutio in integrum).
+
+Ez a cél a **2013. évi V. törvény (Polgári Törvénykönyv) 6:522. § (1) bekezdésében** megfogalmazott **teljes kártérítés elvében** ölt testet:
+
+"(1) A károkozó a károsult teljes kárát köteles megtéríteni."
+
+A **teljes kártérítés elve** a magyar kártérítési jog **vezérelve**, amely azt jelenti, hogy a kártérítésnek **teljesnek** kell lennie: le kell fednie a károsult által elszenvedett teljes kárt, nem lehet csak részleges. A károsultnak nem kell megelégednie részleges kártérítéssel – joga van a teljes kár megtérítésére.
+
+A kártérítés funkciói a reparatív-kompenzációs funkción túl:
+
+**1. Szankcionáló funkció**: A kártérítési kötelezettség szankció a jogellenes magatartásért, amely elrettent a jogsértéstől.
+
+**2. Prevenciós funkció**: A kártérítés lehetősége ösztönzi az embereket arra, hogy gondosan, körültekintően járjanak el, és elkerüljék a károkozást.
+
+**3. Igazságszolgáltatási funkció**: A kártérítés helyreállítja az igazságosságot azzal, hogy a jogtalanul elszenvedett kárt a károkozó viseli.
+
+Ugyanakkor a teljes kártérítés elvének **korlátai** is vannak, amelyeket részletesen tárgyalunk a IV. fejezetben (kárenyhítési kötelezettség, kármegosztás, méltányossági mérséklés).
+
+
+II. A Kár Fogalma és Elemei
+
+A **kár** a károsult vagyonában bekövetkezett hátrányos változás, csökkenés. A kár **pontos meghatározása** rendkívül fontos, mert a kártérítés terjedelme ettől függ.
+
+A **Ptk. 6:522. § (2) bekezdése** részletesen meghatározza a kár elemeit:
+
+"(2) A teljes kártérítés körében a károkozó köteles megtéríteni
+a) a károsult vagyonában beállott értékcsökkenést;
+b) az elmaradt vagyoni előnyt; és
+c) a károsultat ért vagyoni hátrányok kiküszöböléséhez szükséges költségeket."
+
+Ez a **hármas tagolás** az európai és magyar jogban klasszikusan alkalmazott rendszer, amely biztosítja a kár teljes körű megragadását.
+
+**1. A károsult vagyonában beállott értékcsökkenés (damnum emergens – felmerült kár)**
+
+Ez a **tényleges, már bekövetkezett vagyoni veszteség**, amelyet a károsult vagyonában a kár következtében elszenvedett. A károsult vagyona **csökkent**: olyan értéktől esett el, amellyel korábban rendelkezett.
+
+Ide tartozik:
+- a **megsemmisült dolog értéke** (pl. leégett ház, törött műtárgy);
+- az **elveszett dolog értéke** (pl. ellopott vagy megsemmisült vagyontárgy);
+- a **megrongálódott dolog értékcsökkenése** (pl. a balesetben sérült autó piaci értékének csökkenése);
+- a **kijavítás ellenére fennmaradó értékcsökkenés** (pl. a kijavított autó értéke alacsonyabb, mint a sértetlen autóé volt);
+- a **sérülés miatti munkaképesség-csökkenés** (mint a munkaerő értékének csökkenése).
+
+A felmerült kár meghatározása általában viszonylag egyszerű, mert **már bekövetkezett**, objektíven mérhető veszteségről van szó. A bizonyítás eszközei: számlák, szakértői értékbecslés, piaci árak, bizonylatok.
+
+**2. Az elmaradt vagyoni előny (lucrum cessans – elmaradt haszon)**
+
+Ez az az érték, **amellyel a károsult vagyona akkor gyarapodott volna, ha a károsító magatartás nem következik be**. A károsult vagyona nem csökkent (mint a damnum emergensnél), hanem **nem gyarapodott** olyan mértékben, ahogy károkozás nélkül gyarapodott volna.
+
+Ide tartozik:
+- az **elmaradt munkabér** (ha a károsult munkaképtelenné vált);
+- az **elmaradt üzleti nyereség** (ha a károkozás miatt nem tudta folytatni vállalkozását);
+- az **elmaradt bérleti díj** (ha a megrongált ingatlant nem tudta kiadni);
+- az **elmaradt hozam** (kamat, osztalék stb.).
+
+Az elmaradt haszon meghatározása **nehezebb**, mint a felmerült káré, mert:
+- **jövőbeli, bizonytalan eseményekről** van szó;
+- **valószínűsíteni** kell, hogy a haszon valóban bekövetkezett volna;
+- figyelembe kell venni a **reális kilátásokat**, nem puszta spekulációt.
+
+A bíróság az **általános életmenet szabályai** alapján, a **valószínűség és ésszerűség** mércéjével határozza meg, hogy milyen vagyoni előny maradt el. Nem követelhető meg, hogy a károsult **bizonyosan** megszerezte volna az előnyt, de nem is elegendő a puszta lehetőség – **reális esélynek** kellett fennállnia.
+
+**3. A károsultat ért vagyoni hátrányok kiküszöböléséhez szükséges költségek**
+
+Ez azoknak a **költségeknek és kiadásoknak** a megtérítését jelenti, amelyek a károsultat ért hátrány csökkentéséhez, elhárításához vagy kiküszöböléséhez szükségesek.
+
+Ide tartozik:
+- **gyógykezelési költségek** (orvos, kórház, gyógyszer, rehabilitáció);
+- **keresetkiesés pótlásának költségei** (pl. helyettesítő munkaerő bére);
+- **helyreállítási költségek** (pl. a megrongált dolog javítása);
+- **szállítási, utazási költségek** (pl. orvoshoz járás költsége);
+- **jogi képviselet költsége** (a kártérítési perben felmerülő ügyvédi költség);
+- **szakértői díjak** (a kár megállapításához szükséges szakértői vizsgálat).
+
+Fontos, hogy csak az **indokolt költségek** téríthetők meg. A költség akkor indokolt, ha:
+- **objektíve szükséges** volt a kár elhárításához vagy csökkentéséhez;
+- **célszerű** volt (a társadalmi felfogás szerint ésszerű);
+- **arányos** volt a kár nagyságával.
+
+Nem követelhető meg, hogy a károsult a **legolcsóbb megoldást** válassza, de a **pazarló, túlzottan költséges** megoldás sem indokolt.
+
+**A kár egységes fogalma**
+
+Ezek a három elem együttesen alkotják a **teljes kárt**, amelyet a károkozó köteles megtéríteni. A bíróság az egyes elemeket külön-külön megállapítja, és összesíti őket. A károsult köteles **bizonyítani** a kár minden elemét és összegét.
+
+
+III. A Kártérítés Módja
+
+A kártérítésnek különböző **módjai** lehetnek attól függően, hogy milyen formában térítik meg a kárt. A **Ptk. 6:527. §-a** szabályozza a kártérítés módját:
+
+"(1) A károkozó a kárt pénzben köteles megtéríteni, kivéve, ha a körülmények a kár természetben való megtérítését indokolják.
+(2) A jövőben rendszeresen felmerülő károk megtérítésére a bíróság időszakonként visszatérően előre fizetendő, meghatározott összegű járadékot is meghatározhat.
+(3) A bíróság a kártérítés módjának meghatározásánál nincs kötve a károsult kérelméhez; a kártérítésnek azt a módját nem alkalmazhatja, amely ellen valamennyi fél tiltakozik."
+
+**1. Pénzbeli kártérítés (főszabály)**
+
+A **Ptk. 6:527. § (1) bekezdésének első mondata** szerint a károkozó a kárt **pénzben** köteles megtéríteni. Ez a **főszabály**, amely a legtöbb esetben alkalmazandó.
+
+A pénzbeli kártérítés előnyei:
+- **Egyszerű és gyors** lebonyolítás;
+- **Rugalmas**: a károsult szabadon dönthet a pénz felhasználásáról;
+- **Univerzális**: minden kár pénzben kifejezhető;
+- **Objektív**: a pénz értékmérője egyértelmű.
+
+A pénzbeli kártérítés összege a **kár teljes értéke** a kár bekövetkezésének időpontjában fennálló árak szerint, de a **Ptk. 6:534. § (1) bekezdése** szerint:
+
+"(1) Ha a károkozás és az ítélethozatal között az időmúlásra vagy egyéb körülményre tekintettel az értékviszonyokban jelentős változás következett be, a bíróság az okozott kár mértékét az ítélethozatal időpontjában fennállt értékviszonyok szerint határozhatja meg."
+
+Ez azt jelenti, hogy ha a károkozás és az ítélet között infláció vagy más értékváltozás következett be, a bíróság az **ítélethozatal időpontjában fennálló értékviszonyok** szerint határozhatja meg a kárt, biztosítva ezzel a károsult számára a **vásárlóérték** megtérítését.
+
+**2. Természetbeni kártérítés (kivétel)**
+
+A **Ptk. 6:527. § (1) bekezdésének második fele** szerint a pénzbeli kártérítés helyett természetbeni kártérítésnek van helye, "ha a körülmények a kár természetben való megtérítését indokolják."
+
+A természetbeni kártérítés azt jelenti, hogy a károkozó **nem pénzt fizet**, hanem:
+- **maga állítja helyre** az eredeti állapotot (pl. kijavítja a megrongált dolgot, helyreállítja az elpusztított kertet);
+- **ugyanolyan dolgot ad** a károsultnak, mint ami megsemmisült vagy elveszett;
+- **szolgáltatást nyújt** a kár kompenzálására.
+
+A természetbeni kártérítés akkor indokolt, ha:
+- az **eredeti állapot helyreállítása lehetséges** és célszerű;
+- a károsult ezt **elfogadja vagy igényli**;
+- ez **megfelelőbb kompenzációt** jelent, mint a pénz (pl. egyedi, pótolhatatlan dolog esetén).
+
+A természetbeni kártérítés előnye, hogy **valódi helyreállítást** eredményez; hátránya, hogy nehézkesebb lebonyolítani.
+
+Fontos, hogy a **Ptk. 6:527. § (3) bekezdése** szerint:
+
+"(3) A bíróság a kártérítés módjának meghatározásánál nincs kötve a károsult kérelméhez; a kártérítésnek azt a módját nem alkalmazhatja, amely ellen valamennyi fél tiltakozik."
+
+Ez azt jelenti, hogy a bíróság **hivatalból is elrendelheti** a természetbeni kártérítést, ha azt a körülmények indokolják, még akkor is, ha a károsult pénzbeli kártérítést kért. Ugyanakkor nem alkalmazhatja azt a módot, amely ellen **valamennyi fél** tiltakozik.
+
+**3. Járadék (speciális mód)**
+
+A **Ptk. 6:527. § (2) bekezdése** szerint:
+
+"(2) A jövőben rendszeresen felmerülő károk megtérítésére a bíróság időszakonként visszatérően előre fizetendő, meghatározott összegű járadékot is meghatározhat."
+
+A **járadék** olyan kártérítési mód, amely a **jövőben rendszeresen felmerülő károk** megtérítésére szolgál. A járadék **időszakonként** (általában havonta) **visszatérően**, **előre fizetendő**, **meghatározott összegű** pénzbeli szolgáltatás.
+
+A járadék tipikusan olyan esetekben alkalmazandó, amikor a kár **tartósan, folyamatosan** jelentkezik:
+
+**a) Jövedelempótló járadék (Ptk. 6:528. §)**
+
+A **Ptk. 6:528. § (1) bekezdése** szerint:
+
+"(1) Akinek munkaképessége a károkozás folytán csökkent, akkor követelhet jövedelempótló járadékot, ha a káreset utáni jövedelme az azt megelőző időszak jövedelmét neki fel nem róható okból nem éri el."
+
+A jövedelempótló járadék azt kompenzálja, hogy a károsult **munkaképességének csökkenése** miatt **tartósan kevesebb jövedelmet** szerez, mint korábban. Ez lehet teljes munkaképtelenség (ekkor a teljes jövedelem-kiesés térül meg) vagy részleges munkaképtelenség (ekkor a jövedelem-csökkenés térül meg).
+
+A **Ptk. 6:528. § (2) bekezdése** szerint:
+
+"(2) A jövedelempótló járadékot a munkaképesség-csökkenés és a bekövetkezett jövedelemkiesés mértékének együttes vizsgálata alapján kell meghatározni."
+
+A járadék összegét tehát **két tényező együttes figyelembevételével** kell megállapítani: a munkaképesség orvosi-szakértői úton megállapított csökkenése és a tényleges jövedelemkiesés.
+
+**b) Tartást pótló járadék (Ptk. 6:529. §)**
+
+A **Ptk. 6:529. § (1) bekezdése** szerint:
+
+"(1) Tartást pótló járadéknak van helye a károkozás folytán meghalt személlyel szemben tartásra jogosult részére. A károkozó a tartást pótló járadék fizetésére abban az esetben is köteles, ha magatartásának e következménye nem volt előrelátható."
+
+A tartást pótló járadék azt kompenzálja, hogy a **károsodás következtében meghalt személy** már nem tud tartást nyújtani azoknak, akik vele szemben tartásra jogosultak voltak (pl. kiskorú gyermek, házastárs, szülő).
+
+A tartásra jogosultak tipikusan:
+- a **kiskorú gyermekek**;
+- a **rászoruló házastárs**;
+- a **rászoruló szülők**.
+
+A **Ptk. 6:529. § (2) bekezdése** szerint:
+
+"(2) A károkozó a tartást pótló járadék fizetésére akkor is köteles, ha a meghalt személy tartási kötelezettségének megszegésével nem nyújtotta ténylegesen a tartást, vagy a járadékot igénylő a tartási igényét menthető okból nem érvényesítette."
+
+Ez azt jelenti, hogy a tartást pótló járadék jár akkor is, ha a meghalt személy **ténylegesen nem nyújtott tartást** (bár köteles lett volna rá). Ez védi a tartásra jogosultakat.
+
+**c) A járadék megváltoztatása vagy megszüntetése (Ptk. 6:530. §)**
+
+"A járadék meghatározásánál figyelembe vett körülmények lényeges megváltozása esetén bármelyik fél kérheti a járadék mértékének és a járadékfizetés időtartamának megváltoztatását vagy a járadékfizetési kötelezettség megszüntetését."
+
+Ez a **clausula rebus sic stantibus** elve: ha a körülmények lényegesen megváltoznak (pl. a károsult jövedelme jelentősen javul, vagy a károkozó tehetősségi viszonyai romlanak), a járadék **módosítható vagy megszüntethető**.
+
+
+IV. A Kártérítés Mértékének Meghatározása
+
+A kártérítés mértékének meghatározásánál különböző **elvek és szabályok** érvényesülnek, amelyek részben a teljes kártérítés elvét korlátozzák, részben pontosítják.
+
+**1. Kárenyhítési kötelezettség (Ptk. 6:525. §)**
+
+A **Ptk. 6:525. § (1) bekezdése** szerint:
+
+"(1) A károsultat kármegelőzési, kárelhárítási és kárenyhítési kötelezettség terheli. Az e kötelezettségek felróható megszegése miatt keletkezett kárt a károkozó nem köteles megtéríteni."
+
+Ez alapvető jelentőségű rendelkezés: a károsult **nem lehet passzív**, nem "ülhet a kárán", hanem **aktívan köteles közreműködni** a kár megelőzésében, elhárításában és csökkentésében.
+
+A károsult kötelezettségei:
+
+**a) Kármegelőzési kötelezettség**
+
+A károsult köteles olyan magatartást tanúsítani, amely a **kár bekövetkeztét megakadályozza**. Ez tulajdonképpen általános gondossági kötelezettség: mindenki köteles ésszerű óvintézkedéseket tenni saját vagyonának védelmében.
+
+Példák:
+- veszélyes helyzetben figyelmeztetés, tiltó tábla felállítása;
+- a megrongált dolog használatának beszüntetése, hogy további kár ne keletkezzen;
+- biztosítási szerződés kötése.
+
+**b) Kárelhárítási kötelezettség**
+
+A károsult köteles a **már kezdődő, de még be nem következett kárt elhárítani**. Ez azt jelenti, hogy ha a károkozás folyamata már elkezdődött, de a kár még nem következett be teljesen, a károsult köteles közbelépni, hogy a kárt megakadályozza.
+
+Példák:
+- tűz esetén gyors beavatkozás, oltás;
+- szivárgás esetén a víz elzárása;
+- veszélyforrás eltávolítása.
+
+**c) Kárenyhítési kötelezettség**
+
+A károsult köteles a **már bekövetkezett kár további növekedését megakadályozni, csökkenteni**. Ez azt jelenti, hogy a kár bekövetkezése után a károsult köteles mindent megtenni, ami tőle ésszerűen elvárható, hogy a kár ne növekedjen tovább.
+
+Példák:
+- sérülés után orvoshoz fordulás (nem várni, hogy súlyosbodjon);
+- megrongált dolog ideiglenes javítása, hogy tovább ne romoljon;
+- károsodott áru gyors értékesítése, hogy ne romoljon tovább.
+
+Ha a károsult e kötelezettségeit **felróhatóan megsérti**, és ennek következtében kár keletkezik vagy növekszik, ezt a kárt (vagy kárnövekedést) a károkozó **nem köteles megtéríteni**. A károsult **maga viseli** azt a kárt, amely a kárenyhítési kötelezettség megszegéséből ered.
+
+**2. Kármegosztás (károsulti közrehatás) (Ptk. 6:525. § (2) bekezdés)**
+
+A **Ptk. 6:525. § (2) bekezdése** szerint:
+
+"(2) A károkozó és a károsult között a kárt magatartásuk felróhatósága arányában, ha ez nem megállapítható, közrehatásuk arányában kell megosztani. Ha a közrehatás arányát sem lehet megállapítani, a kárt a károkozó és a károsult között egyenlő arányban kell megosztani."
+
+Ha a károsult **felróható magatartása is közrehatott** a kár bekövetkeztében (pl. hozzájárult a baleset bekövetkeztéhez, nem tartotta be a biztonsági előírásokat), a kárt **meg kell osztani** a károkozó és a károsult között.
+
+A megosztás szempontjai **hierarchikus sorrendben**:
+
+**1. Felróhatóság aránya**: Ha megállapítható, hogy a felek magatartásának felróhatósága milyen arányban járult hozzá a kárhoz, eszerint osztják meg (pl. 70%-30%, 60%-40%).
+
+**2. Közrehatás aránya**: Ha a felróhatóság aránya nem állapítható meg, akkor a közrehatás (kauzális hozzájárulás) aránya szerint osztják meg.
+
+**3. Egyenlő arány**: Ha sem a felróhatóság, sem a közrehatás aránya nem állapítható meg, **egyenlő arányban** (50%-50%) osztják meg.
+
+Ez a szabály biztosítja, hogy a károsult ne hivatkozhasson saját felróható magatartására a kártérítés teljes összegének megszerzéséhez.
+
+**3. Előnyök beszámítása (compensatio lucri cum damno)**
+
+A **Ptk. 6:522. § (3) bekezdése** szerint:
+
+"(3) A kártérítést csökkenteni kell a károsultnak a károkozásból származó vagyoni előnyével, kivéve, ha ez az eset körülményeire tekintettel nem indokolt."
+
+Ez a **káronszerzés tilalma** (compensatio lucri cum damno – a haszon és kár egymással való beszámítása): ha a károsult a károkozásból **vagyoni előnyhöz jut**, azt el kell számolni a kártérítés összegéből. A károsult **nem gazdagodhat** a károkozás révén.
+
+Példák a károkozásból származó vagyoni előnyökre:
+- **biztosítási összeg** (balesetbiztosítás, vagyonbiztosítás);
+- **segély, támogatás** (pl. karitatív szervezettől, állami segély);
+- **alapítványi támogatás**;
+- **munkahelyi kártérítés** (ha a munkáltató is fizet kártérítést).
+
+Az elszámolás azonban **nem automatikus**: a **Ptk. 6:522. § (3) bekezdésének zárómondata** szerint "kivéve, ha ez az eset körülményeire tekintettel nem indokolt."
+
+Ez azt jelenti, hogy a bíróság **mérlegelheti**, hogy az adott vagyoni előnyt el kell-e számolni. Nem kell elszámolni pl.:
+- ha a károsult a vagyoni előnyért **ellenszolgáltatást nyújtott** (pl. biztosítási díjat fizetett);
+- ha a vagyoni előny **más jogcímen** jár (pl. rokoni támogatás);
+- ha az elszámolás **méltánytalan** lenne.
+
+**4. Méltányosság alapján való mérséklés**
+
+A **Ptk. 6:522. § (4) bekezdése** szerint:
+
+"(4) A bíróság különös méltánylást érdemlő körülmények fennállása esetén a kártérítés mértékét a teljes kárnál alacsonyabb összegben is meghatározhatja."
+
+Ez a **méltányossági klauzula** lehetővé teszi a bíróság számára, hogy **kivételes esetekben** a kártérítés mértékét **mérsékelje** a teljes kárnál alacsonyabb összegre.
+
+A mérséklés feltételei:
+- **Különös méltánylást érdemlő körülmények** fennállása;
+- A bíróság **mérlegelése** az eset összes körülményére tekintettel.
+
+Mérlegelési szempontok:
+- a károkozó és a károsult **vagyoni és szociális helyzete**;
+- a **felróhatóság mértéke** (enyhe gondatlanság esetén inkább mérsékelhet);
+- a kár **nagysága** a károkozó vagyonához képest;
+- a károkozás **körülményei**.
+
+A méltányossági mérséklés **kivételes jogintézmény**, nem alkalmazható rutinszerűen – csak akkor, ha a teljes kártérítés **súlyosan méltánytalan** lenne a károkozóra nézve.
+
+**5. Általános kártérítés**
+
+A **Ptk. 6:531. §-a** szerint:
+
+"Ha a kár mértéke nem állapítható meg, a károkozásért felelős személy olyan összegű kártérítés megfizetésére köteles, amely a károsult kárának a kiegyenlítésére alkalmas."
+
+Ez a rendelkezés arra az esetre vonatkozik, amikor a kár ténye **kétségtelen**, de **pontos mértékét nem lehet megállapítani**. Ilyenkor a bíróság **becslés** útján állapítja meg a kártérítés összegét.
+
+Példák:
+- **egyedi műalkotás** elpusztulása (nincs piaci ára);
+- **immateriális javak** károsodása (pl. üzleti titok, know-how elvesztése);
+- olyan károk, amelyek mértéke csak **valószínűsíthető**, de nem bizonyítható pontosan.
+
+Az általános kártérítés összegének **alkalmasnak** kell lennie a károsult kárának kiegyenlítésére – ez kisebb lehet a teljes kárnál, de nem lehet túlzottan alacsony.
+
+**6. Az értékviszonyok változásának figyelembevétele**
+
+A **Ptk. 6:534. § (1) bekezdése** (amelyet már idéztünk) az **inflációs kockázat** elosztását szabályozza:
+
+"(1) Ha a károkozás és az ítélethozatal között az időmúlásra vagy egyéb körülményre tekintettel az értékviszonyokban jelentős változás következett be, a bíróság az okozott kár mértékét az ítélethozatal időpontjában fennállt értékviszonyok szerint határozhatja meg. Ebben az esetben a károkozó késedelmi kamat fizetésére az érték meghatározásának időpontjától kezdődően köteles."
+
+Ez a szabály a **károkozó terhére** írja az értékviszonyok változását: ha infláció van, a károsult megkapja a kár **aktuális értékét**, nem a károkozáskori értéket.
+
+A **Ptk. 6:534. § (2) bekezdése** azonban kivételt tesz:
+
+"(2) Ha a károsult kártérítési igénye érvényesítésével felróhatóan késlekedik, az ár- és értékviszonyok változásának kockázatát maga viseli."
+
+Ha a károsult **felróhatóan késlekedik** az igénye érvényesítésével (évekig vár, pedig tudna pert indítani), az értékviszonyok változásának kockázatát **maga viseli** – nem hivatkozhat az inflációra.
+
+
+V. Összegzés
+
+A **kártérítés általános szabályai** összetett, árnyalt normarendszert alkotnak, amely egyszerre biztosítja a **károsult teljes vagyoni kompenzációját** és ösztönzi a **károsultat is az aktív, kárcsökkentő magatartásra**.
+
+**A kártérítés alapelvei:**
+
+**1. A teljes kártérítés elve** (Ptk. 6:522. § (1) bekezdés): A károkozó a károsult **teljes kárát** köteles megtéríteni. Ez a reparatív-kompenzációs funkció alapelve.
+
+**2. A kár fogalma és elemei** (Ptk. 6:522. § (2) bekezdés):
+- **Felmerült kár (damnum emergens)**: a károsult vagyonában beállott értékcsökkenés
+- **Elmaradt vagyoni előny (lucrum cessans)**: az elmaradt haszon
+- **Indokolt költségek**: a vagyoni hátrányok kiküszöböléséhez szükséges kiadások
+
+**A kártérítés módjai** (Ptk. 6:527. §):
+
+**1. Pénzbeli kártérítés (főszabály)**: A károkozó a kárt pénzben téríti meg. Ez az egyszerű, rugalmas, univerzális mód.
+
+**2. Természetbeni kártérítés (kivétel)**: A károkozó helyreállítja az eredeti állapotot vagy ugyanolyan dolgot ad, ha a körülmények ezt indokolják.
+
+**3. Járadék (speciális mód)**: Jövőben rendszeresen felmerülő károk esetén időszakonként visszatérően fizetendő összeg.
+- **Jövedelempótló járadék** (Ptk. 6:528. §): munkaképesség-csökkenés miatti jövedelem-kiesés kompenzálása
+- **Tartást pótló járadék** (Ptk. 6:529. §): meghalt személy tartási kötelezettségének pótlása
+
+**A kártérítés mértékét befolyásoló tényezők:**
+
+**1. Kárenyhítési kötelezettség** (Ptk. 6:525. § (1) bekezdés): A károsult köteles a kárt megelőzni, elhárítani, csökkenteni. Az e kötelezettség felróható megszegéséből eredő kárt a károkozó nem téríti meg.
+
+**2. Kármegosztás** (Ptk. 6:525. § (2) bekezdés): Ha a károsult felróható magatartása is közrehatott a kárban, a kárt meg kell osztani:
+- **felróhatóság arányában**
+- ha ez nem állapítható meg: **közrehatás arányában**
+- ha ez sem: **egyenlő arányban**
+
+**3. Előnyök beszámítása (compensatio lucri cum damno)** (Ptk. 6:522. § (3) bekezdés): A károkozásból származó vagyoni előnyöket le kell vonni a kártérítésből (káronszerzés tilalma), kivéve, ha ez az eset körülményeire nem indokolt.
+
+**4. Méltányossági mérséklés** (Ptk. 6:522. § (4) bekezdés): Különös méltánylást érdemlő körülmények esetén a bíróság a kártérítést a teljes kárnál alacsonyabb összegben is meghatározhatja.
+
+**5. Általános kártérítés** (Ptk. 6:531. §): Ha a kár mértéke nem állapítható meg, a bíróság becslés útján olyan összeget állapít meg, amely a károsult kárának kiegyenlítésére alkalmas.
+
+**6. Értékviszonyok változása** (Ptk. 6:534. §): Az inflációs kockázat főszabály szerint a károkozót terheli (az ítélethozatalkori értékviszonyok az irányadók), de ha a károsult felróhatóan késlekedik, maga viseli.
+
+**A bíróság szerepe:**
+
+A bíróság **központi szerepet** játszik a kártérítés mértékének megállapításában:
+- **megállapítja a kár pontos összegét** (bizonyítékok mérlegelésével, szakértők meghallgatásával);
+- **mérlegeli a kárenyhítési kötelezettség megsértését**;
+- **meghatározza a kármegosztás arányát** (felróhatóság vagy közrehatás alapján);
+- **dönt a méltányossági mérséklésről** (ha különös méltánylást érdemlő körülmények vannak);
+- **meghatározza a kártérítés módját** (pénzbeli, természetbeni, járadék);
+- **figyelembe veszi az értékviszonyok változását**.
+
+A kártérítés szabályai így **kiegyensúlyozott rendszert** alkotnak, amely egyrészt védi a **károsultat** (teljes kártérítés elve, előreláthatóság, értékviszonyok változásának károkozóra terhelése), másrészt **ösztönzi a károsultat** aktív közreműködésre (kárenyhítési kötelezettség, kármegosztás károsulti közrehatás esetén), és biztosítja a **méltányosságot** (méltányossági mérséklés, előnyök beszámítása). A rendszer így egyszerre szolgálja az **igazságosságot, a jogbiztonságot és a gazdasági racionalitást**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

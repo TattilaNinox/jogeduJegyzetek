@@ -1,0 +1,119 @@
+1. A szervezett jogalanyiság lehetővé tétele, a tagok és szervezet vagyonának elkülönítése, a folytonosság biztosítása (tagok változhatnak, de a jogi személy fennmarad), valamint a jogbiztonság (nyilvántartás, átláthatóság).
+
+2. Mert a jogi személy csak a nyilvántartásba vétellel keletkezik, addig nem létezik és nincs jogképessége, így a bírósági bejegyzés nem csak nyilvántartásba veszi, hanem meg is teremti a jogi személyt.
+
+3. Az elkülönült vagyon azt jelenti, hogy a jogi személy saját vagyonnal rendelkezik, amely elkülönül a tagok vagyonától, így a tagok személyes vagyona nem felel a jogi személy tartozásaiért (korlátolt felelősség).
+
+4. A személyek szabadon dönthetnek arról, hogy jogi személyt hoznak létre, és maguk állapíthatják meg a jogi személy szervezetét és működési szabályait, törvényi keretek között.
+
+5. Ha a tag vagy alapító a korlátolt felelősséggel visszaélt (pl. vagyon kivonása, látszatjogi személy, jogellenes célra használat, vagyonok összekeverése), és emiatt kielégítetlen hitelezői követelések maradtak fenn.
+
+6. Mert a jogi személy szervei útján jár el, és az ügyvezetést és képviseletet ellátó vezető tisztségviselő megléte kötelező ismérv, ezért már a létesítéskor meg kell jelölni.
+
+7. A név nem lehet megtévesztő, és a jogi személy típusát kötelező feltüntetni, különben a nyilvántartó bíróság megtagadhatja a bejegyzést, vagy utóbb törvényességi felügyeleti eljárás indulhat.
+
+8. A székhely meghatározza a nyilvántartó bíróság, a hatósági eljárások és bizonyos polgári jogi eljárások illetékességét, valamint biztosítja a jogi személy elérhetőségét a jognyilatkozatok fogadására.
+
+9. Mert a jogi személy jogképessége csak azokra a jogokra terjed ki, amelyek jellegénél fogva nem csupán az emberhez fűződhetnek (pl. házasságkötési jog, szavazati jog politikai értelemben nem illetheti meg).
+
+10. A jogi személy mesterséges jogalany, amely maga nem tud cselekedni, ezért szervei (döntéshozó szerv, vezető tisztségviselő, esetleg felügyelőbizottság) útján jár el.
+
+11. A hitelezők, munkavállalók és a tagok kisebbségének védelme, valamint a jogi személyek törvényes működése feletti felügyelet érvényesülése érdekében bizonyos szabályoktól nem lehet eltérni.
+
+12. A határozatképesség (leadható szavazatok több mint fele) és az egyszerű többségi döntés biztosítja, hogy a döntések a tagság széles körű támogatásával szülessenek, és ne lehessen kisebbségi érdekeket figyelmen kívül hagyni.
+
+13. A vezető tisztségviselő ügyvezetési tevékenységét a jogi személy érdekének megfelelően köteles ellátni, azaz fiduciárius (hűségi) kötelezettséggel tartozik.
+
+14. Mert a vezető tisztségviselő nem saját, hanem a jogi személy érdekeit köteles szolgálni, ami a bizalmi viszony alapvető követelménye és biztosítja a jogi személy megfelelő működését.
+
+15. A vezető tisztségviselő a szerződésszegéssel okozott kárért való felelősség szabályai szerint felel a jogi személlyel szemben az ügyvezetési tevékenysége során okozott károkért.
+
+16. A felügyelőbizottság a tagok vagy alapítók érdekében ellenőrzi az ügyvezetést, de csak akkor kötelező, ha jogszabály vagy a létesítő okirat előírja, egyébként a döntéshozó szerv közvetlenül ellenőriz.
+
+17. A vezető tisztségviselő önállóan, külön meghatalmazás nélkül jogosult a jogi személy képviseletére, ami biztosítja a gyors és hatékony döntéshozatalt és jognyilatkozat-tételt.
+
+18. A képviseleti jog belső korlátozása harmadik személyekkel szemben nem hatályos, kivéve ha a harmadik személy a korlátozásról tudott vagy tudnia kellett volna, így a jóhiszemű fél bizalma védett.
+
+19. Jogutóddal történő megszűnésnél a jogok és kötelezettségek átszállnak a jogutódra (általános jogutódlás), jogutód nélküli megszűnésnél megszűnnek vagy a hitelezőket elégítik ki, majd a fennmaradó vagyont felosztják.
+
+20. Mert le kell zárni a jogi személy vagyoni viszonyait: a tartozásokat ki kell egyenlíteni, a hitelezőket ki kell elégíteni, és csak ezt követően törölhető a jogi személy a nyilvántartásból.
+
+21. A tagok és alapító a felosztott vagyonból való részesedésük mértékéig kötelesek helytállni a megszűnt jogi személy ki nem elégített tartozásaiért (utólagos felelősség).
+
+22. A jogi személy önálló jogalany, amely biztosítja a vállalkozások és szervezetek folytonosságát és stabilitását, függetlenül attól, hogy a tagok kilépnek, belépnek vagy meghalnak.
+
+23. Mert a vagyoni hozzájárulás a jogi személy tőkéjét, működésének alapját képezi, amely a hitelezők követeléseinek fedezetéül szolgál, így annak visszakövetelése veszélyeztetné a hitelezők érdekeit.
+
+24. Az átalakuló, egyesülő vagy szétváló jogi személy(ek) jogai és kötelezettségei törvény erejénél fogva, külön átruházási aktusok nélkül átszállnak a jogutód jogi személy(ek)re.
+
+25. A nyilvántartó bíróság ellenőrzi a létesítő okirat törvényességét, bejegyzi a jogi személyt (konstitutív hatály), nyilvántartja az adatokat (közhitelesség), és törvényességi felügyeletet gyakorol.
+
+26. Az azonosíthatóság és megkülönböztethetőség biztosítása érdekében, hogy a jogi személyek ne legyenek összetéveszthetők, ami a jogbiztonságot és a jogforgalom tisztaságát szolgálja.
+
+27. Összeolvadásnál több jogi személy megszűnik és új jogi személy jön létre, beolvadásnál pedig az egyik jogi személy megszűnik és beolvad a másikba, amely fennmarad jogutódként.
+
+28. Különválásnál a jogi személy megszűnik és több új jogi személy jön létre helyette, kiválásnál a jogi személy fennmarad, de vagyonának egy része kiválik és új jogi személyt hoz létre.
+
+29. A határozatképesség biztosítja, hogy a döntések kellő legitimációval (a leadható szavazatok több mint felének jelenléte) szülessenek, és a döntéshozó szerv határozata a tagság valós akaratát tükrözze.
+
+30. Az összeférhetetlenségi szabályok (pl. nem szavazhat, akit a határozat mentesít, akivel szerződést kötnek) biztosítják az összeférhetetlenség elkerülését és a tisztességes, pártatlan döntéshozatalt.
+
+31. A jogforgalom átláthatósága és a jóhiszemű harmadik személyek védelme érdekében egyértelművé kell tenni, hogy milyen típusú jogi személlyel állnak szemben (pl. Kft., Rt., Egyesület).
+
+32. A bírósági nyilvántartásba vétel konstitutív (jogkeletkeztető) hatályú, azaz a jogi személyt mint jogalanyt ez az aktus hozza létre, a létesítő okirat aláírása csak előkészítő lépés.
+
+33. Ha a nem pénzbeli vagyoni hozzájárulás értéke nem éri el a létesítő okiratban megjelölt értéket, a különbözetet a jogi személy követelheti, így védve a hitelezők és a tagok érdekeit a túlértékeléssel szemben.
+
+34. A jogi személy csak olyan tevékenységet folytathat, amely nem tilos vagy korlátozott, és a jogképesség általában a célhoz kapcsolódik, bár a Ptk. általános tevékenységi szabadságot enged.
+
+35. A vezető tisztségviselő csak akkor felel harmadik személyekkel szemben közvetlenül, ha a kárt szándékosan okozta, egyébként a jogi személy felel, ami védi a tisztségviselőket a túlzott felelősségtől.
+
+36. Kizárt a szabadságvesztésre ítélt (büntetett előélethez fűződő hátrányok alól nem mentesült), foglalkozástól vagy vezető tisztségviselői tevékenységtől eltiltott személy, valamint cselekvőképességében korlátozott személy.
+
+37. A jogi személy megszűnési ok bekövetkezik, de a ténylegesen megszűnés csak a vagyoni viszonyok lezárását követő nyilvántartásból való törléssel valósul meg.
+
+38. A döntéshozó szerv hatáskörébe tartoznak a legfontosabb döntések (létesítő okirat módosítása, tisztségviselők választása, megszüntetés), amelyeket nem lehet delegálni, mert ezek a tagok/alapítók alapvető jogait érintik.
+
+39. A tagok vagy alapítók nem térhetnek el a törvénytől, ha azt a törvény tiltja, vagy az eltérés sérti a hitelezők, munkavállalók, kisebbségi tagok jogait, vagy akadályozza a törvényességi felügyeletet.
+
+40. A székhely a jogi személy bejegyzett irodája, ahol biztosítani kell a jognyilatkozatok fogadását és az iratok elérhetőségét, függetlenül attól, hogy ott folyik-e a tényleges tevékenység.
+
+41. Mert a jogi személy mesterséges jogalany, amely csak szervei (vezető tisztségviselő) útján tud cselekedni, ezért a szervezet megléte a jogi személyiség alapvető feltétele.
+
+42. A szervezeti képviselet lehetővé teszi, hogy a jogi személy munkavállalói meghatározott körben (pl. fiókvezetők) önállóan képviseljék a jogi személyt, ami hatékonyabbá teszi a működést.
+
+43. Ha a tagok és a jogi személy vagyona nem válik el (undercapitalization), a bíróság megállapíthatja a visszaélést, és áttörheti a felelősséget, vagyis a tagok korlátlanul felelnek.
+
+44. Mert a személyiségi jogok közül csak azok illethetik meg a jogi személyt, amelyek jellege szerint nem csupán embert illethetnek (pl. jó hírnév, adatvédelem igen, de testi integritás nem).
+
+45. Végelszámolás során a jogi személy fizetőképes, vagyona fedezi tartozásait; felszámolás során a jogi személy fizetésképtelen, vagyona nem fedezi tartozásait, és rangsor szerint elégítik ki a hitelezőket.
+
+46. A hitelezők védelme érdekében, hogy ha vagyon került felosztásra, de utóbb kiderülnek tartozások, a tagok ne gazdagodjanak tisztességtelenül, hanem helyt álljanak a kapott vagyon mértékéig.
+
+47. Mert egyrészt vannak általános szabályok, amelyek minden jogi személyre vonatkoznak, másrészt különös szabályok, amelyek az egyes típusokra (Kft., Rt., egyesület stb.) speciálisan vonatkoznak.
+
+48. A jogi személyek általános szabályait kell alkalmazni, ha a különös szabályok eltérően nem rendelkeznek, valamint az e törvényben nem szabályozott típusú jogi személyekre és nem jogi személy jogalanyokra megfelelően.
+
+49. A létesítő okirat hiányos, a nyilvántartó bíróság megtagadhatja a bejegyzést, és a jogi személy nem jön létre, amíg a hiányosságokat nem pótolják.
+
+50. Mert lehetővé teszi a vállalkozások létrehozását anélkül, hogy a tagok teljes vagyonukat kockáztatnák, ösztönzi a beruházásokat, a kockázatvállalást és az innovációt, ami a gazdasági fejlődés alapja.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

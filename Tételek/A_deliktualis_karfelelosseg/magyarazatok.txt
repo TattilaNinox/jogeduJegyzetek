@@ -1,0 +1,119 @@
+1. A szerződésen kívüli kárfelelősség alapja a törvény és az általános magatartási szabályok megsértése, míg a szerződésszegéssel okozott károkért való felelősség alapja a szerződéses kötelezettség nem teljesítése. A Ptk. 6:519. § generálklauzulája a szerződésen kívüli kárfelelősségre vonatkozik, és a felek előzetesen nem korlátozhatják a felelősséget, kivéve dologi károknál, míg a szerződéses felelősség esetében a felek előzetesen rögzíthetik a felelősség feltételeit és mértékét.
+
+2. A Ptk. 6:518. § kimondja: "A törvény tiltja a jogellenes károkozást." Ez a generális tiltó rendelkezés azt jelenti, hogy minden ember köteles úgy viselkedni, hogy más személynek vagy vagyonának ne okozzon kárt. A Ptk. 6:519. § pedig kimondja: "Aki másnak jogellenesen kárt okoz, köteles azt megtéríteni. Mentesül a felelősség alól a károkozó, ha bizonyítja, hogy magatartása nem volt felróható." Ez a két rendelkezés együtt alkotja a kártérítési jog alapját, ahol az általános tilalom az alapelvet, a generálklauzula pedig a felelősség feltételeit tartalmazza.
+
+3. A Ptk. 6:519. § generálklauzula, mert egyetlen rendelkezésben foglalja össze a kártérítési felelősség alapvető feltételeit: a jogellenes károkozást, a kártérítési kötelezettséget és a kimentés lehetőségét. Ez a rendelkezés adja a kártérítési jog alapját, amelyre a speciális felelősségi alakzatok épülnek, és lehetővé teszi a rugalmas alkalmazást minden olyan esetben, amelyre nincs külön szabályozás.
+
+4. A négy klasszikus kárfelelősségi feltétel konjunktívak, mert mindegyiknek együttesen kell teljesülnie ahhoz, hogy a kártérítési felelősség megállapítható legyen. A Ptk. 6:519. § implicit módon tartalmazza ezeket a feltételeket: a jogellenes magatartást (jogellenesen kárt okoz), a kárt (kárt okoz), az okozati összefüggést (okoz), és a felróhatóságot (ha bizonyítja, hogy magatartása nem volt felróható). Ha akár egyetlen elem hiányzik, a felelősség nem állapítható meg.
+
+5. A Ptk. 6:520. § fordítottlogikát követ: "Minden károkozás jogellenes, kivéve, ha a károkozó a kárt" valamelyik jogellenességet kizáró okkal okozta. Ez azt jelenti, hogy a jogellenesség vélelmezett, nem kell külön bizonyítani, csak akkor nem jogellenes a károkozás, ha valamelyik jogellenességet kizáró ok fennáll, amelyet a károkozónak kell bizonyítania. Ez fordított bizonyítási terhet jelent a károkozó számára.
+
+6. A károsult beleegyezésének, hogy jogellenességet kizáró okként működjön, cselekvőképesnek kell lennie vagy legalább belátási képességgel kell rendelkeznie. A beleegyezésnek valódi, szabad akaratból kell fakadnia, nincs kényszer, tévedés vagy megtévesztés, és olyan jogra kell vonatkoznia, amely rendelkezési jogkörében van. A Ptk. 6:520. § a) pontja szerint a károsult beleegyezésével okozott kár nem jogellenes, de csak akkor, ha ezek a feltételek teljesülnek.
+
+7. A jogos védelem a Ptk. 6:520. § b) pontja szerint akkor áll fenn, ha valaki a jogtalan támadás vagy a jogtalan és közvetlen támadásra utaló fenyegetés elhárítása érdekében a támadónak kárt okoz, feltéve, hogy az elhárítással a szükséges mértéket nem lépte túl. A szükséghelyzet a c) pont szerint akkor áll fenn, ha valaki elhárítható veszély elhárítása érdekében más személy jogát sérti, és ezáltal kárt okoz, azzal arányos mértékben. Mindkettőnél az arányosság követelménye érvényesül, de a jogos védelem a támadónak, a szükséghelyzet más személynek okoz kárt.
+
+8. A jogos védelemnek a Ptk. 6:520. § b) pontja szerint jogtalan támadásnak vagy jogtalan és közvetlen támadásra utaló fenyegetésnek kell fennállnia, a védekező magatartásnak a támadás elhárítására kell irányulnia, és az elhárítás nem lépheti túl a szükséges mértéket. Ha ezek a követelmények nem teljesülnek, túlvédelemről van szó, és a károkozás jogellenes marad, de a Ptk. 6:522. § (4) bekezdése szerint a kártérítés mértéke méltányossági alapon csökkenthető.
+
+9. A Ptk. 6:522. § (2) bekezdése szerint a teljes kártérítés körében a károkozó köteles megtéríteni a károsult vagyonában beállott értékcsökkenést (felmerült kár), az elmaradt vagyoni előnyt (elmaradt haszon), és a károsultat ért vagyoni hátrányok kiküszöböléséhez szükséges költségeket. A felmerült kár a ténylegesen bekövetkezett vagyoni veszteség, az elmaradt vagyoni előny az a haszon, amellyel a károsult vagyona gyarapodott volna, a költségek pedig a kár kiküszöböléséhez szükséges indokolt kiadások.
+
+10. A Ptk. 6:522. § (3) bekezdése kimondja: "A kártérítést csökkenteni kell a károsultnak a károkozásból származó vagyoni előnyével, kivéve, ha ez az eset körülményeire tekintettel nem indokolt." Ez a káronszerzés tilalma biztosítja, hogy a károsult ne gazdagodjon a károkozás révén, és az előnyök elszámolása a bíróság hatásköre, akárcsak a kártérítés mértékének mérséklése.
+
+11. Az egyenértékűség elmélete (conditio sine qua non) túl széles körű felelősséget eredményezne, mert minden olyan feltételt oknak tekintene, amely nélkül a következmény nem állhatott volna be. Az ok-kiválasztó elméletek szubjektívek, mert kiválasztanak egyet az egyenértékű okok közül. Az adekvát kauzalitás elmélete azt tekinti oknak, ami az emberi tapasztalat szerint hasonló esetekben az eredményt létrehozza, és ezt követi a magyar polgári jog a Ptk. 6:521. § előreláthatóság követelményével.
+
+12. A Ptk. 6:521. § kimondja: "Nem állapítható meg az okozati összefüggés azzal a kárral kapcsolatban, amelyet a károkozó nem látott előre és nem is kellett előre látnia." Az előreláthatóság követelménye elvágja az okozatossági láncolatot, védi a károkozót a távoli, előre nem látható következményekért, és biztosítja a kártérítési igények ésszerű mederben tartását. Kétféle előreláthatóságot különböztetünk meg: tényleges előreláthatóságot és elvárható előreláthatóságot.
+
+13. A tényleges előreláthatóság azt jelenti, hogy a károkozó konkrétan előre látta a kár bekövetkezését, míg az elvárható előreláthatóság azt, hogy egy átlagos, ésszerű ember (reasonable man) az adott helyzetben előre látta volna a kár bekövetkezését. Mindkettő elegendő az okozati összefüggés megállapításához, de az elvárható előreláthatóság objektív mérce, amely nem függ a károkozó konkrét tudásától.
+
+14. A felróhatóság a felelősség szubjektív eleme, mert azt vizsgálja, hogy a károkozó magatartása mennyiben róható fel neki, mennyiben terheli őt hibásság. A Ptk. 6:519. § szerint a felróhatóság vélelmezett, és a bizonyítási teher megfordítása azt jelenti, hogy nem a károsultnak kell bizonyítania a felróhatóságot, hanem a károkozónak kell bizonyítania a felróhatóság hiányát, ami jelentős előny a károsult számára.
+
+15. A felróhatóság vélelmezett a Ptk. 6:519. § szerint, így nem kell külön bizonyítani, de a károkozó kimentkezhet, ha bizonyítja, hogy magatartása nem volt felróható. Ez fordított bizonyítási terhet jelent a károkozó számára, mert neki kell bizonyítania, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható, nem a károsultnak kell bizonyítania a felróhatóságot.
+
+16. A kimentésnél objektív mérce alkalmazandó: a károkozónak azt kell bizonyítania, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható. Ez az objektív mérce figyelembe veszi az adott helyzet jellegét, körülményeit, a károkozó által végzett tevékenység jellegét, és az általában elvárható gondosságot egy hasonló helyzetben lévő személytől. Nem elegendő azt állítani, hogy "én mindig ilyen vagyok" vagy "én nem tudtam", hanem azt kell bizonyítani, hogy egy átlagos, ésszerű ember is ugyanígy járt volna el.
+
+17. A jogellenességet kizáró okok (károsult beleegyezése, jogos védelem, szükséghelyzet, jogszabály által megengedett magatartás) az első feltételt (jogellenes magatartás) érintik, mert ha valamelyik fennáll, a károkozás maga nem jogellenes, így már az első feltétel hiányzik. A kimentés a negyedik feltételt (felróhatóság) érinti, mert a károkozás jogellenes marad, de a károkozó bizonyítja, hogy magatartása nem volt felróható, így a negyedik feltétel hiányzik.
+
+18. Ha a károkozó sikeresen bizonyítja a kimentést, azaz azt, hogy magatartása nem volt felróható, akkor a Ptk. 6:519. § szerint mentesül a felelősség alól, azaz nem köteles kártérítést fizetni. Ha nem sikerül a kimentés, akkor köteles a teljes kárt megtéríteni, mert a felróhatóság vélelmezett, és ha nem tudja megcáfolni, akkor felróhatónak tekintendő.
+
+19. A Ptk. 6:522. § (1) bekezdése kimondja: "A károkozó a károsult teljes kárát köteles megtéríteni." Ez a teljes kártérítés elve azt jelenti, hogy a károsultat olyan helyzetbe kell hozni, mintha a kár be sem következett volna (restitutio in integrum). A (4) bekezdés szerint a bíróság különös méltánylást érdemlő körülmények fennállása esetén a kártérítés mértékét a teljes kárnál alacsonyabb összegben is meghatározhatja, ami méltányossági mérséklésként értelmezendő.
+
+20. A Ptk. 6:527. § (1) bekezdése kimondja: "A károkozó a kárt pénzben köteles megtéríteni, kivéve, ha a körülmények a kár természetben való megtérítését indokolják." A (3) bekezdés szerint a bíróság a kártérítés módjának meghatározásánál nincs kötve a károsult kérelméhez, de a kártérítésnek azt a módját nem alkalmazhatja, amely ellen valamennyi fél tiltakozik. Ez azt jelenti, hogy a természetbeni kártérítés akkor alkalmazható, ha a körülmények indokolják, és nem mindkét fél tiltakozik ellene.
+
+21. A Ptk. 6:527. § (2) bekezdése kimondja: "A jövőben rendszeresen felmerülő károk megtérítésére a bíróság időszakonként visszatérően előre fizetendő, meghatározott összegű járadékot is meghatározhat." A járadék tipikusan olyan esetekben alkalmazandó, amikor a kár folyamatosan, hosszú távon jelentkezik, például munkaképesség-csökkenés miatti jövedelemkiesés vagy tartás elvesztése esetén, míg a pénzbeli kártérítés egyszeri összeg, amely azonnal esedékes.
+
+22. A Ptk. 6:525. § (1) bekezdése kimondja: "A károsultat kármegelőzési, kárelhárítási és kárenyhítési kötelezettség terheli. Az e kötelezettségek felróható megszegése miatt keletkezett kárt a károkozó nem köteles megtéríteni." Ez azt jelenti, hogy ha a károsult felróhatóan megsérti ezeket a kötelezettségeit, és ennek következtében kár keletkezik vagy növekszik, ezt a kárt vagy kárnövekedést a károkozó nem köteles megtéríteni, mert a károsult maga viseli azt a kárt, amely a kötelezettség megszegéséből ered.
+
+23. A Ptk. 6:525. § (1) bekezdése szerint a károsultat három kötelezettség terheli: kármegelőzési, kárelhárítási és kárenyhítési kötelezettség. A kármegelőzési kötelezettség azt jelenti, hogy a károsult köteles olyan magatartást tanúsítani, amely a kár bekövetkeztét megakadályozza. A kárelhárítási kötelezettség azt jelenti, hogy a károsult köteles a már kezdődő, de még be nem következett kárt elhárítani. A kárenyhítési kötelezettség azt jelenti, hogy a károsult köteles a már bekövetkezett kár további növekedését megakadályozni, csökkenteni.
+
+24. A Ptk. 6:525. § (2) bekezdése kimondja: "A károkozó és a károsult között a kárt magatartásuk felróhatósága arányában, ha ez nem megállapítható, közrehatásuk arányában kell megosztani. Ha a közrehatás arányát sem lehet megállapítani, a kárt a károkozó és a károsult között egyenlő arányban kell megosztani." Ez a kármegosztás szabálya biztosítja, hogy ha mindketten közrehattak a kár bekövetkezésében, a kárt arányosan osszák meg, először a felróhatóság, majd a közrehatás, végül egyenlő arány alapján.
+
+25. A Ptk. 6:524. § (1) bekezdése szerint ha többen közösen okoznak kárt, felelősségük a károsulttal szemben egyetemleges, ami azt jelenti, hogy mindegyikük a teljes kárt köteles megtéríteni. A kármegosztás a károkozók belső viszonyára vonatkozik, és a (3) bekezdés szerint a károkozók a kárt egymás között magatartásuk felróhatósága arányában, ha ez nem megállapítható, közrehatásuk arányában viselik.
+
+26. A Ptk. 6:530. § kimondja: "A járadék meghatározásánál figyelembe vett körülmények lényeges megváltozása esetén bármelyik fél kérheti a járadék mértékének és a járadékfizetés időtartamának megváltoztatását vagy a járadékfizetési kötelezettség megszüntetését." Ez biztosítja, hogy a járadék dinamikusan alkalmazkodjon a változó körülményekhez, és ne legyen merev, hosszú távon is érvényes szabály.
+
+27. A Ptk. 6:528. § a jövedelempótló járadékot szabályozza, amely akkor követelhető, ha valakinek munkaképessége a károkozás folytán csökkent, és a káreset utáni jövedelme az azt megelőző időszak jövedelmét nem éri el. A Ptk. 6:529. § a tartást pótló járadékot szabályozza, amely a károkozás folytán meghalt személy tartására jogosult részére jár. Mindkettő járadék, de különböző célra és különböző feltételek mellett alkalmazandó.
+
+28. A Ptk. 6:531. § kimondja: "Ha a kár mértéke nem állapítható meg, a károkozásért felelős személy olyan összegű kártérítés megfizetésére köteles, amely a károsult kárának a kiegyenlítésére alkalmas." Ez az általános kártérítés arra az esetre vonatkozik, amikor a kár ténye kétségtelen, de pontos mértékét nem lehet megállapítani, például egyedi műalkotás elpusztulása vagy immateriális javak károsodása esetén. Ilyenkor a bíróság becslés útján állapítja meg a kártérítés összegét.
+
+29. A Ptk. 6:532. § kimondja: "A kártérítés a károsodás bekövetkeztekor nyomban esedékes." Ez azt jelenti, hogy a károsult azonnal követelheti a kártérítést, nem kell megvárnia a bírósági ítéletet vagy bármilyen más eseményt. A Ptk. 6:533. § (1) bekezdése szerint a kártérítésre az elévülés szabályait azzal az eltéréssel kell alkalmazni, hogy bűncselekménnyel okozott kár esetén a követelés öt éven túl sem évül el mindaddig, amíg a bűncselekmény büntethetősége el nem évül.
+
+30. A Ptk. 6:534. § (1) bekezdése szerint ha a károkozás és az ítélethozatal között az időmúlásra vagy egyéb körülményre tekintettel az értékviszonyokban jelentős változás következett be, a bíróság az okozott kár mértékét az ítélethozatal időpontjában fennállt értékviszonyok szerint határozhatja meg. A (2) bekezdés szerint ha a károsult kártérítési igénye érvényesítésével felróhatóan késlekedik, az ár- és értékviszonyok változásának kockázatát maga viseli. Ez különösen fontos inflációs környezetben, hogy a károsult a vásárlóértéket kapja meg.
+
+31. A bizonyítási teher megoszlása a következő: a károsult bizonyítja a jogellenes magatartást, a kárt és az okozati összefüggést, míg a károkozó bizonyítja a felróhatóság hiányát (kimentés) vagy valamelyik jogellenességet kizáró ok fennállását. Ez a megoszlás a károsult helyzetét jelentősen megkönnyíti, mert neki csak a tényállást kell bizonyítania, míg a károkozónak kell bizonyítania, hogy mentesül a felelősség alól.
+
+32. Ha a károsult nem bizonyítja az okozati összefüggést, akkor a harmadik feltétel hiányzik, így a kártérítési felelősség nem állapítható meg. Ha a károkozó nem bizonyítja a kimentést, akkor a felróhatóság vélelmezett marad, és köteles a teljes kárt megtéríteni, mert a Ptk. 6:519. § szerint a felróhatóság vélelmezett, és ha nem tudja megcáfolni, akkor felróhatónak tekintendő.
+
+33. A Ptk. 6:518. § általános károkozási tilalma általános magatartási szabály, amely minden emberre vonatkozik és minden károkozásra alkalmazandó. A konkrét kártérítési kötelezettség csak akkor áll fenn, ha mind a négy feltétel teljesül (jogellenes magatartás, kár, okozati összefüggés, felróhatóság), és a károkozó nem tudott kimentkezni. Az általános tilalom az alapelv, a konkrét kötelezettség az egyedi esetben megállapított következmény.
+
+34. A Ptk. 6:522. § (4) bekezdése szerint a bíróság különös méltánylást érdemlő körülmények fennállása esetén a kártérítés mértékét a teljes kárnál alacsonyabb összegben is meghatározhatja. Ez a méltányossági mérséklés kivételes jogintézmény, nem alkalmazható rutinszerűen, és a bíróságnak mérlegelni kell az eset összes körülményét, különösen a károkozó és a károsult vagyoni és szociális helyzetét, a károkozás körülményeit, a felróhatóság mértékét és a kár nagyságát.
+
+35. A Ptk. 6:527. § (3) bekezdése kimondja: "A bíróság a kártérítés módjának meghatározásánál nincs kötve a károsult kérelméhez; a kártérítésnek azt a módját nem alkalmazhatja, amely ellen valamennyi fél tiltakozik." Ez azt jelenti, hogy a bíróság hivatalból is elrendelheti a természetbeni kártérítést, ha azt a körülmények indokolják, még akkor is, ha a károsult pénzbeli kártérítést kért, de nem alkalmazhatja azt a módot, amely ellen mindkét fél tiltakozik, így biztosítva a felek akaratának minimális tiszteletben tartását.
+
+36. A Ptk. 6:525. § (1) bekezdése szerint a károsultat kármegelőzési kötelezettség terheli, és az e kötelezettség felróható megszegése miatt keletkezett kárt a károkozó nem köteles megtéríteni. Ez azt jelenti, hogy ha a károsult felróhatóan nem tette meg a kármegelőzési intézkedéseket, és ennek következtében kár keletkezett, ezt a kárt a károkozó nem köteles megtéríteni, mert a károsult maga viseli azt a kárt, amely a kötelezettség megszegéséből ered.
+
+37. A károsulti közrehatás a Ptk. 6:525. § szerint azt jelenti, hogy a károsult maga is közrehatott a kár bekövetkezésében, és a kárt a károkozó és a károsult között kell megosztani. A többek közös károkozása a Ptk. 6:524. § szerint azt jelenti, hogy többen közösen okoztak kárt, és felelősségük a károsulttal szemben egyetemleges, de a károkozók belső viszonyában kármegosztásra kerül sor.
+
+38. A Ptk. 6:528. § (3) bekezdése szerint a károsult jövedelemkiesését a károsodást megelőző egy évben elért havi átlagjövedelmének alapulvételével kell meghatározni. A (4) bekezdés szerint ha a jövedelemkiesés nem határozható meg így, az azonos vagy hasonló tevékenységet végző személyek havi átlagjövedelmét kell alapul venni. A (5) bekezdés szerint figyelembe kell venni a jövőbeli változásokat is, de a (6) bekezdés szerint nem vehető figyelembe a rendkívüli munkateljesítménnyel elért jövedelem.
+
+39. A kártérítés módja azt határozza meg, hogy pénzben, természetben vagy járadék formájában történik-e a megtérítés, és ezt a Ptk. 6:527. § szabályozza. A kártérítés mértéke azt határozza meg, hogy mekkora összeget kell megtéríteni, és ezt a Ptk. 6:522. § szabályozza, amely a teljes kárt határozza meg, vagy a Ptk. 6:531. §, amely az általános kártérítést szabályozza, ha a kár mértéke nem állapítható meg.
+
+40. A Ptk. 6:525. § (1) bekezdése szerint a károsultat kárenyhítési kötelezettség terheli, és az e kötelezettség felróható megszegése miatt keletkezett kárt a károkozó nem köteles megtéríteni. Ez biztosítja, hogy a károsult ne legyen passzív, ne spekuláljon a kár növekedésével, hanem aktívan működjön közre a kár csökkentésében, különben maga viseli azt a kárt, amely a kötelezettség megszegéséből ered, így ösztönözve az aktív, kárcsökkentő magatartásra.
+
+41. Az általános deliktuális felelősségi alakzat a Ptk. 6:519. § generálklauzulája, amely minden károkozásra alkalmazandó, és tartalmazza a négy alapvető feltételt. A speciális felelősségi alakzatok (pl. veszélyes üzemi felelősség, felelősség más személy károkozásáért) csak meghatározott esetekre vonatkoznak, és eltérő szabályokat tartalmaznak, például szigorúbb felelősséget vagy eltérő kimentési szabályokat, de mindegyik az általános alakzatra épül.
+
+42. Ha a károkozó bizonyítja, hogy a károsult beleegyezett a károkozásba, akkor a Ptk. 6:520. § a) pontja szerint a károkozás nem jogellenes, mert a károsult beleegyezésével okozott kár nem jogellenes. Ez azt jelenti, hogy már az első feltétel (jogellenes magatartás) hiányzik, így a kártérítési felelősség nem állapítható meg, mert nem teljesül mind a négy feltétel együttesen.
+
+43. A Ptk. 6:526. § kimondja: "A szándékosan okozott, továbbá az emberi életet, testi épséget vagy egészséget megkárosító károkozásért való felelősséget korlátozó vagy kizáró szerződési kikötés semmis." Ez azt jelenti, hogy a szerződéses kikötések semmisek ezekre a károkra, míg a törvényi szabályok kötelezően alkalmazandók, és nem lehet eltérni tőlük szerződéssel, kivéve dologi károknál, ahol előzetes korlátozás lehetséges.
+
+44. A Ptk. 6:523. § kimondja: "Károsodás veszélye esetén a veszélyeztetett kérheti a bíróságtól, hogy azt, aki a veszélyt előidézte, az eset körülményeihez képest tiltsa el a veszélyeztető magatartástól, kötelezze a kár megelőzéséhez szükséges intézkedések megtételére, vagy kötelezze megfelelő biztosíték adására." Ez lehetővé teszi, hogy a veszélyeztetett megelőzze a kár bekövetkezését, így megelőzve a kártérítési igényt is, és biztosítva a proaktív védekezést.
+
+45. A Ptk. 6:527. § (3) bekezdése szerint a bíróság a kártérítés módjának meghatározásánál nincs kötve a károsult kérelméhez, de a kártérítésnek azt a módját nem alkalmazhatja, amely ellen valamennyi fél tiltakozik. Ez azt jelenti, hogy a bíróság hivatalból is elrendelheti a természetbeni kártérítést, ha azt a körülmények indokolják, de a felek megállapodása csak akkor érvényes, ha mindkét fél egyetért, és nem tiltakozik ellene.
+
+46. A károsult beleegyezésének személyiségi jogokba való beleegyezésként való érvényességéhez cselekvőképesnek kell lennie vagy legalább belátási képességgel kell rendelkeznie, valódi, szabad akaratból kell fakadnia, és korlátozottan alkalmazandó, mert a személyiségi jogokba való beleegyezés nem mindig lehetséges, és bizonyos személyiségi jogokba való beleegyezés korlátozottan vagy egyáltalán nem lehetséges, mert ezek elidegeníthetetlen jogok.
+
+47. A Ptk. 6:532. § kimondja: "A kártérítés a károsodás bekövetkeztekor nyomban esedékes." Ez azt jelenti, hogy a kártérítés esedékessége automatikusan bekövetkezik a károsodás bekövetkeztekor, és az esedékesség időpontjától kezdve késedelmi kamat is jár. A kártérítés követelhetősége azonban függ a négy feltétel teljesülésétől és a károkozó kimentésének lehetőségétől, így lehet, hogy a kártérítés esedékes, de még nem követelhető, amíg a bíróság meg nem állapítja a felelősséget.
+
+48. A Ptk. 6:521. § előreláthatóság követelménye elvágja az okozatossági láncolatot azáltal, hogy csak azokkal a károkkal kapcsolatban állapítható meg az okozati összefüggés, amelyeket a károkozó előre látott vagy előre kellett volna látnia. Ez egyrészt védi a károkozót, hogy ne feleljen olyan távoli, előre nem látható következményekért, másrészt biztosítja a kártérítési igények ésszerű mederben tartását, megakadályozva, hogy a károkozó feleljen olyan károkért, amelyeket objektíven sem lehetett előre látni.
+
+49. A károsulti közrehatás a Ptk. 6:525. § szerint azt jelenti, hogy a károsult maga is közrehatott a kár bekövetkezésében, és a kárt a károkozó és a károsult között kell megosztani magatartásuk felróhatósága arányában, ha ez nem megállapítható, közrehatásuk arányában. A károkozó közrehatása több károkozó esetében a Ptk. 6:524. § szerint a károkozók belső viszonyára vonatkozik, és a károkozók a kárt egymás között magatartásuk felróhatósága arányában viselik.
+
+50. Az általános deliktuális felelősségi alakzat elemei logikusan kapcsolódnak egymáshoz: a jogellenes magatartás okozza a kárt, az okozati összefüggés biztosítja a kapcsolatot a magatartás és a kár között, a felróhatóság pedig a felelősség szubjektív elemét adja. A Ptk. 6:519. § generálklauzulája adja ezt az alapot, amelyre a speciális felelősségi alakzatok épülnek, amelyek eltérő szabályokat tartalmaznak meghatározott esetekre, például szigorúbb felelősséget vagy eltérő kimentési szabályokat, de mindegyik az általános alakzat logikáját követi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

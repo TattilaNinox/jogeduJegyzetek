@@ -1,0 +1,216 @@
+A VÁLLALKOZÁSI ÉS A MEGBÍZÁSI SZERZŐDÉS ÖSSZEHASONLÍTÁSA
+
+I. Bevezetés: A Tevékenységkifejtésre Irányuló Szerződések
+
+A **vállalkozási** és a **megbízási szerződés** a kötelmi jog rendszerében a **más személy számára végzett tevékenységre irányuló szerződések** két alaptípusát képezik. Mindkét szerződéstípus esetén az egyik fél (vállalkozó, megbízott) **tevékenységet fejt ki** a másik fél (megrendelő, megbízó) számára, és ezért **díjazásban** részesül.
+
+A két szerződéstípus közötti **legfontosabb elhatárolási szempont** a **vállalt kötelezettség természetében** rejlik:
+
+- A **vállalkozási szerződésnél** a kötelezett (vállalkozó) **eredmény létrehozását** vállalja (**eredménykötelem**);
+- A **megbízási szerződésnél** a kötelezett (megbízott) **ügy ellátását** vállalja, de nem garantál konkrét eredményt (**gondossági kötelem**).
+
+Ez a különbség **alapvető jelentőségű**: minden egyéb különbség ebből ered (díjazás, kockázatviselés, felelősség, felmondás stb.).
+
+
+II. A Vállalkozási Szerződés (Eredménykötelem)
+
+**1. Fogalma (Ptk. 6:238. §)**
+
+A **2013. évi V. törvény (Polgári Törvénykönyv) 6:238. §-a** meghatározza a vállalkozási szerződés fogalmát:
+
+"Vállalkozási szerződés alapján a vállalkozó tevékenységgel elérhető eredmény (a továbbiakban: mű) megvalósítására, a megrendelő annak átvételére és a vállalkozói díj megfizetésére köteles."
+
+Ez a definíció kifejezi a vállalkozási szerződés **lényegét**:
+
+- A vállalkozó kötelezi magát **eredmény (mű) megvalósítására**: valamilyen konkrét, objektíve mérhető eredmény létrehozására (pl. ház építése, gépkocsi javítása, szoftver fejlesztése, ruha varrása).
+- A megrendelő kötelezi magát **az eredmény átvételére** és a **vállalkozói díj megfizetésére**.
+
+**2. A kötelezettség természete: eredménykötelem**
+
+Az **eredménykötelem** azt jelenti, hogy a vállalkozó a **szerződésben meghatározott, objektíve mérhető eredmény** létrehozását **garantálja**. A vállalkozó kötelezettsége **nem pusztán a tevékenység kifejtése**, hanem az **eredmény elérése**.
+
+Fontos: Az eredménykötelem **nem azonos** az eredményfelelősséggel! Az eredmény elmaradása **nem automatikusan** váltja ki a szerződésszegés jogkövetkezményeit (kártérítés), hanem elsősorban a **díjigényt** érinti. A vállalkozó **kimentheti magát**, ha bizonyítja, hogy az eredmény elmaradása ellenőrzési körén kívül eső okból következett be.
+
+**3. Díjazás**
+
+A **vállalkozói díj** az **eredmény sikeres létrehozása és átadása után** esedékes. Ez logikus következménye az eredménykötelemnek: ha nincs eredmény, nincs díj (kivéve, ha a megrendelő felelős a lehetetlenülésért).
+
+A díj lehet:
+- **Átalánydíj** (egyösszegű): a szerződéskötéskor véglegesen meghatározzák, a vállalkozó viseli a költségnövekedés kockázatát.
+- **Tételes elszámolás**: a teljesítést követően számítják ki az elvégzett munka és felhasznált anyag alapján.
+
+**Előleg**: A felek megállapodhatnak **előleg** fizetésében, de az előleg **nem a díj**, csak annak előlegezése.
+
+**4. Kockázatviselés**
+
+A vállalkozó **viseli a kockázatot** az eredmény létrehozásáig: ha a megkezdett mű megsemmisül, megrongálódik, vagy más okból nem készül el, és ez **a vállalkozó érdekkörében** merül fel, a vállalkozó **nem jogosult díjra**, és újra kell kezdenie a munkát (saját költségén).
+
+Ha a lehetetlenülés **a megrendelő érdekkörében** merül fel (pl. a megrendelő által biztosított munkaterület alkalmatlan), a vállalkozó **teljes díjra** jogosult, és a kárveszélyt a megrendelő viseli.
+
+**5. Utasítási jog (Ptk. 6:240. §)**
+
+A **Ptk. 6:240. § (1) bekezdése** szerint:
+
+"(1) A vállalkozó a megrendelő utasítása szerint köteles eljárni. Az utasítás nem terjedhet ki a tevékenység megszervezésére, és nem teheti a teljesítést terhesebbé."
+
+A megrendelő **utasítási joga szűkebb**: elsősorban a **végeredményre** vonatkozik (milyen legyen az eredmény), de **nem terjed ki** a tevékenység **megszervezésére** (hogyan, milyen módszerrel, milyen eszközökkel érje el az eredményt). A vállalkozó **önállóan** szervezi meg a tevékenységét.
+
+**6. Felmondás**
+
+A megrendelő a szerződést a **teljesítés megkezdéséig elállással**, a teljesítés megkezdése után **felmondással** megszüntetheti. Ilyenkor **kártalanítást** tartozik fizetni a vállalkozónak (az addig felmerült költségek, a készültségi fokhoz igazodó arányos díjrész).
+
+
+III. A Megbízási Szerződés (Gondossági Kötelem)
+
+**1. Fogalma (Ptk. 6:272. §)**
+
+A **Ptk. 6:272. §-a** meghatározza a megbízási szerződés fogalmát:
+
+"Megbízási szerződés alapján a megbízott a megbízó által rábízott feladat ellátására, a megbízó a megbízási díj megfizetésére köteles."
+
+Ez a definíció kifejezi a megbízási szerződés **lényegét**:
+
+- A megbízott kötelezi magát a megbízó által rábízott **feladat (ügy) ellátására**: nem konkrét eredményre, hanem a feladat szakszerű, gondos, a megbízó érdekeinek megfelelő ellátására.
+- A megbízó kötelezi magát a **megbízási díj megfizetésére**.
+
+**2. A kötelezettség természete: gondossági kötelem**
+
+A **gondossági kötelem** azt jelenti, hogy a megbízott **nem egy konkrét eredményt**, hanem az **ügy szakszerű, gondos, a megbízó érdekeinek megfelelő ellátását** vállalja. A megbízott **nem garantálja** a kívánt eredmény elérését, csak azt, hogy **úgy jár el, ahogy az adott helyzetben általában elvárható**.
+
+A megbízott akkor **nem követ el szerződésszegést**, ha gondosan, szakszerűen járt el, még akkor is, ha a kívánt eredmény **nem következett be** (pl. az ügyvéd szakszerűen képviselte az ügyfelet, de a pert elvesztette; az orvos szakszerűen gyógyította a beteget, de a betegség nem gyógyult meg).
+
+**3. Díjazás**
+
+A **megbízási díj** az **ügy ellátásáért**, a **tevékenység kifejtéséért** jár, **függetlenül annak eredményességétől** (hacsak a felek másként nem állapodnak meg, pl. sikerdíj).
+
+Ez azt jelenti, hogy a megbízott **akkor is jogosult díjra**, ha a kívánt eredmény nem következett be, feltéve, hogy **gondosan, szakszerűen** járt el.
+
+**Sikerdíj**: A felek megállapodhatnak abban, hogy a megbízási díjon felül **sikerdíj** is jár, ha a megbízás **eredményre vezet**. A sikerdíj kikötése **nem teszi** a megbízási szerződést vállalkozási szerződéssé: a megbízott továbbra is gondossági kötelmet vállal, csak a díjazás **kiegészül** a sikerdíjjal.
+
+**4. Kockázatviselés**
+
+A **megbízó viseli** annak kockázatát, hogy a megbízott gondos eljárása ellenére a kívánt eredmény **nem következik be**. A megbízó **nem követelhet visszatérítést** azzal, hogy az eredmény nem jött létre (feltéve, hogy a megbízott gondosan járt el).
+
+**5. Utasítási jog (Ptk. 6:273. §)**
+
+A **Ptk. 6:273. § (1) bekezdése** szerint:
+
+"(1) A megbízott köteles a megbízó utasításait követni."
+
+A megbízó **utasítási joga tágabb**: nemcsak az eredményre, hanem **az ügy ellátásának módjára** is kiterjedhet (hogyan, milyen módon járjon el a megbízott). A megbízó az **ügy ura**: széles körű utasítási joggal rendelkezik.
+
+A **Ptk. 6:273. § (2) bekezdése** szerint:
+
+"(2) A megbízott a megbízó utasításától akkor térhet el, ha ezt a megbízó érdeke feltétlenül megköveteli, és a megbízó előzetes értesítésére már nincs mód. Ilyen esetben a megbízót késedelem nélkül értesíteni kell."
+
+A megbízott csak **két kumulatív feltétel** fennállása esetén térhet el az utasítástól:
+- a megbízó **érdeke feltétlenül megköveteli** az eltérést;
+- a megbízó előzetes értesítésére **már nincs mód** (sürgős helyzet).
+
+**6. Felmondás**
+
+A megbízási szerződést **bármelyik fél**, **bármikor**, **azonnali hatállyal** felmondhatja. Ez a megbízási szerződés **bizalmi jellege**: ha a bizalom megszűnik, a szerződés fenntarthatatlan.
+
+Felmondás esetén:
+- A **megbízó** köteles a megbízott **kárát** megtéríteni (ha nem szerződésszegés miatt mond fel);
+- A **megbízott** köteles a megbízó **kárát** megtéríteni, ha **alkalmatlan időben** mond fel.
+
+
+IV. A Két Szerződéstípus Részletes Összehasonlítása
+
+| **Szempont** | **Vállalkozási szerződés** | **Megbízási szerződés** |
+|--------------|----------------------------|-------------------------|
+| **Szerződés tárgya** | Eredmény (mű) létrehozása | Ügy (feladat) ellátása |
+| **Kötelezettség jellege** | **Eredménykötelem** (eredmény garant álása) | **Gondossági kötelem** (gondos eljárás) |
+| **Ptk. szabály** | Ptk. 6:238. § | Ptk. 6:272. § |
+| **Kötelezett neve** | Vállalkozó | Megbízott |
+| **Jogosult neve** | Megrendelő | Megbízó |
+| **Díjazás esedékessége** | Az eredmény sikeres létrehozása és átadása után | A tevékenység kifejtéséért, függetlenül az eredménytől |
+| **Kockázatviselés** | Vállalkozó (saját kockázatra dolgozik) | Megbízó (viseli, hogy gondos eljárás ellenére sincs eredmény) |
+| **Utasítási jog** | Szűkebb (elsősorban az eredményre, nem a megszervezésre) | Tágabb (az ügy ellátásának módjára is) |
+| **Önállóság** | A vállalkozó önállóan szervezi meg a tevékenységét | A megbízott követi a megbízó utasításait |
+| **Személyesség** | Főszabály szerint nem személyes (alvállalkozó igénybe vehető) | Tipikusan személyes (személyes bizalom) |
+| **Felmondás** | Korlátozottabb (megrendelő: elállás/felmondás kártalanítással) | Bármelyik fél, bármikor, azonnali hatállyal |
+| **Szerződésszegés** | Ha az eredmény nem jön létre vagy hibás | Ha nem gondosan, szakszerűen jár el |
+| **Példák** | Házépítés, autójavítás, ruha varrása, szoftver fejlesztése | Ügyvédi képviselet, orvosi kezelés, könyvelés, ingatlanközvetítés |
+
+
+V. Gyakorlati Példák és Elhatárolási Kérdések
+
+**1. Egyértelmű vállalkozási szerződések:**
+
+- **Házépítés**: A vállalkozó kötelezi magát egy ház megépítésére. Az eredmény: a kész ház. Ha a ház nem készül el, vagy hibásan készül el, szerződésszegés.
+- **Autójavítás**: A szerelő kötelezi magát az autó megjavítására. Az eredmény: a működő autó. Ha nem javul meg, szerződésszegés (kivéve, ha a hiba természete miatt nem javítható).
+- **Ruha varrása**: A szabó kötelezi magát egy ruha elkészítésére. Az eredmény: a kész ruha.
+
+**2. Egyértelmű megbízási szerződések:**
+
+- **Ügyvédi képviselet**: Az ügyvéd kötelezi magát az ügyfél képviseletére a perben. Az ügyvéd **nem garantálja**, hogy a pert megnyeri, csak azt, hogy szakszerűen, gondosan képviseli az ügyfelet. Ha a per elvész, de az ügyvéd gondosan járt el, nem szerződésszegés, és a díj jár.
+- **Orvosi kezelés**: Az orvos kötelezi magát a beteg kezelésére. Az orvos **nem garantálja** a gyógyulást, csak a szakszerű, gondos kezelést (lege artis). Ha a betegség nem gyógyul meg, de az orvos gondosan járt el, nem szerződésszegés.
+- **Ingatlanközvetítés**: A közvetítő kötelezi magát az ingatlan értékesítésének elősegítésére. A közvetítő **nem garantálja**, hogy az ingatlan el fog kelni, csak azt, hogy megteszi a szükséges lépéseket. Ha nem kel el, nem szerződésszegés (de a díj feltételezhető az eladáshoz).
+
+**3. Vegyes vagy atipikus szerződések**
+
+Bizonyos szerződések esetében a **két típus elemei keverednek**, és nehéz eldönteni, hogy melyik típusba tartoznak.
+
+**Példa: Szoftverfejlesztési szerződés**
+
+- Ha a szerződés úgy szól, hogy a vállalkozó kötelezi magát egy **konkrét, meghatározott szoftver elkészítésére** (specifikációval, funkciókkal), az **vállalkozási szerződés**: eredménykötelmet vállal.
+
+- Ha a szerződés úgy szól, hogy a megbízott kötelezi magát **szoftverfejlesztési szolgáltatások nyújtására**, de nem garantál konkrét eredményt (pl. tanácsadás, support, optimalizálás), az **megbízási szerződés**: gondossági kötelmet vállal.
+
+**Elhatárolás szempontjai:**
+
+- Mi a **szerződés tárgya**: konkrét, meghatározott eredmény vagy tevékenység kifejtése?
+- **Garantálja-e** a kötelezett az eredményt, vagy csak a gondos eljárást vállalja?
+- **Ki viseli a kockázatot**: hogy gondos eljárás ellenére sem jön létre az eredmény?
+- Mikor jár **díj**: az eredmény létrejöttekor vagy a tevékenység kifejtéséért?
+
+**Vita esetén** a bíróság a szerződés **valós tartalma** és a **felek akarata** alapján dönti el, hogy eredmény- vagy gondossági kötelemről van-e szó. Nem a szerződés **elnevezése** dönt, hanem a **tartalma**.
+
+
+VI. Összegzés
+
+A **vállalkozási és megbízási szerződés** elhatárolásának **alapvető gyakorlati jelentősége** van a felek **jogainak és kötelezettségeinek**, különösen a **díjigény** és a **felelősség** megállapítása szempontjából.
+
+**A helyes minősítés jelentősége:**
+
+**- Díjigény**: Ha vállalkozási szerződés, a díj csak az eredmény létrejöttekor jár. Ha megbízási szerződés, a díj a tevékenység kifejtéséért jár, eredménytől függetlenül.
+
+**- Felelősség**: Ha vállalkozási szerződés, a vállalkozó felel az eredmény elmaradásáért vagy hibájáért (kivéve, ha kimenti magát). Ha megbízási szerződés, a megbízott csak akkor felel, ha nem gondosan, szakszerűen járt el.
+
+**- Kockázat**: Ha vállalkozási szerződés, a vállalkozó viseli, hogy gondos eljárása ellenére sem jön létre az eredmény. Ha megbízási szerződés, a megbízó viseli ezt a kockázatot.
+
+**- Felmondás**: Ha vállalkozási szerződés, a felmondás korlátozottabb (kártalanítással). Ha megbízási szerződés, bármelyik fél bármikor felmondhat.
+
+**Az alapvető különbség: eredménykötelem vs. gondossági kötelem**
+
+- **Eredménykötelem** (vállalkozási): A kötelezett **eredményt garantál**, saját kockázatra dolgozik, nem feltétlenül személyes.
+
+- **Gondossági kötelem** (megbízási): A kötelezett **gondos eljárást garantál**, megbízó kockázatára dolgozik, tipikusan személyes.
+
+Ez a **dogmatikai megkülönböztetés** nemcsak elméleti jelentőségű, hanem **gyakorlati eszköz** a jogviszonyok helyes minősítésére, a felek jogainak és kötelezettségeinek meghatározására, és a jogviták helyes eldöntésére. A bíróság minden esetben a **konkrét szerződés tartalmát** vizsgálja, és annak alapján állapítja meg, hogy eredmény- vagy gondossági kötelemről van-e szó.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

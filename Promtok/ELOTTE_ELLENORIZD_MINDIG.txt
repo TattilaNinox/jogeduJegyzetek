@@ -1,0 +1,63 @@
+================================================================================
+⚠️ MINDEN GENERÁLÁS ELŐTT EZT AZ ELLENŐRZÉSI LISTÁT KELL VÉGIGMENNI! ⚠️
+================================================================================
+
+MINDEN generált szövegben MINDEN mondatot ellenőrizni kell:
+
+1. LOGIKUS CSELEKMÉNY ELLENŐRZÉS:
+   ❓ Kérdés: "Ez a cselekmény logikus? Lehetséges a valóságban?"
+   ✅ JÓ: "lámpa kigyullad", "golyó gurul", "fénysugár lövell lámpából"
+   ❌ ROSSZ: "deszka pulzál", "fémlemezből golyó gurul", "pecsét pulzál"
+
+2. TÁRGY TULAJDONSÁGOK ELLENŐRZÉSE:
+   ❓ Kérdés: "Ez a tárgy ilyen tulajdonságú lehet? Ez a tulajdonság kapcsolódik a tananyaghoz?"
+   ✅ JÓ: "két szintből álló piramis" (ha a tananyagban van "két szint")
+   ❌ ROSSZ: "fekete tolmácsgép" (ha nincs "fekete" a tananyagban)
+
+3. TILOS TÁRGYAK ELLENŐRZÉSE:
+   ❓ Kérdés: "Van benne tükör, kristály, üveg, gömb?"
+   ✅ JÓ: "lámpa", "fémlemez", "deszka"
+   ❌ ROSSZ: "tükör", "kristály", "üveggömb"
+
+4. OK-OKOZATI LÁNC ELLENŐRZÉSE:
+   ❓ Kérdés: "Ha egy esemény elkezdődik (pl. 'golyó eléri a kockát'), folytatódik-e azonnal?"
+   ✅ JÓ: "golyó eléri a kockát, és amikor eléri, a rugó összenyomódik"
+   ❌ ROSSZ: "golyó eléri a kockát." [új bekezdés] "Ez a korrekciós funkció?"
+
+5. TÖMÖR LEÍRÁS ELLENŐRZÉSE:
+   ❓ Kérdés: "A tárgy leírása maximum 2-3 szó? Nincs túlmagyarázás?"
+   ✅ JÓ: "tolmácsgép", "mérleg", "lámpa"
+   ❌ ROSSZ: "fekete fémből készült, precíziós tolmácsgép"
+
+================================================================================
+AUTOMATIKUS ELLENŐRZÉSI KÉRDÉSEK MINDEN MONDATHOZ:
+================================================================================
+
+Minden generált mondatnál kérdezd meg magadtól:
+
+1. "Ez logikus? Lehetséges a valóságban?"
+2. "Ez a tárgy valós? Konkrét? Nem absztrakt?"
+3. "Ez a cselekmény lehetséges? Ez a tárgy ezt tudja csinálni?"
+4. "Van benne tilos tárgy (tükör, kristály, üveg, gömb)?"
+5. "A tárgy tulajdonságai kapcsolódnak a tananyaghoz?"
+6. "A leírás tömör? Maximum 2-3 szó?"
+7. "Az ok-okozati lánc folyamatos? Nem szakad meg?"
+
+HA BÁRMELYIK KÉRDÉSRE "NEM" A VÁLASZ → JAVÍTSD KI AZONNAL!
+
+================================================================================
+KRITIKUS SZABÁLYOK RÖVIDEN (MINDIG EZT NEZD ELŐSZÖR):
+================================================================================
+
+1. ✅ Csak VALÓS tárgyak (fogaskerék, mérleg, lámpa, deszka, stb.)
+2. ✅ Csak LOGIKUS cselekmények (lámpa kigyullad, golyó gurul, stb.)
+3. ✅ TILOS: tükör, kristály, üveg, gömb
+4. ✅ TILOS: lehetetlen cselekmények (deszka pulzál, fémlemezből golyó gurul)
+5. ✅ Tömör leírás (max 2-3 szó)
+6. ✅ Tulajdonságok csak akkor, ha kapcsolódnak a tananyaghoz
+7. ✅ Folyamatos ok-okozati lánc (nem szakad meg)
+
+================================================================================
+MOST GENERÁLHATOD A SZÖVEGET - DE MINDEN MONDATOT ELLENŐRIZD!
+================================================================================
+

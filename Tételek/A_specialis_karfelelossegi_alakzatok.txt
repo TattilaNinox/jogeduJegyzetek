@@ -1,0 +1,297 @@
+A SPECIÁLIS KÁRFELELŐSSÉGI ALAKZATOK
+
+I. Bevezetés: A Speciális Felelősségi Alakzatok Szerepe
+
+A **speciális felelősségi alakzatok** olyan, **törvény által nevesített tényállások**, amelyek **eltérnek** az általános, felróhatóságon alapuló deliktuális felelősség szabályaitól (Ptk. 6:519. §), jellemzően **szigorúbb helytállási kötelezettséget** írva elő.
+
+Az **általános deliktuális felelősség** (Ptk. 6:519. §) alapján: "Aki másnak jogellenesen kárt okoz, köteles azt megtéríteni. Mentesül a felelősség alól a károkozó, ha bizonyítja, hogy magatartása nem volt felróható."
+
+Ez **szubjektív felelősség**: a károkozó **kimentkezhet**, ha bizonyítja, hogy magatartása nem volt felróható (úgy járt el, ahogy az adott helyzetben általában elvárható).
+
+Ezzel szemben a **speciális felelősségi alakzatok** jellemzői:
+- **Szigorúbb felelősség**: a kimentés **szűkebb körű** vagy **kizárt**;
+- **Objektív elemek**: sokszor nem a felróhatóság, hanem **objektív körülmények** (pl. veszélyes tevékenység folytatása, állattartás) alapozzák meg a felelősséget;
+- **Fokozott védelem**: a károsultak **fokozottabb védelme** a fokozott kockázattal járó élethelyzetekben.
+
+A szabályozás **célja**: a **fokozott kockázattal járó élethelyzetekben** (veszélyes üzem, állattartás, épületek) a **károsultak védelme** azzal, hogy a felelősség alóli kimentés **szűkítésével** vagy **kizárásával** biztosítják a károk megtérítését. Ez egyben **prevenciós funkciót** is betölt: a fokozott veszéllyel járó tevékenységek folytatóit **különös gondosságra ösztönzi**.
+
+
+II. A Fokozott Felelősség Legfontosabb Esete: A Veszélyes Üzemi Felelősség
+
+A **veszélyes üzemi felelősség** a speciális felelősségi alakzatok **legjelentősebb esete**, amely a **fokozott veszéllyel járó tevékenységek** folytatóit terheli.
+
+**1. A veszélyes üzem fogalma**
+
+A **veszélyes üzem** olyan tevékenység, amelynek **rendellenes működése** esetén a szokásosnál **nagyobb mértékű károk** bekövetkezésének a veszélye áll fenn. A veszélyes üzem **nem jogellenessé** teszi a tevékenységet (a tevékenység jogszerű lehet), de a tevékenység **fokozott kockázatot** hordoz.
+
+Példák veszélyes üzemre:
+- **Gépjárművek** (autók, motorkerékpárok, tehergépkocsik);
+- **Vasutak, repülőgépek**;
+- **Gyárak, ipari üzemek** (különösen veszélyes anyagokat feldolgozók);
+- **Energia-előállító és -szolgáltató létesítmények** (erőművek, transzformátorházak);
+- **Robbanóanyagok, mérgező anyagok** tárolása, szállítása.
+
+**2. A veszélyes üzemi felelősség szabálya (Ptk. 6:535. §)**
+
+A **Ptk. 6:535. § (1) bekezdése** tartalmazza a veszélyes üzemi felelősség alapvető szabályát:
+
+"(1) Aki fokozott veszéllyel járó tevékenységet folytat, köteles az ebből eredő kárt megtéríteni. Mentesül a felelősség alól, ha bizonyítja, hogy a kárt olyan elháríthatatlan ok idézte elő, amely a fokozott veszéllyel járó tevékenység körén kívül esik."
+
+Ez a szabály **szigorúbb**, mint az általános deliktuális felelősség:
+
+**a) Objektív felelősség**: A felelősség **nem a felróhatóságon** alapul, hanem **objektív tényen**: hogy valaki fokozott veszéllyel járó tevékenységet folytat. Nem kell bizonyítani, hogy a károkozó felróhatóan járt el – elegendő, hogy a veszélyes üzem kárt okozott.
+
+**b) Rendkívül szigorú kimentés**: A károkozó csak akkor mentesül, ha bizonyítja, hogy a kárt olyan **elháríthatatlan ok** idézte elő, amely a fokozott veszéllyel járó tevékenység **körén kívül** esik.
+
+Az "elháríthatatlan ok" két feltételnek kell megfeleljen:
+
+- **Elháríthatatlan**: olyan ok, amelyet az üzembentartó még a legnagyobb gondossággal sem tudott volna elhárítani (vis maior);
+- **A veszélyes tevékenység körén kívül esik**: olyan ok, amely nem kapcsolódik a veszélyes tevékenységhez, teljesen kívülálló (pl. harmadik személy szándékos károkozása, természeti katasztrófa).
+
+Ha a kár a veszélyes üzem **rendellenességéből** (pl. műszaki hiba, kezelői hiba) ered, az **nem mentesít**, mert az a veszélyes tevékenység körén belül van.
+
+**c) Környezetveszélyeztetés**
+
+A **Ptk. 6:535. § (2) bekezdése** szerint:
+
+"(2) A veszélyes üzemi felelősség szabályai szerint felel az is, aki az emberi környezetet veszélyeztető tevékenységével másnak kárt okoz."
+
+Ez kiterjeszti a veszélyes üzemi felelősséget a **környezetveszélyeztetésre** is (pl. szennyezés, légszennyezés, talajszennyezés).
+
+**d) A felelősség kizárásának tilalma**
+
+A **Ptk. 6:535. § (3) bekezdése** szerint:
+
+"(3) A felelősség kizárása vagy korlátozása semmis; ez a tilalom a dologban okozott károkra nem vonatkozik."
+
+Az üzembentartó **nem mentesítheti** magát előzetesen szerződéses kikötéssel a felelősség alól (ez a **személyi sérülés és halál** esetén semmis). Ez védi a károsultakat, hogy ne lehessen megkerülni a fokozott felelősséget.
+
+**3. Az üzembentartó (Ptk. 6:536. §)**
+
+A **Ptk. 6:536. § (1) bekezdése** meghatározza, ki a felelős:
+
+"(1) A fokozott veszéllyel járó tevékenység folytatójának az minősül, akinek érdekében a veszélyes üzem működik."
+
+Az **üzembentartó** tehát az, **akinek érdekében** a veszélyes üzem működik. Ez nem feltétlenül a tulajdonos vagy a tényleges üzemeltető, hanem az, aki a **gazdasági hasznot** húzza a működésből, vagy akinek **érdekkörébe** tartozik az üzem.
+
+Példák:
+- Gépjármű esetén: általában a tulajdonos vagy a használó (pl. bérlő, lízingbe vevő);
+- Gyár esetén: a gyár tulajdonosa, üzemeltetője.
+
+**4. Speciális szabályok**
+
+**a) Károsulti közrehatás (Ptk. 6:537. §)**
+
+A **Ptk. 6:537. § (1) bekezdése** szerint:
+
+"(1) Az üzembentartónak nem kell megtérítenie a kárt annyiban, amennyiben az a károsult felróható magatartásából származott. A kármegosztásnál a tevékenység fokozottan veszélyes jellegét az üzembentartó terhére kell figyelembe venni."
+
+Ha a károsult is közrehatott a kárban, a kárt **meg kell osztani**, de a kármegosztásnál a **veszélyes jelleget az üzembentartó terhére** kell figyelembe venni. Ez azt jelenti, hogy az üzembentartó **nagyobb részt visel** a kárból, mint az általános szabályok szerint viselne.
+
+**b) Veszélyes üzemek találkozása (Ptk. 6:539. §)**
+
+A **Ptk. 6:539. §-a** szabályozza, mi történik, ha **több veszélyes üzem** okoz kárt egymásnak:
+
+"(1) Ha veszélyes üzemek egymásnak okoznak kárt, az üzembentartók felróhatóságuk arányában kötelesek a másiknak okozott kárt megtéríteni.
+(2) Ha a károkozás egyik félnek sem róható fel, a kárt az köteles megtéríteni, akinek fokozott veszéllyel járó tevékenysége körében a kár bekövetkezéséhez vezető rendellenesség merült fel.
+(3) Ha az egymásnak okozott kár mindkét fél fokozott veszéllyel járó tevékenysége körében bekövetkezett rendellenességre vezethető vissza, vagy ha ilyen rendellenesség egyik félnél sem állapítható meg, kárát - felróhatóság hiányában - mindegyik fél maga viseli."
+
+Ez összetett szabályozás, amely hierarchikusan alkalmaz különböző szempontokat a kármegosztáshoz.
+
+
+III. Felelősség Más Személy Által Okozott Kárért (Helytállási Kötelezettségek)
+
+Bizonyos esetekben valaki **más személy károkozásáért** köteles helytállni. Ez a **helytállási kötelezettség** (vicarious liability) azon alapul, hogy a felelős személy és a tényleges károkozó között **különleges jogviszony** áll fenn (munkaviszony, megbízás, tagság stb.).
+
+**1. Felelősség az alkalmazott és a jogi személy tagja károkozásáért (Ptk. 6:540. §)**
+
+A **Ptk. 6:540. §-a** szabályozza a munkáltató és a jogi személy felelősségét:
+
+"(1) Ha az alkalmazott a foglalkoztatására irányuló jogviszonyával összefüggésben harmadik személynek kárt okoz, a károsulttal szemben a munkáltató a felelős.
+(2) Ha a jogi személy tagja tagsági viszonyával összefüggésben harmadik személynek kárt okoz, a károsulttal szemben a jogi személy a felelős.
+(3) Az alkalmazott és a tag egyetemlegesen felel a munkáltatóval, illetve a jogi személlyel, ha a kárt szándékosan okozta."
+
+Ez a szabály a következő elveket tartalmazza:
+
+**a) Munkáltató felelőssége az alkalmazottért**
+
+Ha az **alkalmazott** (munkavállaló, közalkalmazott, köztisztviselő) a **foglalkoztatására irányuló jogviszonyával összefüggésben** harmadik személynek kárt okoz, a károsulttal szemben **a munkáltató felelős**.
+
+Feltételek:
+- Az alkalmazott **foglalkoztatására irányuló jogviszony** keretében jár el (munkaviszony, közalkalmazotti jogviszony stb.);
+- A károkozás **összefüggésben áll** ezzel a jogviszonnyal (nem magánemberként, hanem alkalmazotti minőségben okozza a kárt);
+- **Harmadik személynek** okoz kárt (nem a munkáltatónak).
+
+A munkáltató felelőssége **objektív**: nem kell bizonyítani, hogy a munkáltatót felróhatóság terheli az alkalmazott megválasztásában vagy felügyeletében. A munkáltató **kockázatviselő**: viseli a kockázatát annak, hogy alkalmazottja kárt okoz.
+
+**b) Jogi személy felelőssége a tagjáért**
+
+Hasonlóan: ha a jogi személy **tagja** a **tagsági viszonyával összefüggésben** kárt okoz, a jogi személy felelős.
+
+**c) Egyetemleges felelősség szándékos károkozás esetén**
+
+Ha az alkalmazott vagy tag a kárt **szándékosan** okozta, **egyetemlegesen felel** a munkáltatóval, illetve a jogi személlyel. Ez azt jelenti, hogy a károsult **mind a két személytől** (munkáltató és alkalmazott) követelheti a teljes kártérítést.
+
+Ez szigorúbb szankció a szándékos károkozóra: nem bújhat a munkáltató mögé.
+
+**2. Felelősség a megbízott károkozásáért (Ptk. 6:542. §)**
+
+A **Ptk. 6:542. § (1) bekezdése** szerint:
+
+"(1) Ha a megbízott e minőségében harmadik személynek kárt okoz, a károsulttal szemben a megbízó és a megbízott egyetemlegesen felelős. Mentesül a megbízó a felelősség alól, ha bizonyítja, hogy őt a megbízott megválasztásában, utasításokkal való ellátásában és felügyeletében felróhatóság nem terheli."
+
+Ez **eltér** az alkalmazottért való felelősségtől:
+
+- A megbízó és a megbízott **egyetemlegesen felelnek** (nem csak a megbízó);
+- A megbízó **kimentkezhet**, ha bizonyítja, hogy őt **culpa in eligendo** (megválasztási hiba), **culpa in instruendo** (utasítási hiba) vagy **culpa in vigilando** (felügyeleti hiba) nem terheli.
+
+Ez azt tükrözi, hogy a megbízási viszony **lazább**, mint a munkaviszony: a megbízott önállóbban jár el, ezért ha a megbízó gondosan választotta meg, utasította és felügyelte, mentesülhet.
+
+**3. Felelősség más szerződés kötelezettjének károkozásáért (Ptk. 6:543. §)**
+
+"Más szerződés jogosultja felelősséggel tartozik a vele szerződési viszonyban álló kötelezett által a szerződés teljesítése körében harmadik személynek okozott kárért mindaddig, amíg a károsult számára ismeretlen károkozó személyét meg nem nevezi."
+
+Ez **segédfelelősség**: a szerződő fél felel a segédszemélye (alvállalkozó, teljesítési segéd) károkozásáért, de **megnevezheti** a tényleges károkozót, és akkor csak **kezesként** felel.
+
+**4. Felelősség vétőképtelen személy károkozásáért (Ptk. 6:544. §)**
+
+A **Ptk. 6:544. §-a** szabályozza a vétőképtelen (belátási képességgel nem rendelkező) személy károkozásáért való felelősséget:
+
+"(1) Akinek belátási képessége oly mértékben korlátozott, hogy a károkozással kapcsolatos magatartása következményeit nem képes felmérni, nem felel az általa okozott kárért.
+(2) A vétőképtelen helyett az felel, aki jogszabály alapján a vétőképtelen gondozójának minősül. Gondozó az is, aki a vétőképtelen személy felügyeletét a károkozáskor ellátta.
+(3) Mentesül a gondozó a felelősség alól, ha bizonyítja, hogy a nevelés és a felügyelet ellátásával kapcsolatban felróhatóság nem terheli."
+
+Ez a szabály védi a vétőképtelen személyt (kisgyermek, súlyos értelmi fogyatékos) attól, hogy felelnie kelljen, és **a gondozóra** (szülő, gyám, felügyelő) telepíti a felelősséget.
+
+
+IV. További Nevesített Speciális Felelősségi Esetek
+
+**1. Felelősség az állatok károkozásáért (Ptk. 6:562-563. §)**
+
+**a) Az állattartás körében okozott kár (Ptk. 6:562. §)**
+
+A **Ptk. 6:562. § (1) bekezdése** szerint:
+
+"(1) Aki állatot tart, az állat által másnak okozott kárért felel, kivéve, ha bizonyítja, hogy az állat tartásával kapcsolatban felróhatóság nem terheli."
+
+Az **állattartó** felel az állata által okozott kárért (pl. kutya megharap valakit, ló megrúg, tehén kiüti a kerítést). A felelősség **szigorított**: nem kell bizonyítani, hogy az állattartó felróhatóan járt el, hanem az állattartónak kell bizonyítania, hogy **nem járt el felróhatóan** az állat tartásával kapcsolatban (pl. megfelelően őrizte, nem volt agresszív állat stb.).
+
+**b) Veszélyes állat (Ptk. 6:562. § (2) bekezdés)**
+
+"(2) Veszélyes állat tartója a veszélyes üzemi felelősség szabályai szerint felel."
+
+A **veszélyes állat** (pl. vadállat, mérgező kígyó, agresszív kutya) tartója **veszélyes üzemi felelősséggel** tartozik: csak **elháríthatatlan ok** esetén mentesül.
+
+**c) Vadászható állat által okozott kár (Ptk. 6:563. §)**
+
+"(1) A vadászható állat által okozott kár megtérítéséért az a vadászatra jogosult tartozik felelősséggel, akinek a vadászterületén a kár bekövetkezett."
+
+Ez különleges szabály: a **vadászatra jogosult** felel a vad által okozott kárért (pl. vaddisznó kitúrja a kukoricát), mert ő gyakorolja a vadászati jogot a területen.
+
+**2. Felelősség az épületkárokért (Ptk. 6:560-561. §)**
+
+**a) Az épület tulajdonosának felelőssége (Ptk. 6:560. §)**
+
+A **Ptk. 6:560. § (1) bekezdése** szerint:
+
+"(1) Épület egyes részeinek lehullásával vagy az épület hiányosságai révén másnak okozott kárért az épület tulajdonosa felelős, kivéve, ha bizonyítja, hogy az építkezésre és karbantartásra vonatkozó szabályokat nem sértették meg, és az építkezés vagy karbantartás során a károk megelőzése érdekében nem járt el felróhatóan."
+
+Ez **kétféle károkozást** szabályoz:
+
+**- Épület egyes részeinek lehullása**: Ha az épületről **tárgy leesik** (pl. crepés, tégla, vakolat), és kárt okoz, az épület tulajdonosa felel.
+
+**- Az épület hiányosságai révén okozott kár**: Ha az épület **hibás állapota** (pl. rothadt lépcsőfok, leszakadt korlát) kárt okoz, az épület tulajdonosa felel.
+
+A felelősség **szigorított**: az épület tulajdonosának kell bizonyítania, hogy:
+- az építkezésre és karbantartásra vonatkozó szabályokat **nem sértették meg**;
+- az építkezés vagy karbantartás során **nem járt el felróhatóan**.
+
+Ez fordított bizonyítási teher: a károsultnak csak a kárt és az okozati összefüggést kell bizonyítania, az épület tulajdonosának kell kimentkeznie.
+
+**b) Tárgyak kidobásával okozott kár (Ptk. 6:561. §)**
+
+"(1) Valamely tárgynak lakásból vagy más helyiségből való kidobásával, kiejtésével vagy kiöntésével okozott kárért a károsulttal szemben a lakás vagy helyiség bérlője vagy egyéb jogcímen használója felelős."
+
+Ez klasszikus jogintézmény (eredete a római jog): ha lakásból vagy helyiségből tárgyat dobnak ki (pl. cserepes, víz), és az kárt okoz, a bérlő vagy használó felel, kivéve, ha megnevezi a tényleges károkozót (akkor csak kezesként felel).
+
+**3. Termékfelelősség (Ptk. 6:550-559. §)**
+
+A **termékfelelősség** (product liability) a **hibás termék** által okozott károkért való felelősség.
+
+**a) A felelősség alapszabálya (Ptk. 6:550. §)**
+
+"A termékkárért a hibás termék gyártója felelősséggel tartozik."
+
+**b) Termék és termékkár fogalma**
+
+A **Ptk. 6:551. §-a** szerint: "Termék minden ingó dolog, akkor is, ha utóbb más dolog alkotórészévé vált."
+
+A **Ptk. 6:552. §-a** szerint termékkár:
+"a) valakinek a hibás termék által okozott halála, testi sérülése vagy egészségkárosodása miatt bekövetkezett kár; és
+b) a hibás termék által más dolgokban okozott, a kár bekövetkeztekor ötszáz eurónak a Magyar Nemzeti Bank hivatalos devizaárfolyama szerinti forintösszegénél nagyobb összegű kár."
+
+A termékfelelősség tehát **csak személyi sérülés, halál és jelentősebb dologi károk** esetén áll fenn.
+
+**c) Szigorú felelősség**
+
+A termékfelelősség **szigorú, objektív felelősség**: a gyártónak nem kell felróhatóan eljárnia, elegendő, hogy a termék **hibás** volt, és ez kárt okozott. A gyártó csak meghatározott **szűk körű esetekben** mentesülhet (Ptk. 6:555. §), pl. ha bizonyítja, hogy a terméket nem hozta forgalomba, vagy a hiba a forgalomba hozatal idején a tudomány és technika állása szerint nem volt felismerhető.
+
+
+V. Összegzés
+
+A **speciális felelősségi alakzatok** egy **differenciált, a különböző élethelyzetek kockázati szintjéhez igazodó felelősségi rendszert** alkotnak az általános deliktuális tényállás mellett.
+
+**A speciális felelősségi alakzatok rendszere:**
+
+**1. Veszélyes üzemi felelősség** (Ptk. 6:535-539. §): Fokozott veszéllyel járó tevékenységért objektív felelősség, csak elháríthatatlan ok mentesít (amely a veszélyes tevékenység körén kívül esik).
+
+**2. Felelősség más személy károkozásáért:**
+- **Munkáltató felelőssége** az alkalmazottért (Ptk. 6:540. §): objektív felelősség
+- **Jogi személy felelőssége** a tagjáért (Ptk. 6:540. §): objektív felelősség
+- **Megbízó felelőssége** a megbízottért (Ptk. 6:542. §): egyetemleges felelősség, kimentéssel
+- **Más szerződés jogosultjának felelőssége** (Ptk. 6:543. §): segédfelelősség
+
+**3. Felelősség vétőképtelen károkozásáért** (Ptk. 6:544. §): A gondozó felel, kimentéssel (nevelés és felügyelet).
+
+**4. Termékfelelősség** (Ptk. 6:550-559. §): A gyártó objektív felelőssége a hibás termékért, szűk körű kimentéssel.
+
+**5. Felelősség az épületkárokért** (Ptk. 6:560-561. §): Az épület tulajdonosának szigorított felelőssége lehullás vagy hiányosság esetén.
+
+**6. Felelősség az állatok károkozásáért** (Ptk. 6:562-563. §): Az állattartó szigorított felelőssége, veszélyes állat esetén veszélyes üzemi felelősség.
+
+**A speciális felelősségi alakzatok közös jellemzői:**
+
+- **Szigorúbb felelősség**: a kimentés szűkebb körű vagy kizárt;
+- **Objektív elemek**: nem (csak) a felróhatóság, hanem objektív körülmények (tevékenység jellege, jogviszony) alapozzák meg;
+- **Károsultak fokozott védelme**: a fokozott kockázatú helyzetekben erősebb jogi védelem;
+- **Kockázatelvű felelősség**: aki a veszélyes tevékenységet folytatja, állatot tart, épületet használ, annak viselnie kell a kockázatot.
+
+**A fokozott (objektív) felelősségi formák preventív funkciója:**
+
+A speciális felelősségi alakzatok nemcsak **utólagos kompenzációt** nyújtanak (megtérítik a kárt), hanem **megelőző funkciót** is betöltenek: a fokozott veszéllyel járó tevékenységek folytatóit **különös gondosságra ösztönzik**. Mivel tudják, hogy szigorúbb felelősség terheli őket, fokozottan ügyelnek a károk megelőzésére, a biztonságos működésre, a szabályok betartására.
+
+A speciális felelősségi alakzatok így biztosítják, hogy a **modern társadalom fokozott kockázatai** (ipari termelés, közlekedés, technológia) ne maradjanak **jogi védelem nélkül**, és hogy a károsultak megfelelő kompenzációhoz jussanak, még akkor is, ha a károkozó gondosan járt el. Ez a **kockázat-alapú igazságosság** elve: aki profitál a veszélyes tevékenységből, viselje annak kockázatát is.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

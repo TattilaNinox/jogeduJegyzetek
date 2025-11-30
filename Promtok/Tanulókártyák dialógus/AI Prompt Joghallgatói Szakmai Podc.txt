@@ -1,0 +1,184 @@
+AI Prompt: Joghallgatói Szakmai Podcast Generálása
+
+## Szerepkör és Cél
+
+Viselkedj mint egy tapasztalt jogi podcast-szerkesztő és forgatókönyvíró, aki egyetemi joghallgatók számára készít szakmai, de hallgatóbarát podcast-epizódokat. A célod egy olyan beszélgetés létrehozása, amely egyensúlyt teremt a szakmai igényesség és a könnyen követhető, természetes kommunikáció között.
+
+„A válasz nem lehet robotizált kérdés–válasz lista.
+Tilos bármilyen „Kérdés: … Válasz: …” vagy bármilyen statikus Q&A formátum.
+Kötelezően egy természetes, élő PODCAST-dialógust kell generálnod,
+ahol két szereplő folyamatos beszélgetést folytat egymással, reagálnak egymás gondolataira,
+rövid közbeszólásokkal, érveléssel és természetes szófordulatokkal.
+Az output legyen folyamatos szöveg, podcast-stílusú dialóggal.”
+
+Kötelező párbeszéd: minden bekezdést más szereplő mond, soha nem adj vissza szimpla válaszösszefoglalót.”
+„Mindig legyen interakció: bólintások, visszakérdezések, rövid megszakítások, természetes reagálások.”
+„A szereplők építsék egymás mondatait, ne csak felolvassák egymás után a kérdést és választ.”
+✔ Példa, hogyan kell kezdődnie egy jól sikerült AI PODCAST-nek
+
+Ha jól működik a prompt, a modell így indít majd:
+
+– Tudod, azért hoztam ma ezt a kérdést, mert a cselekvőképesség fogalma sok félreértést szül…
+
+– Igen, teljesen jogos, és érdekes, hogy a Polgári Törvénykönyv második könyvének első paragrafusa egészen világosan fogalmaz…
+
+– Pontosan! És amikor azt mondjuk, hogy…
+
+## Alapvető Stílusirányelvek
+
+### Hangulat és Tónus
+- **Barátságos és közvetlen**: A résztvevők úgy beszéljenek, mintha egyetemi kollégiumban vagy könyvtárban beszélgetnének
+- **Szakmailag magas szintű**: Minden állítás jogtudományi forrásokra épüljön, de ne legyen száraz vagy elvont
+- **Hallgatóbarát**: A komplex jogi fogalmakat érthetően magyarázzák el, de ne leegyszerűsítve
+- **Élő beszéd**: Természetes szófordulatok, rövid megszakítások, gondolkodási szünetek, de kerülje a felesleges töltelékszavakat
+
+### Beszélgetési Dinamika
+- **Valódi párbeszéd**: A résztvevők reagálnak egymás gondolataira, kiegészítik, kérdéseket tesznek fel
+- **Természetes átmenetek**: A témák folyamatosan épülnek egymásra, nem éles váltások
+- **Kérdés-válasz formátum**: Egyik résztvevő kérdez, a másik válaszol, majd folytatódik a vita
+- **Egymás megszakítása**: Engedélyezett rövid megszakítások, amikor valaki hozzá akar tenni valamit
+
+## Tartalmi Követelmények
+
+### Jogszabályi Hivatkozások
+- **Pontos paragrafusok**: Minden jogszabályi hivatkozás tartalmazza a pontos helyet (pl. "Polgári Törvénykönyv második könyvének tizenkettedik paragrafusának első bekezdése")
+- **Kontextus**: Ne csak idézzék a jogszabályt, hanem magyarázzák el, mit jelent gyakorlatilag
+- **TTS-barát formátum**: Számokat írd ki szavakkal (pl. "tizenkettedik" a "12." helyett)
+
+### Elméleti Háttér
+- **Jogtudományi iskolák**: Hivatkozzanak releváns jogelméleti irányzatokra, ha szükséges
+- **Történeti kontextus**: Rövid történeti háttér, ha segíti a megértést
+- **Összehasonlítás**: Hasonlítsák össze különböző jogrendszereket vagy elméleti megközelítéseket
+
+### Gyakorlati Alkalmazás
+- **Ítélkezési gyakorlat**: Hivatkozzanak konkrét bírósági döntésekre, precedensekre
+- **Valós esetek**: Használjanak hipotetikus, de reális eseteket példaként
+- **Gyakorlati következmények**: Magyarázzák el, mit jelent ez a mindennapi életben vagy a jogi gyakorlatban
+
+## Strukturális Elemek
+
+### Bevezetés (1-2 perc)
+- Barátságos köszöntés
+- A mai téma bemutatása
+- Rövid motiváció: miért fontos ez a téma
+
+### Főtartalom (10-15 perc)
+- Logikusan felépített témakörök
+- Minden témakörnél: kérdés → válasz → rövid vita → következő kérdés
+- Természetes átmenetek a témák között
+
+### Összefoglalás (1-2 perc)
+- Főbb tanulságok rövid összefoglalása
+- Következő epizód előzetese vagy további olvasmányok ajánlása
+
+## Nyelvi Jellemzők
+
+### Engedélyezett
+- "Értem, amit mondasz, de..."
+- "Igen, ez jó pont, hozzátenném, hogy..."
+- "Várj, hadd kérdezzem meg..."
+- "Pontosan, és még egy dolog..."
+- Rövid gondolkodási szünetek: "Hmm...", "Nos..."
+- Természetes megszakítások: "Ja, igen!", "Pontosan!"
+
+### Kerülendő
+- Felesleges töltelékszavak: "szóval", "hát", "na", "tudod" (túl gyakran)
+- Túlzottan hivatalos kifejezések: "kérem", "tisztelettel"
+- Száraz, előadás-szerű monológok
+- Túl hosszú, összetett mondatok
+
+## Technikai Követelmények
+
+### TTS-Optimalizáció
+- Minden számot írj ki szavakkal
+- Rövidítéseket bontsd ki teljes szavakkal
+- Zárójeleket távolítsd el, a tartalmat illeszd be a folyó szövegbe
+- Minden kérdés és válasz után után: <break time="5s"/>
+
+
+### Formátum
+
+- A résztvevők nevei ne szerepeljenek
+- Természetes beszélgetés formátum, mintha valódi podcast lenne
+
+## Ellenőrzési Kérdések
+
+A generált podcast epizódnak válaszolnia kell ezekre a kérdésekre:
+
+1. ✅ Szakmailag pontosak-e a jogszabályi hivatkozások?
+2. ✅ Könnyen követhető-e egy joghallgató számára?
+3. ✅ Természetes-e a beszélgetés dinamikája?
+4. ✅ Van-e valódi párbeszéd, vagy csak monológok váltakoznak?
+5. ✅ Relevánsak-e a példák és gyakorlati alkalmazások?
+6. ✅ Megfelelő-e a hosszúság (kb. 12-18 perc felolvasva)?
+7. ✅ TTS-barát formátumban van-e?
+
+## Végleges Kimenet
+
+A generált podcast-epizód egy sima szöveges fájl legyen, amely:
+- Készen áll a TTS-feldolgozásra
+- Természetes beszélgetés formátumban van
+- Szakmailag pontos és hallgatóbarát
+- Könnyen követhető és érdekes
+
+3. Forrásfájlok:
+- Kérdések fájl: a csatolt kerdesek.txt 50 db kérdés
+- Válaszok fájl: a csatolt valaszok.txt 50 db válasz
+- Magyarázatok fájl: a csatolt magyarazatok.txt 50 db magyarázat
+
+4. Strukturális és Tartalmi Követelmények:
+
+A. Dialógus Formátum:
+- Minden kérdést a "Kérdező:" címke vezessen be.
+- Minden választ és a hozzá tartozó magyarázatot a "Válaszoló:" címke vezessen be.
+- A válasz és a magyarázat szövegét fűzd össze egyetlen, logikus és folyamatos válasszá. A válasz után használj természetes átkötést a magyarázathoz (pl. "Ez azért van, mert...", "A jogszabályi háttér szerint...", "Fontos kiemelni, hogy...").
+
+Példa a dialógus struktúrájára:
+Kérdező: [Az első kérdés felolvasóbarát szövege.]
+
+<break time="5s"/> jel közbeiktatása
+
+Minden válasz elé írd oda: Válaszoló: [Az első válasz felolvasóbarát szövege.] [Átkötés] [Az első magyarázat felolvasóbarát szövege.]
+
+Minden kérdés elé írd oda: Kérdező: [A második kérdés felolvasóbarát szövege.]
+
+<break time="5s"/> jel közbeiktatása
+
+Válaszoló: [A második válasz felolvasóbarát szövege.] [Átkötés] [A második magyarázat felolvasóbarát szövege.]
+...és így tovább, mind az [50] kártyára.
+
+B. TTS-Optimalizált Átalakítások (Kötelezően Alkalmazandó Szabályok):
+
+I. Számok és Számjegyek:
+- Minden számot fonetikusan írj ki szavakkal.
+- Példa: "18" → "tizennyolc", "Ptk. 2:8. §" → "a Polgári Törvénykönyv második könyvének nyolcadik paragrafusa".
+- Törvényi hivatkozásokban a számokat melléknévi alakban használd: "első", "második", "harmadik" és így tovább.
+- Példa: "Ptk. 2:8. § (1)" → "a Polgári Törvénykönyv második könyvének nyolcadik paragrafusának első bekezdése".
+
+II. Rövidítések Kibontása:
+- Minden rövidítést teljes szóval írj ki.
+- Példa: "Ptk." → "Polgári Törvénykönyv", "pl." → "például", "stb." → "és így tovább".
+
+III. Latin Kifejezések Fonetikusan:
+- Latin kifejezéseket magyar fonetikával írd ki.
+- Példa: "ex tunc" → "ex tunk", "ipso iure" → "ipszo júre".
+
+IV. Speciális Karakterek és Formázás Eltávolítása:
+- Távolíts el minden zárójelet, a tartalmukat illeszd be a folyó szövegbe.
+- Távolíts el minden listajeles pontot ("-", "•", "*").
+- Távolíts el minden Markdown formázást (pl. **, *). A kiemelések a természetes mondathangsúlyozás által valósuljanak meg.
+- A felsorolásokat és számozott listákat alakítsd át folyamatos, kerek mondatokká.
+
+5. Stilisztikai Utasítások:
+
+A. Mondatok és Bekezdések:
+- Használj közepesen hosszú, logikusan felépített mondatokat.
+- Használj megfelelő írásjeleket (pont, vessző, kettőspont) a természetes szünetek és a helyes hangsúlyozás jelzésére.
+- A "Kérdező:" és "Válaszoló:" címkék után ne tegyél sortörést, a szöveg azonnal folytatódjon.
+
+B. Nyelvezet:
+- Tartsd meg a forrásszövegek tudományos, szakmai nyelvezetét és a pontos jogi szakkifejezéseket.
+- A cél nem a tartalom egyszerűsítése, hanem annak felolvasásra való optimalizálása.
+
+
+A végeredmény legyen egy professzionális, felolvasóbarát POTTCAST dialógus-szkript, amely készen áll a két hanggal történő TTS-feldolgozásra, miközben hűen tükrözi az eredeti tanulókártyák szakmai tartalmát. Fontos hogy 50 db kérdés és Válasz van ennek megfeleően legyen kielekítva mert adarabolva is lesznek a dialógusok és azok egyenként is hozzá lesznek adva a tanulókártyákhoz. A "C:\PROJEKTEK\POLGÁRI JOG\Tételek\A_cselekvokepesseg" mappába kérem egy txt fájlba

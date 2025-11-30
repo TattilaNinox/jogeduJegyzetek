@@ -1,0 +1,168 @@
+Szia! Most akkor vegyük sorra a polgári jog alapelveit és a joggal való visszaélést! Ez egy fontos elméleti téma. Kezdjük az alapelvek funkcióival! Milyen funkciót tölt be az alapelvek jogértelmezési szerepe a jogszabályok többféle értelmezhetősége esetén?
+
+<break time="5s"/>
+
+Értem! És hogyan biztosítja az alapelvek joghézagkitöltő funkciója a jogrendszer teljességét?
+
+<break time="5s"/>
+
+Világos! És miért tekinthető a korrekciós funkció a bírói mérlegelés legfontosabb eszközének az alapelvek alkalmazása során?
+
+<break time="5s"/>
+
+Értem! És milyen összefüggés áll fenn a polgári jogi alapelvek nyitott normajellege és a jogrendszer adaptációs képessége között?
+
+<break time="5s"/>
+
+Világos! Most térjünk a konkrét alapelvekre! Hogyan érvényesül a mellérendeltség és egyenjogúság elve a polgári jog és a közjog viszonyrendszerének elhatárolásában?
+
+<break time="5s"/>
+
+Értem! És miért követeli meg a Polgári Törvénykönyv első könyvének második paragrafusának első bekezdése, hogy a Polgári Törvénykönyv rendelkezéseit Magyarország alkotmányos rendjével összhangban kell értelmezni?
+
+<break time="5s"/>
+
+Világos! És milyen szerepet játszanak Magyarország nemzetközi kötelezettségvállalásai a Polgári Törvénykönyv értelmezésében?
+
+<break time="5s"/>
+
+Értem! Most térjünk a jóhiszeműségre és tisztességre! Hogyan különbözik a jóhiszeműség szubjektív fogalma a tisztesség objektív fogalmától a Polgári Törvénykönyv első könyvének harmadik paragrafusa alkalmazásában?
+
+<break time="5s"/>
+
+Világos! És milyen összefüggés áll fenn a tisztesség követelménye és az általánosan elfogadott üzleti etika között?
+
+<break time="5s"/>
+
+Szuper! Most térjünk a veníre kontra faktüm próprjum tilalmára! Miért tekinthető a veníre kontra faktüm próprjum tilalma a jóhiszeműség és tisztesség elvének kiemelt megnyilvánulásának?
+
+<break time="5s"/>
+
+Értem! És hogyan határozza meg a Polgári Törvénykönyv első könyvének harmadik paragrafusának második bekezdése a veníre kontra faktüm próprjum tilalom alkalmazásának feltételeit?
+
+<break time="5s"/>
+
+Világos! És milyen jogpolitikai megfontolások indokolják, hogy a másik fél joggal bízhatott a korábbi magatartásban a veníre kontra faktüm próprjum alkalmazása során?
+
+<break time="5s"/>
+
+Értem! Most térjünk az elvárható magatartás elvére! Hogyan jelenik meg az elvárható magatartás elve az objektív gondossági kötelezettség alapjaként?
+
+<break time="5s"/>
+
+Világos! És miért alkalmaz a Polgári Törvénykönyv első könyvének negyedik paragrafusának első bekezdése a rízönöböl män, ésszerű ember, mércéjét az elvárható magatartás megítélésében?
+
+<break time="5s"/>
+
+Szuper! Most térjünk a némó türpitüdinem elvére! Milyen összefüggés van a némó türpitüdinem szüám álleganász auditur elve és az önkontradikció tilalma között?
+
+<break time="5s"/>
+
+Értem! És hogyan érvényesül a Polgári Törvénykönyv első könyvének negyedik paragrafusának második bekezdése a felróható magatartásból előnyök szerzésének tilalma terén?
+
+<break time="5s"/>
+
+Világos! És miért nem zárja ki a Polgári Törvénykönyv első könyvének negyedik paragrafusának harmadik bekezdése, hogy a másik fél felróható magatartására akkor is hivatkozhasson valaki, ha maga is felróhatóan járt el?
+
+<break time="5s"/>
+
+Értem! Most térjünk a joggal való visszaélésre! Milyen különbség van a joggal való visszaélés és a jog hiánya között a joggyakorlás jogszerűségének megítélésében?
+
+<break time="5s"/>
+
+Világos! És hogyan definiálja a jogtudomány a joggal való visszaélés fogalmát a jog rendeltetésének tükrében?
+
+<break time="5s"/>
+
+Értem! És milyen jelentőséget tulajdonít a svájci ZGB második cikke a joggal való visszaélés tilalmának nemzetközi elismerésében?
+
+<break time="5s"/>
+
+Világos! És miért tekinthető a német BGB kétszázhuszonhatodik paragrafusa a chicane, kizárólag károkozási szándék, klasszikus megfogalmazásának?
+
+<break time="5s"/>
+
+Értem! És hogyan változott a joggal való visszaélés szabályozása az ezerkilencszázötvenkilenc évi Polgári Törvénykönyv taxatív felsorolásától a kétezer tizenhárom évi Polgári Törvénykönyv általános tilalmáig?
+
+<break time="5s"/>
+
+Világos! És milyen szerepet játszik az aránytalanság fogalmi jegye a joggal való visszaélés megállapításában?
+
+<break time="5s"/>
+
+Értem! És hogyan érvényesül a tisztességtelenség mint fogalmi jegy a joggal való visszaélés megítélésében?
+
+<break time="5s"/>
+
+Világos! És miért tekinthető a chicane, kizárólag károkozási szándék, a joggal való visszaélés legsúlyosabb esetének?
+
+<break time="5s"/>
+
+Értem! És milyen összefüggés áll fenn a jog rendeltetésével való ellentét és a joggal való visszaélés megállapítása között?
+
+<break time="5s"/>
+
+Világos! Most térjünk a szankciókra! Hogyan jelenik meg a kívánt joghatás elmaradása mint szankció a joggal való visszaélés esetén?
+
+<break time="5s"/>
+
+Értem! És milyen jogcímeken alapulhat a kártérítési kötelezettség a joggal való visszaélés következtében?
+
+<break time="5s"/>
+
+Világos! Most térjünk a jognyilatkozat pótlására! Miért tekinthető a jognyilatkozat bírósági pótlása a Polgári Törvénykönyv első könyvének ötödik paragrafusának második bekezdése szerint ultima ráció jellegű eszköznek?
+
+<break time="5s"/>
+
+Értem! És milyen feltételeket határoz meg a Polgári Törvénykönyv első könyvének ötödik paragrafusának második bekezdése a jognyilatkozat bírósági pótlásához?
+
+<break time="5s"/>
+
+Világos! És hogyan értelmezi a bírói gyakorlat a jogszabály által megkívánt nyilatkozat fogalmát a jognyilatkozat pótlása esetén?
+
+<break time="5s"/>
+
+Értem! És miért követeli meg a Polgári Törvénykönyv első könyvének ötödik paragrafusának második bekezdése, hogy a nyilatkozat megtagadása nyomós közérdeket vagy különös méltánylást érdemlő magánérdeket sértsen?
+
+<break time="5s"/>
+
+Világos! És hogyan biztosítja a Polgári Törvénykönyv első könyvének ötödik paragrafusának második bekezdésének zárómondata, hogy az érdeksérelem másképpen nem hárítható el?
+
+<break time="5s"/>
+
+Értem! És milyen jelentőséget tulajdonít a pótolhatja szó fakultatív jellege a bírói mérlegelés terjedelmének meghatározásában?
+
+<break time="5s"/>
+
+Világos! És hogyan alkalmazható a jognyilatkozat bírósági pótlása a közös tulajdon megszüntetése során?
+
+<break time="5s"/>
+
+Értem! És milyen szerepet játszik a jognyilatkozat pótlása a cégeljárásban, ha a vezető tisztségviselő visszaélésszerűen megtagadja a nyilatkozatot?
+
+<break time="5s"/>
+
+Világos! És miért tekinthető a házastársi hozzájárulás visszaélésszerű megtagadása klasszikus esetének a jognyilatkozat bírósági pótlásának?
+
+<break time="5s"/>
+
+Értem! És hogyan jelenik meg a joghatások bekövetkezése a bíróság nyilatkozatot pótló ítélete alapján?
+
+<break time="5s"/>
+
+Világos! Most térjünk az alapelvek kapcsolatára! Milyen összefüggés áll fenn a jóhiszeműség és tisztesség elve, Polgári Törvénykönyv első könyv harmadik paragrafus, és a joggal való visszaélés tilalma, Polgári Törvénykönyv első könyv ötödik paragrafus, között?
+
+<break time="5s"/>
+
+Értem! És milyen szerepet játszik a dogmatikai pontosság követelménye a bírói gyakorlat egységességének és következetességének?
+
+<break time="5s"/>
+
+És végül, miért tekinthető az alapelvek rendszere nélkülözhetetlennek a jogrendszer rugalmasságának, adaptivitásának és élő jellegének fenntartásában?
+
+<break time="5s"/>
+
+Remek! Akkor most már átlátjuk a polgári jog alapelveinek és a joggal való visszaélés összetett rendszerét! Köszönöm szépen ezt a részletes áttekintést!
+
+<break time="5s"/>
+

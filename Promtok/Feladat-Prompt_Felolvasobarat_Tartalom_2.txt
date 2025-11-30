@@ -1,0 +1,92 @@
+Feladat: Szakmai Szöveg Átalakítása Felolvasóbarát (TTS) Formátumba
+
+A feladatod egy meglévő szakmai (jellemzően jogi) szöveg, vagy tételkidolgozás átalakítása egy olyan "felolvasóbarát" dokumentummá, amely természetesen hangzik, amikor egy TTS (Text-to-Speech) program olvassa fel, miközben megőrzi annak teljes szakmai tartalmát és pontosságát.
+
+1. Alapvető Követelmények
+
+A. Tartalom és Pontosság Megőrzése:
+
+Tartalom: Az eredeti szöveg minden érdemi információját, logikai kapcsolatát és szakmai mélységét száz százalékban meg kell tartani.
+
+Jogszabályi Hivatkozások: Minden jogszabályi hivatkozást kötelező megtartani. Ezek a szöveg elengedhetetlen részei.
+
+Struktúra: A témakörök sorrendjét és logikai felépítését meg kell őrizni.
+
+B. Tömörség és Ismétlődés Kerülése:
+
+A szöveget gördülékennyé kell tenni. Kerülni kell a felesleges témaismétléseket (például ha egy elvet elmagyaráz, majd ugyanazt más szavakkal megismétli).
+
+Fontos Kivétel: A tömörség nem jelentheti a kulcsfontosságú jogszabályi idézetek, definíciók vagy paragrafus-hivatkozások eltávolítását, még akkor sem, ha azok tartalmilag hasonlítanak a környező magyaRázó szöveghez.
+
+2. TTS-Optimalizált Átalakítási Szabályok
+
+I. Számok és Számjegyek Kiírása:
+
+Minden számot fonetikusan ki kell írni szavakkal.
+
+Példa: "18" → "tizennyolc"
+
+Példa: "2013" → "kétezer-tizenhárom"
+
+II. Jogszabályi Hivatkozások Fonetikus Feloldása (Kritikus Szabály):
+
+Ez a legfontosabb átalakítási szabály. A rövidített jogszabályi hivatkozásokat teljes, felolvasható, fonetikus mondattá kell alakítani.
+
+A törvényeket, könyveket, paragrafusokat és bekezdéseket teljes, ragozott melléknévi alakban kell kiírni.
+
+Példa 1: "Ptk. 4:21. § (1)" → "a Polgári Törvénykönyv negyedik könyvének huszonegyedik paragrafusának első bekezdése"
+
+Példa 2: "a 2013. évi V. törvény" → "a kétezer-tizenhárom évi ötödik törvény"
+
+Példa 3: "Ptk. 4:21. § (3)-(4)" → "a Polgári Törvénykönyv negyedik könyvének huszonegyedik paragrafusának harmadik és negyedik bekezdései"
+
+III. Rövidítések Kibontása:
+
+Minden általános és szakmai rövidítést teljes szóval kell kiírni.
+
+Példa: "Ptk." → "Polgári Törvénykönyv"
+
+Példa: "pl." → "például"
+
+Példa: "stb." → "és így tovább"
+
+Példa: "ún." → "úgynevezett"
+
+IV. Latin és Idegen Kifejezések:
+
+A gyakori latin jogi kifejezéseket lehetőség szerint magyar fonetikával írd ki (vagy hagyd meg eredeti formában, ha az közismert).
+
+Példa: "erga omnes" → "erga omnesz"
+
+Példa: "numerus clausus" → "numerusz klauzusz"
+
+Példa: "traditio" → "tradíció"
+
+Példa: "nemo plus iuris" → "nemo plusz jürisz"
+
+V. Formázás Eltávolítása és Struktúra Átalakítása:
+
+Markdown Eltávolítása: Minden markdown formázást (címsor-jelek: #, ##; félkövér: szó; dőlt: szó) el kell távolítani.
+
+Zárójelek: A struktúrát jelölő zárójeleket (pl. egy paragrafus száma: "(1)") integrálni kell a szövegbe a II. pont szerint. A magyarázó jellegű zárójeleket (pl. egy fogalom magyarázata: "(mediátor)") fel kell oldani, vagy természetes módon a mondatba kell építeni (pl. "a közvetítő, vagyis mediátor").
+
+Címsorok Átalakítása: A címsorokat vagy fejezetcímeket át kell alakítani bevezető mondatokká vagy bekezdés-címkékké, melyek kettősponttal végződnek.
+
+Példa Eredeti: "## A magyar bontójog alapelvei"
+
+Példa Átalakított: "A magyar bontójog alapelvei:"
+
+Felsorolások és Listák Átalakítása: Minden listajelet (-, •, *) és számozást (1., 2., a), b)) el kell távolítani. A listát folyó szöveggé kell alakítani, logikai átkötő szavakkal.
+
+Példa Eredeti: A válás szabadsága , Az objektív megromlás elve
+
+Példa Átalakított:
+"Az első, a válás szabadsága: (itt következik a magyarázat). A második, az objektív megromlás elve: (itt következik a magyarázat)."
+
+3. Stílus és Hangnem
+
+A hangnem maradjon végig szakmai, precíz és jogi nyelvezetű.
+
+A cél nem a szöveg "lebutítása", hanem annak akadálymentesítése felolvasás számára.
+
+A mondatok legyenek világosak, logikusan felépítettek. A megfelelő írásjelek (vessző, pont, kettőspont) tudatos használatával kell jelezni a természetes beszédszüneteket, hogy a felolvasás ritmusa hatékony és a hangzás természetes legyen.

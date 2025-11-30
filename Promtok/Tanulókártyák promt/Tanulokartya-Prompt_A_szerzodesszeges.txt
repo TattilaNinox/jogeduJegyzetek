@@ -1,0 +1,86 @@
+Témaspecifikus AI Feladatprompt – Tanulókártya Kérdésbank Generálás: A szerződésszegés közös szabályai, nevesített formái
+
+Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkészülését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat a "forrasok" mappa teljes tartalmában találod. Emellett a fő forrás a kidolgozott tétel, amelynek elérési útvonalát alább adom meg. Feltétlen használd fel ezeket a forrásokat, és idézd pontosan, szóról szóra azokat a jogszabályokat, amelyek a jelen témakörhöz kapcsolódnak. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd.
+
+Kidolgozott tétel forrásfájl:
+
+forrasok\2013. évi V. törvény a Polgári Törvénykönyvről.txt.txt, forrasok\PJZV_HEJ_MR-kidolgozott tételek.txt,forrasok\VÉKÁS-GÁRDOS_ PTK KOMMENTÁR_2018 január 1-től hatályos.txt
+
+
+
+Feladat:
+Készíts pontosan [50] darab EGYETEMI SZINTŰ kérdést és választ az alább részletezett tananyagból a tanulási folyamat támogatására.
+
+A Témakör: A szerződésszegés közös szabályai, nevesített formái
+A kérdések és válaszok alapját a következő strukturális és tartalmi követelmények képezik:
+
+I. Bevezetés: A Szerződésszegés Fogalma és Rendszere
+- Definiáld a **szerződésszegés** fogalmát: a szerződés bármely kötelezettségének a szerződésnek meg nem felelő teljesítése.
+- Emeld ki a szerződésszegés **objektív jellegét**: a szerződésszegés ténye a felróhatóságtól független. A felróhatóságnak a jogkövetkezmények (elsősorban a kártérítés) körében van jelentősége.
+- Vázold fel a Ptk. szabályozásának kétszintű rendszerét:
+    - **Általános szabályok:** Minden szerződésszegésre alkalmazandó jogkövetkezmények.
+    - **Nevesített (tipizált) esetek:** A leggyakrabban előforduló szerződésszegésekre vonatkozó speciális szabályok.
+
+II. A Szerződésszegés Általános (Közös) Jogkövetkezményei:
+- Részletezd azokat a jogkövetkezményeket, amelyeket a jogosult bármely szerződésszegés esetén igénybe vehet:
+    - **Teljesítés követelése:** A jogosult elsődleges igénye.
+    - **Visszatartási jog:** A jogosult a saját esedékes szolgáltatását a másik fél teljesítéséig vagy biztosíték adásáig visszatarthatja.
+    - **Elállás vagy felmondás:**
+        - Definiáld az **elállást** (a szerződést visszamenőleges hatállyal szünteti meg) és a **felmondást** (a szerződést a jövőre nézve szünteti meg).
+        - Tárgyald az alkalmazásuk feltételét: az érdekmúlás bizonyítása.
+    - **Kártérítés:**
+        - Mutasd be a szerződésszegéssel okozott károkért való felelősség szabályait (**Ptk. 6:142. §**).
+        - Tárgyald a kötelezett **kimentési lehetőségét**: bizonyítania kell, hogy a szerződésszegést ellenőrzési körén kívül eső, a szerződéskötés időpontjában előre nem látható körülmény okozta, és nem volt elvárható, hogy a körülményt elkerülje vagy a kárt elhárítsa.
+
+III. A Nevesített Szerződésszegési Esetek és Különös Jogkövetkezményeik:
+- Részletezd a Ptk. által tipizált legfontosabb eseteket:
+    - **1. A kötelezett késedelme (Ptk. 6:140. §):** Ha a kötelezett a szolgáltatását az esedékeségkor nem teljesíti.
+        - Jogkövetkezményei: a jogosult továbbra is követelheti a teljesítést, vagy elállhat (ha az érdekmúlás bekövetkezett). Pénztartozás esetén **késedelmi kamat** fizetési kötelezettség.
+    - **2. A jogosult késedelme (Ptk. 6:141. §):** Ha a felajánlott teljesítést nem fogadja el, vagy elmulasztja a teljesítéshez szükséges együttműködést.
+        - Jogkövetkezményei: a kárveszély átszáll a jogosultra, felel a kötelezettnek okozott károkért.
+    - **3. A hibás teljesítés (Ptk. 6:157. §-tól):** Ha a szolgáltatás a teljesítés időpontjában nem felel meg a szerződésben vagy jogszabályban megállapított minőségi követelményeknek.
+        - Tárgyald a **kellékszavatossági igényeket** (kijavítás/kicserélés, árleszállítás, elállás).
+    - **4. A teljesítés lehetetlenné válása (lehetetlenülés):**
+        - Tárgyald a jogkövetkezményeket attól függően, hogy a lehetetlenülésért melyik fél felelős, mindkét fél felelős, vagy egyik sem.
+
+IV. Összegzés:
+- Foglald össze a szerződésszegés szabályozásának logikáját: a Ptk. egy rugalmas, többlépcsős szankciórendszert biztosít a jogosult számára, amely lehetővé teszi, hogy a konkrét helyzetnek leginkább megfelelő jogkövetkezményt válassza.
+- Hangsúlyozd a kártérítési felelősség alóli kimentés szigorú feltételrendszerének jelentőségét.
+
+Kérdésekre vonatkozó szabályok:
+- A kérdések legyenek EGYETEMI SZINTŰ, nehéz szintűek – kerüld az egyszerű definíciós jellegű kérdéseket.
+- Minden kérdés legyen egyértelmű, gondolkodtató, a tananyag mélyebb megértését mérje.
+- A kérdések legyenek változatosak: tárjanak fel fogalmakat, ok-okozati összefüggéseket, különbségeket, gyakorlati vonatkozásokat a fenti témakörön belül.
+- A kérdések között ne legyen ismétlés. Tilos a duplikálás a kérdésekben és a válaszokban is!
+
+Válaszokra vonatkozó szabályok:
+- Minden kérdéshez tartozzon egyetlen, egyértelmű válasz.
+- A válasz ne legyen túl hosszú (1–3 mondat).
+- A válasz közvetlenül kapcsolódjon a kérdéshez, ne tartalmazzon felesleges információt.
+
+Kimeneti formátum:
+A kimenet a `Tételek` mappába kerüljön. Ott hozz létre egy mappát a témakör nevével (pl. `A_szerzodesszeges`), és a következő három fájlt ebbe az új mappába generáld:
+
+1.  **Kérdések (Előlap)** – csak az [50] kérdés felsorolva. Fájlnév: `kerdesek.txt`
+2.  **Válaszok (Hátlap)** – az [50] kérdéshez tartozó [50] válasz felsorolva, sorrendben megegyezően. Fájlnév: `valaszok.txt`
+3.  **Magyarázatok (Indoklás)** – Minden kártyához legalább 2 mondatos indoklás, magyarázat, ami tartalmazza a vonatkozó jogszabályok szövegét is. Az indoklásnál a számozás kell, de ne legyenek címek, csak a tartalom. Ne szerepeljen benne, hogy pld: Magyarázat:, vagy Indoklás:. Szigorúan TILOS, hogy az indoklás szövege egyezzen akár a kérdéssel, akár a kérdésre adott válasszal! Fájlnév: `magyarazatok.txt`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

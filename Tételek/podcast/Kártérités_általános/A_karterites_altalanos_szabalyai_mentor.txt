@@ -1,0 +1,154 @@
+Szia! Igen, kezdjük el. Ma egy nagyon egyedi helyszínbe megyünk – egy Kártérítési Számítási Központba. Képzeld el egy modern, funkcionális épületet, üvegből és acélból, ahol minden szinten a kártérítés egy-egy aspektusát kezelik.
+
+<break time="5s"/>
+
+Induljunk el a főbejáratnál. A bejáratnál egy hatalmas, üvegtáblás információs pult vár. A pult fölött egy fém felirat látható: Kártérítési Számítási Központ. Lépjünk közelebb a pulthoz. A pult tetején egy tökéletes, aranyszínű mérleg áll, amely teljesen kiegyensúlyozott. Ez a mérleg a teljes kártérítés elvét szimbolizálja. A mérleg mindkét serpenyője pontosan ugyanabban a magasságban van, tökéletes egyensúlyban. Érintsd meg ezt a mérleget.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának első bekezdése szerint: A károkozó a károsult teljes kárát köteles megtéríteni.
+
+<break time="5s"/>
+
+A teljes kártérítés elve azt jelenti, hogy a kártérítésnek teljesnek kell lennie: le kell fednie a károsult által elszenvedett teljes kárt, nem lehet csak részleges. A károsultnak nem kell megelégednie részleges kártérítéssel – joga van a teljes kár megtérítésére.
+
+<break time="5s"/>
+
+Most menjünk tovább a központi csarnokba. A csarnok közepén három különálló, üvegből készült kijelző oszlop áll. Mindegyik oszlop egy-egy kár elemet mutat.
+
+<break time="5s"/>
+
+Az első oszlopnál álljunk meg. Ez az oszlop a felmerült kárt, a damnum emergenst szimbolizálja. Az oszlop tetején törött, összezúzott tárgyak láthatók: egy összetört autó modell, egy leégett ház makettje, egy törött műtárgy. Ezek a tárgyak értéke csökkent, már nem érik azt, amit korábban. Nézd meg közelebbről ezeket a törött tárgyakat.
+
+<break time="5s"/>
+
+Most nézzük meg a második oszlopot. Ez az oszlop az elmaradt vagyoni előnyt, a lucrum cessanst mutatja. Az oszlop tetején üres, átlátszó dobozok vannak, amelyekben semmi sincs. Ezek a dobozok azt jelképezik, hogy a károsult vagyona nem gyarapodott olyan mértékben, ahogy károkozás nélkül gyarapodott volna.
+
+<break time="5s"/>
+
+Most nézzük meg a harmadik oszlopot. Ez az oszlop a károsultat ért vagyoni hátrányok kiküszöböléséhez szükséges költségeket mutatja. Az oszlop tetején számlák, bizonylatok, orvosi receptek, szakértői jelentések láthatók, amelyek egy üveg dobozban vannak. Érintsd meg ezt a dobozt.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának második bekezdése szerint: A teljes kártérítés körében a károkozó köteles megtéríteni a) a károsult vagyonában beállott értékcsökkenést; b) az elmaradt vagyoni előnyt; és c) a károsultat ért vagyoni hátrányok kiküszöböléséhez szükséges költségeket.
+
+<break time="5s"/>
+
+Most menjünk fel az első emeletre a lépcsőn. Az első emeleten a kártérítés módjait kezelik.
+
+<break time="5s"/>
+
+Az első emelet közepén három különálló terem van. Lépjünk be az első terembe. Ez a terem a pénzbeli kártérítés területe. A terem közepén egy modern, fémből készült pénzszámláló gép áll, amely folyamatosan működik, és bankjegyeket számol. A gép tetején egy zöld fény villog, jelezve, hogy ez a főszabály.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonhetedik paragrafusának első bekezdése szerint: A károkozó a kárt pénzben köteles megtéríteni, kivéve, ha a körülmények a kár természetben való megtérítését indokolják.
+
+<break time="5s"/>
+
+Most lépjünk be a második terembe. Ez a terem a természetbeni kártérítés területe. A terem falán javítási eszközök, festékek, csavarhúzók, kalapácsok láthatók, amelyek egy fém szekrényben vannak elhelyezve. A szekrény ajtaja nyitva van, és látható, hogy ezek az eszközök az eredeti állapot helyreállítására szolgálnak. Érintsd meg ezeket az eszközöket.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonhetedik paragrafusának harmadik bekezdése szerint: A bíróság a kártérítés módjának meghatározásánál nincs kötve a károsult kérelméhez; a kártérítésnek azt a módját nem alkalmazhatja, amely ellen valamennyi fél tiltakozik.
+
+<break time="5s"/>
+
+Most lépjünk be a harmadik terembe. Ez a terem a járadék területe. A terem közepén egy nagy, fémből készült időzített automata áll, amelyen számok láthatók: hónapok, évek. Az automata folyamatosan ketyeg, és minden hónapban egy jelző fény villan.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonhetedik paragrafusának második bekezdése szerint: A jövőben rendszeresen felmerülő károk megtérítésére a bíróság időszakonként visszatérően előre fizetendő, meghatározott összegű járadékot is meghatározhat.
+
+<break time="5s"/>
+
+A járadék teremben két külön részleg van. Az első részlegben egy munkaképes ember sziluettje látható egy fém táblán, amelynek egy része kiemelkedik, egy része viszont hiányzik. Ez a jövedelempótló járadék szimbóluma.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonnyolcadik paragrafusának első bekezdése szerint: Akinek munkaképessége a károkozás folytán csökkent, akkor követelhet jövedelempótló járadékot, ha a káreset utáni jövedelme az azt megelőző időszak jövedelmét neki fel nem róható okból nem éri el.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonnyolcadik paragrafusának második bekezdése szerint: A jövedelempótló járadékot a munkaképesség-csökkenés és a bekövetkezett jövedelemkiesés mértékének együttes vizsgálata alapján kell meghatározni.
+
+<break time="5s"/>
+
+A második részlegben egy családi fénykép látható egy fém keretben, amelynek egyik tagja kiemelkedik, a többiek pedig halványan láthatók. Ez a tartást pótló járadék szimbóluma.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonkilencedik paragrafusának első bekezdése szerint: Tartást pótló járadéknak van helye a károkozás folytán meghalt személlyel szemben tartásra jogosult részére. A károkozó a tartást pótló járadék fizetésére abban az esetben is köteles, ha magatartásának e következménye nem volt előrelátható.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonkilencedik paragrafusának második bekezdése szerint: A károkozó a tartást pótló járadék fizetésére akkor is köteles, ha a meghalt személy tartási kötelezettségének megszegésével nem nyújtotta ténylegesen a tartást, vagy a járadékot igénylő a tartási igényét menthető okból nem érvényesítette.
+
+<break time="5s"/>
+
+Most menjünk fel a második emeletre. A második emeleten a kártérítés mértékének meghatározását kezelik.
+
+<break time="5s"/>
+
+Az első teremben álljunk meg. A terem közepén egy nagy, fémből készült védőpajzs áll, amely három részre van osztva. A pajzs bal oldalán egy zöld fény villog, a közepén egy sárga fény, a jobb oldalán pedig egy piros fény. Ez a kárenyhítési kötelezettség szimbóluma. A három rész a kármegelőzési, kárelhárítási és kárenyhítési kötelezettséget jelképezi. Érintsd meg ezt a pajzsot.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonötödik paragrafusának első bekezdése szerint: A károsultat kármegelőzési, kárelhárítási és kárenyhítési kötelezettség terheli. Az e kötelezettségek felróható megszegése miatt keletkezett kárt a károkozó nem köteles megtéríteni.
+
+<break time="5s"/>
+
+Most lépjünk be a második terembe. A terem közepén egy osztó mérleg áll, amelynek két serpenyője van, és a mérleg közepén egy mutató mutatja a megosztás arányát. A mutató változtatható, és különböző arányokat mutathat. Nézd meg ezt a mérleget.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonötödik paragrafusának második bekezdése szerint: A károkozó és a károsult között a kárt magatartásuk felróhatósága arányában, ha ez nem megállapítható, közrehatásuk arányában kell megosztani. Ha a közrehatás arányát sem lehet megállapítani, a kárt a károkozó és a károsult között egyenlő arányban kell megosztani.
+
+<break time="5s"/>
+
+Most lépjünk be a harmadik terembe. A terem falán egy nagy, fémből készült kivonó gép látható, amelynek tetején egy zöld fény villog, de alul egy piros fény is van. A gép közepén egy számjegyeket mutató kijelző van. Ez az előnyök beszámításának szimbóluma, a compensatio lucri cum damno.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának harmadik bekezdése szerint: A kártérítést csökkenteni kell a károsultnak a károkozásból származó vagyoni előnyével, kivéve, ha ez az eset körülményeire tekintettel nem indokolt.
+
+<break time="5s"/>
+
+Most lépjünk be a negyedik terembe. A terem közepén egy speciális mérleg áll, amelynek egyik serpenyője alacsonyabban van, mint a másik. A mérleg tetején egy kék fény villog, jelezve, hogy ez kivételes eset. Nézd meg ezt a mérleget.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának negyedik bekezdése szerint: A bíróság különös méltánylást érdemlő körülmények fennállása esetén a kártérítés mértékét a teljes kárnál alacsonyabb összegben is meghatározhatja.
+
+<break time="5s"/>
+
+Most lépjünk be az ötödik terembe. A terem falán egy nagy, üvegből készült táblázat látható, amelyen becslési értékek, képletek, számítások láthatók. A táblázat tetején egy kérdőjel szimbólum van. Ez az általános kártérítés szimbóluma, amely akkor alkalmazandó, amikor a kár mértéke nem állapítható meg pontosan.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázharmincegyedik paragrafusa szerint: Ha a kár mértéke nem állapítható meg, a károkozásért felelős személy olyan összegű kártérítés megfizetésére köteles, amely a károsult kárának a kiegyenlítésére alkalmas.
+
+<break time="5s"/>
+
+Most lépjünk be a hatodik terembe. A terem közepén egy időzített kijelző áll, amely két dátumot mutat: a károkozás dátumát és az ítélethozatal dátumát. A kijelző mellett egy inflációs görbe látható egy fém táblán. Ez az értékviszonyok változásának figyelembevételének szimbóluma.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázharmincnegyedik paragrafusának első bekezdése szerint: Ha a károkozás és az ítélethozatal között az időmúlásra vagy egyéb körülményre tekintettel az értékviszonyokban jelentős változás következett be, a bíróság az okozott kár mértékét az ítélethozatal időpontjában fennállt értékviszonyok szerint határozhatja meg. Ebben az esetben a károkozó késedelmi kamat fizetésére az érték meghatározásának időpontjától kezdődően köteles.
+
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszázharmincnegyedik paragrafusának második bekezdése szerint: Ha a károsult kártérítési igénye érvényesítésével felróhatóan késlekedik, az ár- és értékviszonyok változásának kockázatát maga viseli.
+
+<break time="5s"/>
+
+Most menjünk vissza a földszintre, és lépjünk ki a központból. A kijáratnál egy összefoglaló tábla vár, amelyen a főbb elvek láthatók: a teljes kártérítés elve, a kár három eleme, a kártérítés három módja, és a kártérítés mértékét befolyásoló hat tényező. Nézd meg ezt a táblát egy utolsó alkalommal.
+
+<break time="5s"/>
+
+Ez volt a Kártérítési Számítási Központ bejárása. Minden helyiség, minden szimbólum egy-egy fontos jogi fogalmat, elvet vagy szabályt jelképez. A memóriapalota segít abban, hogy ezeket a fogalmakat vizuálisan rögzítsd, és a vizsgán pontosan, szó szerint idézd a jogszabályokat.
+
+<break time="5s"/>
+
+Viszontlátásra!
+

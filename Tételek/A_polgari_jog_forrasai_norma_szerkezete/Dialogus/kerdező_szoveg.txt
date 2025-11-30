@@ -1,0 +1,204 @@
+Szia! Most akkor vegyük sorra a polgári jog forrásait és a norma szerkezetét! Ez egy nagyon fontos elméleti téma. Kezdjük az alapokkal! Milyen különbség van a jogforrás anyagi és alaki értelmezése között a jogalkotás és a jogmegismerés szempontjából?
+
+<break time="5s"/>
+
+Értem! És hogyan biztosítja a jogforrási hierarchia a jogrendszer koherenciáját és belső ellentmondásmentességét?
+
+<break time="5s"/>
+
+Világos! És miért tekinthető a Polgári Törvénykönyv első könyvének második paragrafusának második bekezdése a Polgári Törvénykönyv központi szerepének normatív kifejezésének?
+
+<break time="5s"/>
+
+Értem! És milyen összefüggés áll fenn a Polgári Törvénykönyv kodifikációs jellege és a polgári jogi szabályozás stabilitása között?
+
+<break time="5s"/>
+
+Világos! És hogyan érvényesül a léksz szpeciálisz derogat légi generáli elv a Polgári Törvénykönyv és a speciális polgári jogi törvények viszonyában?
+
+<break time="5s"/>
+
+Értem! És miért nem lehetnek a rendeletek ellentétesek a törvényekkel, és milyen következménye van ennek a jogforrási hierarchiára?
+
+<break time="5s"/>
+
+Világos! És hogyan jelenik meg az Európai Unió jog primátusa a magyar polgári jogi jogforrási rendszerben?
+
+<break time="5s"/>
+
+Értem! És milyen különbség van az Európai Unió rendeletek és az Európai Unió irányelvek joghatásai között a tagállami jogrendszerben?
+
+<break time="5s"/>
+
+Világos! És miért tekinthető a GDPR, általános adatvédelmi rendelet, különösen jelentős Európai Unió jogi forrásnak a polgári jog szempontjából?
+
+<break time="5s"/>
+
+Értem! És hogyan befolyásolják az Európai Unió fogyasztóvédelmi irányelvek a magyar polgári jog tartalmát?
+
+<break time="5s"/>
+
+Világos! Most térjünk a bírói gyakorlatra! Miért vitatott kérdés a kontinentális jogrendszerekben, hogy a bírói gyakorlat jogforrásnak tekinthető e?
+
+<break time="5s"/>
+
+Értem! És milyen szerepet játszik a Kúria jogegységesítő funkciója a magyar bírói gyakorlat egységességének biztosításában?
+
+<break time="5s"/>
+
+Világos! És hogyan különbözik a Bírósági Határozatok és az Elvi Bírósági Határozatok formális kötelező ereje a tényleges alkalmazásuktól?
+
+<break time="5s"/>
+
+Értem! És miért tekinthető a bírói gyakorlat jog alakító tényezőnek, még ha formálisan nem is jogforrás?
+
+<break time="5s"/>
+
+Világos! És milyen különbség van a sztaer dezisziisz elv alkalmazása és a magyar jogrendszerben érvényesülő bírói gyakorlat között?
+
+<break time="5s"/>
+
+Értem! És hogyan járul hozzá a bírói gyakorlat a joghézagok kitöltéséhez a polgári jogban?
+
+<break time="5s"/>
+
+Világos! Most térjünk a szokásjogra! Miért csökkent a szokásjog jelentősége a modern polgári jogban az írott jog dominanciájával szemben?
+
+<break time="5s"/>
+
+Értem! És milyen feltételek szükségesek ahhoz, hogy egy társadalmi gyakorlat szokásjogként elismerést nyerjen?
+
+<break time="5s"/>
+
+Világos! És miért tekinthető Werbőczy Hármaskönyve, Tripartitum, különleges jelentőségű a magyar jogfejlődésben, annak ellenére, hogy nem emelkedett törvényerőre?
+
+<break time="5s"/>
+
+Értem! És hogyan érvényesül a szokásjog a modern kereskedelmi forgalomban és a nemzetközi kereskedelemben?
+
+<break time="5s"/>
+
+Világos! Most térjünk az Alkotmánybíróságra! Milyen hatással van az Alkotmánybíróság megsemmisítő határozata a polgári jogi szabályozásra és a jogalkalmazásra?
+
+<break time="5s"/>
+
+Értem! És hogyan befolyásolják az Alkotmánybíróság által kimunkált értelmezések a tulajdonhoz való jog és a szerződési szabadság tartalmát?
+
+<break time="5s"/>
+
+Világos! És miért tekinthető az Alkotmánybíróság mulasztás megállapítására irányuló határozata a jogalkotó kötelezettségének forrásává?
+
+<break time="5s"/>
+
+Értem! Most térjünk a norma szerkezetére! Milyen szerepet tölt be a hipotézis a jogi norma szerkezetében a norma alkalmazhatóságának meghatározásában?
+
+<break time="5s"/>
+
+Világos! És hogyan határozza meg a hipotézis alanyai, tárgya és körülményei a norma személyi, tárgyi és időbeli hatályát?
+
+<break time="5s"/>
+
+Értem! És milyen különbség van a parancsoló, tiltó és megengedő diszpozíciók között a jogalanyok magatartási szabadságának szempontjából?
+
+<break time="5s"/>
+
+Világos! És miért jelent alapvető különbséget a polgári jog és a közjog között a diszpozitív normák dominanciája?
+
+<break time="5s"/>
+
+Értem! És hogyan tükrözi a diszpozitív normák túlsúlya a polgári jogban a privát autonómia és a szerződési szabadság elvét?
+
+<break time="5s"/>
+
+Világos! És milyen jogpolitikai megfontolások indokolják, hogy bizonyos polgári jogi normák kógensek, imperatívak?
+
+<break time="5s"/>
+
+Értem! És miért kógens norma a jogképességet korlátozó jognyilatkozat semmisségét kimondó Polgári Törvénykönyv második könyvének első paragrafusának második bekezdés?
+
+<break time="5s"/>
+
+Világos! És hogyan biztosítja a szándékosan okozott kárért való felelősséget kizáró kikötés semmissége a kártérítési jog céljának érvényesülését?
+
+<break time="5s"/>
+
+Értem! És milyen összefüggés áll fenn a családjogi normák javarészt kógens jellege és a családjogi viszonyok közrendi védelme között?
+
+<break time="5s"/>
+
+Világos! Most térjünk a szankciókra! Miért tekinthető a szankció a jogi norma kikényszeríthetőségének biztosítékává?
+
+<break time="5s"/>
+
+Értem! És hogyan különbözik a kártérítés mint szankció a sérelemdíjtól a jogsértés természete és az érvényesítés feltételei szempontjából?
+
+<break time="5s"/>
+
+Világos! És milyen szerepet tölt be az érvénytelenség, semmisség, mint szankció a polgári jogi normák végrehajtásában?
+
+<break time="5s"/>
+
+Értem! És hogyan jelenik meg a Polgári Törvénykönyv hatodik könyvének ötszáztizenkilencedik paragrafusában a deliktuális felelősség hipotézise, diszpozíciója és szankciója?
+
+<break time="5s"/>
+
+Világos! És milyen jelentősége van a Polgári Törvénykönyv hatodik könyvének ötszáztizenkilencedik paragrafusa második mondatában szereplő kimentési lehetőségnek a felelősség jellegének meghatározásában?
+
+<break time="5s"/>
+
+Értem! És hogyan illusztrálja a Polgári Törvénykönyv második könyvének első paragrafusának második bekezdése a kógens norma és a semmisség mint szankció kapcsolatát?
+
+<break time="5s"/>
+
+Világos! Most térjünk a gyakorlati alkalmazásra! Miért tekinthető a jogforrási hierarchia alkalmazása nélkülözhetetlennek egy konkrét jogeset megoldása során?
+
+<break time="5s"/>
+
+Értem! És hogyan érvényesül a léksz szuperior derogat légi inferiori elv, amikor az Alaptörvény és egy törvényi rendelkezés ellentétbe kerül?
+
+<break time="5s"/>
+
+Világos! És milyen lépéseket kell követnie a jogalkalmazónak, amikor több jogforrás is szabályozza ugyanazt a kérdést?
+
+<break time="5s"/>
+
+Értem! És hogyan járul hozzá a norma szerkezetének elemzése a tényállási elemek helyes értelmezéséhez?
+
+<break time="5s"/>
+
+Világos! És miért kell a jogalkalmazónak megvizsgálnia, hogy a konkrét eset tényállása megfelel e a hipotézis valamennyi elemének?
+
+<break time="5s"/>
+
+Értem! És milyen szerepet játszik a jogértelmezés, nyelvtani, logikai, rendszertani, teleologikus, történeti, a norma helyes alkalmazásában?
+
+<break time="5s"/>
+
+Világos! És hogyan kapcsolódik a polgári jogi alapelvek, jóhiszeműség, tisztesség, joggal való visszaélés tilalma, alkalmazása a norma szerkezeti elemzéséhez?
+
+<break time="5s"/>
+
+Értem! És miért tekinthető a Polgári Törvénykönyv hatodik könyvének száznegyvenkettedik paragrafusa szerinti szerződésszegéssel okozott kárért való felelősség klasszikus példájának a norma szerkezeti elemzésére?
+
+<break time="5s"/>
+
+Világos! És hogyan biztosítja a jogforrási hierarchia és a norma szerkezet ismerete a jogbiztonságot és a kiszámítható jogalkalmazást?
+
+<break time="5s"/>
+
+Értem! És milyen összefüggés áll fenn a kodifikált polgári jog és a jogforrási rendszer áttekinthetősége között?
+
+<break time="5s"/>
+
+Világos! És miért tekinthető a jogforrási hierarchia és a norma szerkezet alapvető eszköznek a jogászi gondolkodás strukturálásában?
+
+<break time="5s"/>
+
+Értem! És végül, hogyan járul hozzá a polgári jog forrásainak és a norma szerkezetének ismerete a stabil jogi tudás és a gyakorlati jogalkalmazás megalapozásához?
+
+<break time="5s"/>
+
+Remek! Akkor most már átlátjuk a polgári jog forrásait és a norma szerkezetét! Köszönöm szépen ezt a részletes áttekintést!
+
+<break time="5s"/>
+

@@ -1,0 +1,131 @@
+========================================
+RÉSZLETES FELADATPROMPT: MEMÓRIAPALOTA KÉSZÍTÉSE
+========================================
+
+FELADAT CÉLJA:
+---------------
+A feladat célja, hogy oktatási vagy tanulási célú szövegeket (jogtudományi tételek, történelem, irodalom, stb.) memóriapalota-technikával feldolgozott, vizuálisan erős és könnyen megjegyezhető formátumba alakítsunk. A memóriapalota egy mnemotechnikai módszer, amelyben az információkat egy képzeletbeli térben, útvonalon, épületben vagy helyszínen helyezzük el, és minden kulcsfogalmat egyedi, vizuálisan erős szimbólummal társítunk.
+
+ALAPVETŐ KÖVETELMÉNYEK:
+------------------------
+
+1. EGYEDI KONCEPCIÓ:
+   - Minden memóriapalota TELJESEN ELTÉRŐ koncepciót követ
+   - NEM lehet ugyanaz a helyszín/környezet, mint az előző memóriapalotákban
+   - Példák koncepciókra: híd rendszer, kapu/átjáró rendszer, csillagvizsgáló, kikötői raktár, színház, bank, hegyi ösvény, stb.
+   - A koncepció logikusan illeszkedjen a téma tartalmához
+
+2. VIZUÁLISAN ERŐS SZIMBÓLUMOK:
+   - Minden kulcsfogalomhoz KONKRÉT, VIZUÁLISAN ERŐS szimbólumot kell készíteni
+   - A szimbólumok NEM lehetnek csak szöveges feliratok (pl. "5 haj csak más felirat" - EZ NEM SEGÍTI A MEMORIZÁLÁST)
+   - A szimbólumoknak KONKRÉT, MEGFOGHATÓ, VIZUÁLISAN ERŐS tárgyaknak, jeleneteknek, képeknek kell lenniük
+   - Példák jó szimbólumokra:
+     * "Lezárt, végleges ajtó" → halál
+     * "Uralkodó korona és szolgáló jelzés" → uralkodó és szolgáló telek
+     * "Láncszem, amely egy másik láncszemhez kapcsolódik" → járulékos jelleg
+     * "Törött, eltörött tárgy" → érdemtelenség
+     * "Végtelen időt mutató óra" → el nem évülés
+   - ROSSZ példák (NE HASZNÁLJ ILYENEKET):
+     * "5 haj csak más felirat" → ez csak szöveg, nem vizuális szimbólum
+     * "Egy tábla, amin 'tulajdonjog' felirat van" → ez csak szöveg
+     * "Egy doboz, amin 'használat' van írva" → ez csak szöveg
+
+3. VÁLTOZATOSSÁG:
+   - Ne legyen "kaptafa" - minden memóriapalota egyedi legyen
+   - Ne ismétlődjön a koncepció, a stílus, a szimbólumok típusa
+   - Legyen változatos, nyitott, nem sablonos
+
+4. TELJES TARTALOM FELDOLGOZÁSA:
+   - A forrásszöveg MINDEN fontos információját tartalmazza
+   - A törvényparagrafusok, definíciók, részletek megmaradnak
+   - A logikus struktúra és a kapcsolatok megmaradnak
+
+FORMÁTUM ÉS STÍLUS:
+-------------------
+
+1. BEVEZETŐ:
+   - Mindig kezdj egy bevezető mondattal, amely bevezet a memóriapalotába
+   - Példa: "Itt állunk egy híd előtt. Ez az idegen dologbeli jogok hídja. Gyere utánam, lépjünk fel a hídra."
+   - Vagy: "Itt állunk egy kapu előtt. Ez az öröklés kapuja. Gyere utánam, lépjünk be."
+
+2. ÚTVONAL ÉS HELYEK:
+   - Használj útvonalat, lépéseket: "Most menjünk tovább...", "Itt látható...", "A következő helyen..."
+   - Minden új információt egy új helyszínhez, objektumhoz, szimbólumhoz köss
+   - A helyek logikusan következzenek egymás után
+
+3. SZIMBÓLUMOK LEÍRÁSA:
+   - Minden szimbólumot részletesen, vizuálisan írj le
+   - Használj konkrét, érzékszervi leírásokat (mit látsz, milyen, hol van)
+   - Példa: "A hídfőzet bal oldalán egy láncszem látható, amely egy másik láncszemhez kapcsolódik."
+   - NE írj csak: "Itt van a járulékos jelleg" (ez csak szöveg)
+
+4. TARTALOM INTEGRÁLÁSA:
+   - A szimbólum leírása után KÖZVETLENÜL következzen a tényleges információ
+   - Példa: "A láncszem után: Másodszor, a zálogjog járulékos jellege. A zálogjog mindig egy alapköveteléshez kapcsolódik..."
+
+5. STRUKTÚRA:
+   - Használj hierarchikus struktúrát (fő témák, alpontok)
+   - Minden fő témát egy külön helyszínhez, szakaszhoz köss
+   - Az alpontokat a fő helyszín körül, vagy egy új helyszínen helyezd el
+
+6. ÖSSZEFOGLALÁS:
+   - A végén legyen egy összefoglaló rész, amely összekapcsolja az információkat
+   - Ez is egy konkrét helyszínen, szimbólummal legyen
+
+PÉLDA STRUKTÚRA:
+----------------
+
+1. Bevezetés (helyszín bemutatása)
+2. Fő fogalmi elemek (külön helyszínek/szimbólumok)
+3. Fő témakörök (külön szakaszok/helyszínek)
+   - Alpontok (külön szimbólumok)
+4. Összefoglalás (végső helyszín/szimbólum)
+
+FONTOS SZABÁLYOK:
+-----------------
+
+1. MINDIG használj konkrét, vizuális szimbólumokat, NEM csak szöveges feliratokat
+2. MINDIG egyedi koncepciót válassz, NEM ismételd az előző memóriapalotákat
+3. MINDIG változatos legyen, NEM sablonos
+4. MINDIG tartalmazza a teljes forrásszöveg információit
+5. MINDIG logikusan strukturált legyen
+6. MINDIG használj útvonalat, lépéseket, hogy a felhasználó "járhasson" a palotában
+
+ELLENŐRZÉSI LISTA:
+-------------------
+
+Mielőtt elkészíted a memóriapalotát, ellenőrizd:
+□ Egyedi koncepciót választottam (nem hasonlít az előzőkhöz)?
+□ Minden kulcsfogalomhoz konkrét, vizuálisan erős szimbólumot készítettem?
+□ Nincs benne csak szöveges felirat (pl. "5 haj csak más felirat")?
+□ Változatos, nem sablonos?
+□ Teljes tartalmat tartalmaz?
+□ Logikusan strukturált?
+□ Van bevezető és összefoglaló?
+□ Használok útvonalat, lépéseket?
+
+PÉLDA KONCEPCIÓK (ne használd ezeket újra, csak példa):
+-------------------------------------------------------
+- Híd rendszer (idegen dologbeli jogok)
+- Kapu/átjáró rendszer (öröklés)
+- Csillagvizsgáló/observatórium (jogalanyiság)
+- Kikötői raktárkomplexum (dolog fogalma)
+- Színház (házasság felbontása)
+- Bank/pénzügyi intézet (házassági vagyonjog)
+- Hegyi ösvény/kilátók (házassági akadályok)
+- Ünnepélyes terem/ceremónia helyszín (házasságkötés)
+
+FELHASZNÁLÁS:
+-------------
+Amikor egy új tételt kapsz feldolgozásra:
+1. Olvasd el a teljes forrásszöveget
+2. Válassz egy teljesen egyedi koncepciót
+3. Készítsd el a memóriapalotát a fenti szabályok szerint
+4. Ellenőrizd az ellenőrzési listával
+5. Mentsd el a megfelelő névvel: "[Tétel címe]_memoriapalota.txt"
+
+========================================
+VÉGE
+========================================
+
+

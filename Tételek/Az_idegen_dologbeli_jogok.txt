@@ -1,0 +1,216 @@
+AZ IDEGEN DOLOGBELI JOGOK (KORLÁTOLT DOLOGI JOGOK)
+
+I. Bevezetés: Az Idegen Dologbeli Jogok Fogalma és Rendszere
+
+Az **idegen dologbeli jogok** (más terminológiával **korlátolt dologi jogok**) olyan, a **tulajdonjognál szűkebb tartalmú**, **abszolút szerkezetű** (dologi) jogok, amelyek **más személy tulajdonában álló dolgon** biztosítanak valamilyen jogosultságot a jogosult számára.
+
+Az idegen dologbeli jogok **fogalmi elemei**:
+
+**1. Más tulajdonában álló dolog**: Az idegen dologbeli jog **nem a sajátunkon**, hanem **más tulajdonán** áll fenn. Ha valaki saját dolgán rendelkezik ilyen joggal, az általában megszünteti a jogot (konfúzió – a jog és a tulajdon összeolvadása).
+
+**2. Szűkebb tartalom**: Az idegen dologbeli jog **szűkebb**, **korlátoltabb** tartalmú, mint a tulajdonjog. Csak a tulajdonjog **egyes részjogosítványait** biztosítja (pl. használat, hasznok szedése, kielégítés), nem mindegyiket.
+
+**3. Abszolút szerkezet**: Az idegen dologbeli jog **dologi jog**: **erga omnes** (mindenkivel szemben) hatályos, nem csak a tulajdonossal szemben. A jogosulttal szemben mindenki kötelezett a jog tiszteletben tartására.
+
+**Közös jellemző: a tulajdonos tulajdonjogának korlátozása**
+
+Az idegen dologbeli jogok **korlátozzák** a tulajdonos tulajdonjogát: a tulajdonos **nem gyakorolhatja szabadon** azokat a részjogosítványokat, amelyeket az idegen dologbeli jog elvon tőle (pl. ha haszonélvezet áll fenn, a tulajdonos nem birtokolhatja, használhatja a dolgot).
+
+**Az idegen dologbeli jogok rendszerezése:**
+
+**1. Használati jogok (állagjogok):** A dolog **használatára, hasznosítására** adnak lehetőséget. Ide tartoznak:
+- **Haszonélvezet** (Ptk. 5:146-5:152. §)
+- **Használat joga** (Ptk. 5:153-5:155. §)
+- **Telki szolgalmak** (Ptk. 5:156-5:163. §)
+- **Közérdekű használati jog**
+
+**2. Értékjogok (biztosítéki jogok):** A dolog **értékéből való kielégítést** biztosítják. Ide tartozik elsősorban:
+- **Zálogjog** (Ptk. 5:86-5:139. §)
+
+
+II. A Használati Jogok
+
+A **használati jogok** a dolog használatára, hasznosítására, hasznai szedésére jogosítanak. A tulajdonostól **ideiglenesen elvonjuk** a használat és hasznok szedésének jogát.
+
+**1. A haszonélvezet (Ptk. 5:146-5:152. §)**
+
+A **haszonélvezet** a használati jogok **legteljesebb formája**. A haszonélvezet olyan jogviszony, amelynél fogva a jogosult (haszonélvező) a más tulajdonában álló dolgot **birtokolhatja, használhatja és hasznait szedheti**, de a jogviszony megszűnése után a dolgot **állagának sérelme nélkül** vissza kell adnia.
+
+A haszonélvezet **részjogosítványai**:
+
+**a) Birtoklás joga**: A haszonélvező **birtokolhatja** a dolgot, és megilleti a birtokvédelem.
+
+**b) Használat joga**: A haszonélvező **használhatja** a dolgot (hasznosíthatja, saját céljára fordíthatja).
+
+**c) Hasznok szedésének joga**: A haszonélvező **szedheti** a dolog hasznait (természetes és polgári hasznok – termés, bérleti díj).
+
+**Nem illeti meg**: A **rendelkezési jog** (a tulajdonjog átruházása, a dolog megterhelése) továbbra is a **tulajdonost** illeti.
+
+**A haszonélvezet jellemzői:**
+
+**- Személyes jelleg**: A haszonélvezet **személyhez kötött**, nem forgalomképes jog, **nem ruházható át** és jogutódlással sem szerezhető meg. A haszonélvezet főszabály szerint a jogosult **haláláig** áll fenn (természetes személynél), jogi személynél **maximum 50 évig**.
+
+**- Keletkezés**: A haszonélvezet keletkezhet **szerződéssel**, **jogszabály** alapján (pl. özvegyi haszonélvezet), **bírósági/hatósági rendelkezéssel**, vagy **végrendelettel**.
+
+**- A tulajdonos és a haszonélvező jogai/kötelezettségei**: A haszonélvező **köteles** a dolgot **állagában megóvni**, a **rendes fenntartást** elvégezni. A tulajdonos köteles a **rendkívüli javításokat** elvégezni.
+
+**- Megszűnés**: A haszonélvezet megszűnik a jogosult halálával, határozott idő lejártával, lemondással, a dolog elpusztulásával, a haszonélvező által való tulajdonszerzéssel.
+
+**2. A használat joga (Ptk. 5:153-5:155. §, főként Ptk. 5:159. §)**
+
+A **használat joga** a haszonélvezetnél **szűkebb jogosultság**. A **Ptk. 5:159. § (1) bekezdése** (haszonélvezet szabályai között) utal rá:
+
+"(1) A használat jogánál fogva a jogosult a dolgot a saját, valamint vele együtt élő családtagjai szükségleteit meg nem haladó mértékben használhatja és hasznait szedheti. Jogi személy a használat jogánál fogva a dolgot a létesítő okiratában meghatározott céljával és tevékenységével összhangban használhatja és szedheti annak hasznait. A használat jogának gyakorlása másnak nem engedhető át."
+
+A használat joga **korlátoltabb**:
+- a használat csak a **saját és családtagjai szükségleteire** korlátozódik (nem hasznosíthatja gazdaságilag nagy mértékben);
+- **nem engedhető át** másnak.
+
+Egyebekben a haszonélvezet szabályai alkalmazandók (Ptk. 5:159. § (2) bekezdés).
+
+**3. A telki szolgalom (Ptk. 5:160-5:163. §, Ptk. 5:156. § utal rá)**
+
+A **telki szolgalom** olyan dologi jog, amely alapján egy ingatlan (**uralkodó telek**) mindenkori birtokosa egy másik ingatlant (**szolgáló telek**) meghatározott terjedelemben **használhat**, vagy követelheti, hogy a szolgáló telek birtokosa valamely magatartástól **tartózkodjék**.
+
+A telki szolgalom **jellemzői**:
+
+**- Csak ingatlanokra**: Legalább két (szomszédos vagy közeli) ingatlan szükséges.
+
+**- Uralkodó és szolgáló telek**: Az **uralkodó telek** mindenkori birtokosát illeti a jog, a **szolgáló telket** terheli a jog.
+
+**- Ingatlanhoz kötött**: A telki szolgalom **az ingatlannal együtt száll át**: ha az uralkodó telket eladják, az új tulajdonost illeti a szolgalom; ha a szolgáló telket eladják, az új tulajdonost terheli.
+
+**- Nem önálló forgalom tárgya**: A telki szolgalom **nem ruházható át** önállóan, csak az ingatlannal együtt.
+
+**A telki szolgalom típusai (példák):**
+
+- **Átjárási szolgalom**: A jogosult átjárhat a szolgáló telken (pl. ha az uralkodó telek nincs összekötve közúttal);
+- **Vízvezetési szolgalom**: A jogosult vezetéket fektethet a szolgáló telken keresztül;
+- **Vízelvezetési szolgalom**: A jogosult vizet vezethet át a szolgáló telken;
+- **Pincetartási szolgalom**: A jogosult pincét tarthat a szolgáló telken;
+- **Vezetékoszlop-elhelyezési szolgalom**: A jogosult vezetékoszlopokat helyezhet el;
+- **Épület-megtámasztási szolgalom**: A jogosult épületét megtámaszthatja a szolgáló telken.
+
+**Keletkezés**:
+- **Szerződéssel**: a felek megállapodnak;
+- **Egyoldalú nyilatkozattal**: a tulajdonos saját javára alapít szolgalmat (közokirat vagy ügyvéd által ellenjegyzett magánokirat, ingatlan-nyilvántartási bejegyzés);
+- **Jogszabály** alapján: pl. szükségbeli út szolgalma;
+- **Elbirtoklással**: 15 év zavartalan gyakorlás.
+
+**Megszűnés**:
+- A jogosult **15 éven át nem gyakorolta** (szolgalommentesség elbirtoklása);
+- **Szerződéssel** megszüntetik vagy **lemondással**;
+- A két telek **egy tulajdonos kezébe** kerül és összevonják;
+- Bíróság **megszünteti**, mert szükségtelenné vált.
+
+
+III. Az Értékjogok: A Zálogjog
+
+A **zálogjog** az idegen dologbeli jogok **másik nagy csoportjának** legfontosabb képviselője, amely **biztosítéki** (értékjog) funkciótkölcsönszerződés teljesítéséhez.
+
+**1. A zálogjog fogalma (Ptk. 5:86. §)**
+
+A **Ptk. 5:86. § (1) bekezdése** szerint:
+
+"(1) Zálogjoga alapján a zálogjogosult a követelésének biztosítására szolgáló vagyontárgyból (a továbbiakban: zálogtárgy) más követeléseket megelőző sorrendben kielégítést kereshet, ha a biztosított követelés kötelezettje (a továbbiakban: személyes kötelezett) nem teljesít."
+
+A zálogjog lényege:
+
+- A zálogjogosult **követelésének biztosítására** szolgál (biztosítéki jog);
+- A zálogjogosult a **zálogtárgyból** (más tulajdonában álló vagyontárgy) **előnyben részesül** a kielégítés során;
+- **Más követeléseket megelőző sorrendben** elégítheti ki magát (preferált kielégítés);
+- Csak akkor, ha a **kötelezett nem teljesít**.
+
+**2. A zálogjog járulékos jellege**
+
+A zálogjog **mindig** egy **alapköveteléshez** (biztosított követelés) kapcsolódik: kölcsön, vételár, díjtartozás stb. A zálogjog **nem önálló**, hanem az alapkövetelést **biztosítja**.
+
+**Járulékos jelleg** következményei:
+- Ha az alapkövetelés **megszűnik**, a zálogjog is megszűnik;
+- Ha az alapkövetelést **átruházzák**, a zálogjog is **átszáll** az új jogosultra;
+- A zálogjog **nem lehet nagyobb**, mint az alapkövetelés.
+
+**3. A zálogjog típusai (Ptk. 5:88. §)**
+
+"Zálogjog megalapításához zálogszerződés és erre tekintettel
+a) a zálogjog megfelelő nyilvántartásba való bejegyzése (jelzálogjog); vagy
+b) a zálogtárgy birtokának a zálogjogosult részére történő átruházása (kézizálogjog) szükséges."
+
+Ez megkülönbözteti a zálogjog **két fő típusát**:
+
+**a) Jelzálogjog**
+
+A **jelzálogjog** esetén a zálogtárgy **a kötelezett birtokában marad**, de a zálogjogot **nyilvántartásba bejegyzik** (ingatlan esetén az ingatlan-nyilvántartásba, ingó dolog esetén a hitelbiztosítéki nyilvántartásba).
+
+Előnye: a kötelezett **továbbra is használhatja** a dolgot (pl. a házában lakhat, az autóját vezetheti), miközben az biztosítékul szolgál.
+
+**b) Kézizálogjog**
+
+A **kézizálogjog** esetén a zálogtárgy **birtokát** a zálogjogosult **részére át kell ruházni**. A zálogjogosult **birtokolja** a dolgot (őrzési kötelezettséggel), a kötelezett nem használhatja.
+
+Előnye: a zálogjogosult **fizikai birtokában** van a dolog, biztosabb a követelés kielégítése.
+
+**4. A zálogjog létrejötte (Ptk. 5:87. §)**
+
+"A zálogjog létrejön, ha
+a) a zálogjogosult és a zálogkötelezett megalapítja a zálogjogot; és
+b) a zálogkötelezett rendelkezési joggal bír a zálogtárgy fölött."
+
+A zálogjog létrejöttéhez:
+- **Zálogszerződés** szükséges (Ptk. 5:89. §): a felek megállapodnak a zálogjog alapításában;
+- **Bejegyzés** (jelzálogjog) vagy **birtokátruházás** (kézizálogjog);
+- A zálogkötelezettnek **rendelkezési joga** van a zálogtárgy fölött (tulajdonos vagy más jogosult).
+
+**5. Törvényes zálogjog (Ptk. 5:92. §)**
+
+"A zálogszerződést pótolja a jogszabály olyan rendelkezése, amely alapján valamely követelés jogosultját zálogjog illet meg."
+
+A **törvényes zálogjog** esetén **nem szerződés**, hanem **jogszabály** alapítja a zálogjogot. Példák: vállalkozó törvényes zálogjoga a megrendelőtől átvett dolgokon a díj biztosítására, fuvarozó törvényes zálogjoga a szállítmányra.
+
+
+IV. Összegzés
+
+Az **idegen dologbeli jogok** szerepe a vagyoni forgalomban: lehetővé teszik a **tulajdonjog tartalmának "megbontását"** és a **részjogosítványok önállósodását**.
+
+**Az idegen dologbeli jogok rendszere:**
+
+**1. Használati jogok** (a dolog használatára jogosítanak):
+- **Haszonélvezet**: birtoklás, használat, hasznok szedése (személyes jelleg, visszaadási kötelezettség)
+- **Használat joga**: saját és családtagjai szükségleteire, szűkebb körű
+- **Telki szolgalom**: uralkodó telek javára, szolgáló telek terhére (átjárás, vízvezetés stb.)
+
+**2. Értékjogok** (a dolog értékéből való kielégítést biztosítják):
+- **Zálogjog**: biztosítéki jog, járulékos jelleg, jelzálog (nyilvántartásba bejegyzés) vagy kézizálog (birtokátruházás)
+
+**Az idegen dologbeli jogok jelentősége:**
+
+Ezek a jogintézmények teszik lehetővé a **javak minél hatékonyabb** gazdasági és személyes célú **kihasználását**:
+
+- **Haszonélvezet**: lehetővé teszi, hogy valaki (pl. özvegy) a más tulajdonában álló dolgot (pl. ház) használja életében;
+- **Telki szolgalom**: biztosítja, hogy az ingatlanokat (pl. zártkert) ésszerűen lehessen használni (átjárás);
+- **Zálogjog**: biztosítja a hitelezőket, ösztönzi a hitelezést, a gazdasági forgalmat.
+
+Az idegen dologbeli jogok így **rugalmas eszközök** a tulajdonjog tartalmának **időleges megosztására**, amely egyszerre szolgálja a **tulajdonos**, a **jogosult** és a **gazdasági forgalom** érdekeit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

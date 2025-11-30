@@ -1,0 +1,293 @@
+A SZÁRMAZÉKOS TULAJDONSZERZÉSI MÓDOK
+
+I. Bevezetés: A Származékos Szerzésmódok Lényege
+
+A tulajdonjog megszerzése **kétféle módon** történhet: **eredeti** vagy **származékos** módon, attól függően, hogy a tulajdonjog megszerzése **más jogától** feltételezetten vagy arra tekintet nélkül történik-e.
+
+Az **eredeti tulajdonszerzés** esetén **nem egy meglévő tulajdonjog száll át** egy új jogosultra, hanem a korábbi tulajdonjog lététől/nem lététől **függetlenül** egy **új tulajdonjog keletkezik**, amelyet nem korlátoznak a dolgon esetlegesen fennálló egyéb jogok (megszakad a tulajdonjogok láncolata). Példák: gazdátlan dolog elsajátítása, elbirtoklás, találás, feldolgozás.
+
+A **származékos tulajdonszerzés** esetén viszont a **tulajdonjogot megszerző személy** e jogát egy **jogelődtől származtatja**, arra tekintettel jön létre, és jogszerzése **attól függ, hogy a jogelőd tulajdonos volt-e**. A szerző a tulajdonjogot a **jogelődjétől** származtatja, annak **jogutódja** lesz. Tulajdonjoga **azonos tartalmú, terjedelmű**, mint az előzőé volt.
+
+A származékos szerzés **alapelve** a **nemo plus iuris ad alium transferre potest, quam ipse haberet** (senki sem ruházhat át több jogot másra, mint amennyivel maga rendelkezik) latin jogi tétel. Ez azt jelenti:
+- a **jogelőd** csak azt a tulajdonjogot ruházhatja át, amellyel **maga rendelkezik**;
+- ha a jogelőd **nem tulajdonos**, nem ruházhat át tulajdonjogot (főszabály);
+- a **szerző** olyan tulajdonjogot kap, amilyennel a jogelőd rendelkezett (nem jobbat, nem teljesebbet).
+
+A származékos szerzés **legfontosabb joghatása**: a szerző a tulajdonjogot **azokkal a terhekkel** szerzi meg, amelyek a jogelőd idejében is terhelték a dolgot (pl. jelzálogjog, szolgalmi jog). Ez logikus következménye a nemo plus iuris elvének: ha a jogelőd tulajdonjoga korlátozott volt, a jogutód is korlátozott tulajdonjogot szerez.
+
+**A származékos szerzésmódok rendszerezése:**
+
+**1. Átruházás**: A jogelőd (átruházó) és a jogutód (szerző) közötti **jogügylet** (szerződés) alapján történő tulajdonszerzés. Ez a dologi jog elsődleges tárgya.
+
+**2. Öröklés**: Az örökhagyó halálával a hagyaték az **örökösre száll** (Ptk. 7:1. §). Ez az öröklési jog tárgya, a dologi jog csak érintőlegesen foglalkozik vele.
+
+A dologi jog elsősorban az **átruházással** foglalkozik, ezért témánk középpontjában ez áll.
+
+
+II. A Tulajdonjog Átruházása: Az Általános Modell
+
+Az **átruházás** a tulajdonos (átruházó, jogelőd) és a szerző (jogutód) közötti, **erre irányuló jogügylet** (jellemzően szerződés), amely a **tulajdonjog átszállását** eredményezi az átruházóról a szerzőre.
+
+A **2013. évi V. törvény (Polgári Törvénykönyv) 5:38. §-a** szabályozza az átruházás általános szabályát:
+
+"(1) Ingó dolog tulajdonjogának átruházással való megszerzéséhez az átruházásra irányuló szerződés vagy más jogcím és erre tekintettel a dolog birtokának átruházása szükséges.
+(2) Ingatlan tulajdonjogának átruházással való megszerzéséhez az átruházásra irányuló szerződés vagy más jogcím és erre tekintettel a tulajdonjog átruházásának az ingatlan-nyilvántartásba való bejegyzése szükséges."
+
+Ez a rendelkezés kifejezi a magyar tulajdonjog-átruházás **kettős követelményrendszerét**, az ún. **titulus-modus rendszert**:
+
+**1. Titulus (jogcím)**
+
+A **titulus** az a **kötelmi jogi jogügylet** (szerződés vagy más jogcím), amely **kötelmi jogi igényt keletkeztet** a tulajdonjog átruházására. A titulus önmagában **nem ruházza át** a tulajdonjogot, hanem csak **kötelezettséget** keletkeztet az átruházás teljesítésére.
+
+A titulus lehet:
+
+**a) Átruházásra irányuló szerződés**:
+- **Adás-vételi szerződés**: az eladó kötelezi magát a tulajdonjog átruházására, a vevő a vételár fizetésére;
+- **Ajándékozási szerződés**: az ajándékozó kötelezi magát a tulajdonjog ingyenes átruházására;
+- **Csereszerződés**: mindkét fél kötelezi magát tulajdonjog átruházására;
+- **Vállalkozási szerződés**: a vállalkozó kötelezi magát az elkészített dolog tulajdonjogának átruházására.
+
+**b) Más jogcím**:
+- **Datio in solutum** (helyettesítő teljesítés): a kötelezett másféle szolgáltatással teljesít, amely magában foglalja a tulajdonjog átruházását;
+- **Elszámolás**: felek közötti elszámolás eredményeként tulajdonjog-átruházási kötelezettség;
+- **Megállapodás**: egyéb megállapodás a tulajdonjog átruházásáról.
+
+A titulus **kötelmi jogi jogviszony**: ha a titulus létrejön, az átruházó **köteles** átruházni a tulajdonjogot, de a tulajdonjog **még nem szállt át**. Ha az átruházó nem teljesíti kötelezettségét (nem ruházza át a tulajdonjogot), **szerződésszegés** áll fenn, és a szerző **kártérítést** követelhet, de **nem válik tulajdonossá** pusztán a titulus alapján.
+
+**2. Modus (átruházási aktus)**
+
+A **modus** a **dologi jogi aktus**, amellyel a tulajdonjog **ténylegesen átszáll** a szerzőre. A modus az, ami **megvalósítja** a tulajdonjog-átszállást, ami a titulus alapján **teljesítendő**.
+
+A modus **eltérő** ingó és ingatlan dolgok esetén (lásd III. fejezet).
+
+A **titulus-modus rendszer logikája**:
+
+- A **titulus** és a **modus** **külön jogi aktusok**: a titulus kötelmi jogi, a modus dologi jogi;
+- Mindkettő **szükséges** a tulajdonszerzéshez: egyik sem elégséges önmagában;
+- A **titulus előzi meg** a modust: először kell létrejönnie a kötelmi jogi jogviszonynak, aztán következik a dologi jogi teljesítés;
+- Ha a **titulus hiányzik vagy érvénytelen**, a modus (pl. birtokátadás) **nem eredményez tulajdonszerzést** (jogalap nélküli gazdagodás keletkezik);
+- Ha a **modus hiányzik**, a titulus alapján **kötelezettség áll fenn** a tulajdonjog átruházására, de a tulajdonjog **még nem szállt át**.
+
+
+III. Az Átruházás Különös Szabályai Dologtípusok Szerint
+
+A **Ptk. 5:38. §-a** (amelyet már idéztünk) megkülönbözteti az **ingó dolgok** és az **ingatlanok** átruházását, mert a **modus** eltérő esetükben.
+
+**1. Ingó dolog tulajdonjogának átruházása (Ptk. 5:38. § (1) bekezdés)**
+
+Az ingó dolog tulajdonjogának átruházásához **két elem** szükséges:
+
+**a) Titulus**: Átruházásra irányuló szerződés vagy más jogcím.
+
+**b) Modus**: A dolog **birtokának átruházása** (traditio).
+
+A **birtokátruházás** (traditio) a **publicitás** (nyilvánosság) eszköze ingó dolgoknál: a birtok **látható, észlelhető** jelzés arra, hogy ki a tulajdonos. Aki birtokolja a dolgot, azt vélelmezzük tulajdonosnak. A birtokátruházás biztosítja, hogy a tulajdonváltozás **kívülről is érzékelhető** legyen.
+
+A **birtokátruházás eseteit** a **Ptk. 5:3. §-a** szabályozza:
+
+"(1) A birtok átruházása a dolog feletti tényleges hatalomnak az erre irányuló megállapodás alapján való átengedésével valósul meg.
+(2) A birtokátruházás a birtokos és a birtok megszerzőjének erre irányuló megállapodásával megvalósul, ha
+a) a birtokot megszerző fél a dolgot albirtokosként már birtokában tartja; vagy
+b) az átruházó fél a dolgot albirtokosként továbbra is birtokában tartja.
+(3) A birtokátruházás a birtokos dolog feletti tényleges hatalmának megszüntetésével megvalósul, ha ebben a birtokos és a birtok megszerzője megállapodnak.
+(4) Ha a dolog harmadik személy birtokában van, a birtokátruházás a dolog kiadása iránti igénynek a birtokot szerző félre való átruházásával megvalósul, ha ebben a birtokos és a birtokot szerző fél megállapodnak."
+
+Ez a rendelkezés **négy formáját** különbözteti meg a birtokátruházásnak:
+
+**i) Hagyományos átadás (traditio, kézből kézbe adás)**
+
+Ez a **Ptk. 5:3. § (1) bekezdése** szerinti eset: a birtok átruházása a dolog feletti **tényleges hatalomnak** az erre irányuló megállapodás alapján való **átengedésével** valósul meg.
+
+Ez a **legegyszerűbb eset**: az átruházó **fizikailag átadja** a dolgot a szerzőnek (pl. pénz kézbeadása, könyv átadása, autókulcs átadása és az autó birtokbaadása). A tényleges hatalomgyakorlás átkerül az átruházóról a szerzőre.
+
+**ii) Brevi manu traditio (rövid kézből adás)**
+
+Ez a **Ptk. 5:3. § (2) bekezdés a) pontja** szerinti eset: a birtokátruházás a felek megállapodásával megvalósul, ha **a birtokot megszerző fél a dolgot albirtokosként már birtokában tartja**.
+
+Ez azt jelenti, hogy a **szerző már birtokolja** a dolgot az átruházás előtt (pl. bérlő, haszonkölcsönbe vevő), és az átruházási megállapodással **főbirtokossá** (tulajdonossá) válik. Nincs szükség fizikai átadásra, mert a szerző már birtokolja a dolgot.
+
+Példa: **A** bérbe ad egy autót **B**-nek. Később **eladják** az autót **B**-nek. **B** már albirtokos (bérlő), az adás-vételi szerződéssel (titulus) és a brevi manu traditio megállapodással (modus) tulajdonossá válik **anélkül, hogy fizikailag át kellene adni az autót** (mert már B-nél van).
+
+**iii) Constitutum possessorium (birtokmeghagyás)**
+
+Ez a **Ptk. 5:3. § (2) bekezdés b) pontja** szerinti eset: a birtokátruházás a felek megállapodásával megvalósul, ha **az átruházó fél a dolgot albirtokosként továbbra is birtokában tartja**.
+
+Ez a **brevi manu traditio fordítottja**: az átruházó **megtartja a birtokot**, de már nem főbirtokosként (tulajdonosként), hanem **albirtokosként** (pl. bérlő, haszonkölcsönbe vevő).
+
+Példa: **A** eladja az autót **B**-nek, de továbbra is használja **bérleti jogviszony** alapján. Az adás-vételi szerződéssel (titulus) és a constitutum possessorium megállapodással (modus) **B** tulajdonossá válik **anélkül, hogy fizikailag át kellene vennie az autót** (az A-nál marad, de már bérlőként).
+
+**iv) Longa manu traditio (hosszú kézből adás, szimbolikus átadás)**
+
+Ez a **Ptk. 5:3. § (3) bekezdése** szerinti eset: a birtokátruházás **a birtokos dolog feletti tényleges hatalmának megszüntetésével** megvalósul, ha ebben a birtokos és a birtok megszerzője megállapodnak.
+
+Ez azt jelenti, hogy az átruházó **felhagy** a dolog feletti tényleges hatalomgyakorlással, és ezzel a birtok **átszáll** a szerzőre (aki ezután megszerezheti a tényleges hatalmat).
+
+Példa: **A** eladja a raktárban tárolt árut **B**-nek. Az árukülönválasztással és a raktárkulcs átadásával (szimbolikus aktus) a birtokátruházás megvalósul.
+
+**v) Követelés engedményezése (Ptk. 5:3. § (4) bekezdés)**
+
+"(4) Ha a dolog harmadik személy birtokában van, a birtokátruházás a dolog kiadása iránti igénynek a birtokot szerző félre való átruházásával megvalósul."
+
+Ha a dolog **harmadik személy** birtokában van (pl. bérbe van adva), az átruházó és a szerző **megállapodhatnak** abban, hogy a **dolog kiadása iránti igényt** (követelést) a szerzőre **ruházzák át** (engedményezés). Ez esetben a szerző **jogosulttá válik** a dolog kiadásának követelésére a harmadik személytől, és ezzel a birtokátruházás megvalósul.
+
+**2. Ingatlan tulajdonjogának átruházása (Ptk. 5:38. § (2) bekezdés)**
+
+Az ingatlan tulajdonjogának átruházásához **két elem** szükséges:
+
+**a) Titulus**: Átruházásra irányuló szerződés vagy más jogcím.
+
+**b) Modus**: A tulajdonjog átruházásának az **ingatlan-nyilvántartásba való bejegyzése**.
+
+Az ingatlan tulajdonjogának átruházásánál a modus **nem a birtokátruházás**, hanem az **ingatlan-nyilvántartási bejegyzés**. Ez azt jelenti, hogy az ingatlan **testi átadása**, a birtokba lépés **nem feltétel** a tulajdonszerzéshez. A tulajdonjog az **ingatlan-nyilvántartási bejegyzéssel** száll át, függetlenül attól, hogy a szerző ténylegesen birtokba lépett-e.
+
+**Az ingatlan-nyilvántartás szerepe:**
+
+Az **ingatlan-nyilvántartás** (régi nevén: telekkönyv) **közhiteles hatósági nyilvántartás**, amely az ingatlanok tulajdoni és egyéb dologi jogi viszonyait rögzíti.
+
+**Az ingatlan-nyilvántartás elvei:**
+
+**- Bejegyzési elv**: Az ingatlanokkal kapcsolatos fontosabb jogok (tulajdonjog, jelzálogjog, szolgalmi jog) csak a **bejegyzéssel** jönnek létre vagy szállnak át (**konstitutív hatály**). Kivételesen, ha a jog **törvény alapján** keletkezik (pl. törvényes öröklés, házastársi vagyonközösség, elbirtoklás), akkor bejegyzés nélkül is létrejön és fennáll (**deklaratív hatály**), de célszerű bejegyeztetni.
+
+**- Közhitelesség elve**: Az ingatlan-nyilvántartásban bejegyzett adatokat **ellenkező bizonyításig** **vélelmezni** kell helyesnek. Akinek javára tulajdonjogot jegyeztek be, azt **tulajdonosnak** kell tekinteni. Ez védi a **jóhiszemű szerzőket**: aki a nyilvántartásban bízva, **ellenérték fejében** szerez jogot, azt a jog védi.
+
+**- Rangsor elve**: A bejegyzések időbeli sorrendje meghatározza a jogok egymáshoz való viszonyát (pl. első és második jelzálogjog).
+
+**Az érvényes írásbeli szerződés szükségessége:**
+
+Az ingatlan tulajdonjogának átruházásához **érvényes, írásbeli szerződés** szükséges. Az írásbeli szerződésnek tartalmaznia kell az ingatlan-nyilvántartásról szóló jogszabályokban felsorolt **alaki és tartalmi kellékeket** (pl. az ingatlan pontos meghatározása, a vételár, a felek személyi adatai). A szerződésnek **bejegyzési engedélyt** (okiratot) kell tartalmaznia, amely alapján az ingatlan-nyilvántartásba való bejegyzés kérhető.
+
+
+IV. Kivételek és Különleges Esetek
+
+**1. Tulajdonjog-fenntartás (Ptk. 6:216. §)**
+
+A **tulajdonjog-fenntartás** a felek **megállapodása**, amely **elhalasztja** a modus hatályát (a tulajdonjog átszállását) egy **feltétel bekövetkeztéig** (jellemzően a vételár teljes kifizetéséig).
+
+A **Ptk. 6:216. § (1)-(2) bekezdései** szerint:
+
+"(1) Az eladó a tulajdonjogát a vételár kiegyenlítéséig fenntarthatja, ennek időtartama alatt a vevő tulajdonszerzésre irányuló jogát hozzájárulása nélkül nem csorbíthatja.
+(2) A tulajdonjog-fenntartásra vonatkozó megállapodást írásba kell foglalni."
+
+A tulajdonjog-fenntartás **joghatásai**:
+
+- Az **eladó tulajdonos marad** a vételár teljes kifizetéséig;
+- A **vevő** rendelkezik **tulajdonszerzésre irányuló joggal** (váromány), de még **nem tulajdonos**;
+- A vevő **birtokolja és használja** a dolgot (albirtokos);
+- A **vételár teljes kifizetésével** a tulajdonjog **automatikusan átszáll** a vevőre (nem kell újabb jogügylet vagy birtokátruházás).
+
+A tulajdonjog-fenntartás **célja**: az **eladó biztosítása** arra az esetre, ha a vevő nem fizeti meg a vételárat. Ha a vevő nem fizet, az eladó **visszaveheti** a dolgot (mert ő a tulajdonos).
+
+**Nyilvántartás szükségessége:**
+
+A **Ptk. 6:216. § (3) bekezdése** szerint az ingatlanra vonatkozó tulajdonjog-fenntartást az **ingatlan-nyilvántartásba** kell bejegyezni.
+
+A **Ptk. 6:216. § (4) bekezdése** szerint az ingó dologra vonatkozó tulajdonjog-fenntartást a **hitelbiztosítéki nyilvántartásba** kell bejegyeztetni. Nyilvántartásba vétel hiányában a vevőtől jóhiszeműen és ellenérték fejében szerző megszerzi a tulajdonjogot (a tulajdonjog-fenntartás nem hivatkozható vele szemben).
+
+**2. Szerzés nem tulajdonostól**
+
+A **Ptk. 5:39. § (1) bekezdése** kimondja a **főszabályt**:
+
+"(1) Átruházással a dolog tulajdonosától lehet a tulajdonjogot megszerezni."
+
+Ez a **nemo plus iuris** elv pozitív jogi megfogalmazása: tulajdonjogot csak az ruházhat át, aki **maga tulajdonos**. Ha a jogelőd **nem tulajdonos**, a jogutód **nem szerez tulajdonjogot**, még akkor sem, ha jóhiszemű volt és ellenértéket fizetett.
+
+**Kivétel: kereskedelmi forgalomban való szerzés (Ptk. 5:39. § (2)-(3) bekezdés)**
+
+A **Ptk. 5:39. § (2)-(3) bekezdései** szerint:
+
+"(2) A kereskedelmi forgalomban jóhiszeműen és ellenérték fejében szerző megszerzi az átruházással az ingó dolog tulajdonjogát akkor is, ha az átruházó nem volt tulajdonos.
+(3) Kereskedelmi forgalomban való szerzésnek minősül az, ha a vevő olyan eladótól vásárol, aki az adásvételi szerződést jogszerűen folytatott, üzletszerű gazdasági tevékenysége körében, saját nevében köti meg."
+
+Ez **rendkívül fontos kivétel** a nemo plus iuris alól, amely a **forgalom biztonságát** szolgálja. Ha valaki **kereskedelmi forgalomban** (azaz üzletből, kereskedőtől) **jóhiszeműen** (nem tudva, hogy az eladó nem tulajdonos) és **ellenérték fejében** (nem ingyenesen) vásárol, **tulajdonossá válik**, még akkor is, ha az eladó nem volt tulajdonos (pl. az árut ellopták tőle, vagy más jogtalanul szerezte).
+
+A kivétel feltételei (mindhárom kumulatívan szükséges):
+
+**a) Kereskedelmi forgalomban**: A vevő **olyan eladótól vásárol**, aki az adásvételi szerződést **jogszerűen folytatott**, **üzletszerű gazdasági tevékenysége** körében, **saját nevében** köti meg. Ez általában azt jelenti, hogy üzletből, boltból, kereskedőtől vásárol (nem magánszemélytől).
+
+**b) Jóhiszeműen**: A vevő **nem tudja** (és nem is kell tudnia), hogy az eladó nem tulajdonos. Ha tudja vagy tudnia kell, rosszhiszemű, és nem szerez tulajdonjogot.
+
+**c) Ellenérték fejében**: A vevő **vételárat fizet**, nem ingyenesen kapja a dolgot (az ajándékozás nem élvez ilyen védelmet).
+
+Ez a szabály **átlépi a nemo plus iuris elvét** a forgalom biztonsága érdekében: védeni kell a jóhiszemű fogyasztókat, vásárlókat, hogy ne kelljen minden üzleti vásárlásnál ellenőrizniük az eladó tulajdonjogát.
+
+**Összehasonlítás a főszabállyal:**
+
+| **Szempont** | **Főszabály (5:39. § (1) bek.)** | **Kivétel (5:39. § (2)-(3) bek.)** |
+|--------------|----------------------------------|-------------------------------------|
+| **Jogelőd** | Tulajdonos | Nem tulajdonos is lehet |
+| **Körülmény** | Bármilyen szerzés | Kereskedelmi forgalom |
+| **Jóhiszeműség** | Nem feltétel | Feltétel |
+| **Ellenérték** | Nem feltétel | Feltétel |
+| **Joghatás** | Tulajdonszerzés | Tulajdonszerzés (eredeti!) |
+| **Jelleg** | Származékos szerzés | Eredeti szerzés (!) |
+
+Fontos, hogy a kereskedelmi forgalomban, jóhiszeműen, ellenérték fejében történő szerzés **formálisan** származékos (átruházás), de **joghatásaiban eredeti szerzésnek minősül**: a szerző **tehermentesen** szerzi meg a dolgot (a korábbi terhek megszűnnek – Ptk. 5:39. § (4) bekezdés), és a szerzés **nem függ** a jogelőd tulajdonjogától.
+
+**3. Tulajdonszerzés pénzen és értékpapíron (Ptk. 5:40. §)**
+
+"Akire pénzt vagy az értékpapírok átruházására vonatkozó szabályok szerint értékpapírt ruháznak át, tulajdonossá lesz akkor is, ha az átruházó nem volt tulajdonos."
+
+Ez még **szélesebb körű kivétel** a nemo plus iuris alól: pénz és értékpapír esetén **mindig** tulajdonossá válik a szerző, még akkor is, ha az átruházó nem volt tulajdonos, **függetlenül** a jóhiszeműségtől vagy az ellenértéktől. Ez a **pénz és értékpapírok forgalmának abszolút védelmét** szolgálja.
+
+
+V. Összegzés
+
+A **származékos tulajdonszerzés** a tulajdonjog **leggyakoribb megszerzési módja**, amely a **jogelődtől való származtatáson** alapul, és a **nemo plus iuris** elvét követi.
+
+**A származékos tulajdonszerzés kettős természete:**
+
+**1. Kötelmi jogi elem (titulus)**: Az átruházásra irányuló szerződés vagy más jogcím **kötelmi jogi jogviszonyt** keletkeztet, amely kötelezettséget ró az átruházóra a tulajdonjog átruházására.
+
+**2. Dologi jogi elem (modus)**: A tulajdonjog-átruházó aktus (birtokátruházás ingóknál, ingatlan-nyilvántartási bejegyzés ingatlanoknál) **dologi jogi joghatást** eredményez: a tulajdonjog átszáll.
+
+**A titulus-modus rendszer logikája:**
+
+- **Mindkét elem szükséges** a tulajdonszerzéshez;
+- A titulus **megelőzi** a modust (először jogcím, aztán átruházás);
+- A titulus **kötelmi jogi**, a modus **dologi jogi** aktus;
+- A modus a **publicitást** (nyilvánosságot) biztosítja.
+
+**A nyilvánosság (publicitás) elvének eltérő érvényesülése:**
+
+**- Ingók esetén**: A publicitás eszköze a **birtok**. Aki birtokolja a dolgot, azt vélelmezzük tulajdonosnak. A birtokátruházás biztosítja a tulajdonváltozás láthatóságát.
+
+**- Ingatlanok esetén**: A publicitás eszköze az **ingatlan-nyilvántartás** (telekkönyv). A nyilvántartási bejegyzés közhiteles, és konstitutív hatályú: a tulajdonjog a bejegyzéssel száll át. A birtoknak nincs döntő jelentősége (bár bizonyos versengő szerzők esetén előnyt jelenthet).
+
+**A származékos szerzés alapelve és kivételei:**
+
+**- Főszabály**: **Nemo plus iuris** – csak tulajdonostól lehet tulajdonjogot szerezni (Ptk. 5:39. § (1) bekezdés).
+
+**- Kivételek** (amelyek tulajdonképpen eredeti szerzésnek minősülnek):
+  - **Kereskedelmi forgalomban, jóhiszeműen, ellenérték fejében** történő szerzés ingó dolgoknál (Ptk. 5:39. § (2)-(3) bekezdés);
+  - **Pénz és értékpapír** átruházása (Ptk. 5:40. §);
+  - **Hatósági határozat vagy hatósági árverés** útján való szerzés jóhiszeműen (Ptk. 5:41. §).
+
+**Különleges esetek:**
+
+- **Tulajdonjog-fenntartás** (Ptk. 6:216. §): A tulajdonjog átszállását a vételár kifizetéséig elhalasztja. Nyilvántartásba vétel szükséges.
+
+A származékos tulajdonszerzés szabályai így **kiegyensúlyozott rendszert** alkotnak, amely egyszerre biztosítja a **nemo plus iuris** elv érvényesülését (jogbiztonság az átruházó számára), a **forgalom biztonságát** (jóhiszemű szerzők védelme), és a **publicitást** (birtok, nyilvántartás). Ez a rendszer teszi lehetővé, hogy a tulajdonjog átruházása **biztonságos, kiszámítható és hatékony** legyen a modern gazdasági forgalomban.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

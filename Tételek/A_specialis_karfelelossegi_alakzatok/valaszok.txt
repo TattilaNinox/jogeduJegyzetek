@@ -1,0 +1,119 @@
+1. A speciális felelősségi alakzatok törvény által nevesített tényállások, amelyek eltérnek az általános felróhatóságon alapuló felelősségtől, szigorúbb helytállást írnak elő, szűkebb kimentéssel, míg az általános deliktuális felelősség a Ptk. 6:519. § szerint felróhatóságon alapul, a károkozó kimentkezhet, ha bizonyítja, hogy nem volt felróható.
+
+2. Ha a speciális felelősségi alakzatok szigorúbb helytállási kötelezettséget írnak elő, akkor a károsultak fokozottabb védelemben részesülnek, a károk megtérítése valószínűbb, a felelősség alóli kimentés szűkebb körű vagy kizárt, így a fokozott kockázatú helyzetekben erősebb jogi védelem biztosított.
+
+3. A szubjektív felelősség esetében a károkozó kimentkezhet, ha bizonyítja, hogy magatartása nem volt felróható, úgy járt el, ahogy elvárható, míg az objektív felelősség esetében a kimentés szűkebb körű vagy kizárt, nem a felróhatóságon alapul, hanem objektív körülményeken (veszélyes tevékenység, állattartás).
+
+4. A speciális felelősségi alakzatok három jellemzője: szigorúbb felelősség (a kimentés szűkebb körű vagy kizárt, nehezebb mentesülni), objektív elemek (nem csak a felróhatóság, hanem objektív körülmények alapozzák meg: tevékenység jellege, jogviszony), fokozott védelem (a károsultak fokozottabb védelme a fokozott kockázatú helyzetekben, erősebb jogi védelem).
+
+5. A fokozott kockázat azt jelenti, hogy a tevékenység veszélyesebb, nagyobb károk kockázata (veszélyes üzem, állattartás, épületek), speciális szabályozást igényel, míg a szokásos kockázat azt jelenti, hogy normális veszélyességű tevékenység, általános szabályok alkalmazandók, így különbség van a veszélyességben és a szabályozásban.
+
+6. A speciális felelősségi alakzatok prevenciós funkciójának jogi alapja az, hogy a fokozott veszéllyel járó tevékenységek folytatóit különös gondosságra ösztönzik, mivel tudják, hogy szigorúbb felelősség terheli őket, fokozottan ügyelnek a károk megelőzésére, így megelőző hatás, ösztönzés a gondosságra.
+
+7. A veszélyes üzem olyan tevékenység, amelynek rendellenes működése esetén nagyobb károk veszélye áll fenn, objektív felelősség kapcsolódik hozzá, szigorú kimentés, míg más tevékenységek nem veszélyesek, általános deliktuális felelősség, felróhatóságon alapuló, így különbség van a veszélyességben és a felelősség szigorúságában.
+
+8. Ha aki fokozott veszéllyel járó tevékenységet folytat, köteles az ebből eredő kárt megtéríteni, akkor objektív felelősség, nem kell bizonyítani a felróhatóságot, elegendő, hogy a veszélyes üzem kárt okozott, így a tevékenység folytatása alapozza meg a felelősséget, nem a felróható magatartás.
+
+9. A veszélyes üzem rendellenes működése azt jelenti, hogy valami hiba, rendellenesség van (műszaki hiba, kezelői hiba, szabályszegés), nem a tervezett, szokásos működés, míg a szokásos működés azt jelenti, hogy minden rendben van, a tervezett módon működik, nincs hiba, így a rendellenesség kimentést kizár, a szokásos működés nem mentesít.
+
+10. Veszélyes üzemre példák: gépjárművek (autók, motorkerékpárok, gépi erővel hajtott járművek), vasutak, repülőgépek (közlekedési eszközök), gyárak, ipari üzemek (veszélyes anyagokat feldolgozók), energia-előállító létesítmények (erőművek, transzformátorházak), robbanóanyagok, mérgező anyagok (tárolása, szállítása). Közös jellemzőjük: rendellenes működés esetén nagyobb károk veszélye, fokozott veszélyesség.
+
+11. Az általános deliktuális felelősség kimentési klauzulája a Ptk. 6:519. § szerint azt jelenti, hogy a károkozó mentesül, ha bizonyítja, hogy magatartása nem volt felróható, úgy járt el, ahogy elvárható, szubjektív feltétel. A veszélyes üzemi felelősség kimentési klauzulája a Ptk. 6:535. § szerint azt jelenti, hogy csak akkor mentesül, ha bizonyítja, hogy a kárt elháríthatatlan ok idézte elő, amely a veszélyes tevékenység körén kívül esik, objektív feltétel, szigorúbb.
+
+12. A Ptk. 6:535. § szerint az elháríthatatlan oknak két feltételnek kell megfelelnie: elháríthatatlan (olyan ok, amelyet még a legnagyobb gondossággal sem tudott volna elhárítani, vis maior) és a veszélyes tevékenység körén kívül esik (olyan ok, amely nem kapcsolódik a veszélyes tevékenységhez, teljesen kívülálló, például harmadik személy szándékos károkozása, természeti katasztrófa), így mindkét feltétel együttesen szükséges.
+
+13. Az elháríthatatlan ok olyan, amelyet nem lehetett volna elhárítani, külső, a veszélyes tevékenység körén kívül eső (természeti katasztrófa, harmadik személy szándékos károkozása), mentesít, míg a rendellenesség olyan, amely a veszélyes üzem működésével kapcsolatos (műszaki hiba, kezelői hiba), belső, a veszélyes tevékenység körén belül van, nem mentesít.
+
+14. Ha a kár a veszélyes üzem rendellenességéből ered (műszaki hiba, kezelői hiba, karbantartási hiányosság), akkor az nem mentesít, mert a veszélyes tevékenység körén belül van, belső ok, az üzembentartó köteles megtéríteni a kárt, így a rendellenesség kimentést kizár.
+
+15. A környezetveszélyeztetés a Ptk. 6:535. § (2) bekezdése szerint az emberi környezetet veszélyeztető tevékenység (szennyezés, légszennyezés, talajszennyezés, vízszennyezés), veszélyes üzemi felelősség szabályai alkalmazandók, míg más veszélyes tevékenységek nem feltétlenül veszélyeztetik a környezetet (gépjármű), így különbség van a veszélyeztetés tárgyában, a környezetveszélyeztetés kiterjesztett alkalmazás.
+
+16. A Ptk. 6:535. § (3) bekezdése szerint ha a felelősség kizárása vagy korlátozása semmis, akkor az üzembentartó nem mentesítheti magát előzetesen szerződéses kikötéssel a felelősség alól (például szerződésben nem köthet ki, hogy nem felel), ez védti a károsultakat, hogy ne lehessen megkerülni a fokozott felelősséget.
+
+17. A személyi sérülés vagy halál esetén a Ptk. 6:535. § (3) bekezdése szerint a felelősség kizárása vagy korlátozása semmis, nem lehet előzetesen kizárni, míg a dologban okozott kár esetén ez a tilalom nem vonatkozik, lehet szerződésben korlátozni vagy kizárni a felelősséget, így különbség van a kizárás lehetőségében.
+
+18. Annak, hogy az üzembentartó az, akinek érdekében a veszélyes üzem működik, a Ptk. 6:536. § szerint az az alapja, hogy aki a gazdasági hasznot húzza a működésből, vagy akinek érdekkörébe tartozik az üzem, annak kell viselnie a felelősséget is, kockázat-haszon egyensúlya, aki profitál, viselje a kockázatot.
+
+19. A tulajdonos az, aki a dolog tulajdonosa (tulajdonjog alapján), az üzemeltető az, aki ténylegesen működteti az üzemet (üzemeltetési szerződés alapján), az üzembentartó a Ptk. 6:536. § szerint az, akinek érdekében az üzem működik (gazdasági haszon, érdek alapján), így különbség van a jogcímben, mindhárom lehet ugyanaz a személy, de lehet különböző is.
+
+20. Ha a károsult is közrehatott a kárban, akkor a Ptk. 6:537. § szerint a kárt meg kell osztani, de a kármegosztásnál a tevékenység fokozottan veszélyes jellegét az üzembentartó terhére kell figyelembe venni, az üzembentartó nagyobb részt visel, mint az általános szabályok szerint, így a veszélyesség az üzembentartó terhelésére figyelembe vehető.
+
+21. Az általános kármegosztási szabályok a Ptk. 6:525. § szerint a felróhatóság arányában, ha ez nem állapítható meg, közrehatásuk arányában, ha ez sem, egyenlő arányban osztják meg, míg a veszélyes üzemi felelősség kármegosztási szabályai a Ptk. 6:537. § szerint figyelembe veszik a veszélyes jelleget az üzembentartó terhére, így az üzembentartó nagyobb részt visel.
+
+22. A Ptk. 6:539. § hierarchikus szabályokat alkalmaz: először felróhatóságuk arányában osztják meg (ha van felróhatóság), másodszor rendellenesség alapján felel az, akinél rendellenesség merült fel (ha nincs felróhatóság), harmadszor kárát mindegyik fél maga viseli (ha nincs felróhatóság és nincs rendellenesség vagy mindkettőnél van), így fokozatosan enyhítve a feltételeket.
+
+23. A felróhatóság arányában való megosztás azt jelenti, hogy a felek felróható magatartása alapján osztják meg (szubjektív elem, hogyan jártak el), míg a rendellenesség alapján való felelősség azt jelenti, hogy akinek veszélyes tevékenysége körében rendellenesség merült fel, az felel (objektív elem, műszaki vagy működési hiba), így különbség van a szubjektív és objektív alapban.
+
+24. Ha egyik veszélyes üzemnél sem állapítható meg rendellenesség, akkor a Ptk. 6:539. § (3) bekezdése szerint kárát mindegyik fél maga viseli, nincs kármegosztás, mindenki a saját kárát viseli, így nincs felelősség egymással szemben, egyensúly.
+
+25. A munkáltató felelőssége az alkalmazottért a Ptk. 6:540. § szerint objektív, nem kell bizonyítani a munkáltató felróhatóságát (megválasztásban, utasításban, felügyeletben), a munkáltató kockázatviselő, míg az általános deliktuális felelősség felróhatóságon alapul, kimentkezés lehetséges, így a munkáltatói felelősség szigorúbb.
+
+26. Ahhoz, hogy a Ptk. 6:540. § szerinti munkáltatói felelősség fennálljon, az alkalmazottnak foglalkoztatására irányuló jogviszony keretében kell eljárnia (munkaviszony, közalkalmazotti jogviszony), a károkozásnak összefüggésben kell állnia ezzel a jogviszonnyalval (alkalmazotti minőségben okozza a kárt), és harmadik személynek kell kárt okoznia (nem a munkáltatónak), így három feltételnek kell teljesülnie.
+
+27. A munkáltató objektív felelőssége a Ptk. 6:540. § szerint azt jelenti, hogy nem kell bizonyítani a munkáltató felróhatóságát, a munkáltató nem kimentkezhet, kockázatviselő, míg a megbízó kimentkezési lehetősége a Ptk. 6:542. § szerint azt jelenti, hogy bizonyíthatja, hogy nem terheli felróhatóság (culpa in eligendo, in instruendo, in vigilando), mentesülhet, így különbség van a kimentés lehetőségében.
+
+28. Ha az alkalmazott szándékosan okozta a kárt, akkor a Ptk. 6:540. § (3) bekezdése szerint az alkalmazott egyetemlegesen felel a munkáltatóval, mindkettőtől követelhető a teljes kártérítés, így súlyosabb szankció a szándékos károkozóra, nem bújhat a munkáltató mögé.
+
+29. Az egyetemleges felelősség azt jelenti, hogy a károsult mind a két személytől (munkáltató és alkalmazott) követelheti a teljes kártérítést, választhat, hogy kitől követeli, mindkettő felel a teljes kárért, míg a kizárólagos felelősség azt jelenti, hogy csak az egyik fél felel, a másik nem, így az egyetemleges felelősség szélesebb jogot ad a károsultnak.
+
+30. A jogi személy felelősségének a tagja károkozásáért a Ptk. 6:540. § (2) bekezdése szerint az az alapja, hogy a tag tagsági viszonyával összefüggésben okoz kárt, a jogi személy érdekében jár el, a jogi személy profitál a tag tevékenységéből, így a jogi személy kockázatviselő, viseli a tag károkozásának kockázatát.
+
+31. A megbízó felelőssége a megbízottért a Ptk. 6:542. § szerint egyetemleges felelősség, mindkét fél felel, de a megbízó kimentkezhet (culpa in eligendo, in instruendo, in vigilando), míg a munkáltató felelőssége az alkalmazottért a Ptk. 6:540. § szerint kizárólagos (csak a munkáltató felel), objektív, nem kimentkezhet, így különbség van a felelősség jellegében és a kimentés lehetőségében.
+
+32. A Ptk. 6:542. § szerinti kimentési klauzula három culpa formát tartalmaz: culpa in eligendo (megválasztási hiba, rosszul választotta meg a megbízottat), culpa in instruendo (utasítási hiba, nem adott megfelelő utasításokat), culpa in vigilando (felügyeleti hiba, nem felügyelte megfelelően), így három területen vizsgálják a megbízó gondosságát.
+
+33. A culpa in eligendo azt jelenti, hogy a megbízó rosszul választotta meg a megbízottat, nem megfelelő személyt bízott meg (alkalmatlan, tapasztalatlan, megbízhatatlan), a culpa in instruendo azt jelenti, hogy nem adott megfelelő utasításokat a megbízottnak, hiányos vagy hibás utasítások (nem tájékoztatta, nem magyarázta el), a culpa in vigilando azt jelenti, hogy nem felügyelte megfelelően a megbízottat, nem ellenőrizte a munkáját (nem követte figyelemmel, nem kérdezett rá), így különbség van a culpa tárgyában (megválasztás, utasítás, felügyelet).
+
+34. Ha a megbízási viszony lazább, mint a munkaviszony, akkor a megbízott önállóbban jár el, kevesebb irányítás alatt áll, nagyobb önállóság, ezért ha a megbízó gondosan választotta meg, utasította és felügyelte, mentesülhet a Ptk. 6:542. § szerint, indokolt a kimentés lehetősége, míg a munkaviszony szorosabb, nagyobb irányítás, a munkáltató objektív felelőssége indokolt.
+
+35. A segédfelelősség a Ptk. 6:543. § szerint azt jelenti, hogy más szerződés jogosultja felel a vele szerződési viszonyban álló kötelezett károkozásáért, amíg a károkozó személyét meg nem nevezi, ideiglenes felelősség, megnevezéssel megszűnik, míg más felelősségi formáknál (munkáltató, megbízó) a felelősség végleges, nem szűnik meg megnevezéssel, így különbség van az időbeliségben.
+
+36. A tényleges károkozó megnevezésének lehetősége a Ptk. 6:543. § szerint biztosítja, hogy a szerződő fél megnevezheti a tényleges károkozót (alvállalkozó, teljesítési segéd), és akkor csak kezesként felel, nem kell a teljes kártérítést megfizetnie, ha a tényleges károkozó fizet, így védelem a szerződő fél számára.
+
+37. A vétőképtelen személy a Ptk. 6:544. § szerint az, akinek belátási képessége oly mértékben korlátozott, hogy a károkozással kapcsolatos magatartása következményeit nem képes felmérni, in concreto, a konkrét károkozással kapcsolatban, míg a cselekvőképtelen személy az, akinek cselekvőképessége korlátozott (kiskorú, gondnokolt), in abstracto, általánosan, így különbség van a belátási képesség konkrét és általános hiányában.
+
+38. Annak, hogy a vétőképtelen helyett a gondozó felel, a Ptk. 6:544. § szerint az az alapja, hogy a vétőképtelen nem felelhet (nincs belátási képessége, nem tudja felmérni a következményeket), védelem szükséges, és a gondozó felelős a nevelésért és felügyeletért, így a gondozóra telepíti a felelősséget, aki felügyeli.
+
+39. A gondozó nevelési kötelezettsége azt jelenti, hogy megfelelően neveli a gyermeket, erkölcsi norms értékeket tanít, felkészíti az életre, hosszú távú, míg a felügyeleti kötelezettség azt jelenti, hogy felügyeli a gyermeket, figyel rá, megakadályozza a veszélyes cselekményeket, azonnali, rövid távú, így különbség van az időbeliségben és a jellegben, a nevelés hosszú távú, a felügyelet rövid távú.
+
+40. Ha a gondozó bizonyítja, hogy a nevelés és felügyelet ellátásával kapcsolatban felróhatóság nem terheli, akkor a Ptk. 6:544. § (3) bekezdése szerint mentesül a felelősség alól, nem köteles megtéríteni a kárt, kimentkezés lehetséges, így a gondozó nem objektíven felelős, hanem felróhatóság alapján.
+
+41. Az állattartó felelőssége a Ptk. 6:562. § (1) bekezdése szerint szigorított, felel az állat által okozott kárért, de bizonyíthatja, hogy az állat tartásával kapcsolatban felróhatóság nem terheli, kimentkezés lehetséges, míg a veszélyes állat tartójának felelőssége a (2) bekezdés szerint veszélyes üzemi felelősség szabályai szerint, objektív, csak elháríthatatlan ok mentesít, szigorúbb.
+
+42. Az állattartó szigorított felelősségének a Ptk. 6:562. § szerint az az alapja, hogy az állatok veszélyesek lehetnek, kiszámíthatatlanok, kárt okozhatnak, az állattartó kontrollálja őket, ezért fokozott felelősséggel tartozik, ösztönözve a gondos állattartásra, biztonságra, így a kockázat-alapú felelősség, aki állatot tart, viselje a kockázatot.
+
+43. A vadászható állat által okozott kár esetében a Ptk. 6:563. § szerint a vadászatra jogosult felel, akinek a vadászterületén a kár bekövetkezett, az ő felelőssége, míg más állatok (háziállatok, kedvtelésből tartott állatok) által okozott kár esetében az állattartó felel, aki tartja az állatot, így különbség van a felelősség alanyában, vadászható állatnál vadászatra jogosult, más állatnál állattartó.
+
+44. Ha az épület tulajdonosa felel az épület hiányosságai révén okozott kárért, akkor a Ptk. 6:560. § szerint szigorított felelősség, az épület tulajdonosának kell bizonyítania, hogy az építkezésre és karbantartásra vonatkozó szabályokat nem sértették meg, és nem járt el felróhatóan, fordított bizonyítási teher, így a tulajdonos felelőssége fokozott.
+
+45. Az épület egyes részeinek lehullása a Ptk. 6:560. § szerint azt jelenti, hogy az épületről tárgy leesik (crepés, tégla, vakolat), fizikai leválás, leesés, míg az épület hiányosságai révén okozott kár azt jelenti, hogy az épület hibás állapota kárt okoz (rothadt lépcsőfok, leszakadt korlát), állapotbeli hiba, működési hiba, így különbség van a kár okában, az egyik leesés, a másik állapot.
+
+46. A Ptk. 6:560. § fordított bizonyítási terhet tartalmaz, mert a károsultnak csak a kárt és az okozati összefüggést kell bizonyítania (a kár bekövetkezett, az épületről esett le vagy az épület hiányossága okozta), míg az épület tulajdonosának kell kimentkeznie, bizonyítania kell, hogy az építkezésre és karbantartásra vonatkozó szabályokat nem sértették meg, és nem járt el felróhatóan, így a bizonyítási teher az épület tulajdonosát terheli.
+
+47. A tárgyak kidobásával okozott kár a Ptk. 6:561. § szerint azt jelenti, hogy lakásból vagy helyiségből tárgyat dobnak ki (cserepes, víz), szándékos dobás, emberi magatartás, a bérlő vagy használó felel, míg az épület lehullásával okozott kár a Ptk. 6:560. § szerint azt jelenti, hogy az épületről tárgy leesik (crepés, tégla), nem szándékos, leesés, az épület tulajdonosa felel, így különbség van a cselekmény jellegében és a felelősség alanyában.
+
+48. A termékfelelősség mint objektív felelősségi forma a Ptk. 6:550. § szerint jogi alapja az, hogy a hibás termék kárt okoz, a gyártónak nem kell felróhatóan eljárnia, elegendő, hogy a termék hibás volt és ez kárt okozott, szigorú, objektív felelősség, így védve a fogyasztókat, a gyártó viseli a termék hibájának kockázatát.
+
+49. A személyi sérülés vagy halál a Ptk. 6:552. § a) pontja szerint a hibás termék által okozott halál, testi sérülés vagy egészségkárosodás, súlyos, emberi élet és egészség, míg a dologban okozott kár a b) pont szerint a hibás termék által más dolgokban okozott, 500 euró feletti kár, vagyoni kár, így különbség van a kár jellegében és súlyosságában, a személyi sérülés súlyosabb.
+
+50. A speciális felelősségi alakzatok egy differenciált rendszert alkotnak, amely a különböző élethelyzetek kockázati szintjéhez igazodik: veszélyes üzemi felelősség (fokozott veszély, objektív), felelősség más személy károkozásáért (jogviszony alapján), állatok károkozásáért (állattartás kockázata), épületkárok (épület kockázata), termékfelelősség (hibás termék kockázata), így mindegyik különböző kockázati helyzetet szabályoz. Preventív funkciót töltenek be azzal, hogy a fokozott felelősség különös gondosságra ösztönzi a tevékenységek folytatóit, mivel tudják, hogy szigorúbb felelősség terheli őket, fokozottan ügyelnek a károk megelőzésére, így megelőző hatás, kockázat-alapú igazságosság: aki profitál a veszélyes tevékenységből, viselje annak kockázatát is.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

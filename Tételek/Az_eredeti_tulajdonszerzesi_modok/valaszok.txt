@@ -1,0 +1,118 @@
+1. A nemo plus iuris elv (senki sem ruházhat át több jogot, mint amennyivel maga rendelkezik) a származékos szerzésnél azt jelenti, hogy a jogutód olyan tulajdonjogot kap, amilyennel a jogelőd rendelkezett (terhekkel együtt). Az eredeti szerzésmódnál ez az elv nem érvényesül, mert új tulajdonjog keletkezik, amely nem a korábbi tulajdonjogból ered, így független a korábbi tulajdonos jogának terjedelmétől és terheitől.
+
+2. Az eredeti szerzésmód esetén új tulajdonjog keletkezik, amely nem a korábbi tulajdonjogból származik, így a dolgot terhelő korábbi jogok (zálogjog, szolgalmi jog, haszonélvezet) megszűnnek. Ez a tehermentes szerzés az eredeti szerzés legfontosabb joghatása, mert megszakítja a tulajdonjogok láncolatát és "tiszta lappal" induló tulajdonjogot eredményez.
+
+3. Az eredeti szerzésmód megszakítja a tulajdonjogok láncolatát, ami elméleti problémát jelent, mert a korábbi tulajdonos és a terhekkel rendelkező személyek (zálogjogosult, haszonélvező) jogai megszűnnek. Ez veszélyeztetheti a jogbiztonságot és a korábbi jogok védelmét, de méltányossági és forgalombiztonsági okokból indokolt, így az eredeti szerzés kivételes, de szükséges jogintézmény.
+
+4. A származékos szerzésnél a tulajdonjog "átszáll" a jogelődről a jogutódra, tehát ugyanaz a tulajdonjog kerül máshoz (kontinuitás). Az eredeti szerzésnél "új tulajdonjog" keletkezik, amely nem a korábbi tulajdonjogból ered, hanem újonnan jön létre, függetlenül attól, hogy volt-e korábbi tulajdonos, így diszkontinuitás, új kezdet történik.
+
+5. A tehermentes szerzés azt jelenti, hogy a dolgot terhelő korábbi jogok (zálogjog, haszonélvezet) megszűnnek, ami csak akkor lehetséges, ha valóban új tulajdonjog keletkezik, nem pedig a régi átszáll. Ha a régi tulajdonjog szállna át, a terhek is átszállnának (nemo plus iuris elv), így a tehermentes szerzés bizonyítja, hogy új tulajdonjog keletkezik, ami az eredeti szerzés lényege.
+
+6. Az eredeti szerzésmódnál a szerző tulajdonjoga független a korábbi tulajdonos jogától, ami azt jelenti, hogy nem számít, ki volt korábban a tulajdonos, milyen jogokkal rendelkezett, vagy egyáltalán volt-e tulajdonos. Ez a függetlenség az eredeti szerzés definíciója: a tulajdonjog nem mástól származik, hanem újonnan, eredetileg keletkezik, így a korábbi tulajdonosi jog irreleváns.
+
+7. A Ptk. 5:41. § (1) bekezdése szerint "Aki a dolgot hatósági határozat vagy hatósági árverés útján jóhiszeműen szerzi meg, tulajdonossá válik, tekintet nélkül arra, hogy korábban ki volt a tulajdonos", ami eredeti tulajdonszerzés. Ez azért eredeti, mert a szerzés független attól, hogy a korábbi tulajdonosnak volt-e joga átruházni, és új tulajdonjog keletkezik a hatósági aktus alapján.
+
+8. A "tekintet nélkül arra, hogy korábban ki volt a tulajdonos" azt jelenti, hogy a szerzés nem függ a korábbi tulajdonos jogától, személyétől vagy jogosultságától. Ez kifejezi az eredeti szerzés lényegét: a hatósági határozat vagy árverés konstitutív hatállyal új tulajdonjogot keletkeztet, függetlenül a korábbi jogi helyzettől, így a szerző akkor is tulajdonossá válik, ha a korábbi tulajdonos nem volt jogosult átruházni.
+
+9. A végrehajtási árverésen történő szerzés azért eredeti szerzésmód, mert a hitelező kielégítését és a forgalom biztonságát szolgálja. Ha a vevő csak akkor szerezne tulajdonjogot, ha az adós tulajdonos volt, a végrehajtás értelmetlenné válna, így az eredeti szerzés biztosítja, hogy a jóhiszemű árverési vevő védve legyen és a hitelező kielégítést kapjon.
+
+10. A Ptk. 5:41. § (4) bekezdése szerint a terhek megszűnnek, "kivéve, ha a hatósági határozattal vagy hatósági árverés útján szerző e jogok tekintetében nem volt jóhiszemű". A jóhiszeműség szükséges, mert védi a terhekkel rendelkező személyeket (zálogjogosult, haszonélvező): ha a szerző tudott a terhekről, nem számíthat tehermentes szerzésre, így a rosszhiszeműség szankcionálása védi a harmadik személyek jogait.
+
+11. A kisajátítás a Ptk. 5:43. § szerint hatósági határozat alapján történik, közérdekből, teljes kártalanítás ellenében. Ez eredeti tulajdonszerzés, mert a Ptk. 5:41. § (1) bekezdése szerint hatósági határozat útján történő szerzés eredeti szerzésmód, amely tekintet nélkül a korábbi tulajdonosra új tulajdonjogot keletkeztet, így a kisajátítás megszakítja a tulajdonjogok láncolatát és az állam tiszta tulajdonjogot szerez.
+
+12. Az elbirtoklás az időmúláson alapul: a birtoklás meghatározott időtartama (ingónál 10 év, ingatlannál 15 év) megalapozza a tulajdonszerzést. Az idő dogmatikai szerepe az, hogy legitimálja a birtoklást: a hosszú idejű, zavartalan birtoklás olyan tényt teremt, amely indokolja a jogi elismerést, így az idő múlása az elbirtoklás konstitutív (joghatást kiváltó) eleme.
+
+13. A Ptk. 5:44. § (1) bekezdése szerint "ingatlan esetén tizenöt, ingó dolog esetén tíz éven át", mert az ingatlanok nagyobb értékűek, tartósabbak, és a tulajdonváltozás súlyosabb jogkövetkezményekkel jár (ingatlan-nyilvántartás, nagyobb gazdasági jelentőség). A hosszabb elbirtoklási idő (15 év) az ingatlanok védelme: a tulajdonosnak több ideje van az ingatlana visszaszerzésére, mielőtt elbirtoklanák.
+
+14. A "sajátkénti birtoklás" azt jelenti, hogy a birtokos a dolgot sajátjaként (tulajdonosként) birtokolja, nem albirtokosként (bérlőként, haszonkölcsönbe vevőként, haszonélvezőként). Ez az animus domini (tulajdonosi akarat) megléte: a birtokos úgy viselkedik, mintha tulajdonos lenne, ami megkülönbözteti az albirtokostól, aki tudja, hogy nem tulajdonos.
+
+15. Az elbirtokló nem tulajdonos (még), de "sajátjaként" birtokolja a dolgot, ami azt jelenti, hogy úgy viselkedik, mintha tulajdonos lenne. Ez az ellentmondás abban oldódik fel, hogy a sajátkénti birtoklás az animus dominit (tulajdonosi akaratot) jelenti, nem a jogi helyzetet: a birtokos szubjektíve tulajdonosnak tekinti magát, objektíve még nem az, de az idő múlásával tulajdonossá válik.
+
+16. A "szakadatlanság" azt jelenti, hogy a birtoklás folyamatos, megszakítás nélküli az elbirtoklási idő alatt (10 vagy 15 év). Ez azért szükséges, mert az elbirtoklás az időmúlásra és a zavartalan birtoklásra épül: ha a birtoklás megszakad (birtokot elveszti, tulajdonos visszaszerzi), az elbirtoklás indoka (tartós, stabil birtoklás) megszűnik, így a szakadatlanság az elbirtoklás lényegi feltétele.
+
+17. A Ptk. 5:45. § szerint a jogcímes elbirtoklás "öt év elteltével következik be" ingatlanoknál, ha a birtokos írásbeli szerződéssel szerezte a birtokot, amely alkalmas lenne tulajdonszerzésre (ha alakszerű lenne), és teljesítette az ellenszolgáltatást. Ez rövidebb, mint a rendes 15 év, mert a birtokos jóhiszemű (azt hiszi, tulajdonos lett), és teljesítette az ellenszolgáltatást, így méltányos a rövidebb idő.
+
+18. A jogcímes elbirtoklás rövidebb ideje (5 év) azt a jogpolitikai célt szolgálja, hogy a jóhiszemű, ellenszolgáltatást teljesítő birtokost gyorsabban védjék. Ha a birtokos megvásárolta az ingatlant, de az átruházás alaki hiba miatt érvénytelen volt, méltányos, hogy ne kelljen 15 évet várnia, hanem 5 év alatt tulajdonossá váljon, ami védi a forgalom biztonságát és a jóhiszeműséget.
+
+19. A Ptk. 5:45. § szerint "a birtokos az ellenszolgáltatást teljesítette" feltétel biztosítja, hogy a birtokos valóban vagyoni áldozatot hozott a dolog megszerzéséért. Ha ellenszolgáltatást teljesített (vételárat fizetett), méltányos, hogy tulajdonossá váljon rövidebb idő alatt, mert nem ingyen, hanem vásárlás útján szerezte a birtokot, ami igazolja a jóhiszeműségét és az ellenszolgáltatás védi az őt.
+
+20. A Ptk. 5:48. § szerint az elbirtoklás nyugszik (áll), ha a tulajdonos "menthető okból nincs abban a helyzetben, hogy tulajdonosi jogait gyakorolhassa" (pl. cselekvőképtelenség, hadifogság). Ez méltányossági funkciót tölt be: a tulajdonost nem lehet büntetni azért, hogy menthető ok miatt nem tudta jogait gyakorolni, így az akadály megszűnésétől számított egy évig védett az elbirtoklástól.
+
+21. Az elbirtoklás nyugvása esetén az idő múlását "felfüggesztik", de az addig eltelt idő "számít", és az akadály megszűnése után folytatódik. Az elbirtoklás megszakadása esetén az addig eltelt idő "nem vehető figyelembe", és az elbirtoklás "újból kezdődik", így a megszakadás drasztikusabb jogkövetkezmény: mindent elölről kell kezdeni.
+
+22. A Ptk. 5:49. § (1) bekezdés a) pontja szerint az elbirtoklás megszakad, ha "a tulajdonos a dolog kiadása iránti követelését bírósági úton érvényesíti", mert ez a tulajdonos aktív jogérvényesítése. A bírósági követelés megszakítja az elbirtoklást, mert megmutatja, hogy a tulajdonos nem hagyta el a dolgot, hanem igényt tart rá, így a passzivitás (amely az elbirtoklás alapja) megszűnik.
+
+23. A Ptk. 5:49. § (1) bekezdés b) pontja szerint "a tulajdonos a dologgal kapcsolatban tulajdonosi jogát gyakorolja" megszakítja az elbirtoklást. Ez azt jelenti, hogy ha a tulajdonos bármilyen módon gyakorolja tulajdonosi jogait (pl. a dolgot használja, bérbead, megjavíttatja, jelzáloggal terheli), ez megmutatja, hogy nem passzív, hanem aktívan gyakorolja jogait, ami megszakítja az elbirtoklást.
+
+24. A Ptk. 5:49. § (1) bekezdés c) pontja szerint az elbirtoklás megszakad, ha "a birtokos a birtokot akaratán kívül elveszti, és azt egy éven belül nem szerzi vissza, vagy egy éven belül nem kéri a bíróságnál". Ez azt a jogpolitikai indokot tükrözi, hogy az elbirtokláshoz folyamatos, zavartalan birtoklás szükséges: ha a birtokos elveszti a birtokot és nem szerzi vissza, a birtoklás folytonossága megszakad, így az elbirtoklás alapja megszűnik.
+
+25. Az elbirtoklás megszakadása drasztikus, mert a Ptk. 5:49. § szerint "az addig eltelt idő nem vehető figyelembe", és "az elbirtoklás újból kezdődik", ami azt jelenti, hogy az eddig eltelt évek (akár 9 év ingónál, 14 év ingatlannál) elvesznek. A birtokosnak teljesen elölről kell kezdenie az elbirtoklási időt, ami súlyos hátrány, ezért a megszakadás elkerülése fontos a birtokos szempontjából.
+
+26. A Ptk. 5:50. § (1) bekezdése szerint "Akinek más dolgán olyan joga van, amely őt a termékek, a termények vagy a szaporulat tulajdonbavételére jogosítja - ha ezek tulajdonjogát korábban nem szerezte meg -, az elválással tulajdonjogot szerez." Ez eredeti szerzésmód, mert új tulajdonjog keletkezik a terméken (nem a főtárgy tulajdonjogából származik), amely elválással vagy birtokbavétellel jön létre, függetlenül a főtárgy tulajdonjogától.
+
+27. A Ptk. 5:50. § (1) bekezdése olyan jogokat említ, "amely őt a termékek, a termények vagy a szaporulat tulajdonbavételére jogosítja", amely például a haszonélvezet (a haszonélvező jogosult a hasznok szedésére), a bérleti jog (bizonyos esetekben a bérlő jogosult a termésre) vagy más jogok. Ezek a jogok biztosítják, hogy a jogosult tulajdonossá váljon a terméken, terményen vagy szaporulaton az elválással.
+
+28. A tulajdonjog az "elválással" keletkezik (a termék leszakadásával a fától, a termény learatásával, az állat születésével), mert addig a termék, termény vagy szaporulat a főtárgy alkotórésze, még nem önálló dolog. Az elválás teszi önálló dologgá, amely önálló tulajdon tárgya lehet, így az elválás a tulajdonjog keletkezésének feltétele, amely az önálló dolog létrejöttét jelenti.
+
+29. A Ptk. 5:50. § (3) bekezdése szerint a jóhiszemű birtokos is tulajdonjogot szerez a terméken, terményen és szaporulaton, amíg rosszhiszeművé nem válik. Ez a jóhiszeműség védelmét igazolja a dologi jogban: ha a birtokos jóhiszeműen (azt hiszi, tulajdonos) birtokolja a dolgot, jogosult a termésre, ami méltányos és ösztönzi a dolog hasznosítását, míg a rosszhiszemű birtokos nem védett.
+
+30. A gazdátlan dolog tulajdonos nélküli (uratlan vagy elhagyott), míg az elveszett dolog más tulajdonában áll, de az elveszítette. Ez a dogmatikai elhatárolás meghatározza a szerzés módját: gazdátlan dolgot birtokbavétellel lehet elsajátítani (Ptk. 5:52. §), elveszett dolgot találás útján lehet megszerezni (Ptk. 5:54. §), amely eltérő feltételeket és jogkövetkezményeket jelent.
+
+31. Ingatlan nem lehet gazdátlan a Ptk. rendszerében, mert ha az ingatlan tulajdonosa ismeretlen vagy nincs, az ingatlan az állam tulajdonába kerül, így mindig van tulajdonosa. Ez az ingatlanok nagyobb társadalmi és gazdasági jelentőségéből fakad: az ingatlanok állandó jellegűek, értékesebbek, és a forgalmi biztonság megköveteli, hogy mindig legyen tulajdonosuk és nyilvántartásuk pontos legyen.
+
+32. A Ptk. 5:52. § (2) bekezdése szerint elhagyott az az ingó dolog, "amelynek birtoklásával a tulajdonos a tulajdonról való lemondás szándékával felhagyott". Ez azt jelenti, hogy a tulajdonos kifejezetten vagy ráutaló magatartással (pl. kidobta a szemétbe) lemond a tulajdonjogról és elhagyja a dolgot, ami kifejezi, hogy nem kívánja többé tulajdonosként gyakorolni jogait, így a dolog gazdátlanná válik és mások elsajátíthatják.
+
+33. Az animus rem sibi habendi (tulajdonszerzés szándéka) azt jelenti, hogy a birtokba vevő személy szándéka az, hogy a dolgot sajátjává tegye, tulajdonossá váljon. Ez szükséges a Ptk. 5:52. § (1) bekezdése szerint: "Gazdátlan ingó dolog tulajdonjogát megszerzi, aki a dolgot tulajdonszerzés szándékával birtokba veszi", mert ha nincs tulajdonszerzési szándék, csak puszta birtoklás (pl. megtalálja, de nem akarja megtartani), nem keletkezik tulajdonjog.
+
+34. Az uratlan dolog (még soha senkinek sem volt tulajdona) klasszikus eredeti szerzésmód, mert nincs korábbi tulajdonos, akitől a tulajdonjog származhatna. A szerzés birtokbavétellel történik, új tulajdonjog keletkezik, amely nem mástól származik (mert nincs jogelőd), hanem eredetileg, így az uratlan dolog elsajátítása az eredeti szerzés tiszta, klasszikus esete.
+
+35. A találás elveszett dolog esetén alkalmazandó, amely más tulajdonában áll (van tulajdonosa, aki elveszítette), míg a gazdátlan dolog elsajátítása olyan dolgok esetén, amelynek nincs tulajdonosa (uratlan vagy elhagyott). A találásnál a Ptk. 5:54. § szerint kötelezettségek terhelik a találót (átadás, értesítés), és csak egy év után szerez tulajdonjogot, míg gazdátlan dolgot azonnal birtokbavétellel lehet elsajátítani (Ptk. 5:52. §).
+
+36. A Ptk. 5:55. § szerint a találó köteles a talált dolgot 8 napon belül az elvesztőnek, tulajdonosnak vagy a jegyzőnek átadni, és nyilatkozni köteles, hogy igényt tart-e a dolog tulajdonjogára. Ez védi a tulajdonost: biztosítja, hogy a találó ne tartsa meg a dolgot, hanem értesítse a tulajdonost vagy hatóságot, így a tulajdonos visszakaphassa a dolgát, ami a tulajdonjog védelmét szolgálja.
+
+37. A Ptk. 5:54. § (1) bekezdése szerint a találó tulajdonjogot szerez, ha "megtett mindent annak érdekében, hogy a dolgot a tulajdonos visszakaphassa", ami feltétel. Ez biztosítja a tulajdonos védelmét: a találó csak akkor szerez tulajdonjogot, ha teljesítette kötelezettségeit (átadás, értesítés), így nem jutalmazza a passzív vagy rosszhiszemű találót, csak azt, aki mindent megtett a tulajdonos érdekében.
+
+38. Az egyéves határidő (Ptk. 5:54. § (1) bekezdés b) pont szerint "a találástól számított egy éven belül", élő állat esetén három hónapon belül) biztosítja, hogy a tulajdonos elegendő időt kapjon a dolog visszaszerzésére. A jogpolitikai funkció a jogbiztonság: egy év után a találó tulajdonossá válik, ami véglegességet teremt, és biztosítja, hogy a találó ne legyen örökké bizonytalan helyzetben.
+
+39. Az élő állat esetén rövidebb a határidő (3 hónap), mert az élő állat tartása, etetése, gondozása költséges és időigényes, így méltánytalan lenne a találót egy évig terhelni az állat gondozásával. A három hónapos határidő elegendő a tulajdonos keresésére, de nem túlzottan hosszú, ami védi a találót a tartási költségektől és az állat gyors sorsának rendezését biztosítja.
+
+40. A találó a Ptk. 5:55. § szerint nyilatkozni köteles a jegyzőnél, hogy "igényt tart-e a dolog tulajdonjogára", ami feltétel. Ha nem tart igényt, nem szerez tulajdonjogot, az állam vagy más lesz a tulajdonos, így az igénytartási nyilatkozat a találó akaratának kifejezése: csak akkor szerez tulajdonjogot, ha akarja, ami biztosítja az önrendelkezést.
+
+41. A feldolgozás, egyesülés és vegyülés esetén mások dolgai úgy keverednek, egyesülnek vagy alakulnak át, hogy a szétválasztás aránytalan károsodással járna vagy lehetetlen. Mindhárom esetben eredeti szerzésmód, mert új dolog vagy közös tulajdon keletkezik, amely nem a korábbi tulajdonjogok átszállásából ered, hanem a dolgok fizikai egyesüléséből vagy átalakításából fakadó új jogi helyzet.
+
+42. A Ptk. szerint ha mások dolgai úgy keverednek, egyesülnek vagy alakulnak át, hogy "a szétválasztás aránytalan károsodással járna vagy lehetetlen", közös tulajdon keletkezik az érintettek között. Ez azért indokolt, mert a szétválasztás gazdaságilag pazarló vagy fizikailag lehetetlen lenne, így méltányos, hogy az eredeti tulajdonosok közös tulajdonosokká váljanak az új dologban, arányosan az eredeti dolgok értékével, ami igazságos megoldást biztosít.
+
+43. A Ptk. 5:51. § szerint "A föld tulajdonosa megszerzi mindazoknak a dolgoknak a tulajdonjogát, amelyek utóbb váltak a föld alkotórészévé, kivéve, ha az valamely jogviszony alapján mást illet." Ez az accessio (járulék) elve biztosítja a föld tulajdonosának jogait: ami a földdel tartósan egyesül (épület, fa, beépített vezeték), annak tulajdonjoga automatikusan a föld tulajdonosát illeti, ami védi a föld tulajdonosát és egyszerűsíti a tulajdonviszonyokat.
+
+44. Az accessio elve azon az elméleti alapon nyugszik, hogy a főtárgy (föld) és a járuléktárgy (épület, beépített dolog) olyan szoros kapcsolatban vannak, hogy külön tulajdonjoguk fenntartása impraktikus lenne. A föld mint főtárgy "elnyeli" a járulékot, így a föld tulajdonosa szerzi meg a járulék tulajdonjogát is, ami biztosítja a tulajdonviszonyok egyszerűségét és a föld tulajdonosának jogait, amely a római jog óta érvényesülő elv.
+
+45. A Ptk. 5:51. § kimondja: "kivéve, ha az valamely jogviszony alapján mást illet", ami azt jelenti, hogy az accessio elve diszpozitív (eltérés lehetséges). Ha a felek megállapodtak (pl. építési jogviszony, bérleti szerződés), hogy a beépített dolog tulajdonjoga nem a föld tulajdonosát illeti, hanem másét (pl. bérlő építi az épületet és az övé marad), akkor a megállapodás elsőbbséget élvez, ami a szerződési szabadságot védi.
+
+46. A Ptk. 5:39. § (2)-(3) bekezdései szerint a kereskedelmi forgalomban, jóhiszeműen, ellenérték fejében szerző akkor is tulajdonjogot szerez, ha az átruházó nem volt tulajdonos. Ez eredeti szerzésmódot valósít meg, mert a vevő tulajdonjoga nem az eladó tulajdonjogából származik (aki nem volt tulajdonos), hanem újonnan, eredetileg keletkezik a jóhiszeműség, az ellenérték és a kereskedelmi forgalom védelme alapján.
+
+47. A kereskedelmi forgalomban való szerzés formálisan származékos (átruházáson, adásvételi szerződésen alapul), de joghatásaiban eredeti szerzésmód. A paradoxon abban rejlik, hogy van jogügylet (szerződés), ami származékos szerzést sugall, de a joghatás (tehermentes, nemo plus iuris elv áttörése) eredeti szerzést jelent, ami összetett, hibrid jogintézmény, amely a forgalom védelmét szolgálja.
+
+48. A kereskedelmi forgalomban való szerzés áttöri a nemo plus iuris elvét, mert a vevő tulajdonossá válik, még ha az eladó nem volt tulajdonos. Ez a forgalom biztonságát szolgálja: a jóhiszemű vásárlók védelme ösztönzi a kereskedelmet, mert a vevő nem köteles minden vásárlásnál ellenőrizni az eladó tulajdonjogát, ami lehetetlen lenne és megbénítaná a forgalmat, így a vevő védelme gazdaságpolitikai cél.
+
+49. A Ptk. 5:39. § (4) bekezdése szerint "A tulajdonjognak a (2) bekezdés szerinti megszerzésével megszűnnek a harmadik személynek a dolgot terhelő olyan jogai, amelyek az átruházás előtt keletkeztek", ami tehermentes szerzés. Ez védi a jóhiszemű vásárlót: ne kelljen aggódnia, hogy a dolgot terhek (zálogjog, haszonélvezet) terhelik, amelyekről nem tudott, így nyugodtan vásárolhat, ami a forgalom biztonságát szolgálja.
+
+50. Az eredeti tulajdonszerzési módok (hatósági határozat, elbirtoklás, gazdátlan javak, találás, feldolgozás, növedék, kereskedelmi forgalom) kiegyensúlyozott rendszert alkotnak. A jogbiztonságot szolgálják (elbirtoklás, találás), a forgalom biztonságát védik (kereskedelmi forgalom, hatósági árverés), és méltányos megoldást kínálnak (találó jutalmazása, jóhiszemű birtokos védelme), így rugalmas, differenciált és igazságos szabályozást alkotva biztosítják a tulajdonjog dinamizmusát és a gazdasági forgalom hatékonyságát.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,55 @@
+========================================
+ÁLTALÁNOS FELADATPROMPT: MEMÓRIAPALOTA KÉSZÍTÉSE
+========================================
+
+FELADAT:
+--------
+Alakítsd át a megadott szöveget memóriapalota-technikával feldolgozott formátumba. A memóriapalota egy mnemotechnikai módszer, ahol az információkat egy képzeletbeli térben helyezzük el, és minden kulcsfogalmat egyedi, vizuálisan erős szimbólummal társítunk.
+
+KÖVETELMÉNYEK:
+--------------
+
+1. EGYEDI KONCEPCIÓ
+   - Válassz egy teljesen egyedi helyszínt/környezetet (híd, kapu, épület, stb.)
+   - Ne ismételd az előző memóriapaloták koncepcióját
+
+2. VIZUÁLISAN ERŐS SZIMBÓLUMOK
+   - Minden kulcsfogalomhoz konkrét, vizuálisan erős szimbólumot készíts
+   - NE használj csak szöveges feliratokat (pl. "5 haj csak más felirat")
+   - Használj konkrét, megfogható tárgyakat, jeleneteket, képeket
+
+3. VÁLTOZATOSSÁG
+   - Legyen változatos, nem sablonos, nem "kaptafa"
+
+4. TELJES TARTALOM
+   - A forrásszöveg minden fontos információját tartalmazza
+   - Törvényparagrafusok, definíciók, részletek megmaradnak
+
+FORMÁTUM:
+---------
+- Bevezető: bevezetés a helyszínbe ("Itt állunk... Gyere utánam...")
+- Útvonal: használj lépéseket ("Most menjünk...", "Itt látható...")
+- Szimbólumok: minden információt egy konkrét szimbólumhoz köss
+- Struktúra: hierarchikus (fő témák → alpontok)
+- Összefoglalás: végső helyszín/szimbólum
+
+PÉLDA SZIMBÓLUMOK:
+------------------
+✓ JÓ: "Lezárt, végleges ajtó" → halál
+✓ JÓ: "Láncszem, amely egy másik láncszemhez kapcsolódik" → járulékos jelleg
+✗ ROSSZ: "5 haj csak más felirat" → ez csak szöveg
+✗ ROSSZ: "Egy tábla, amin 'tulajdonjog' felirat van" → ez csak szöveg
+
+ELLENŐRZÉS:
+------------
+□ Egyedi koncepció?
+□ Konkrét, vizuális szimbólumok (nem csak szöveg)?
+□ Változatos, nem sablonos?
+□ Teljes tartalom?
+□ Logikus struktúra?
+
+========================================
+VÉGE
+========================================
+
+

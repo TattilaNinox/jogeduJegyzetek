@@ -1,0 +1,119 @@
+1. Mi a különbség a szerződésen kívüli (deliktuális) kárfelelősség és a szerződésszegéssel okozott károkért való felelősség között, és miért fontos ez az elhatárolás?
+
+2. Milyen jogi következménye van annak, hogy a Ptk. 6:518. § általános károkozási tilalmat tartalmaz, és hogyan kapcsolódik ez a Ptk. 6:519. § generálklauzulájához?
+
+3. Miért tekinthető a Ptk. 6:519. § generálklauzulának, és milyen szerepet tölt be a kártérítési jog rendszerében?
+
+4. Milyen logikai kapcsolat van a négy klasszikus kárfelelősségi feltétel között, és miért konjunktívak ezek a feltételek?
+
+5. Mi a különbség a jogellenesség vélelmének és a jogellenességet kizáró okok bizonyítási terhe között a Ptk. 6:520. § alapján?
+
+6. Milyen feltételeknek kell megfelelnie a károsult beleegyezésének ahhoz, hogy jogellenességet kizáró okként működjön?
+
+7. Mi a különbség a jogos védelem és a szükséghelyzet között abban, hogy miként zárják ki a jogellenességet?
+
+8. Milyen követelményeknek kell megfelelnie a jogos védelemnek ahhoz, hogy a károkozás ne legyen jogellenes, és mi történik, ha ezek a követelmények nem teljesülnek?
+
+9. Mi a különbség a kár három összetevője között: a felmerült kár, az elmaradt vagyoni előny és a károsultat ért vagyoni hátrányok kiküszöböléséhez szükséges költségek?
+
+10. Milyen jogi következménye van annak, ha a károsult a károkozásból vagyoni előnyhöz jut, és hogyan kezeli ezt a Ptk. 6:522. § (3) bekezdése?
+
+11. Mi a különbség az okozati összefüggés megállapítására vonatkozó különböző elméletek között, és melyiket követi a magyar polgári jog?
+
+12. Mi a jelentősége az előreláthatóság követelményének az okozati összefüggés megállapításában, és milyen kétféle előreláthatóságot különböztetünk meg?
+
+13. Mi a különbség a tényleges előreláthatóság és az elvárható előreláthatóság között, és melyikük milyen helyzetekben alkalmazandó?
+
+14. Miért tekinthető a felróhatóság a felelősség szubjektív elemének, és milyen szerepe van a bizonyítási teher megfordításának?
+
+15. Mi a különbség a felróhatóság vélelmének és a kimentés lehetőségének között, és hogyan kapcsolódik ez a bizonyítási teher megoszlásához?
+
+16. Milyen mércét kell alkalmazni a kimentésnél, és miért objektív ez a mérce, nem szubjektív?
+
+17. Mi a különbség a jogellenességet kizáró okok és a kimentés között abban, hogy melyik kárfelelősségi feltételt érintik?
+
+18. Milyen következménye van annak, ha a károkozó sikeresen bizonyítja, hogy magatartása nem volt felróható, és milyen következménye van, ha nem sikerül a kimentés?
+
+19. Mi a különbség a teljes kártérítés elve és a részleges kártérítés között, és milyen esetekben alkalmazható a méltányossági mérséklés?
+
+20. Milyen feltételeket kell teljesítenie a természetbeni kártérítésnek ahhoz, hogy a pénzbeli kártérítés helyett alkalmazható legyen?
+
+21. Mi a különbség a járadék és a pénzbeli kártérítés között, és milyen esetekben alkalmazandó a járadék?
+
+22. Milyen jogi következménye van annak, ha a károsult felróhatóan megsérti a kárenyhítési kötelezettségét?
+
+23. Mi a különbség a kármegelőzési, kárelhárítási és kárenyhítési kötelezettség között?
+
+24. Milyen szabályok szerint osztódik meg a kár a károkozó és a károsult között, ha mindketten közrehattak a kár bekövetkezésében?
+
+25. Mi a különbség az egyetemleges felelősség és a kármegosztás között több károkozó esetében?
+
+26. Milyen követelményeknek kell megfelelnie a járadék meghatározásának, és milyen körülmények változása esetén módosítható vagy megszüntethető?
+
+27. Mi a különbség a jövedelempótló járadék és a tartást pótló járadék között?
+
+28. Milyen jogi következménye van annak, ha a kár mértéke nem állapítható meg pontosan, és hogyan kezeli ezt a Ptk. 6:531. §?
+
+29. Mi a különbség a kártérítés esedékessége és az elévülés között, és milyen speciális szabályok vonatkoznak bűncselekménnyel okozott kárra?
+
+30. Milyen szerepe van az értékviszonyok változásának figyelembevételének a kártérítés mértékének meghatározásában?
+
+31. Mi a különbség a károsult és a károkozó bizonyítási terhe között az általános deliktuális felelősségi alakzatban?
+
+32. Milyen következménye van annak, ha a károsult nem bizonyítja az okozati összefüggést, és milyen következménye van, ha a károkozó nem bizonyítja a kimentést?
+
+33. Mi a különbség a károkozás általános tilalma és a konkrét kártérítési kötelezettség között?
+
+34. Milyen szerepe van a méltányossági mérséklésnek a kártérítési rendszerben, és milyen körülmények esetén alkalmazható?
+
+35. Mi a különbség a kártérítés módjának bírósági meghatározása és a felek akaratának tiszteletben tartása között?
+
+36. Milyen jogi következménye van annak, ha a károsult a kármegelőzési kötelezettségét felróhatóan megsérti?
+
+37. Mi a különbség a károsulti közrehatás és a többek közös károkozása között?
+
+38. Milyen követelményeknek kell megfelelnie a járadék meghatározásának a jövedelemkiesés mértékének figyelembevételekor?
+
+39. Mi a különbség a kártérítés módjának meghatározása és a kártérítés mértékének meghatározása között?
+
+40. Milyen szerepe van a kárenyhítési kötelezettségnek abban, hogy a károsult ne spekuláljon a kár növekedésével?
+
+41. Mi a különbség az általános deliktuális felelősségi alakzat és a speciális felelősségi alakzatok között?
+
+42. Milyen következménye van annak, ha a károkozó bizonyítja, hogy a károsult beleegyezett a károkozásba?
+
+43. Mi a különbség a kártérítés korlátozásának vagy kizárásának szerződéses kikötése és a törvényi szabályok között?
+
+44. Milyen szerepe van a károsodás veszélyének megelőzésének a kártérítési rendszerben?
+
+45. Mi a különbség a kártérítés módjának bírósági meghatározása és a felek megállapodása között?
+
+46. Milyen követelményeknek kell megfelelnie a károsult beleegyezésének ahhoz, hogy személyiségi jogokba való beleegyezésként érvényes legyen?
+
+47. Mi a különbség a kártérítés esedékessége és a kártérítés követelhetősége között?
+
+48. Milyen szerepe van az előreláthatóságnak abban, hogy az okozatossági láncolatot elvágja?
+
+49. Mi a különbség a károsulti közrehatás és a károkozó közrehatása között a kármegosztás szempontjából?
+
+50. Milyen logikai kapcsolat van az általános deliktuális felelősségi alakzat elemei között, és hogyan épülnek rá a speciális felelősségi alakzatok?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

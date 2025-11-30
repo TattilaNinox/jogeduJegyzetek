@@ -1,0 +1,119 @@
+1. A reparatív-kompenzációs funkció azt jelenti, hogy a károsultat olyan vagyoni helyzetbe hozni, mintha a károkozás meg sem történt volna, míg a szankcionáló funkció azt jelenti, hogy a kártérítési kötelezettség szankció a jogellenes magatartásért, elrettent a jogsértéstől.
+
+2. Ha a károkozó a károsult teljes kárát köteles megtéríteni, akkor nem lehet csak részleges a kártérítés, a károsultnak nem kell megelégednie részleges kártérítéssel, joga van a teljes kár megtérítésére, így teljes körű kompenzációt biztosítva.
+
+3. A teljes kártérítés elve azt jelenti, hogy a kártérítésnek teljesnek kell lennie, le kell fednie a károsult által elszenvedett teljes kárt, míg a részleges kártérítés csak a kár egy részét térítené meg, és a teljes kártérítés elve védi a károsultat, biztosítva a teljes kompenzációt.
+
+4. A restitutio in integrum elve azt jelenti, hogy a károsultat olyan vagyoni helyzetbe kell hozni, mintha a károkozás meg sem történt volna, és ez a Ptk. 6:522. § (1) bekezdése szerinti teljes kártérítés elvének alapja, biztosítva a teljes körű helyreállítást.
+
+5. A prevenciós funkció azt jelenti, hogy a kártérítés lehetősége ösztönzi az embereket arra, hogy gondosan, körültekintően járjanak el, elkerüljék a károkozást, míg a szankcionáló funkció azt jelenti, hogy a kártérítési kötelezettség szankció a már elkövetett jogellenes magatartásért, így a prevenció megelőzés, a szankció utólagos következmény.
+
+6. A Ptk. 6:522. § (2) bekezdése három elemet tartalmaz: a károsult vagyonában beállott értékcsökkenést (felmerült kár), az elmaradt vagyoni előnyt (elmaradt haszon), és a károsultat ért vagyoni hátrányok kiküszöböléséhez szükséges költségeket (indokolt költségek), így a teljes kár fogalma hármas tagolású.
+
+7. A felmerült kár (damnum emergens) a tényleges, már bekövetkezett vagyoni veszteség, a károsult vagyona csökkent, míg az elmaradt vagyoni előny (lucrum cessans) az a haszon, amellyel a károsult vagyona gyarapodott volna, de nem gyarapodott, így a felmerült kár veszteség, az elmaradt haszon elmaradt gyarapodás.
+
+8. Ha a felmerült kár már bekövetkezett, objektíven mérhető veszteség, akkor viszonylag egyszerű megállapítani, bizonyítani (számlák, szakértői értékbecslés), míg az elmaradt haszon jövőbeli, bizonytalan esemény, nehezebb megállapítani, valószínűsíteni kell, így különbség van a bizonyítás nehézségében.
+
+9. A károsult vagyonának csökkenése a felmerült kárnál azt jelenti, hogy olyan értéktől esett el, amellyel korábban rendelkezett, vagyonvesztés, míg a károsult vagyonának nem gyarapodása az elmaradt hasznánál azt jelenti, hogy olyan értékhez nem jutott, amelyhez károkozás nélkül jutott volna, elmaradt gyarapodás.
+
+10. A felmerült kár megállapításához számlák (vásárlási, javítási számlák), szakértői értékbecslés (ingatlan, műtárgy értékelése), piaci árak (összehasonlító piaci adatok), bizonylatok (orvosi leletek, kórházi számlák) állnak rendelkezésre, így objektív bizonyítékok.
+
+11. A bizonyosan bekövetkezett volna haszon esetében a károsult bizonyítja, hogy a haszon biztosan megszerezte volna, de ez túl szigorú követelmény, míg a puszta lehetőség esetében csak lehetőség volt a haszonra, ami túl enyhe, és a Ptk. a reális esély követelményét támasztja, középút.
+
+12. A bíróság az általános életmenet szabályai alapján, a valószínűség és ésszerűség mércéjével határozza meg az elmaradt hasznot, mert nehezebb megállapítani, mint a felmerült kárt, mivel jövőbeli, bizonytalan eseményekről van szó, valószínűsíteni kell, nem bizonyosan megállapítani.
+
+13. A károsultat ért vagyoni hátrányok kiküszöböléséhez szükséges költségek azok a költségek, amelyek a kár elhárításához, csökkentéséhez szükségesek (gyógykezelés, helyreállítás, jogi képviselet), míg a felmerült kár maga a vagyoni veszteség (megsemmisült dolog értéke, elveszett dolog értéke), így a költségek a helyreállítás eszközei, a felmerült kár a veszteség maga.
+
+14. Ahhoz, hogy egy költség indokoltnak minősüljön, objektíve szükségesnek kell lennie a kár elhárításához vagy csökkentéséhez, célszerűnek kell lennie (a társadalmi felfogás szerint ésszerű), és arányosnak kell lennie a kár nagyságával, így három feltételnek együttesen kell teljesülnie.
+
+15. Az objektíve szükséges költség azt jelenti, hogy ténylegesen szükséges volt a kár elhárításához, nélkülözhetetlen, a célszerű költség azt jelenti, hogy a társadalmi felfogás szerint ésszerű volt, nem pazarló, az arányos költség azt jelenti, hogy arányban áll a kár nagyságával, nem túlzottan magas, így mindhárom különböző szempontot vizsgál.
+
+16. Ha a károsult köteles bizonyítani a kár minden elemét és összegét, akkor a bizonyítási teher a károsultat terheli, bizonyítania kell a felmerült kárt, az elmaradt hasznot, az indokolt költségeket, és ha nem bizonyítja, nem állapítható meg a kár, így a károsult érdeke a bizonyítás.
+
+17. A pénzbeli kártérítés a Ptk. 6:527. § (1) bekezdése szerint azt jelenti, hogy a károkozó a kárt pénzben téríti meg, míg a természetbeni kártérítés azt jelenti, hogy a károkozó helyreállítja az eredeti állapotot vagy ugyanolyan dolgot ad, így különbség van a kártérítés formájában.
+
+18. A pénzbeli kártérítés főszabály, mert egyszerű és gyors lebonyolítás, rugalmas (a károsult szabadon dönthet a pénz felhasználásáról), univerzális (minden kár pénzben kifejezhető), objektív (a pénz értékmérője egyértelmű), így praktikus és általánosan alkalmazható.
+
+19. A pénzbeli kártérítés előnyei az egyszerűség, rugalmasság, univerzalitás, objektív értékmérő, gyors lebonyolítás, míg a természetbeni kártérítés előnye a valódi helyreállítás, mert ténylegesen helyreállítja az eredeti állapotot, nem csak pénzt ad, így a természetbeni kártérítés közelebb áll a restitutio in integrum elvéhez, de nehézkesebb.
+
+20. A természetbeni kártérítés akkor alkalmazható, ha a körülmények a kár természetben való megtérítését indokolják, az eredeti állapot helyreállítása lehetséges és célszerű, a károsult ezt elfogadja vagy igényli, és ez megfelelőbb kompenzációt jelent, mint a pénz (például egyedi, pótolhatatlan dolog esetén).
+
+21. A Ptk. 6:527. § (3) bekezdése szerint a bíróság nincs kötve a károsult kérelméhez, hivatalból is elrendelheti a természetbeni kártérítést, ha azt a körülmények indokolják, míg a felek akaratának tiszteletben tartása azt jelenti, hogy nem alkalmazhatja azt a módot, amely ellen valamennyi fél tiltakozik, így a bíróság döntési jogköre széles, de korlátozott.
+
+22. Ha a bíróság nem alkalmazhatja azt a kártérítési módot, amely ellen valamennyi fél tiltakozik, akkor mindkét félnek (károkozónak és károsultnak) tiltakoznia kell, és a bíróság kötve van e tiltakozáshoz, így biztosítva a felek minimális akaratának tiszteletben tartását.
+
+23. A járadék időszakonként (általában havonta) visszatérően, előre fizetendő, meghatározott összegű pénzbeli szolgáltatás, míg a pénzbeli kártérítés (egyszeri összeg) egyetlen alkalommal fizetett összeg, így a járadék folyamatos, a pénzbeli kártérítés egyszeri.
+
+24. A Ptk. 6:527. § (2) bekezdése szerint a járadéknak jövőben rendszeresen felmerülő károkra kell vonatkoznia, időszakonként visszatérően előre fizetendőnek kell lennie, meghatározott összegűnek kell lennie, így három feltételnek együttesen kell teljesülnie.
+
+25. A jövedelempótló járadék a Ptk. 6:528. § szerint munkaképesség-csökkenés miatti jövedelemkiesés esetén alkalmazandó, a károsult munkaképessége csökkent, míg a tartást pótló járadék a Ptk. 6:529. § szerint a károkozás folytán meghalt személy tartására jogosult részére jár, a meghalt személy tartási kötelezettségét pótolja.
+
+26. A Ptk. 6:528. § (2) bekezdése szerint két tényező: a munkaképesség-csökkenés mértéke (orvosi-szakértői úton megállapított) és a bekövetkezett jövedelemkiesés mértéke (tényleges jövedelem-különbség), így mindkettő együttes figyelembevétele szükséges, egyik sem elegendő önmagában.
+
+27. A teljes munkaképtelenség esetében a teljes jövedelem-kiesés térül meg, a károsult egyáltalán nem képes dolgozni, míg a részleges munkaképtelenség esetében a jövedelem-csökkenés térül meg, a károsult csökkent kapacitással dolgozik, így különbség van a járadék mértékében.
+
+28. Ha a tartást pótló járadék jár akkor is, ha a meghalt személy ténylegesen nem nyújtott tartást, akkor a Ptk. 6:529. § (2) bekezdése szerint védi a tartásra jogosultakat, mert a meghalt személy tartási kötelezettségének megszegésével nem nyújtotta ténylegesen a tartást, de a károkozó mégis köteles fizetni.
+
+29. Ha a járadék meghatározásánál figyelembe vett körülmények lényegesen megváltoznak (például a károsult jövedelme javul, a károkozó tehetőssége romlik), akkor a Ptk. 6:530. § szerint módosítható vagy megszüntethető, míg változatlan körülmények között a járadék változatlan marad.
+
+30. A Ptk. 6:530. § szerinti clausula rebus sic stantibus elve azt jelenti, hogy ha a körülmények lényegesen megváltoznak, a szerződés vagy a kötelezettség módosítható, mert a megváltozott körülmények miatt a változatlan fenntartás méltánytalan lenne, így biztosítva a rugalmasságot és az igazságosságot.
+
+31. A kármegelőzési kötelezettség a kár bekövetkeztét akadályozza meg (óvintézkedések, figyelmeztetés), a kárelhárítási kötelezettség a már kezdődő, de még be nem következett kárt hárítja el (tűz oltása, szivárgás elzárása), a kárenyhítési kötelezettség a már bekövetkezett kár további növekedését akadályozza meg (orvoshoz fordulás, gyors értékesítés).
+
+32. Ha a károsult felróhatóan megsérti a kárenyhítési kötelezettségét, akkor a Ptk. 6:525. § (1) bekezdése szerint az e kötelezettségek felróható megszegése miatt keletkezett kárt a károkozó nem köteles megtéríteni, a károsult maga viseli azt a kárt, amely a kötelezettség megszegéséből ered.
+
+33. A károsult passzív magatartása azt jelenti, hogy nem tesz semmit, "ül a kárán", várja a kár növekedését, míg az aktív, kárcsökkentő magatartás azt jelenti, hogy a károsult aktívan közreműködik a kár megelőzésében, elhárításában, csökkentésében, és a kárenyhítési kötelezettség az aktív magatartást írja elő.
+
+34. Ha az e kötelezettségek felróható megszegése miatt keletkezett kárt a károkozó nem köteles megtéríteni, akkor a károsult maga viseli azt a kárt, amely a kárenyhítési kötelezettség megszegéséből ered, így ösztönözve a károsultat az aktív közreműködésre, megakadályozva a spekulációt.
+
+35. A felróhatóság aránya azt jelenti, hogy a felek magatartásának felróhatósága milyen arányban járult hozzá a kárhoz (például 70%-30%), a közrehatás aránya azt jelenti, hogy a kauzális hozzájárulás milyen arányú volt, az egyenlő arány azt jelenti, hogy 50%-50%-ban osztják meg, ha sem felróhatóság, sem közrehatás nem állapítható meg.
+
+36. A Ptk. 6:525. § (2) bekezdése hierarchikus sorrendet követ: először a felróhatóság arányában osztják meg, ha ez nem állapítható meg, a közrehatás arányában, ha ez sem, egyenlő arányban, így biztosítva a legpontosabb és legi­gazságosabb megosztást.
+
+37. A felróhatóság arányában való megosztás azt jelenti, hogy a felek magatartásának felróhatósága alapján osztják meg (szubjektív elem), míg a közrehatás arányában való megosztás azt jelenti, hogy a kauzális hozzájárulás alapján osztják meg (objektív elem), így a felróhatóság szubjektív, a közrehatás objektív.
+
+38. Ha sem a felróhatóság, sem a közrehatás aránya nem állapítható meg, akkor a Ptk. 6:525. § (2) bekezdése szerint a kárt a károkozó és a károsult között egyenlő arányban, 50%-50%-ban kell megosztani, így biztosítva az igazságos megosztást még akkor is, ha pontos arány nem állapítható meg.
+
+39. A compensatio lucri cum damno elve azt jelenti, hogy a haszon és kár egymással való beszámítása, a károkozásból származó vagyoni előnyöket le kell vonni a kártérítésből, míg a káronszerzés tilalma azt jelenti, hogy a károsult nem gazdagodhat a károkozás révén, így ugyanazt a célt szolgálják.
+
+40. Ha a károkozásból származó vagyoni előnyöket el kell számolni, akkor a Ptk. 6:522. § (3) bekezdése szerint a kártérítést csökkenteni kell a károsultnak a károkozásból származó vagyoni előnyével, így megakadályozva a káronszerzést, biztosítva, hogy a károsult ne gazdagodjon.
+
+41. A biztosítási összeg (balesetbiztosítás, vagyonbiztosítás), segély, támogatás (karitatív szervezettől, állami segély), alapítványi támogatás mind károkozásból származó vagyoni előnyök lehetnek, de különböznek a forrásukban (biztosító, jótékonysági szervezet, állam, alapítvány), így különböző jellegűek, de mindegyik vagyoni előny, amely elszámolható.
+
+42. Ahhoz, hogy a bíróság ne számolja el a vagyoni előnyt, a Ptk. 6:522. § (3) bekezdése szerint az eset körülményeire tekintettel nem indokoltnak kell lennie, például ha a károsult ellenszolgáltatást nyújtott (biztosítási díjat fizetett), más jogcímen jár (rokoni támogatás), vagy az elszámolás méltánytalan lenne.
+
+43. A méltányossági mérséklés a Ptk. 6:522. § (4) bekezdése szerint lehetővé teszi a bíróság számára, hogy kivételes esetekben a kártérítést mérsékelje a teljes kárnál alacsonyabb összegre, míg a teljes kártérítés elve azt írja elő, hogy a teljes kárt kell megtéríteni, így a méltányossági mérséklés kivétel.
+
+44. Ahhoz, hogy a bíróság méltányosságból mérsékelje a kártérítést, különös méltánylást érdemlő körülményeknek kell fennállniuk, és a bíróságnak mérlegelnie kell az eset összes körülményét (károkozó és károsult vagyoni és szociális helyzete, felróhatóság mértéke, kár nagysága), így kivételes, nem rutinszerű.
+
+45. A különös méltánylást érdemlő körülmények kivételes, rendkívüli körülmények (súlyos szociális helyzet, rendkívül enyhe felróhatóság, a teljes kártérítés súlyosan méltánytalan lenne), míg a szokásos körülmények általános, normális körülmények, ahol a teljes kártérítés elve alkalmazandó, így a méltányossági mérséklés csak kivételes esetekben.
+
+46. Ha a kár mértéke nem állapítható meg, akkor a Ptk. 6:531. § szerint általános kártérítésnek van helye, a bíróság becslés útján olyan összeget állapít meg, amely a károsult kárának kiegyenlítésére alkalmas, így biztosítva a kártérítést akkor is, ha pontos mérték nem állapítható meg.
+
+47. Az általános kártérítés (becslés) esetében a Ptk. 6:531. § szerint a kár ténye kétségtelen, de pontos mértékét nem lehet megállapítani, a bíróság becslés útján állapítja meg, míg a pontos kár megállapítása esetében a kár mértéke pontosan bizonyított, így különbség van a bizonyítás mértékében.
+
+48. Ha az inflációs kockázat főszabály szerint a károkozót terheli, akkor a Ptk. 6:534. § (1) bekezdése szerint a bíróság az ítélethozatal időpontjában fennállt értékviszonyok szerint határozhatja meg a kárt, így a károsult megkapja a vásárlóértéket, nem veszít az infláció miatt.
+
+49. A károkozáskori értékviszonyok azt jelentik, hogy a kár mértékét a károkozás időpontjában fennálló árak szerint határozzák meg, míg az ítélethozatalkori értékviszonyok azt jelentik, hogy az ítélet időpontjában fennálló árak szerint, és ha infláció van, ez különbséget jelent, a károsult vásárlóértéket kap.
+
+50. A kártérítés szabályai biztosítják a károsult teljes vagyoni kompenzációját a Ptk. 6:522. § teljes kártérítés elvével, az előreláthatósággal, az értékviszonyok változásának károkozóra terhelésével, és ösztönzik a károsultat aktív, kárcsökkentő magatartásra a Ptk. 6:525. § kárenyhítési kötelezettségével, kármegosztással károsulti közrehatás esetén, így együtt alkotva egy kiegyensúlyozott rendszert, amely egyszerre szolgálja az igazságosságot, a jogbiztonságot és a gazdasági racionalitást.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

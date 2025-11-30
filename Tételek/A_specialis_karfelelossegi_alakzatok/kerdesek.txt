@@ -1,0 +1,119 @@
+1. Mi a különbség a speciális felelősségi alakzatok és az általános deliktuális felelősség között a felelősség alapja és kimentés szempontjából?
+
+2. Milyen jogi következménye van annak, hogy a speciális felelősségi alakzatok szigorúbb helytállási kötelezettséget írnak elő?
+
+3. Mi a különbség a szubjektív felelősség és az objektív felelősség között a kimentés lehetősége szempontjából?
+
+4. Milyen három jellemzője van a speciális felelősségi alakzatoknak (szigorúbb felelősség, objektív elemek, fokozott védelem)?
+
+5. Mi a különbség a fokozott kockázat és a szokásos kockázat között a speciális felelősségi alakzatok szabályozásának célja szempontjából?
+
+6. Milyen jogi alapja van annak, hogy a speciális felelősségi alakzatok prevenciós funkciót töltenek be?
+
+7. Mi a különbség a veszélyes üzem és más tevékenységek között abban, hogy miként kapcsolódnak a felelősséghez?
+
+8. Milyen jogi következménye van annak, hogy a Ptk. 6:535. § (1) bekezdése szerint aki fokozott veszéllyel járó tevékenységet folytat, köteles az ebből eredő kárt megtéríteni?
+
+9. Mi a különbség a veszélyes üzem rendellenes működése és a szokásos működés között?
+
+10. Milyen példákat sorolhatunk fel veszélyes üzemre, és mi a közös jellemzőjük?
+
+11. Mi a különbség az általános deliktuális felelősség kimentési klauzulája és a veszélyes üzemi felelősség kimentési klauzulája között?
+
+12. Milyen két feltételnek kell megfelelnie az elháríthatatlan oknak a Ptk. 6:535. § szerint?
+
+13. Mi a különbség az elháríthatatlan ok és a rendellenesség között a veszélyes üzemi felelősség szempontjából?
+
+14. Milyen jogi következménye van annak, ha a kár a veszélyes üzem rendellenességéből ered?
+
+15. Mi a különbség a környezetveszélyeztetés és más veszélyes tevékenységek között a Ptk. 6:535. § (2) bekezdése alapján?
+
+16. Milyen jogi védelmet biztosít a Ptk. 6:535. § (3) bekezdése azzal, hogy a felelősség kizárása vagy korlátozása semmis?
+
+17. Mi a különbség a személyi sérülés vagy halál esetén és a dologban okozott kár esetén a felelősség kizárásának lehetősége szempontjából?
+
+18. Milyen jogi alapja van annak, hogy az üzembentartó az, akinek érdekében a veszélyes üzem működik?
+
+19. Mi a különbség a tulajdonos, az üzemeltető és az üzembentartó között a veszélyes üzemi felelősség szempontjából?
+
+20. Milyen jogi következménye van a Ptk. 6:537. § szerint annak, ha a károsult is közrehatott a kárban?
+
+21. Mi a különbség az általános kármegosztási szabályok és a veszélyes üzemi felelősség kármegosztási szabályai között?
+
+22. Milyen hierarchikus szabályokat alkalmaz a Ptk. 6:539. § a veszélyes üzemek találkozásakor?
+
+23. Mi a különbség a felróhatóság arányában való megosztás és a rendellenesség alapján való felelősség között a veszélyes üzemek találkozásakor?
+
+24. Milyen jogi következménye van annak, ha egyik veszélyes üzemnél sem állapítható meg rendellenesség?
+
+25. Mi a különbség a munkáltató felelőssége az alkalmazottért és az általános deliktuális felelősség között?
+
+26. Milyen feltételeknek kell megfelelnie ahhoz, hogy a Ptk. 6:540. § szerinti munkáltatói felelősség fennálljon?
+
+27. Mi a különbség a munkáltató objektív felelőssége és a megbízó kimentkezési lehetősége között?
+
+28. Milyen jogi következménye van annak, ha az alkalmazott szándékosan okozta a kárt?
+
+29. Mi a különbség az egyetemleges felelősség és a kizárólagos felelősség között a szándékos károkozás esetén?
+
+30. Milyen jogi alapja van a jogi személy felelősségének a tagja károkozásáért?
+
+31. Mi a különbség a megbízó felelőssége a megbízottért és a munkáltató felelőssége az alkalmazottért között?
+
+32. Milyen három culpa formát tartalmaz a Ptk. 6:542. § szerinti kimentési klauzula?
+
+33. Mi a különbség a culpa in eligendo, a culpa in instruendo és a culpa in vigilando között?
+
+34. Milyen jogi következménye van annak, hogy a megbízási viszony lazább, mint a munkaviszony?
+
+35. Mi a különbség a segédfelelősség és más felelősségi formák között a Ptk. 6:543. § alapján?
+
+36. Milyen jogi védelmet biztosít a tényleges károkozó megnevezésének lehetősége?
+
+37. Mi a különbség a vétőképtelen személy és a cselekvőképtelen személy között a kárfelelősség szempontjából?
+
+38. Milyen jogi alapja van annak, hogy a Ptk. 6:544. § szerint a vétőképtelen helyett a gondozó felel?
+
+39. Mi a különbség a gondozó nevelési és felügyeleti kötelezettsége között?
+
+40. Milyen jogi következménye van annak, ha a gondozó bizonyítja, hogy a nevelés és felügyelet ellátásával kapcsolatban felróhatóság nem terheli?
+
+41. Mi a különbség az állattartó felelőssége és a veszélyes állat tartójának felelőssége között?
+
+42. Milyen jogi alapja van az állattartó szigorított felelősségének a Ptk. 6:562. § szerint?
+
+43. Mi a különbség a vadászható állat által okozott kár és más állatok által okozott kár között a felelősség alanya szempontjából?
+
+44. Milyen jogi következménye van annak, hogy az épület tulajdonosa felel az épület hiányosságai révén okozott kárért?
+
+45. Mi a különbség az épület egyes részeinek lehullása és az épület hiányosságai révén okozott kár között?
+
+46. Milyen fordított bizonyítási terhet tartalmaz a Ptk. 6:560. § az épületkárok esetében?
+
+47. Mi a különbség a tárgyak kidobásával okozott kár és az épület lehullásával okozott kár között?
+
+48. Milyen jogi alapja van a termékfelelősségnek mint objektív felelősségi formának?
+
+49. Mi a különbség a személyi sérülés vagy halál és a dologban okozott kár között a termékkár fogalmában?
+
+50. Hogyan alkotják a speciális felelősségi alakzatok egy differenciált, a különböző élethelyzetek kockázati szintjéhez igazodó felelősségi rendszert, és milyen preventív funkciót töltenek be?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

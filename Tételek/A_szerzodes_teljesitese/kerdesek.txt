@@ -1,0 +1,119 @@
+1. Mi a különbség a szerződés teljesítése és a szerződés megkötése között a szerződéses jogviszony életciklusában?
+
+2. Milyen két elemet tartalmaz a szerződés teljesítésének fogalma (szerződésszerű teljesítés, jogosult érdekének megfelelő teljesítés)?
+
+3. Mi a különbség a diszpozitivitás elve és a kógens szabályok között a teljesítés körülményeinek meghatározásában?
+
+4. Milyen jogi következménye van annak, hogy a teljesítés körülményeit elsősorban a felek megállapodása határozza meg?
+
+5. Mi a különbség a Ptk. elsődleges és másodlagos szerepe között a teljesítés szabályozásában?
+
+6. Milyen három területen van jelentősége a teljesítés helyének (hol kell teljesíteni, hol merül fel költség, melyik bíróság illetékes)?
+
+7. Mi a különbség a Ptk. 6:37. § szerinti főszabály és a kivételek között a teljesítés helye tekintetében?
+
+8. Milyen jogi alapja van annak, hogy a teljesítés helye főszabály szerint a kötelezett helye?
+
+9. Mi a különbség a "hozó" tartozás és a "vivő" tartozás között?
+
+10. Milyen logikai alapja van annak, hogy a pénztartozás "vivő" tartozás, míg más tartozás "hozó" tartozás?
+
+11. Mi a különbség a telephelyek közötti választás és az egyetlen telephely között a Ptk. 6:37. § (2) bekezdése alapján?
+
+12. Milyen jogi következménye van annak, ha a teljesítési hely megváltozik a Ptk. 6:37. § (3) bekezdése szerint?
+
+13. Mi a különbség a többletköltség viselése általános szabálynál és pénztartozásnál a teljesítési hely változása esetén?
+
+14. Milyen jogi alapja van a Ptk. 6:44. § szerinti pénztartozás teljesítési helyének különös szabályának?
+
+15. Mi a különbség a készpénzfizetés és az átutalás között a pénztartozás teljesítési helye szempontjából?
+
+16. Milyen jogi következménye van annak, hogy a pénztartozás teljesítésének helye a jogosult helye vagy bankja?
+
+17. Mi a különbség a határnap és a határidő között a teljesítés ideje meghatározásában?
+
+18. Milyen jogi következménye van annak, hogy határnap esetén a szolgáltatást ezen a napon kell teljesíteni?
+
+19. Mi a különbség a határidő esetén a kötelezett választása és a jogosult választása között?
+
+20. Milyen hierarchikus szabályozást alkalmaz a Ptk. 6:35. §, ha a felek nem állapodtak meg a teljesítési időben?
+
+21. Mi a különbség a szolgáltatás rendeltetéséből megállapítható teljesítési idő és az ésszerű idő között?
+
+22. Milyen jogi alapja van annak, hogy pénztartozás esetén a jogosult a teljesítést azonnal követelheti?
+
+23. Mi a különbség az idő előtti teljesítés főszabálya és a pénztartozás különös szabálya között?
+
+24. Milyen feltételeknek kell megfelelnie ahhoz, hogy a jogosult elfogadhassa az idő előtti teljesítést a Ptk. 6:36. § szerint?
+
+25. Mi a különbség a lényeges jogi érdek sérelme és a puszta kényelmetlenség között az idő előtti teljesítés elfogadásánál?
+
+26. Milyen jogi védelmet biztosít a Ptk. 6:43. §, hogy pénznél feltétel nélkül köteles elfogadni az idő előtti teljesítést?
+
+27. Mi a különbség a szolgáltatás minősége és mennyisége között a teljesítés módjának meghatározásában?
+
+28. Milyen jogi következménye van annak, ha a szolgáltatás nem szerződésszerű?
+
+29. Mi a különbség a rendeltetése szerinti használatra alkalmasság és a felek által ismert egyéb célra való megfelelőség között?
+
+30. Milyen jogi alapja van a csomagolási és megjelölési kötelezettségnek?
+
+31. Mi a különbség a tájékoztatási kötelezettség és az okmányok átadása között a teljesítés módjában?
+
+32. Milyen két módon teljesíthető a pénztartozás a Ptk. 6:42. § szerint?
+
+33. Mi a különbség a készpénzfizetés és az átutalás között a pénztartozás teljesítésének módja szempontjából?
+
+34. Milyen jogi következménye van annak, hogy az átutalás esetén a pénztartozás a jóváírásakor válik teljesítetté?
+
+35. Mi a különbség a pénz küldése és a jóváírás között az átutalás teljesítésének időpontja szempontjából?
+
+36. Milyen jogi alapja van a Ptk. 6:45. § szerinti pénznem szabálynak?
+
+37. Mi a különbség a forintban meghatározott tartozás és a külföldi pénznemben meghatározott tartozás között?
+
+38. Milyen jogi következménye van annak, hogy pénztartozás után kamat jár a Ptk. 6:47. § szerint?
+
+39. Mi a különbség a rendes kamat és a késedelmi kamat között?
+
+40. Milyen jogi alapja van annak, hogy a késedelmi kamat akkor is jár, ha a kötelezett kimenti késedelmét?
+
+41. Mi a különbség az elszámolás sorrendje (költségek, kamatok, főtartozás) és más sorrend között a Ptk. 6:46. § alapján?
+
+42. Milyen jogi védelmet biztosít az elszámolás sorrendje a jogosult számára?
+
+43. Mi a különbség a teljesítés elismerése és a kötelezvény visszaadása között a Ptk. 6:38. § szerint?
+
+44. Milyen jogi következménye van a látszaton alapuló képviseletnek a teljesítés elismerésénél?
+
+45. Mi a különbség a teljesítési költségek és a használati költségek között?
+
+46. Milyen jogi alapja van annak, hogy a Ptk. 6:39. § szerint a teljesítéssel járó költségek a kötelezettet terhelik?
+
+47. Mi a különbség a felek eltérő megállapodása és a Ptk. diszpozitív szabályai között a költségek viselésében?
+
+48. Milyen jogi következménye van annak, hogy a Ptk. szabályai hézagpótló szerepet töltenek be?
+
+49. Mi a különbség a zökkenőmentes lebonyolítás és a jogviták között a teljesítés szabályozásának célja szempontjából?
+
+50. Hogyan biztosítják a teljesítés helyére, idejére és módjára vonatkozó szabályok együtt a szerződések zökkenőmentes lebonyolítását, a felek jogainak egyértelmű meghatározását és a jogbiztonságot?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

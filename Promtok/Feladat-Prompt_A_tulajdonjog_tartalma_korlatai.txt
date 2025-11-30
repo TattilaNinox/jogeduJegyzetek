@@ -1,0 +1,60 @@
+AI Feladat-Prompt: Témaspecifikus Jogászi Tétel Kidolgozása
+
+1. Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkészülését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat megtalálod a "forrasok" mappában Feltétlen használd fel őket nagyon fontos!!!! ? hogy idézd meg pontosan szorul szóra azokat a jogszabályokat amelyek a jelen témakörhöz kapcsolódnak, illetve amik alapján ki lett dolgozva a tétel tartalma. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd
+
+2. Feladat Célja:
+A feladatod egy teljeskörű, részletes és jól strukturált tétel kidolgozása a következő témakörben:
+"A tulajdonjog tartalma, korlátai"
+
+A végeredmény egy olyan önálló, koherens dokumentum legyen, amely önmagában is elegendő a téma alapos megértéséhez és egy sikeres vizsgához.
+
+3. Strukturális és Tartalmi Követelmények:
+
+I. Bevezetés: A Tulajdonjog Abszolút Jellege
+- Definiáld a **tulajdonjog** fogalmát a **Ptk. 5:13. §** alapján, mint a tulajdonost megillető teljes és kizárólagos jogi hatalmat a dolgon.
+- Emeld ki a tulajdonjog **abszolút szerkezetét**: a tulajdonossal szemben mindenki más kötelezett a jog sértésétől való tartózkodásra.
+- Tárgyald a tulajdonjog jelentőségét, mint a piacgazdaság alapját képező vagyoni jogot, amelynek védelmét az Alaptörvény is biztosítja.
+
+II. A Tulajdonjog Tartalma: A Tulajdonosi Részjogosítványok
+- Részletezd a tulajdonjog tartalmát alkotó klasszikus "szent hármasságot" (triász):
+    - **1. A birtoklás joga (ius possidendi):** A dolog feletti tényleges hatalom gyakorlásának joga.
+    - **2. A használat és a hasznok szedésének joga (ius utendi et fruendi):**
+        - A dolog állagának sérelme nélküli használata.
+        - A dologból származó "gyümölcsök" (természetes és polgári hasznok) beszedésének joga.
+    - **3. A rendelkezési jog (ius disponendi):** A tulajdonos legteljesebb jogosítványa.
+        - A dolog birtokának, használatának átengedése másnak.
+        - A dolog megterhelése (pl. haszonélvezettel, zálogjoggal).
+        - A tulajdonjog átruházása másra.
+        - A tulajdonjoggal való felhagyás (ingók esetében).
+
+III. A Tulajdonjog Korlátai:
+- Rendszerezd a tulajdonjog korlátait, amelyek megmutatják, hogy a "teljes" jogi hatalom sem korlátlan:
+    - **1. A tulajdonjog általános (belső) korlátai:**
+        - A Ptk. alapelvei, különösen a **joggal való visszaélés tilalma**.
+    - **2. A tulajdonjog külső korlátai:**
+        - **A szomszédjogok (Ptk. 5:25-26. §):** A szomszédos ingatlanok tulajdonosainak egymás közötti viszonyát szabályozó, a szükségtelen zavarás tilalmára épülő normarendszer (pl. áthajló ágak, átszálló gyökerek, zaj- és immisszióvédelem).
+        - **A túlépítés szabályai.**
+        - **A közérdekű használat (Ptk. 5:27. §):** Hatósági határozaton alapuló korlátozás, amelyért a tulajdonost kártalanítás illeti meg (pl. vezetékjog).
+        - **A kisajátítás:** A tulajdonjog végső, közérdekből, törvényben meghatározott esetekben és módon, teljes, azonnali és feltétlen kártalanítás ellenében történő elvonása.
+        - **Elidegenítési és terhelési tilalom:** A rendelkezési jog szerződésen vagy bírósági/hatósági határozaton alapuló korlátozása.
+
+IV. Összegzés:
+- Foglald össze, hogy a tulajdonjog tartalma és korlátai együttesen határozzák meg a tulajdonos jogi mozgásterét.
+- Hangsúlyozd a szabályozás mögött meghúzódó egyensúlyt: az egyéni tulajdonosi szabadság lehető legteljesebb biztosítása, ugyanakkor a mások jogainak és a közösség érdekeinek védelme.
+
+4. Formázási és Stilisztikai Utasítások:
+- Tagolás: Használj egyértelmű címsorokat és alcímeket a fenti struktúra szerint.
+- Kiemelés: A **kulcsfontosságú jogi szakkifejezéseket** (pl. **tulajdonjog triásza**, **szomszédjogok**, **kisajátítás**) és a **jogszabályi hivatkozásokat** emeld ki félkövér formázással.
+- Hivatkozások: Pontosan és következetesen hivatkozz a **Ptk. Ötödik Könyvének releváns szakaszaira**.
+- Nyelvezet: Maradj végig a tudományos, szakmai nyelvezetnél, de törekedj a világos és érthető fogalmazásra.
+
+A végeredmény legyen egy professzionális, informatív és a tanulást hatékonyan támogató dokumentum. A kimenet egy TXT fájl legyen a Tételek mappába
+
+
+
+
+
+
+
+

@@ -1,0 +1,119 @@
+1. A jogi tények azok az életjelenségek (emberi, társadalmi vagy természeti), amelyekhez a jogszabályok joghatásokat fűznek, míg más életjelenségekhez nem fűződnek joghatások, így a jogi tények jogi relevanciával bírnak, a többi nem.
+
+2. Ha a jogi tények a jogviszonyok "mozgatórugói", akkor ezek váltják ki a jogviszonyok változásait (keletkezés, módosulás, megszűnés), nélkülük a jogviszonyok statikusak, változatlanok lennének, így a jogi tények biztosítják a polgári jog dinamikáját.
+
+3. A polgári jog statikus szemlélete a jogviszonyokat állandónak, változatlannak tekintené, míg a dinamikus szemlélet a jogi tények szerepe szerint elismeri, hogy a jogviszonyok változnak, keletkeznek, módosulnak, megszűnnek, így a jogi tények biztosítják a dinamizmust.
+
+4. A jogi tények három fő változást idézhetnek elő: jogviszonyok keletkezését (új jogviszony jön létre), jogviszonyok módosulását (fennálló jogviszony valamely eleme változik), és jogviszonyok megszűnését (fennálló jogviszony lezárul), így teljes körű jogviszony-változást.
+
+5. Az emberi magatartások emberi akaratból, cselekvésből vagy mulasztásból erednek, aktív szerepet játszanak, az emberek tudatosan befolyásolják jogviszonyaikat, míg az emberi magatartástól független körülmények objektív jelenségek, emberi akarattól függetlenül következnek be, passzív jellegűek.
+
+6. Ha az emberi magatartások aktív szerepet játszanak, akkor az emberek tudatosan, akaratlagosan befolyásolják jogviszonyaikat, dönthetnek a jogügyletek megkötéséről, teljesítésről, szerződések módosításáról, így biztosítva a privát autonómiát és az önrendelkezést.
+
+7. A jogos magatartások nem jogellenesek, megfelelnek a jog követelményeinek, védve vannak (jogügyletek, engedélyezett cselekmények), míg a jogellenes magatartások jogsértést jelentenek, hátrányos jogkövetkezményekkel járnak (szerződésszegés, károkozás), szankcionálva vannak.
+
+8. A jogügyletek akaratnyilatkozaton alapuló jellegének jogi alapja az, hogy a joghatás a cselekvő akaratának megfelelően következik be, a jogalany azért teszi a jogügyletet, hogy bizonyos joghatásokat előidézzen, így biztosítva a privát autonómiát és az akarati elvet.
+
+9. A jogügylet akaratnyilatkozaton alapul, joghatás kiváltására irányul, a joghatás az akarat szerint következik be (szerződés, végrendelet, felmondás), míg más jogos magatartások nem akaratnyilatkozaton alapulnak vagy nem joghatás kiváltására irányulnak, de joghatásokat váltanak ki (megbízás nélküli ügyvitel, jogalap nélküli gazdagodás, birtoklás).
+
+10. Az egyoldalú jogügylet csak az egyik fél akaratnyilatkozatával jön létre (végrendelet, felmondás, elállás), a kétoldalú jogügylet (szerződés) két fél egybehangzó akaratnyilatkozatával (adás-vétel, bérlet, megbízás), a többoldalú jogügylet kettőnél több fél akaratnyilatkozatával (társasági szerződés), így különbség van a felek számában és az akaratnyilatkozatok egybehangzásának szükségességében.
+
+11. A szerződés mint kétoldalú jogügylet két fél egybehangzó akaratnyilatkozatával jön létre, mindkét fél akarata szükséges, kölcsönös megállapodás, míg az egyoldalú jogügylet csak az egyik fél akaratnyilatkozatával, nincs szükség másik fél egyetértésére, így különbség van a konszenzus szükségességében.
+
+12. Ha a szerződés a legfontosabb jogügylet-típus, akkor a legtöbb polgári jogi jogviszony szerződésen alapul, a gazdasági élet alapja, a polgári jog kötelmi jogi része (Ptk. 6. Könyv) részletesen szabályozza, központi szerepet tölt be a jogviszonyok keletkeztetésében.
+
+13. Az ajánlat egyoldalú, címzett jognyilatkozat, amely szerződéskötésre irányul, tartalmazza a szerződés lényeges elemeit, ajánlati kötöttséget eredményez, míg az elfogadás az ajánlat címzettjének válasza, amely az ajánlattal egybehangzik, és a szerződés létrejöttét eredményezi, így az ajánlat kezdeményezés, az elfogadás hozzájárulás.
+
+14. A szerződés joghatásai: a felek között szerződéses jogviszony keletkezik, kötelmi jogviszony, a feleket jogok illetik meg (követelhetik a teljesítést, kártérítést) és kötelezettségek terhelik (teljesítési kötelezettség, együttműködési kötelezettség), így kölcsönös jogok és kötelezettségek keletkeznek.
+
+15. Az adás-vételi szerződés esetében az eladó átruházza a tulajdonjogot, a vevő fizeti a vételárat, tulajdonjog-átruházás, a bérleti szerződés esetében a bérbeadó használatra átengedi a dolgot, a bérlő fizeti a bérleti díjat, használat átengedése, a megbízási szerződés esetében a megbízott elvégez egy feladatot, a megbízó megfizeti a díjat, feladat elvégzése, így különbség van a szerződés tárgyában és tartalmában.
+
+16. Annak, hogy bizonyos jogos magatartások nem minősülnek jogügyletnek, de joghatásokat váltanak ki, az az alapja, hogy nem akaratnyilatkozaton alapulnak vagy nem joghatás kiváltására irányulnak, hanem tényleges cselekvések vagy állapotok, de a jog mégis jogkövetkezményeket fűz hozzájuk a méltányosság, jogbiztonság, közérdek miatt.
+
+17. A megbízás nélküli ügyvitel esetében nincs megbízási szerződés, valaki önként, megbízás nélkül vállalja más ügyét, nem szerződés, tényleges magatartás, míg a megbízási szerződés esetében megbízási szerződés van, a megbízott szerződés alapján jár el, szerződéses jogviszony, így különbség van a jogcímben, az egyik szerződésen kívüli, a másik szerződéses.
+
+18. A jogalap nélküli gazdagodás esetében aki más rovására jogalap nélkül gazdagodik, köteles a gazdagodást kiadni, visszaszolgáltatási kötelezettség keletkezik, a gazdagodót terheli, a károsult követelheti, így vagyoni egyensúly helyreáll.
+
+19. A birtoklás tényleges hatalomgyakorlás a dolog felett, tényállás, nem jog, a birtokos fizikailag uralma alatt tartja a dolgot, míg a tulajdonjog jogi hatalom, alanyi jog, a tulajdonos jogilag rendelkezik a dologgal, így a birtoklás tény, a tulajdonjog jog.
+
+20. A birtoklás eredményez birtokvédelmet (a birtokos védve van a jogellenes birtokháborítással szemben, Ptk. 5:5-5:9. §), elbirtoklás lehetőségét (hosszú ideig tartó birtoklás tulajdonszerzést eredményezhet, Ptk. 5:44. §), és kárveszély átszállását (bizonyos esetekben), így több joghatást is.
+
+21. A szerződésszegés a szerződéses kötelezettség megsértése, a felek között szerződéses jogviszony van, a kötelezett nem teljesít vagy nem szerződésszerűen teljesít, míg a szerződésen kívüli károkozás esetében nincs szerződéses jogviszony a felek között, jogellenesen kárt okoz, így különbség van a jogviszony jellegében, az egyik szerződéses, a másik szerződésen kívüli.
+
+22. A szerződésszegés joghatásai a Ptk. alapján: kártérítési kötelezettség (Ptk. 6:142. §), a szerződésszegő köteles megtéríteni a kárt; kellékszavatossági jogok (Ptk. 6:159-6:171. §), kijavítás, kicserélés, árleszállítás, elállás; elállás, felmondás (Ptk. 6:140. §), súlyos szerződésszegés esetén; teljesítés követelése (Ptk. 6:138. §), továbbra is követelhető, így többféle jogkövetkezmény, védve a jogosultat.
+
+23. A nem teljesítés azt jelenti, hogy a kötelezett egyáltalán nem teljesít, nem adja át a dolgot, nem fizeti a pénzt, teljes elmaradás, míg a nem szerződésszerű teljesítés azt jelenti, hogy teljesít ugyan, de hibásan, nem a szerződésnek megfelelően, hibás teljesítés, így különbség van a teljesítés mértékében, az egyik teljes elmaradás, a másik hibás teljesítés.
+
+24. A Ptk. 6:519. § szerinti deliktuális felelősségi klauzula jogi alapja az általános károkozási tilalom, hogy mindenki köteles úgy viselkedni, hogy másnak ne okozzon kárt, és ha mégis kárt okoz jogellenesen, köteles megtéríteni, így a jogellenesség és a kártérítési kötelezettség kapcsolata.
+
+25. A jogellenesség objektív jellege azt jelenti, hogy a magatartás ellentétes a jogi normákkal, függetlenül a cselekvő szándékától vagy tudatától, objektív értékelés, míg a felróhatóság szubjektív jellege azt jelenti, hogy a cselekvő mennyiben hibáztatható, szándékosan vagy gondatlanul járt el, szubjektív értékelés, így az objektív a magatartást, a szubjektív a cselekvőt értékeli.
+
+26. A Ptk. 6:520. § négy jogellenességet kizáró okot tartalmaz: a károsult beleegyezése, hogy a károsult hozzájárult; a jogos védelem, jogtalan támadás elhárítása; a szükséghelyzet, veszély elhárítása; és a jogszabály által megengedett magatartás, törvény engedi, így négy különböző ok, különböző jellegűek.
+
+27. A károsult beleegyezése esetében a károsult hozzájárult a károkozáshoz, önkéntes, saját döntés, míg a jogos védelem esetében jogtalan támadás elhárítása érdekében okoz kárt a támadónak, kényszer, védekezés, így a beleegyezés önkéntes, a jogos védelem kényszerű.
+
+28. Ha az események emberi akarattól függetlenül következnek be, akkor objektív jelenségek, az embereknek nincs vagy csak korlátozott befolyásuk rájuk, nem tudják megakadályozni vagy előidézni, így vis maior jellegűek, mentesíthetnek a felelősség alól (lehetetlenülés).
+
+29. A természeti események (vis maior) objektív, elháríthatatlan természeti jelenségek (árvíz, tűzvész, földrengés, jégeső, villámcsapás), emberi akarattól függetlenül következnek be, míg az emberi magatartások emberi akaratból, cselekvésből vagy mulasztásból erednek, így különbség van a forrásban és a befolyásolhatóságban.
+
+30. A természeti események joghatásai a kötelezettségekre: megszüntetheti a kötelezettséget (vis maior, lehetetlenülés, a kötelezett nem felel, ha teljesítése elháríthatatlan külső ok miatt lehetetlenné vált), tulajdonváltozást eredményezhet (ha a dolog megsemmisül, a tulajdonjog megszűnik), biztosítási eseménynek minősülhet (a biztosító köteles fizetni), így többféle joghatás.
+
+31. A születés a Ptk. 2:2. § szerint jogviszony-keletkeztető, a jogképesség kezdete, új jogalany jön létre, míg a halál a Ptk. 2:4. § szerint jogviszony-megszüntető (a jogképesség megszűnik) és egyúttal jogviszony-keletkeztető is (a Ptk. 7:1. § szerint az öröklési jogviszony megnyílik), így kettős hatású.
+
+32. Az idő múlásának jogi jelentősége a polgári jogban rendkívül nagy, mert jogvesztő határidők (alanyi jog megszűnése), elévülés (igény bírósági kikényszeríthetőségének megszűnése), elbirtoklás (eredeti tulajdonszerzés), határidők (teljesítési, felmondási), és más joghatások kapcsolódnak hozzá, így az idő passzív, de jelentős jogi tény.
+
+33. A jogvesztő határidő elmulasztása az alanyi jog megszűnését eredményezi, a jog véglegesen elvész, nem érvényesíthető többé, míg az elévülés csak a bírósági kikényszeríthetőség megszűnését jelenti, az alanyi jog fennmarad, csak bírói úton nem érvényesíthető, így a jogvesztő határidő végleges, az elévülés nem.
+
+34. Ha a jogvesztő határidő elmulasztása jogvesztéssel jár, akkor az alanyi jog véglegesen megszűnik, nem hosszabbítható meg, nem szakítható meg, nem újítható fel, a jog elvész, így végleges, visszafordíthatatlan jogvesztés.
+
+35. Az elévülés hatása az, hogy az elévült követelés bírói úton nem érvényesíthető, a bíróság nem ítélheti meg, a kötelezett hivatkozhat az elévülésre kifogásként, de az alanyi jog nem szűnik meg, formálisan fennmarad, a kötelezett önként teljesíthet, míg az alanyi jog megszűnése azt jelenti, hogy a jog teljesen megszűnik, így az elévülés csak az érvényesíthetőséget korlátozza, nem szünteti meg a jogot.
+
+36. Az elévülés hatásai a követelés érvényesíthetőségére: az elévült követelés bírói úton nem érvényesíthető, a bíróság nem ítélheti meg a követelést, a kötelezett hivatkozhat az elévülésre kifogásként (igényszüntető kifogás), de a kötelezett önként teljesíthet, a teljesítés nem követelhető vissza (naturális obligáció), így korlátozott érvényesíthetőség.
+
+37. Az elévülés megszakadása azt jelenti, hogy az addig eltelt idő nem számít, az elévülés újból kezdődik (például követelés bírósági érvényesítése, tartozás elismerése), míg az elévülés nyugvása azt jelenti, hogy az akadály (például vis maior) alatt az idő nem telik, az akadály megszűnése után folytatódik, az akadály előtti idő hozzászámít, így a megszakadás nullázza, a nyugvás megállítja az időt.
+
+38. Az elbirtoklás mint eredeti tulajdonszerzési mód jogi alapja az, hogy a hosszú időn át tartó, zavartalan birtoklás alapján a birtokos tulajdonossá válik, még ha korábban nem volt tulajdonos, így az idő múlása és a birtoklás együttesen tulajdonjogot keletkeztet, védve a jogbiztonságot és a gazdasági racionalitást.
+
+39. Az elbirtoklás feltételei ingatlanoknál: jóhiszemű, jogcímes, zavartalan birtoklás, tizenöt éves időtartam (Ptk. 5:44. §), míg ingó dolgoknál: tíz éves időtartam, így különbség van az időtartamban, az ingatlanok nagyobb értékűek, hosszabb idő szükséges.
+
+40. Az elbirtoklás joghatása, hogy a birtokos tulajdonossá válik, az elbirtoklással szerzett tulajdonjog eredeti jogszerzés, nem a korábbi tulajdonostól származik, hanem új tulajdonjog keletkezik, megszakad a tulajdonjogok láncolata, így tehermentes tulajdonszerzés is lehetséges.
+
+41. A konstitutív hatályú állami aktusok maguk hozzák létre, módosítják vagy szüntetik meg a jogviszonyt, nélkülük a joghatás nem következne be (házasság felbontása, gondnokság alá helyezés, kisajátítás), míg a deklaratív hatályú aktusok meglévő jogi helyzetet állapítanak meg vagy tanúsítanak, nem hozzák létre (tulajdonjog megállapítása, születés anyakönyvezése), így különbség van a létrehozó és tanúsító jellegben.
+
+42. Ha egy bírósági ítélet konstitutív hatályú, akkor az ítélet maga hozza létre, módosítja vagy szünteti meg a jogviszonyt, nélküle a joghatás nem következne be, az ítélet elengedhetetlen a joghatáshoz (példá ul a Ptk. 4:20. § (1) b) pontja szerint a házasság bírósági felbontással szűnik meg), így az ítélet létrehozó, nem csak megállapító.
+
+43. A házasság felbontása a Ptk. 4:20. § szerint konstitutív hatályú, a bírósági ítélet szünteti meg a házasságot, nélküle nem szűnik meg, míg a tulajdonjog megállapítása deklaratív hatályú, a bíróság megállapítja, hogy valaki tulajdonos, de nem teszi tulajdonossá, csak megállapítja, így különbség van a létrehozó és megállapító jellegben.
+
+44. Az ingatlan-nyilvántartási bejegyzés szerepe a Ptk. 5:38. § (2) bekezdése szerint az, hogy az ingatlan tulajdonjogának átruházásához a tulajdonjog átruházásának az ingatlan-nyilvántartásba való bejegyzése szükséges, konstitutív hatályú, a tulajdonjog a bejegyzéssel száll át, nélküle nem, így elengedhetetlen a tulajdonszerzéshez.
+
+45. A jogviszony-keletkeztető tények új jogviszonyt hoznak létre, előtte nem létezett (szerződéskötés, öröklés), a jogviszony-módosító tények a fennálló jogviszony valamely elemét változtatják, de fennmarad (szerződésmódosítás, engedményezés), a jogviszony-megszüntető tények a fennálló jogviszonyt lezárják, megszűnik (szerződés teljesítése, felmondás), így különbség van a joghatás jellegében.
+
+46. Az eredeti és származékos jogszerzés megkülönböztetésének jogi alapja az, hogy meghatározza, hogy a jogszerzés más jogától függően vagy függetlenül történik-e, az eredeti jogszerzés esetében új jog keletkezik, a származékos jogszerzés esetében a jogelőd jogai szállnak át, így különbség van a jog eredetében.
+
+47. Az egyetemes (univerzális) jogutódlás esetében a jogutód minden jogot és kötelezettséget megszerez, az egész vagyon átszáll (örökös), míg a különös (szinguláris) jogutódlás esetében csak bizonyos jogokat vagy kötelezettségeket szerez meg, csak egyes jogok szállnak át (adás-vételnél a vevő csak a tulajdonjogot), így különbség van a jogutódlás terjedelmében.
+
+48. A nemo plus iuris elve szerint senki nem ruházhat át több jogot, mint amennyivel maga rendelkezik, a jogutód jogai a jogelőd jogain alapulnak, korlátok, terhek átszállnak, így biztosítva a jogbiztonságot, védve a harmadik személyek jogait, a származékos jogszerzésnél alapvető elv.
+
+49. Az ex nunc hatály azt jelenti, hogy a jogviszony a megszűnés időpontjától szűnik meg, a múltbeli joghatások fennmaradnak (szerződés teljesítése, felmondás), míg az ex tunc hatály azt jelenti, hogy a jogviszony a keletkezés időpontjára visszamenőleg szűnik meg, mintha soha nem jött volna létre, múltbeli joghatások semmisek (érvénytelenség, megtámadás), így különbség van a hatály időbeli kiterjedésében.
+
+50. A jogi tények osztályozásai eredetük szerint (emberi magatartások, emberi magatartástól független körülmények, állami aktusok) meghatározzák a jogi tények forrását, jellegét, joghatásuk szerint (jogviszony-keletkeztető, -módosító, -megszüntető) meghatározzák a jogviszonyokban előidézett változást, így együtt alkotnak egy koherens rendszert, amely lehetővé teszi a jogviszonyok teljes körű elemzését (honnan származik a jogi tény, milyen változást idéz elő), a jogalkalmazást (azonosítani a jogi tényeket, meghatározni a joghatásokat, alkalmazni a jogszabályokat), biztosítva a polgári jog dinamikáját, rugalmasságát, alkalmazkodását a változó viszonyokhoz.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,118 @@
+1. A szerződésszegés azt jelenti, hogy a szerződés kötelezettségének nem megfelelő teljesítése, nem felel meg a szerződésnek, hibás vagy elmaradt, míg a szerződésszerű teljesítés azt jelenti, hogy megfelel a szerződésnek, olyan, amilyet megállapodtak, megfelelő, így a szerződésszegés nem megfelelő, a szerződésszerű megfelelő.
+
+2. A szerződésszegés négy formája: nem teljesít (egyáltalán nem nyújtja a szolgáltatást, elmaradás), nem megfelelően teljesít (hibásan, nem szerződésszerűen, rosszul), nem időben teljesít (késedelem, nem az esedékességkor), nem megfelelő helyen teljesít (nem a teljesítés helyén, máshol), így elmaradás, hibás, késedelmes vagy helytelen teljesítés.
+
+3. A szerződésszegés objektív jellege azt jelenti, hogy a szerződésszegés ténye az, hogy nem felel meg a szerződésnek, objektív kritérium, függetlenül a felróhatóságtól, míg a felróhatóság szubjektív jellege azt jelenti, hogy a kötelezett mennyiben hibáztatható, szándékosan vagy gondatlanul járt el, szubjektív kritérium, így az objektív a tényt, a szubjektív a cselekvőt értékeli.
+
+4. Ha a szerződésszegés ténye felróhatóságtól független, akkor a szerződésszegés megállapítható akkor is, ha a kötelezett nem hibázott, gondosan járt el, de a teljesítés mégis nem felel meg a szerződésnek, így objektív felelősség a szerződésszegés megállapításában, a felróhatóság csak a jogkövetkezményeknél releváns.
+
+5. A felróhatóság szerepe a szerződésszegés megállapításában irreleváns, nem kell vizsgálni, a szerződésszegés objektív, míg a jogkövetkezmények (kártérítés) megállapításában releváns, a Ptk. 6:142. § szerint kimentkezés lehetséges, ha bizonyítja a felróhatóság hiányát, így a megállapításnál objektív, a jogkövetkezményeknél szubjektív.
+
+6. A Ptk. szerződésszegési szabályozása kétszintű: általános szabályok (Ptk. 6:140-6:152. §, minden szerződésszegésre alkalmazandó közös jogkövetkezmények és alapelvek), és nevesített esetek (Ptk. 6:153. §-tól, leggyakrabban előforduló szerződésszegésekre vonatkozó speciális szabályok: késedelem, hibás teljesítés, lehetetlenülés), így általános és különös szint.
+
+7. Az általános szabályok minden szerződésszegésre alkalmazandók, közös jogkövetkezmények, széles körű, általános, míg a nevesített esetek csak meghatározott szerződésszegésekre (késedelem, hibás teljesítés, lehetetlenülés), speciális szabályok, szűk körű, különös, így az általános széles, a nevesített szűk.
+
+8. A kétszintű szabályozás jogi alapja az, hogy egyrészt legyenek általános, minden szerződésszegésre vonatkozó szabályok (alapelvek, közös jogkövetkezmények, univerzális), biztosítva az egységességet, másrészt a tipikus esetek speciális szabályozást kapjanak (részletes, differenciált szabályok a gyakori esetekre), biztosítva a pontosságot, így egyensúly az általános és különös között.
+
+9. A teljesítés követelése (természetes teljesítéshez való jog) azt jelenti, hogy a jogosult követeli, hogy a kötelezett teljesítse a szerződést, azt kapja, amit megállapodtak, nem pénzt, míg a kártérítés azt jelenti, hogy pénzt kap a kárért, nem a szolgáltatást, kompenzáció, így az egyik teljesítés, a másik kompenzáció.
+
+10. A természetes teljesítéshez való jog biztosítja a jogosult számára, hogy azt kapja, amit a szerződésben kikötöttek (a dolgot, a szolgáltatást, amit akart), nem pusztán pénzbeli kompenzációt (nem csak kártérítést), így a szerződés célja megvalósul, a jogosult érdeke érvényesül, elsődleges jog.
+
+11. A visszatartási jog azt jelenti, hogy a jogosult a saját szolgáltatását visszatarthatja a másik fél teljesítéséig, ideiglenes, nem szünteti meg a szerződést, csak felfüggeszti a teljesítést, míg az elállás a szerződést megszünteti visszamenőleg, végleges, így a visszatartási jog ideiglenes, az elállás végleges.
+
+12. A visszatartási jog jogi alapja a szinallagma (kölcsönös szolgáltatások egyensúlya) védelmében az, hogy ha az egyik fél nem teljesít, a másik fél sem köteles teljesíteni, egyensúly fenntartása, ne kerüljön hátrányos helyzetbe azzal, hogy teljesít, miközben a másik nem, így védelem a szinallagma révén.
+
+13. Az elállás a szerződést visszamenőleges hatállyal (ex tunc) szünteti meg, úgy kell tekinteni, mintha a szerződést meg sem kötötték volna, vissza kell téríteni a már teljesített szolgáltatásokat, míg a felmondás a szerződést a jövőre nézve (ex nunc) szünteti meg, a felmondás időpontjától megszűnik, a múltbeli joghatások fennmaradnak, így az elállás visszamenő, a felmondás jövőbeli.
+
+14. Ha az elállás ex tunc hatályú, akkor vissza kell téríteni a már teljesített szolgáltatásokat, eredeti állapot helyreállítása, bonyolultabb, ha a felmondás ex nunc hatályú, akkor a már teljesített szolgáltatások fennmaradnak, nem kell visszatéríteni, egyszerűbb, így különbség van a visszatérítési kötelezettségben.
+
+15. Az érdekmúlás fogalma azt jelenti, hogy a jogosult érdeke megszűnt a szerződés teljesítéséhez, már nincs szüksége rá, nem hasznos számára, míg az érdekmúlás bizonyítása azt jelenti, hogy a jogosultnak bizonyítania kell, hogy valóban megszűnt az érdeke, bizonyítási teher, így az egyik a tény, a másik a bizonyítás.
+
+16. A Ptk. 6:142. § szerinti kimentési klauzula három feltételt tartalmaz kumulatívan: ellenőrzési körén kívül eső (nem tudja befolyásolni), a szerződéskötés időpontjában előre nem látható (nem látta előre, nem kellett előre látnia), és nem volt elvárható az elkerülés vagy elhárítás (nem tudta volna elkerülni vagy elhárítani), így három konjunktív feltétel, mindhárom szükséges.
+
+17. Az ellenőrzési körön kívül eső körülmény olyan, amelyre a kötelezett nem képes hatást gyakorolni, nem az ő cselekvési szférájába tartozik (vis maior, állami intézkedés, harmadik személy cselekménye), külső ok, míg az ellenőrzési körön belüli körülmény az ő cselekvési szférájában van, befolyásolhatja (saját munkaszervezés, eszközök, alkalmazottak), belső ok, így az egyik külső, a másik belső.
+
+18. Az előre nem láthatóság követelményének jogi alapja a kimentésben az, hogy a kötelezett ne feleljen olyan körülményekért, amelyeket nem láthatott előre a szerződéskötéskor, nem számíthatott rájuk, így nem vállalhatta a kockázatot, méltányos, hogy ne feleljen előre nem látható eseményekért.
+
+19. A tényleges előreláthatóság a szerződéses kártérítésnél azt jelenti, hogy a kötelezett ténylegesen előre látta-e vagy kellett volna-e előre látnia a szerződéskötéskor, konkrét kötelezett szempontjából, míg az elvárható előreláthatóság a deliktuális felelősségnél azt jelenti, hogy egy átlagos, ésszerű ember előre látta volna-e, ideáltipikus személy szempontjából, így az egyik konkrét, a másik elvont.
+
+20. Ha mindhárom kimentési feltételnek kumulatívan kell teljesülnie, akkor a Ptk. 6:142. § szerint mind az ellenőrzési körön kívül esés, mind az előre nem láthatóság, mind az elkerülhetetlenség szükséges, ha akár egy hiányzik, nem mentesül, így szigorú, nehéz kimentkezni, védve a jogosultat.
+
+21. A tapadó kár a Ptk. 6:143. § (1) bekezdése szerint a szolgáltatás tárgyában keletkezett kár (hibás dolog javítási költsége, el nem adott dolog értékcsökkenése), közvetlen kár, míg a következménykárok a (2) bekezdés szerint a jogosult vagyonában keletkezett egyéb károk és az elmaradt vagyoni előny, közvetett károk, így az egyik közvetlen, a másik közvetett.
+
+22. Annak, hogy a tapadó kár 100%-ban megtérítendő előreláthatóság nélkül, a Ptk. 6:143. § (1) bekezdése szerint az az alapja, hogy a szolgáltatás tárgyában keletkezett kár közvetlen, szorosan kapcsolódik a szerződéshez, kiszámítható, előrelátható természetéből adódóan, így teljes megtérítés indokolt, védve a jogosultat.
+
+23. A következménykárok korlátozott megtérítése a Ptk. 6:143. § (2) bekezdése szerint azt jelenti, hogy csak olyan mértékben térítendő meg, amilyen mértékben előre látható volt, korlátozott, feltételes, a jogosult bizonyítja, míg a teljes kár megtérítése azt jelenti, hogy minden kár megtérítendő, korlátlan, feltétel nélkül, így az egyik korlátozott, a másik teljes.
+
+24. A szándékos szerződésszegés esetén a Ptk. 6:143. § (3) bekezdése szerint a teljes kár megtérítendő, előreláthatóság nélkül, nincs korlátozás, szigorúbb szankció a szándékos szerződésszegőre, büntető jellegű, így a szándékosság súlyosít, teljes felelősség.
+
+25. A kötelezett késedelme a Ptk. 6:153. § szerint azt jelenti, hogy a kötelezett a szolgáltatását az esedékességkor nem teljesíti, a kötelezett nem teljesít időben, míg a jogosult késedelme (átvételi késedelem) a Ptk. 6:156. § szerint azt jelenti, hogy a jogosult a felajánlott teljesítést nem fogadja el, a jogosult nem veszi át, így az egyik a kötelezett, a másik a jogosult késedelme.
+
+26. Annak, hogy a kötelezett késedelembe esik, ha a szolgáltatást annak esedékességekor nem teljesíti, a Ptk. 6:153. § szerint az az alapja, hogy az esedékesség az az időpont, amikor teljesíteni köteles, ha nem teljesít ekkor, késik, objektív tény, időbeli elmaradás, így a késedelem objektív, az esedékességkor való nem teljesítés.
+
+27. A teljesítés követelése azt jelenti, hogy a jogosult továbbra is követeli a teljesítést, még ha késve is, fenntartja a szerződést, a szerződés fennmarad, míg az elállás azt jelenti, hogy megszünteti a szerződést visszamenőleg, ha az érdeke megszűnt, a szerződés megszűnik, így az egyik fenntartás, a másik megszüntetés.
+
+28. Ahhoz, hogy a jogosult elállhasson késedelem esetén, a Ptk. 6:154. § (1) bekezdése szerint a késedelem következtében a szerződés teljesítéséhez fűződő érdekének megszűnnie kell, érdekmúlás, már nincs szüksége a szolgáltatásra, a késedelem miatt használhatatlanná vált, így feltétel: érdekmúlás.
+
+29. Az érdekmúlás bizonyítása azt jelenti, hogy a jogosultnak bizonyítania kell, hogy valóban megszűnt az érdeke, bizonyítási teher, főszabály, míg az érdekmúlás vélelme a Ptk. 6:154. § (2) bekezdése szerint azt jelenti, hogy bizonyos esetekben (fixügylet, póthatáridő) vélelmezik, nem kell bizonyítani, automatikus, így az egyik bizonyítandó, a másik vélelmezett.
+
+30. A Ptk. 6:154. § (2) bekezdése szerint két eset: ha a szerződést meghatározott teljesítési időben kellett volna teljesíteni, és nem máskor (fixügylet, például esküvői torta az esküvő napjára), vagy ha a jogosult póthatáridőt tűzött, és az eredménytelenül telt el, mindkét esetben vélelmezett az érdekmúlás, nem kell bizonyítani.
+
+31. A fixügylet olyan, amelyet meghatározott időben kellett volna teljesíteni, és nem máskor, az idő lényeges, a késedelem automatikusan érdekmúlást eredményez (esküvői torta, karácsonyi ajándék), míg más szerződések rugalmasabbak, az idő nem olyan lényeges, a késedelem nem feltétlenül érdekmúlás, bizonyítani kell, így a fixügylet szigorú, más szerződések rugalmasak.
+
+32. A póthatáridő intézménye a Ptk. 6:154. § (2) b) pontja szerint biztosítja a jogosult számára, hogy még egy esélyt ad a kötelezettnek a teljesítésre (utolsó lehetőség, megfelelő időt tűz), és ha az eredménytelenül telik el, vélelmezett az érdekmúlás, elállhat, így védelem és méltányosság, utolsó esély, majd automatikus elállási jog.
+
+33. A késedelmi kamat objektív jellege a Ptk. 6:48. § (4) és 6:154. § (3) bekezdései szerint azt jelenti, hogy akkor is jár, ha a kötelezett kimenti késedelmét, nem függ a felróhatóságtól, objektív, míg a kártérítés szubjektív feltételei azt jelentik, hogy csak akkor jár, ha nem tudja kimentkezni, függ a felróhatóságtól, szubjektív, így a késedelmi kamat objektív, a kártérítés szubjektív.
+
+34. Ha a késedelmi kamat akkor is jár, ha a kötelezett kimenti késedelmét, akkor objektív jellegű szankció, nem függ a felróhatóságtól, az időbeli késedelem tényéből fakad, így még vis maior esetén is jár, védve a jogosultat, mindig kap késedelmi kamatot, ha késedelem van.
+
+35. Az átvételi késedelem (jogosult késedelme) a Ptk. 6:156. § szerint azt jelenti, hogy a jogosult a felajánlott teljesítést nem fogadja el, a jogosult mulaszt, míg a kötelezett késedelme a Ptk. 6:153. § szerint azt jelenti, hogy a kötelezett a szolgáltatást az esedékességkor nem teljesíti, a kötelezett mulaszt, így különbség van a mulasztó személyében.
+
+36. Annak, hogy a jogosult késedelme a kötelezett egyidejű késedelmét kizárja, a Ptk. 6:156. § (2) bekezdése szerint az az alapja, hogy ha a jogosult nem fogadja el a teljesítést, a kötelezett nem lehet késedelemben, mert teljesíteni akart, felajánlotta, a jogosult akadályozta meg, így a jogosult késedelme felülírja, kizárja a kötelezett késedelmét.
+
+37. A kárveszély átszállása azt jelenti, hogy ha a dolog elpusztul vagy megrongálódik, az a jogosult kárára van, a jogosult viseli a kárt, nem követelheti a kicserélést, míg a tulajdonjog átszállása azt jelenti, hogy a tulajdon átkerül a jogosultra, a jogosult lesz a tulajdonos, így az egyik kockázat, a másik jog, különböznek.
+
+38. Ha átvételi késedelem esetén az őrzési kötelezettség enyhül, akkor a Ptk. 6:156. § (3) bekezdése szerint a kötelezett csak a megbízás nélküli ügyvitel szabályai szerint őriz, kisebb gondossággal, enyhébb kötelezettség, mint normális esetben, így védelem a kötelezett számára, ne viselje a teljes felelősséget, ha a jogosult nem veszi át.
+
+39. A hibás teljesítés azt jelenti, hogy a kötelezett teljesített, de a szolgáltatás nem felel meg a minőségi követelményeknek, hibás, rossz minőség, míg a nem teljesítés azt jelenti, hogy egyáltalán nem teljesített, elmaradt a szolgáltatás, semmi nem történt, így a hibás teljesít, de rosszul, a nem teljesítés nem teljesít.
+
+40. Ahhoz, hogy hibás teljesítés álljon fenn, a Ptk. 6:157. § (1) bekezdése szerint a szolgáltatásnak a teljesítés időpontjában nem kell megfelelnie a szerződésben vagy jogszabályban megállapított minőségi követelményeknek, hibás, rossz minőség, és a jogosult a hibát nem ismerte vagy nem kellett ismernie a szerződéskötéskor, nem tudott róla, így két feltételnek kell teljesülnie.
+
+41. A volenti non fit iniuria elve (aki beleegyezett, annak nem történik sérelem) azt jelenti, hogy ha a jogosult a hibát ismerte a szerződéskötéskor, nem hivatkozhat rá, elfogadta, míg a hibás teljesítés felelőssége azt jelenti, hogy ha nem ismerte, hivatkozhat, kellékszavatossági jogokat gyakorolhat, így az ismeret kizárja a felelősséget.
+
+42. A Ptk. 6:159. § szerinti kellékszavatossági jogok hierarchikus rendszere: elsődleges jogok (kijavítás vagy kicserélés, jogosult választása szerint), másodlagos jogok (árleszállítás, saját kijavítás, elállás, ha az elsődleges nem érvényesíthető), így két szint, fokozatosan szigorodó jogkövetkezmények.
+
+43. Az elsődleges kellékszavatossági jogok (kijavítás: a hibát kijavítják, megfelelő állapotba hozzák; kicserélés: hibás dolog helyett hibátlan dolgot adnak) a jogosult választása szerint, enyhébb, helyreállító jellegű, a szerződés fennmarad, míg a másodlagos jogok (árleszállítás: vételár csökkentése; elállás: szerződés megszüntetése) csak ha az elsődleges nem érvényesíthető, szigorúbb, megszüntető vagy módosító jellegű, így az elsődleges enyhébb, a másodlagos szigorúbb.
+
+44. Annak, hogy a Ptk. 6:159. § (3) bekezdése szerint jelentéktelen hiba miatt elállásnak nincs helye, az az alapja, hogy csekély, jelentéktelen hiba (apró kozmetikai hiba, amely a használatot nem befolyásolja) nem indokolja a szerződés teljes megszüntetését, aránytalanul súlyos lenne, az elállás túlzott szankció, így védelem a kötelezett számára, arányosság.
+
+45. A lehetetlenülés azt jelenti, hogy a teljesítés objektíve lehetetlen, nem csak a kötelezettnek nehéz, hanem egyáltalán nem teljesíthető (a dolog megsemmisült, jogszabály megtiltja), míg a nehezen teljesíthető szerződés csak nehéz, de lehetséges (drága, bonyolult, de elvégezhető), így a lehetetlen nem teljesíthető, a nehéz teljesíthető.
+
+46. A lehetetlenülés jogkövetkezményei attól függnek, hogy ki felelős: ha a kötelezett felelős, a jogosult kártérítést követelhet és elállhat; ha a jogosult felelős, a kötelezett mentesül és követelheti az ellenszolgáltatást; ha egyik sem, a kötelezettség megszűnik, visszatérítés; ha mindkét fél, kármegosztás, így négy különböző helyzet, különböző jogkövetkezmények.
+
+47. A kötelezett felelőssége esetén a jogosult kártérítést követelhet (a kötelezett téríti meg a kárt) és elállhat (megszünteti a szerződést), a kötelezett szankcionálva van, míg a jogosult felelőssége esetén a kötelezett mentesül (nem kell teljesítenie) és követelheti az ellenszolgáltatást (ha már teljesített, megkapja az ellenértéket), a jogosult szankcionálva van, így különbség van a szankció irányában.
+
+48. A kármegosztásnak, ha mindkét fél felelős a lehetetlenülésért, az az alapja, hogy mindkét fél közrehatott, igazságos, hogy arányosan osszák meg a kárt, a felróhatóság arányában vagy közrehatásuk arányában, a Ptk. 6:525. § (2) bekezdése szerint, így méltányos, arányos megoldás, védve mindkét felet.
+
+49. A vis maior miatti lehetetlenülés olyan, amelyet elháríthatatlan külső ok okozott (természeti katasztrófa, háború, járvány), egyik fél sem felelős, a kötelezettség megszűnik, nincs kártérítés, míg más lehetetlenülési okok valamelyik fél felelősségéből erednek (kötelezett hibája, jogosult hibája), valaki felelős, kártérítés van, így a vis maior felelősség nélküli, más okok felelősséggel.
+
+50. A szerződésszegés fogalma (a szerződés kötelezettségének meg nem felelő teljesítése, objektív jellegű) meghatározza, mi a szerződésszegés, az általános jogkövetkezmények (teljesítés követelése, visszatartási jog, elállás, felmondás, kártérítés) minden szerződésszegésnél alkalmazhatók, széles eszköztár, a nevesített esetek (kötelezett késedelme, jogosult késedelme, hibás teljesítés, lehetetlenülés) speciális szabályokat adnak, differenciált, a kártérítési felelősség szigorú kimentési feltételrendszere (ellenőrzési körön kívül, előre nem látható, elkerülhetetlen) védve a jogosultat, nehéz kimentkezni, így együtt alkotnak egy rugalmas (többféle jogkövetkezmény, választási lehetőség), igazságos (arányos, méltányos megoldások, érdekmúlás, fixügylet, póthatáridő) és gyakorlatias (tipizált esetek, konkrét szabályok, könnyen alkalmazható) rendszert, amely biztosítja a jogosult érdekeit (teljesítés, kártérítés, védelem) és védi a kötelezettet is (kimentés lehetséges, következménykárok korlátozása, arányosság).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

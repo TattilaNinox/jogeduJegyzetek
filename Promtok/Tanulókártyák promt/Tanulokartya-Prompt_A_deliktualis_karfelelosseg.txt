@@ -1,0 +1,84 @@
+Témaspecifikus AI Feladatprompt – Tanulókártya Kérdésbank Generálás: A deliktuális kárfelelősség
+
+Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkészülését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat a "forrasok" mappa teljes tartalmában találod. Emellett a fő forrás a kidolgozott tétel, amelynek elérési útvonalát alább adom meg. Feltétlen használd fel ezeket a forrásokat, és idézd pontosan, szóról szóra azokat a jogszabályokat, amelyek a jelen témakörhöz kapcsolódnak. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd.
+
+Kidolgozott tétel és forrásfájlok:    
+
+forrasok\2013. évi V. törvény a Polgári Törvénykönyvről.txt.txt, forrasok\PJZV_HEJ_MR-kidolgozott tételek.txt,forrasok\VÉKÁS-GÁRDOS_ PTK KOMMENTÁR_2018 január 1-től hatályos.txt
+
+
+Feladat:
+Készíts pontosan [50] darab EGYETEMI SZINTŰ kérdést és választ az alább részletezett tananyagból a tanulási folyamat támogatására.
+
+A Témakör: Az általános deliktuális kárfelelősségi alakzat elemei, a felelősség feltételei
+A kérdések és válaszok alapját a következő strukturális és tartalmi követelmények képezik:
+
+I. Bevezetés: A Szerződésen Kívüli Kárfelelősség Rendszere
+- Definiáld a **szerződésen kívüli (deliktuális) felelősség** fogalmát: olyan kárfelelősségi forma, amely a felek között fennálló szerződéses jogviszonyon kívül, jogellenes károkozásból ered.
+- Hivatkozz a Ptk. általános kártérítési klauzulájára (**Ptk. 6:519. §**): "Aki másnak jogellenesen kárt okoz, köteles azt megtéríteni."
+- Különítsd el a **szerződésszegéssel okozott károkért való felelősségtől**.
+
+II. Az Általános Kárfelelősségi Tényállás Elemei:
+- Részletezd a kárfelelősség megállapításához szükséges négy klasszikus, konjunktív feltételt:
+    - **1. Jogellenes magatartás:**
+        - Tárgyald a Ptk. alapelvét: minden károkozás jogellenes, kivéve, ha a törvény azt megengedi.
+        - Mutasd be a legfontosabb **jogellenességet kizáró okokat**: a károsult beleegyezése, a jogos védelem, a szükséghelyzet, és a jogszabály által megengedett magatartás.
+    - **2. Kár:**
+        - Definiáld a **kár** fogalmát a Ptk. alapján (**Ptk. 6:522. §**): a károsult vagyonában bekövetkezett csökkenés, az elmaradt vagyoni előny, és a károsultat ért vagyoni hátrányok kiküszöböléséhez szükséges költségek.
+    - **3. Okozati összefüggés:**
+        - Tárgyald az okozati láncolat jelentőségét: a kárnak a jogellenes magatartás következményeként kell bekövetkeznie.
+    - **4. Felróhatóság:**
+        - Mutasd be, mint a felelősség szubjektív elemét.
+        - Hangsúlyozd, hogy a Ptk. a **felróhatóságot vélelmezi**. A bizonyítási teher megfordul: a károkozónak kell bizonyítania, hogy nem járt el felróhatóan.
+
+III. A Felelősség Alóli Kimentés (Exculpatio):
+- Részletezd a Ptk. általános kimentési klauzuláját (**Ptk. 6:519. §**): a károkozó mentesül a felelősség alól, ha bizonyítja, hogy magatartása **nem volt felróható**.
+- Magyarázd el a kimentés mércéjét: a károkozónak azt kell bizonyítania, hogy **úgy járt el, ahogy az az adott helyzetben általában elvárható**.
+
+IV. A Kártérítés Módja és Mértéke:
+- Mutasd be a kártérítésre vonatkozó általános szabályokat:
+    - **A teljes kártérítés elve:** A károsultat olyan helyzetbe kell hozni, mintha a kár be sem következett volna.
+    - A kártérítés módjai: elsősorban **pénzben**, de a felek megállapodhatnak természetbeni kártérítésben is.
+    - A **kárenyhítési kötelezettség**: a károsult kötelessége, hogy a kár elhárítása, illetve csökkentése érdekében a tőle elvárható intézkedéseket megtegye.
+
+V. Összegzés:
+- A kérdések fedjék le az általános deliktuális felelősségi tényállás elemeinek logikai kapcsolatát és a bizonyítási teher megoszlását a károsult és a károkozó között.
+- Emeld ki, hogy ez a generálklauzula adja a kártérítési jog alapját, amelyre a speciális felelősségi alakzatok (pl. veszélyes üzemi felelősség) épülnek.
+
+Kérdésekre vonatkozó szabályok:
+- A kérdések legyenek EGYETEMI SZINTŰ, nehéz szintűek – kerüld az egyszerű definíciós jellegű kérdééseket.
+- Minden kérdés legyen egyértelmű, gondolkodtató, a tananyag mélyebb megértését mérje.
+- A kérdések legyenek változatosak: tárjanak fel fogalmakat, ok-okozati összefüggéseket, különbségeket, gyakorlati vonatkozásokat a fenti témakörön belül.
+- A kérdések között ne legyen ismétlés. Tilos a duplikálás a kérdésekben és a válaszokban is!
+
+Válaszokra vonatkozó szabályok:
+- Minden kérdéshez tartozzon egyetlen, egyértelmű válasz.
+- A válasz ne legyen túl hosszú (1–3 mondat).
+- A válasz közvetlenül kapcsolódjon a kérdéshez, ne tartalmazzon felesleges információt.
+
+Kimeneti formátum:
+A kimenet a `Tételek` mappába kerüljön. Ott hozz létre egy mappát a témakör nevével (pl. `A_deliktualis_karfelelosseg`), és a következő három fájlt ebbe az új mappába generáld:
+
+1.  **Kérdések (Előlap)** – csak az [50] kérdés felsorolva. Fájlnév: `kerdesek.txt`
+2.  **Válaszok (Hátlap)** – az [50] kérdéshez tartozó [50] válasz felsorolva, sorrendben megegyezően. Fájlnév: `valaszok.txt`
+3.  **Magyarázatok (Indoklás)** – Minden kártyához legalább 2 mondatos indoklás, magyarázat, ami tartalmazza a vonatkozó jogszabályok szövegét is. Az indoklásnál a számozás kell, de ne legyenek címek, csak a tartalom. Ne szerepeljen benne, hogy pld: Magyarázat:, vagy Indoklás:. Szigorúan TILOS, hogy az indoklás szövege egyezzen akár a kérdéssel, akár a kérdésre adott válasszal! Fájlnév: `magyarazatok.txt`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

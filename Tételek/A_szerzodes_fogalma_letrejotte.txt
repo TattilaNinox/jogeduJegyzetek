@@ -1,0 +1,297 @@
+A SZERZŐDÉS FOGALMA, LÉTREJÖTTE, MEGKÖTÉSE
+
+I. Bevezetés: A Szerződés mint Kötelemkeletkeztető Tény
+
+A **szerződés** a polgári jog egyik **legfontosabb jogintézménye**, amely a **piacgazdaság alapvető jogi eszköze**. A szerződés a legjelentősebb **kötelemkeletkeztető jogi tény**: a szerződéssel a felek között **kötelem** (kötelmi jogviszony) jön létre, amely kötelezettséget és jogosultságot keletkeztet.
+
+A **2013. évi V. törvény (Polgári Törvénykönyv) 6:58. §-a** meghatározza a szerződés fogalmát:
+
+"A szerződés a felek kölcsönös és egybehangzó jognyilatkozata, amelyből kötelezettség keletkezik a szolgáltatás teljesítésére és jogosultság a szolgáltatás követelésére."
+
+Ez a definíció kifejezi a szerződés **lényegét** és **elemeit**:
+
+**1. Kölcsönös és egybehangzó jognyilatkozat**
+
+A szerződés **legalább két fél** jognyilatkozatából áll (ezért kétoldalú vagy többoldalú jogügylet). A jognyilatkozatoknak:
+- **kölcsönösnek** kell lenniük: mindkét fél (vagy több fél) tesz jognyilatkozatot;
+- **egybehangzónak** kell lenniük: a jognyilatkozatok **tartalmilag egyeznek**, nincs közöttük lényeges eltérés (konszenzus).
+
+**2. Kötelezettség és jogosultság keletkezése**
+
+A szerződésből **kötelezettség** keletkezik a szolgáltatás teljesítésére (a kötelezett köteles teljesíteni) és **jogosultság** a szolgáltatás követelésére (a jogosult követelheti a teljesítést). Ez a szerződés **kétoldalú jellege**: mindkét fél egyszerre jogosult és kötelezett.
+
+**A szerződés szerepe:**
+
+- **Jogviszony-keletkeztető**: A szerződés létrehozza a szerződéses jogviszonyt a felek között.
+- **Forgalmi eszköz**: A szerződés a vagyoni forgalom (csere, átruházás, szolgáltatásnyújtás) jogi kerete.
+- **Piacgazdaság alapja**: A piacgazdaság nem működhetne szerződések nélkül.
+- **Autonómia megnyilvánulása**: A szerződés a felek autonómiájának, önrendelkezésének eszköze.
+
+**A szerződési szabadság elve (Ptk. 6:59. §):**
+
+A **Ptk. 6:59. §-a** tartalmazza a szerződési szabadság alapelvét:
+
+"(1) A felek szabadon köthetnek szerződést, és szabadon választhatják meg a másik szerződő felet.
+(2) A felek szabadon állapíthatják meg a szerződés tartalmát. A szerződéseknek a felek jogaira és kötelezettségeire vonatkozó szabályaitól egyező akarattal eltérhetnek, ha e törvény az eltérést nem tiltja."
+
+A szerződési szabadság **négy dimenzió**ja:
+
+- **Kötési szabadság**: A felek **szabadon dönthetnek**, hogy kötnek-e szerződést vagy sem. Senki nem kényszeríthető szerződéskötésre (kivéve, ha jogszabály szerződéskötési kötelezettséget ír elő – Ptk. 6:71. §).
+- **Partnerválasztási szabadság**: A felek **szabadon választhatják meg**, kivel kötnek szerződést.
+- **Típusválasztási szabadság**: A felek szabadon dönthetnek, milyen **típusú** szerződést kötnek (adás-vétel, bérlet, kölcsön, vagy **vegyes** szerződés, vagy **névtelen** szerződés).
+- **Tartalmi szabadság**: A felek **szabadon állapíthatják meg** a szerződés tartalmát, és eltérhetnek a diszpozitív jogszabályi rendelkezésektől.
+
+A szerződési szabadság **korlátai**:
+- **Kógens (imperatív) jogszabályok**: amelyektől nem lehet eltérni (pl. fogyasztóvédelmi szabályok);
+- **Jóerkölcs**: a szerződés nem ütközhet a jóerkölcsbe (Ptk. 6:96. §);
+- **Közrend**: a szerződés nem sértheti a közrendet;
+- **Szerződéskötési kötelezettség**: bizonyos esetekben jogszabály kötelezi a szerződéskötésre (pl. közműszolgáltatók).
+
+
+II. A Szerződés Létrejötte: Az Akaratnyilatkozatok Találkozása
+
+A szerződés létrejöttének alapvető szabályát a **Ptk. 6:63. § (1) bekezdése** tartalmazza:
+
+"(1) A szerződés a felek akaratának kölcsönös és egybehangzó kifejezésével jön létre."
+
+Ez a **konszenzuális szerződéskötés** elve: a szerződés a felek **megállapodásával** (konszenzusával) jön létre. A Ptk. **konszenzuális szerződés** talaján áll (ellentétben a római jogi reál szerződésekkel, amelyeknél a dolog átadása is feltétel volt).
+
+A szerződés létrejöttének **klasszikus modellje**: **ajánlat + elfogadás**.
+
+**1. Az ajánlat (Ptk. 6:64. §)**
+
+Az **ajánlat** a szerződés megkötésére irányuló, **kellően meghatározott**, a **lényeges kérdésekre kiterjedő** és a **címzetthez intézett** jognyilatkozat.
+
+A **Ptk. 6:64. § (1) bekezdése** szerint:
+
+"(1) Aki szerződés megkötésére irányuló szándékát egyértelműen kifejező és a lényeges kérdésekre kiterjedő jognyilatkozatot tesz, nyilatkozatához kötve marad. Az ajánlattevő kötöttségének idejét meghatározhatja."
+
+Az ajánlat **elemei**:
+
+**a) Szerződés megkötésére irányuló szándék egyértelmű kifejezése**: Az ajánlatnak világosan ki kell fejeznie, hogy az ajánlattevő szerződést kíván kötni, nem csak érdeklődik, nem csak tárgyalásra invitál.
+
+**b) A lényeges kérdésekre kiterjedő**: Az ajánlatnak tartalmaznia kell a szerződés **lényeges kérdéseit** (pl. adás-vételnél: a dolog meghatározása, a vételár).
+
+**c) Címzetthez intézett**: Az ajánlatot **meghatározott személyhez** kell intézni (nem általános felhívás).
+
+**Az ajánlati kötöttség:**
+
+Az **ajánlati kötöttség** az ajánlat **joghatása**: az ajánlattevő az ajánlatához **kötve van**, nem vonhatja vissza szabadon. Ez védi a címzettet: biztosítja, hogy amíg az ajánlati kötöttség fennáll, az ajánlattevő nem léphet vissza.
+
+**Az ajánlati kötöttség időtartama:**
+
+A **Ptk. 6:64. § (1) bekezdése** szerint az ajánlattevő **meghatározhatja** a kötöttség idejét. Ha nem határozza meg, a **Ptk. 6:65. § (1) bekezdése** szerint:
+
+"(1) Ha az ajánlattevő kötöttségének idejét nem határozza meg, az ajánlati kötöttség megszűnik
+a) jelenlevők között tett ajánlat esetén, ha a másik fél az ajánlatot késedelem nélkül el nem fogadja;
+b) távollevők között tett ajánlat esetén annak az időnek az elteltével, amelyen belül az ajánlattevő - az ajánlatban megjelölt szolgáltatás jellegére és az ajánlat megtételének módjára tekintettel - a válasz megérkezését rendes körülmények között várhatta;
+c) a másik fél általi visszautasítással."
+
+Ez megkülönbözteti a **jelenlévők** és **távollévők** között tett ajánlatot:
+
+- **Jelenlévők között** (pl. személyes tárgyaláson, telefonon): az ajánlati kötöttség **nyomban** megszűnik, ha a címzett nem fogadja el késedelem nélkül.
+- **Távollévők között** (pl. levélben, e-mailben): az ajánlati kötöttség addig tart, amíg az ajánlattevő **ésszerűen várhatja** a válasz megérkezését (figyelembe véve a szolgáltatás jellegét és az ajánlat módját).
+
+**Az ajánlat visszavonása:**
+
+A **Ptk. 6:65. § (2) bekezdése** szerint:
+
+"(2) Megszűnik az ajánlati kötöttség, ha az ajánlattevő ajánlatát a másik fél elfogadó jognyilatkozatának elküldését megelőzően a másik félhez intézett jognyilatkozatával visszavonja."
+
+Az ajánlat **visszavonható**, de csak **az elfogadó jognyilatkozat elküldése előtt**. Ha az elfogadás már elküldésre került, az ajánlat nem vonható vissza.
+
+A **Ptk. 6:65. § (4) bekezdése** szerint:
+
+"(4) A hatályossá vált ajánlat nem vonható vissza, ha az ajánlat tartalmazza, hogy visszavonhatatlan, vagy az ajánlat az elfogadásra határidőt állapít meg."
+
+Ha az ajánlat **visszavonhatatlan** vagy **határidőt állapít meg**, egyáltalán nem vonható vissza.
+
+**2. Az elfogadás (Ptk. 6:66. §)**
+
+Az **elfogadás** az ajánlattal **egyező tartalmú**, az **ajánlati kötöttség időtartama alatt** tett, **címzettől** származó jognyilatkozat.
+
+A **Ptk. 6:66. §-a** szerint:
+
+"Az ajánlatot az azzal való egyetértést kifejező jognyilatkozattal lehet elfogadni."
+
+Az elfogadás **elemei**:
+
+**a) Egyetértés kifejezése**: Az elfogadásnak ki kell fejeznie, hogy a címzett **egyetért** az ajánlattal, elfogadja azt.
+
+**b) Azonos tartalom**: Az elfogadásnak **azonos tartalmúnak** kell lennie az ajánlattal. Ha eltér tőle, az **nem elfogadás**, hanem **új ajánlat** (ellenajánlat) – Ptk. 6:67. § (1) bekezdés.
+
+**c) Időben**: Az elfogadást az **ajánlati kötöttség időtartama alatt** kell megtenni. Ha késedelmes, főszabály szerint nem jön létre a szerződés (Ptk. 6:68. §).
+
+**Ellenajánlat (Ptk. 6:67. § (1) bekezdés):**
+
+"(1) Az ajánlattól lényeges kérdésben eltérő tartalmú elfogadást új ajánlatnak kell tekinteni."
+
+Ha az "elfogadás" **eltér** az ajánlattól **lényeges kérdésben**, az **nem elfogadás**, hanem **új ajánlat** (ellenajánlat). Az eredeti ajánlattevő válhat címzetté, aki eldönti, hogy elfogadja-e az ellenajánlatot.
+
+**Módosított elfogadás (Ptk. 6:67. § (2) bekezdés):**
+
+"(2) Az ajánlattal való egyetértést kifejező jognyilatkozat elfogadásnak minősül akkor is, ha lényeges kérdésnek nem minősülő, azt nem érintő kiegészítő vagy eltérő feltételt tartalmaz."
+
+Ha az eltérés **nem lényeges kérdésre** vonatkozik, az elfogadásnak minősül, és a kiegészítő vagy eltérő feltételek **a szerződés részévé válnak**, kivéve, ha az ajánlattevő tiltakozik.
+
+**Hallgatás és magatartástól való tartózkodás:**
+
+Főszabály szerint a **hallgatás vagy a magatartástól való tartózkodás nem minősül elfogadásnak**. A jognyilatkozatnak **kifejezettnek** kell lennie.
+
+Kivételek:
+- Ha a **felek között korábbi megállapodás** van arra, hogy a hallgatás elfogadásnak minősül;
+- Ha **jogszabály** úgy rendelkezik (pl. biztosítási szerződésnél fogyasztók esetén);
+- Ha a **kereskedelmi szokások** szerint a hallgatás elfogadásnak minősül.
+
+
+III. A Szerződés Megkötésének Ideje és Helye
+
+**1. A szerződés létrejöttének időpontja (Ptk. 6:69. § (1) bekezdés)**
+
+"(1) A szerződés akkor jön létre, amikor az elfogadó jognyilatkozat hatályossá válik."
+
+Az elfogadó jognyilatkozat **hatályossá válásának** időpontja eltérő **jelenlévők** és **távollévők** között:
+
+**a) Jelenlévők között kötött szerződés**
+
+**Jelenlévők**: akik egyidejűleg, egymás jelenlétében kommunikálnak (pl. személyes találkozón, telefonon, videókonferencián).
+
+A szerződés az **elfogadó nyilatkozat megtételével** jön létre (vételi elv): amikor a címzett kimondja az "igen"-t vagy kifejezi az egyetértést.
+
+**b) Távollévők között kötött szerződés**
+
+**Távollévők**: akik nem egyidejűleg kommunikálnak, hanem közvetítő közegen keresztül (pl. levélben, e-mailben, postán).
+
+A szerződés az elfogadó nyilatkozatnak az **ajánlattevőhöz való megérkezésével** jön létre (érkezési elv): amikor az elfogadó nyilatkozat **megérkezik** az ajánlattevőhöz (függetlenül attól, hogy az ajánlattevő ténylegesen tudomást szerzett-e róla).
+
+**c) Késedelmes elfogadás (Ptk. 6:68. §)**
+
+A **Ptk. 6:68. § (1) bekezdése** szerint:
+
+"(1) Késedelmesen megtett elfogadó jognyilatkozat esetén a szerződés nem jön létre."
+
+Főszabály: ha az elfogadás **késedelmes** (az ajánlati kötöttség már megszűnt), a szerződés **nem jön létre**.
+
+Kivétel (Ptk. 6:68. § (2)-(3) bekezdések): Ha az ajánlattevő **elfogadja** a késedelmes elfogadást, vagy ha a késedelem **közvetítő közeg hibája** miatt következett be (és az ajánlattevő nem tiltakozik).
+
+**2. A szerződés létrejöttének helye (Ptk. 6:69. § (2) bekezdés)**
+
+"(2) Ha az ajánlat megtételére és az elfogadásra ugyanazon a helyen kerül sor, a szerződéskötés helye a jognyilatkozatok megtételének helye. A szerződéskötés helye egyebekben az ajánlattevő székhelye, természetes személy esetén lakóhelye, ennek hiányában szokásos tartózkodási helye."
+
+A szerződéskötés helye meghatározza:
+- az **illetékességet** (melyik bíróság járhat el);
+- az **alkalmazandó jogot** (nemzetközi szerződéseknél);
+- a **teljesítés helyét** (ha a szerződés nem határozza meg).
+
+**3. Elektronikus úton történő szerződéskötés**
+
+Az elektronikus szerződéskötés (interneten, e-mailben, webshopban) speciális szabályait a **Ptk. 6:82-6:85. §-ai** tartalmazzák. Az elektronikus szerződéskötés főszabály szerint **távollévők közötti** szerződéskötésnek minősül, és az általános szabályok vonatkoznak rá, de speciális rendelkezések is vannak (pl. a vételár megfizetésének módja, a visszalépési jog).
+
+
+IV. A Szerződés Tartalma és Értelmezése
+
+**1. A szerződés tartalma**
+
+A szerződés **tartalmát** elsősorban a **felek megállapodása** határozza meg. A **Ptk. 6:63. § (2) bekezdése** szerint:
+
+"(2) A szerződés létrejöttéhez a feleknek a lényeges és a bármelyikük által lényegesnek minősített kérdésekben való megállapodása szükséges. A lényegesnek minősített kérdésben való megállapodás akkor feltétele a szerződés létrejöttének, ha a fél egyértelműen kifejezésre juttatja, hogy az adott kérdésben való megállapodás hiányában a szerződést nem kívánja megkötni."
+
+**Lényeges és nem lényeges feltételek:**
+
+**a) Lényeges feltételek (essentialia negotii)**: Azok a feltételek, amelyek **nélkül a szerződés nem jöhet létre**. Ilyenek:
+- a szerződéstípushoz **szükségszerűen hozzátartozó** elemek (pl. adás-vételnél: a dolog, a vételár);
+- a **bármelyik fél által lényegesnek minősített** kérdések (ha a fél egyértelműen kifejezi, hogy az adott kérdésben való megállapodás hiányában nem köti meg a szerződést).
+
+Ha a felek a lényeges feltételekben **nem egyeznek meg**, a szerződés **nem jön létre** (disszenzus).
+
+**b) Nem lényeges feltételek**: Azok a feltételek, amelyek hiányában is létrejön a szerződés. Ezeket:
+- **jogszabály** rendezi (Ptk. 6:63. § (4) bekezdés): "Nem kell a feleknek megállapodniuk olyan kérdésben, amelyet jogszabály rendez.";
+- **bírói gyakorlat** tölti ki;
+- **szokások** határozzák meg.
+
+A **Ptk. 6:63. § (5) bekezdése** szerint:
+
+"(5) A szerződés tartalmává válik minden szokás, amelynek alkalmazásában a felek korábbi üzleti kapcsolatukban megegyeztek, és minden gyakorlat, amelyet egymás között kialakítottak. A szerződés tartalmává válik továbbá minden, az adott üzletágban a hasonló jellegű szerződés alanyai által széles körben ismert és rendszeresen alkalmazott szokás, kivéve, ha annak alkalmazása a felek között - korábbi kapcsolatukra is figyelemmel - indokolatlan volna."
+
+Ez azt jelenti, hogy a szerződés tartalma **nemcsak a kifejezett megállapodásból**, hanem **szokásokból és gyakorlatból** is eredhet.
+
+**2. Piaci ár kikötése (Ptk. 6:63. § (3) bekezdés)**
+
+"(3) Ha a szerződés létrejött, de a felek az ellenszolgáltatás mértékét nem határozták meg egyértelműen, vagy ellenszolgáltatásként piaci árat kötöttek ki, a teljesítési helynek megfelelő piacon a teljesítési időben kialakult középárat kell megfizetni."
+
+Ez biztosítja, hogy ha a felek **nem állapodtak meg** az ár pontos mértékében, vagy **piaci árat** kötöttek ki, a szerződés **nem válik érvénytelenné** határozatlanság miatt, hanem a **piaci középár** az irányadó.
+
+**3. Együttműködési és tájékoztatási kötelezettség (Ptk. 6:62. §)**
+
+A **Ptk. 6:62. § (1) bekezdése** szerint:
+
+"(1) A felek kötelesek a szerződéskötési tárgyalások alatt, a szerződés megkötésénél, fennállása alatt és megszüntetése során együttműködni és tájékoztatni egymást a szerződést érintő lényeges körülményekről."
+
+Ez a **prekontrukális** (szerződéskötést megelőző), **kontraktuális** (szerződéses) és **posztkontrukális** (szerződés megszüntetése utáni) kötelezettség, amely a **jóhiszeműség és tisztesség** elvéből (Ptk. 1:3. §) ered.
+
+
+V. Összegzés
+
+A **szerződés** a felek kölcsönös és egybehangzó jognyilatkozata, amelyből kötelezettség keletkezik a szolgáltatás teljesítésére és jogosultság a szolgáltatás követelésére (Ptk. 6:58. §).
+
+**A szerződés létrejöttének konszenzuális természete:**
+
+A szerződés a felek **egybehangzó akaratának** (konszenzusának) van **jogviszonyt keletkeztető** ereje (Ptk. 6:63. § (1) bekezdés). A Ptk. **konszenzuális szerződés** talaján áll: a megállapodással létrejön a szerződés, nincs szükség dolog átadására (reál szerződés) vagy formára (formai szerződés – kivéve, ha jogszabály írja elő).
+
+**A szerződés létrejöttének modellje: ajánlat + elfogadás**
+
+**1. Ajánlat** (Ptk. 6:64. §): Szerződés megkötésére irányuló szándék egyértelmű kifejezése, a lényeges kérdésekre kiterjedő, címzetthez intézett jognyilatkozat.
+
+**2. Ajánlati kötöttség** (Ptk. 6:64-65. §): Az ajánlattevő kötve van az ajánlatához. Időtartama: meghatározott vagy ésszerű idő (jelenlévőknél: nyomban; távollevőknél: amíg ésszerűen várható a válasz).
+
+**3. Elfogadás** (Ptk. 6:66. §): Az ajánlattal való egyetértést kifejező jognyilatkozat.
+
+**4. Ellenajánlat** (Ptk. 6:67. § (1) bekezdés): Lényeges kérdésben eltérő tartalmú elfogadás = új ajánlat.
+
+**5. Késedelmes elfogadás** (Ptk. 6:68. §): Főszabály szerint nem jön létre a szerződés, kivéve, ha az ajánlattevő elfogadja.
+
+**A szerződés létrejöttének ideje és helye** (Ptk. 6:69. §):
+
+- **Idő**: amikor az elfogadó jognyilatkozat hatályossá válik (jelenlévőknél: megtételkor; távollevőknél: megérkezéskor)
+- **Hely**: az ajánlattevő székhelye/lakóhelye (távollevőknél); a jognyilatkozatok megtételének helye (jelenlévőknél)
+
+**A szerződés tartalma** (Ptk. 6:63. § (2)-(5) bekezdések):
+
+- **Lényeges feltételek**: a feleknek meg kell állapodniuk (essentialia negotii)
+- **Nem lényeges feltételek**: jogszabály, szokás, gyakorlat tölti ki
+- **Piaci ár**: ha nem állapodtak meg, a piaci középár irányadó
+
+**A szerződési szabadság elve** (Ptk. 6:59. §) és korlátai:
+
+- Kötési, partnerválasztási, típusválasztási, tartalmi szabadság
+- Korlátok: kógens jogszabályok, jóerkölcs, közrend
+
+**A világos és egyértelmű akaratnyilatkozatok fontossága:**
+
+A szerződési jogviták nagy része **értelmezési** kérdésekből fakad: nem világos, miben is állapodtak meg a felek. Ezért különösen fontos, hogy a felek **világosan, egyértelműen, írásban** rögzítsék akaratukat, különösen a lényeges kérdésekben. Ez biztosítja a **jogbiztonságot**, a **kiszámíthatóságot** és a **jogviták elkerülését**.
+
+A szerződés létrejöttének szabályai így **átlátható, logikus rendszert** alkotnak, amely egyszerre biztosítja a **szerződési szabadságot**, a **jogbiztonságot** és a **forgalom biztonságát**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

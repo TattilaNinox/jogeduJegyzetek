@@ -1,0 +1,349 @@
+A JOGALANYISÁG, JOGKÉPESSÉG
+
+I. Bevezetés: A Jogalanyiság és a Jogképesség Elhatárolása
+
+A **jogalanyiság** és a **jogképesség** a polgári jog alapfogalmai, amelyek a jogviszonyokban való részvétel legfontosabb előfeltételeit jelentik. Bár gyakran szinonimaként használják őket, jogelméleti szempontból érdemes megkülönböztetni a két fogalmat.
+
+A **jogalanyiság** általános, jogelméleti kategória: a jogrend által elismert **képesség**, hogy valaki (vagy valami) **jogviszonyok alanya**, azaz **jogok és kötelezettségek hordozója** lehessen. A jogalanyiság azt fejezi ki, hogy a jogrend egy entitást (személyt, szervezetet) képesnek ismer el arra, hogy jogviszonyokban részt vegyen, jogokat szerezzen és kötelezettségeket vállaljon.
+
+A **jogképesség** ezzel szemben a jogalanyiság **konkrét megjelenési formája** egy adott jogágban, jelen esetben a polgári jogban. A **2013. évi V. törvény (Polgári Törvénykönyv) 2:1. § (1) bekezdése** szerint:
+
+"(1) Minden ember jogképes: jogai és kötelezettségei lehetnek."
+
+A jogképesség tehát a személynek az a képessége, hogy **polgári jogi jogviszonyokban jogai és kötelezettségei lehetnek**. Ez konkrétabb, mint a jogalanyiság: míg a jogalanyiság általános filozófiai kategória, a jogképesség egy adott jogág (polgári jog) által elismert, pozitív jogi fogalom.
+
+A **Ptk. 2:1. § (1) bekezdése** kifejezi a jogképesség néhány alapvető jellemzőjét:
+
+**1. Általános jelleg**: "Minden ember jogképes" – a jogképesség minden emberre kiterjed, nincs olyan ember, aki ne lenne jogképes. Ez az **emberi méltóság és egyenlőség** elvének következménye.
+
+**2. Egyenlő jelleg**: Minden ember **egyenlően** jogképes. Nincs "többé" vagy "kevésbé" jogképes ember. A jogképesség nem fokozható, nem lehet nagyobb vagy kisebb mértékű. Mindenkit egyenlő mértékben illet meg.
+
+**3. Feltétlen jelleg**: A jogképesség **feltétlen**, azaz nem függ semmilyen feltételtől (nem függ fajra, nemre, vallásra, vagyonra, iskolai végzettségre stb.). A jogképesség minden embert, emberi mivoltából eredően megillet.
+
+A **Ptk. 2:1. § (2) bekezdése** a jogképesség elidegeníthetetlen jellegét hangsúlyozza:
+
+"(2) A jogképességet korlátozó jognyilatkozat semmis."
+
+Ez azt jelenti, hogy **senki nem mondhat le jogképességéről**, nem korlátozhatja azt jognyilatkozattal, nem ruházhatja át másra. A jogképesség **személyhez fűződő, elidegeníthetetlen jogállás**, amely az emberi méltóság velejárója.
+
+Fontos különbséget tenni a **jogképesség** és a **cselekvőképesség** között:
+- A **jogképesség** statikus képesség: hogy valakinek jogai és kötelezettségei **lehetnek**.
+- A **cselekvőképesség** dinamikus képesség: hogy valaki **maga**, saját akaratnyilatkozatával jogokat **szerezhet** és kötelezettségeket **vállalhat**.
+
+Minden ember jogképes, de nem minden ember cselekvőképes (pl. a kiskorúak, a gondnokság alatt állók cselekvőképessége korlátozott vagy kizárt).
+
+
+II. A Polgári Jog Alanyai
+
+A polgári jogi jogviszonyoknak különböző típusú **alanyai** lehetnek. A magyar polgári jog **három fő jogalanytípust** különböztet meg:
+
+**1. Az ember (természetes személy)**
+
+Az **ember** (más terminológiával: **természetes személy**) a jogképesség **elsődleges és természetes hordozója**. A jogképesség az emberi mivoltból, az emberi méltóságból ered. Minden ember, egyszerűen azért, mert ember, jogképes.
+
+A természetes személy jogképessége **teljes körű**: kiterjed minden olyan jogra és kötelezettségre, amely a polgári jogban létezik. Nincs olyan polgári jogi jog vagy kötelezettség, amelynek az ember ne lehetne alanya (természetesen figyelembe véve a speciális jogosultsági feltételeket, pl. tulajdonképesség egyes vagyontárgyak esetén).
+
+**2. A jogi személy**
+
+A **jogi személy** a jog által **létrehozott, mesterséges jogalany**. Míg az ember "természettől fogva" jogképes, a jogi személy jogképességét **a jog hozza létre**. A **Ptk. 3:1. § (1) bekezdése** kimondja:
+
+"(1) A jogi személy jogképes: jogai és kötelezettségei lehetnek."
+
+A jogi személy fogalmát és jellemzőit részletesen a IV. fejezetben tárgyaljuk.
+
+**3. Az állam**
+
+Az **állam** különleges jogalany, amely **egyszerre közjogi és magánjogi jogalany**. Az állam mint közjogi jogalany szuverén hatalommal rendelkezik, törvényeket alkot, hivatali hatósági jogkört gyakorol. Az állam mint magánjogi jogalany pedig részt vesz a polgári jogi forgalomban: tulajdonosa lehet vagyontárgyaknak, szerződéseket köthet, örökölhet, stb.
+
+Az állam polgári jogi jogalanyisága **speciális szabályok** szerint működik (pl. államkincstár, állami vagyonkezelő szervek), de alapvetően a jogi személyekre vonatkozó szabályok irányadók.
+
+
+III. A Természetes Személy Jogképessége
+
+A természetes személy jogképességét a **Polgári Törvénykönyv Második Könyve ("Az ember mint jogalany")** szabályozza részletesen.
+
+**1. A jogképesség kezdete**
+
+A jogképesség kezdetét a **Ptk. 2:2. §-a** szabályozza:
+
+"(1) A jogképesség az embert, ha élve születik, fogamzásának időpontjától illeti meg.
+(2) A fogamzás időpontjának a születéstől visszafelé számított háromszázadik napot kell tekinteni; bizonyítani lehet, hogy a fogamzás korábbi vagy későbbi időpontban történt. A születés napja a határidőbe beleszámít."
+
+Ez a rendelkezés a jogképesség kezdetére vonatkozóan két fontos elemet tartalmaz:
+
+**a) A fogamzás időpontja**
+
+A jogképesség **a fogamzás időpontjától** illeti meg az embert. Ez azt jelenti, hogy a jogképesség **nem a születéssel**, hanem már **a méhmagzat állapotában** kezdődik. Ez rendkívül fontos szabály, amely biztosítja a **nasciturus** (méhmagzat, még meg nem született gyermek) jogainak védelmét.
+
+Példák a magzat jogaira:
+- **öröklési jog**: a magzat örökölhet, ha később élve születik;
+- **ajándékozás elfogadása**: a magzat részére ajándékozni lehet;
+- **kártérítési igény**: ha a magzatot károsodás éri (pl. orvosi műhiba a terhesség alatt), és később élve születik, kártérítési igénnyel élhet.
+
+**b) A feltétel: élve születés**
+
+A jogképesség **feltételes**: az ember akkor szerzi meg a jogképességet a fogamzás időpontjától, **ha élve születik**. Ez egy **felfüggesztő feltétel**: a jogképesség "visszamenőleg" illeti meg a fogamzás időpontjától, de csak akkor, ha az élve születés feltétele teljesül.
+
+Ha a gyermek **halva születik**, vagy a terhesség **vetéléssel** végződik, a jogképesség **nem jön létre** – nem úgy kell tekinteni, hogy volt jogképesség, és az megszűnt, hanem úgy, hogy egyáltalán nem jött létre.
+
+Az élve születés kritériuma: a magzat **teljesen kiválva az anyaméhből**, **önálló légzést** kezd, vagy legalább **életjelet mutat** (szívverés, pupköldérverés). Az élve születés ténye orvosi dokumentumokkal bizonyítható.
+
+**c) A fogamzás időpontjának meghatározása**
+
+A **Ptk. 2:2. § (2) bekezdése** **vélelmet** állít fel a fogamzás időpontjára vonatkozóan: a születéstől visszafelé számított **háromszázadik (300.) napot** kell a fogamzás időpontjának tekinteni.
+
+Ez egy **megdönthető vélelem**: bizonyítani lehet, hogy a fogamzás korábbi vagy későbbi időpontban történt (pl. orvosi bizonyítékokkal, az anya vallomásával). A 300 napos időszak az átlagos terhességi időt (kb. 280 nap) biztonsági tartalékkal veszi figyelembe.
+
+**d) A méhmagzat gyámja**
+
+A **Ptk. 2:3. §-a** szabályozza a magzat gyámjának rendelését:
+
+"(1) A gyámhatóság – kérelemre vagy hivatalból – gyámot rendel a magzat részére, ha ez a magzat jogainak megóvása érdekében szükséges.
+(2) Gyám rendelését a magzat szülője, nagyszülője, az ügyész és a jegyző kérheti."
+
+A magzat gyámjának rendelése azt a célt szolgálja, hogy ha a magzatot jogok illetik meg (pl. öröklési jog), legyen olyan személy (gyám), aki e jogokat képviseli és megvédi. A gyám a magzat **törvényes képviselője**, aki a magzat nevében jognyilatkozatokat tehet (pl. öröklés elfogadása vagy visszautasítása).
+
+A gyám rendelése **nem automatikus**, hanem akkor szükséges, ha a magzat jogainak megóvása ezt indokolja (pl. az apa meghalt, a magzat örököl, de az anyán kívül nincs, aki képviselje a magzat érdekeit).
+
+**2. A jogképesség megszűnése**
+
+A jogképesség megszűnését a **Ptk. 2:4. §-a** szabályozza tömör egyértelműséggel:
+
+"A jogképesség a halállal szűnik meg."
+
+A **halál** az emberi élet biológiai végét jelenti. A halállal az ember jogképessége **megszűnik**: nem lehet többé jogok alanya vagy kötelezettségek viselője. A halál beálltát követően az elhunyt személyiségi jogai bizonyos mértékig védve maradnak, és a vagyona az **örökösökre száll**.
+
+A halál tényének **bizonyítása** általában az **anyakönyvi halotti bejegyzéssel** történik, amely a halottvizsgálati bizonyítvány alapján készül. A halotti anyakönyvi kivonat **közhiteles bizonyíték** a halál tényére és időpontjára vonatkozóan.
+
+**a) A holtnak nyilvánítás**
+
+Bizonyos esetekben a halál ténye **nem bizonyítható közvetlenül** (pl. az illető eltűnt, és holtteste nem került elő). Ilyen esetekben a jog **vélelmezi a halált** a **holtnak nyilvánítás** jogintézménye útján.
+
+A **Ptk. 2:5. § (1) bekezdése** szabályozza a holtnak nyilvánítás feltételeit:
+
+"(1) Az eltűnt személyt a bíróság kérelemre holtnak nyilvánítja, ha eltűnésétől öt év eltelt anélkül, hogy életben létére utaló bármilyen adat ismert volna."
+
+A holtnak nyilvánítás feltételei:
+
+**- Eltűnés**: Az illető személy **eltűnt**, vagyis tartózkodási helye ismeretlen, és vele nem lehet kapcsolatot teremteni. Az eltűnés lehet önkéntes (pl. elutazott és nem tért vissza) vagy önkéntelen (pl. baleset, természeti katasztrófa).
+
+**- Öt év eltelte**: Az eltűnéstől számítva **öt évnek** kell eltelnie. Ez a viszonylag hosszú időszak biztosítja, hogy valóban tartós eltűnésről van szó, és nem csupán átmeneti távollétről.
+
+**- Életben létére utaló adat hiánya**: Az öt év alatt **semmiféle adat nem ismert** az eltűnt személy életben létére (pl. nincs életjel, nincs kapcsolatfelvétel, nincs vagyonmozgás a nevén stb.).
+
+A **Ptk. 2:5. § (3) bekezdése** szabályozza, hogy ki kérheti a holtnak nyilvánítást:
+
+"(3) A holtnak nyilvánítást az eltűnt személy közeli hozzátartozója, az ügyész, a gyámhatóság és az kérheti, akinek az eltűnt holtnak nyilvánítása jogi érdekét érinti."
+
+Jogosultak tehát:
+- az eltűnt személy **közeli hozzátartozói** (házastárs, gyermek, szülő, testvér);
+- az **ügyész** (közérdekből);
+- a **gyámhatóság** (gyermekvédelmi szempontból);
+- **bárki, akinek jogi érdeke fűződik** (pl. öröklési jogot szerző személy, hitelező).
+
+A holtnak nyilvánítás **joghatása** a **Ptk. 2:5. § (2) bekezdésében** kerül megfogalmazásra:
+
+"(2) A holtnak nyilvánított személyt az ellenkező bizonyításáig halottnak kell tekinteni."
+
+Ez **megdönthető vélelem**: a holtnak nyilvánított személyt halottnak tekintjük, de a vélelem megdönthető, ha bebizonyosodik, hogy él vagy más időpontban halt meg.
+
+**b) A halál időpontjának meghatározása**
+
+A **Ptk. 2:6. §-a** szabályozza, hogy a bíróság hogyan határozza meg a halál időpontját:
+
+"(1) A bíróság a halál időpontját a körülmények mérlegelése alapján határozza meg.
+(2) Ha a körülmények mérlegelése nem vezet eredményre, a halál időpontja az eltűnést követő hónap tizenötödik napja."
+
+A bíróság tehát **mérlegeli a körülményeket** (mikor tűnt el, milyen körülmények között, milyen életveszélyes helyzetben volt stb.), és ennek alapján határozza meg a valószínű halál időpontját. Ha ez nem lehetséges, akkor **vélelem** érvényesül: az eltűnést követő hónap **15. napja**.
+
+Ez az időpont fontos lehet pl. öröklési, biztosítási, tartási kérdésekben.
+
+**c) Változás a holtnak nyilvánítás alapjául vett körülményekben**
+
+A **Ptk. 2:7. §-a** szabályozza, mi történik, ha bebizonyosodik, hogy a holtnak nyilvánítás alapjául vett körülmények nem helytállóak:
+
+"(1) Ha bebizonyosodik, hogy a holtnak nyilvánított a határozatban alapul vett időpontnál korábbi vagy későbbi időpontban tűnt el, de a holtnak nyilvánítás feltételei egyébként fennállnak, a bíróság a holtnak nyilvánító határozatot módosítja. A jogkövetkezmények a módosított határozat szerint alakulnak.
+(2) Ha bebizonyosodik, hogy a holtnak nyilvánított a határozatban alapul vett időpontnál később tűnt el, és ezért a holtnak nyilvánítás feltételei nem állnak fenn, a bíróság a holtnak nyilvánító határozatot hatályon kívül helyezi, és az annak alapján beállott jogkövetkezmények semmisek.
+(3) A holtnak nyilvánító határozat módosítását és hatályon kívül helyezését ugyanazok kérhetik, mint a holtnak nyilvánítást.
+(4) Ha a holtnak nyilvánított előkerül, a holtnak nyilvánító határozat hatálytalan, és az annak alapján beállott jogkövetkezmények semmisek."
+
+Ezek a rendelkezések rendezik azokat a helyzeteket, amikor:
+- **Módosítás**: Az eltűnés időpontja téves volt, de a holtnak nyilvánítás feltételei egyébként fennállnak – a határozatot módosítják.
+- **Hatályon kívül helyezés**: Az eltűnés időpontja későbbre tolódik, és emiatt a feltételek (5 év) nem állnak fenn – a határozatot hatályon kívül helyezik, és a jogkövetkezmények semmisek.
+- **Előkerülés**: A holtnak nyilvánított személy **előkerül** (él) – a határozat **hatálytalan**, és az annak alapján beállott jogkövetkezmények (pl. öröklés, új házasságkötés) **semmisek**.
+
+Ez utóbbi szabály biztosítja, hogy ha kiderül, hogy az illető él, a jogviszonyok visszaállnak az eredeti állapotba (amennyire ez lehetséges).
+
+**d) A halál tényének bírósági megállapítása**
+
+A Ptk. kifejezetten nem szabályozza a "halál tényének bírósági megállapítása" jogintézményt önálló szakaszban, de a polgári perrendtartás és a bírói gyakorlat ismeri ezt az eljárást. A halál tényének bírósági megállapítása akkor szükséges, amikor:
+- a halál ténye **kétségtelen** (pl. holttestet megtalálták, de személyazonosítása nehézkes);
+- de az **anyakönyvi bejegyzés valamilyen okból nem lehetséges vagy vitatott**.
+
+Ez **különbözik a holtnak nyilvánítástól**, mert:
+- **Holtnak nyilvánítás**: a halál ténye **bizonytalan**, csak **vélelmezik** az eltűnés és idő eltelte alapján.
+- **Halál tényének megállapítása**: a halál ténye **kétségtelen**, csak az anyakönyvi rögzítés igényel bírósági közreműködést.
+
+
+IV. A Jogi Személy Jogképessége
+
+A **jogi személy** a modern polgári jog egyik legfontosabb jogintézménye, amely lehetővé teszi szervezetek, közösségek, vállalkozások önálló jogalanyként való működését.
+
+**1. A jogi személy fogalma**
+
+A jogi személy **a jog által létrehozott, mesterséges jogalany**. Míg az ember "természettől fogva" jogképes (emberi mivoltából eredően), a jogi személy jogképességét **a jog teremti meg**. A jogi személy olyan **szervezet**, amelyet a jog önálló jogalanyként ismer el, és amely így saját néven jogokat szerezhet és kötelezettségeket vállalhat.
+
+A **Ptk. 3:1. § (5) bekezdése** meghatározza a jogi személy jellemzőit:
+
+"(5) A jogi személynek saját névvel, székhellyel, tagjaitól, illetve alapítójától elkülönített vagyonnal, valamint az ügyvezetését és képviseletét ellátó szervezettel kell rendelkeznie."
+
+A jogi személy **kritériumai** tehát:
+
+**a) Saját név**: A jogi személynek egyedi, megkülönböztető **nevével** kell rendelkeznie, amely azonosítja őt a jogforgalomban.
+
+**b) Székhely**: A jogi személynek **székhelye** van, amely a jogi személy hivatalos címe, és amely meghatározza pl. az illetékességi szabályokat.
+
+**c) Tagjaitól/alapítójától elkülönített vagyon**: A jogi személynek **önálló vagyona** van, amely elkülönül a tagok vagy alapító vagyonától. Ez az **elkülönült vagyon** alapvető jelentőségű: biztosítja, hogy a jogi személy önállóan gazdálkodhasson, és hogy a tagok ne feleljenek személyes vagyonukkal a jogi személy tartozásaiért.
+
+**d) Ügyvezetést és képviseletet ellátó szervezet**: A jogi személynek olyan **szervezettel** kell rendelkeznie, amely az ügyvezetést és a képviseletet ellátja (pl. igazgatóság, ügyvezető, kuratórium). Ez biztosítja, hogy a jogi személy – amely maga nem tud cselekedni – a szervei útján tudjon eljárni.
+
+**2. A jogképesség tartalma**
+
+A **Ptk. 3:1. § (2) bekezdése** meghatározza a jogi személy jogképességének terjedelmét:
+
+"(2) A jogi személy jogképessége kiterjed minden olyan jogra és kötelezettségre, amely jellegénél fogva nem csupán az emberhez fűződhet."
+
+Ez azt jelenti, hogy a jogi személy jogképessége **nem teljes körű** (ellentétben az emberével), hanem **korlátozott**: csak azokra a jogokra és kötelezettségekre terjed ki, amelyek **jellegénél fogva nem csupán az emberhez fűződnek**.
+
+**A jogi személy jogképességébe TARTOZIK**:
+- **tulajdonjog** (a jogi személy lehet tulajdonos);
+- **szerződéskötési képesség** (a jogi személy köthet szerződéseket);
+- **öröklési képesség** (a jogi személy örökölhet végintézkedés alapján);
+- **követelések és tartozások** alanyisága;
+- **bizonyos személyiségi jogok** (pl. név, becsület, jóhírnév védelme).
+
+**A jogi személy jogképességébe NEM TARTOZIK**:
+- **házasságkötési jog** (csak ember köthet házasságot);
+- **szülői felügyeleti jog** (csak ember lehet szülő);
+- **örökbefogadási jog** (csak ember fogadhat örökbe);
+- **bizonyos személyiségi jogok**, amelyek jellegénél fogva csak embert illethetnek meg (pl. testi épség, egészséghez való jog, magánélethez való jog).
+
+A **Ptk. 3:1. § (3) bekezdése** a jogi személy személyiségi jogait szabályozza:
+
+"(3) A jogi személy személyhez fűződő jogaira a személyiségi jogokra vonatkozó szabályokat kell alkalmazni, kivéve, ha a védelem jellegénél fogva csupán az embert illetheti meg."
+
+Ez azt jelenti, hogy a jogi személy **bizonyos személyiségi jogokkal rendelkezik** (pl. névhez való jog, becsület és jóhírnév védelme), de csak azokkal, amelyek a jogi személy jellegével összeegyeztethetők.
+
+**3. A jogképesség kezdete**
+
+A jogi személy jogképességének kezdetét a **Ptk. 3:4. § (4) bekezdése** szabályozza:
+
+"(4) A jogi személy a jogi személy típusnak megfelelő létesítő okiratán alapuló bírósági nyilvántartásba vétellel jön létre."
+
+A jogi személy jogképessége tehát a **nyilvántartásba vétellel** keletkezik. Ez a szabály éles ellentétben áll az ember jogképességével, amely a fogamzás időpontjától automatikusan megilleti az embert.
+
+A jogi személy létrejötte **konstitutív hatályú bírósági aktus**: a **bírósági nyilvántartásba vétel** hozza létre a jogi személyt. A nyilvántartásba vétel előtt a jogi személy **nem létezik**, nincs jogképessége.
+
+A nyilvántartásba vétel feltételei:
+- **létesítő okirat** megléte (szerződés, alapító okirat, alapszabály);
+- a létesítő okirat **megfelel a törvényi követelményeknek**;
+- a nyilvántartó bíróság **nem tagadja meg** a nyilvántartásba vételt (pl. nincs jogszabálysértés, nincs névütközés stb.).
+
+**4. A jogképesség vége**
+
+A jogi személy jogképessége a **nyilvántartásból való törléssel** szűnik meg. A **Ptk. 3:4. § (4) bekezdéséből** következik, hogy ahogyan a jogi személy a nyilvántartásba vétellel jön létre, úgy a nyilvántartásból való törléssel szűnik meg.
+
+A jogi személy megszűnésének okai lehetnek:
+- **határozott idő lejárta** (ha a jogi személyt határozott időre hozták létre);
+- **cél elérése vagy elérhetetlen válása**;
+- **jogutód nélküli megszűnés** (felszámolás, végelszámolás);
+- **jogutódlással való megszűnés** (átalakulás, egyesülés, beolvadás);
+- **bírósági vagy hatósági megszüntetés** (törvénysértés miatt).
+
+A nyilvántartásból való törlés **konstitutív hatályú**: a jogi személy a törléssel **megszűnik**, jogképessége véget ér.
+
+**5. A jogi személy felelőssége**
+
+A **Ptk. 3:2. § (1) bekezdése** az egyik legfontosabb szabályt tartalmazza:
+
+"(1) A jogi személy kötelezettségeiért saját vagyonával köteles helytállni; a jogi személy tagjai és alapítója a jogi személy tartozásaiért nem felelnek."
+
+Ez a **korlátolt felelősség elve** (limited liability): a jogi személy önálló vagyonával felel tartozásaiért, a **tagok személyes vagyona elkülönül**, és főszabály szerint nem felelnek a jogi személy tartozásaiért.
+
+Ez az elv rendkívül fontos gazdasági szempontból: lehetővé teszi a vállalkozások létrehozását anélkül, hogy a tagok személyes vagyonukat kockáztatnák. A korlátolt felelősség biztosítja a gazdasági fejlődést, a beruházások ösztönzését.
+
+A **Ptk. 3:2. § (2) bekezdése** azonban kivételt tesz a felelősség áttörése (piercing the corporate veil) esetén:
+
+"(2) Ha a jogi személy tagja vagy alapítója korlátolt felelősségével visszaélt, és emiatt a jogi személy jogutód nélküli megszűnésekor kielégítetlen hitelezői követelések maradtak fenn, e tartozásokért a tag vagy az alapító korlátlanul köteles helytállni."
+
+Ez azt jelenti, hogy ha a tag vagy alapító **visszaél** a korlátolt felelősséggel (pl. kivezeti a vagyont a jogi személyből, látszatjogi személyt hoz létre stb.), **korlátlanul felelnie** kell a tartozásokért.
+
+
+V. Összegzés
+
+A **jogképesség** a polgári jog egyik legfontosabb alapfogalma, amely a **jogviszonyokba lépés alapvető előfeltétele**. A jogképesség azt a képességet jelenti, hogy valakinek (vagy valaminek) polgári jogi jogviszonyokban jogai és kötelezettségei lehetnek.
+
+**A természetes személy jogképessége:**
+
+**1. Kezdete**: A fogamzás időpontjától, feltéve, hogy élve születik (Ptk. 2:2. §). Ez biztosítja a méhmagzat (nasciturus) jogainak védelmét.
+
+**2. Jellemzői**: Általános, egyenlő, feltétlen, elidegeníthetetlen (Ptk. 2:1. §). Minden ember egyenlően jogképes, a jogképesség nem korlátozható, nem ruházható át.
+
+**3. Megszűnése**: A halállal (Ptk. 2:4. §). A halál ténye bizonyítható halotti anyakönyvi kivonattal vagy bírósági holtnak nyilvánítással (Ptk. 2:5. §).
+
+**4. Holtnak nyilvánítás**: Eltűnés esetén, öt év elteltével, bírósági határozattal (Ptk. 2:5. §). Megdönthető vélelem a halálra.
+
+**A jogi személy jogképessége:**
+
+**1. Fogalom**: A jog által létrehozott, mesterséges jogalany, amely saját névvel, székhellyel, elkülönített vagyonnal és szervezettel rendelkezik (Ptk. 3:1. § (5) bekezdés).
+
+**2. Terjedelem**: Kiterjed minden olyan jogra és kötelezettségre, amely jellegénél fogva nem csupán az emberhez fűződhet (Ptk. 3:1. § (2) bekezdés). Korlátozott jogképesség.
+
+**3. Kezdete**: A bírósági nyilvántartásba vétellel (Ptk. 3:4. § (4) bekezdés). Konstitutív hatályú aktus.
+
+**4. Vége**: A nyilvántartásból való törléssel. A jogi személy megszűnése jogutód nélkül vagy jogutódlással történhet.
+
+**5. Felelősség**: A jogi személy saját vagyonával felel, a tagok főszabály szerint nem felelnek (korlátolt felelősség elve) (Ptk. 3:2. § (1) bekezdés). Visszaélés esetén a tagok korlátlanul felelhetnek (Ptk. 3:2. § (2) bekezdés).
+
+**Alapvető különbségek a természetes és jogi személyek jogképessége között:**
+
+| Szempont | Természetes személy | Jogi személy |
+|----------|---------------------|--------------|
+| **Eredet** | Természetes, emberi mivoltból | Jog által létrehozott, mesterséges |
+| **Kezdet** | Fogamzás (élve születés feltételével) | Nyilvántartásba vétel |
+| **Vég** | Halál | Nyilvántartásból törlés |
+| **Terjedelem** | Teljes körű | Korlátozott (jellegénél fogva emberhez nem fűződő jogok) |
+| **Jellemzők** | Általános, egyenlő, feltétlen | Típusonként eltérő, célhoz kötött |
+
+**Hasonlóságok:**
+
+- Mindkettő **jogképes**: jogai és kötelezettségei lehetnek.
+- Mindkettő **önálló jogalany**: saját nevén léphet jogviszonyokba.
+- Mindkettő **védett**: jogaik megsértése jogkövetkezményekkel jár.
+- Mindkettő rendelkezhet **bizonyos személyiségi jogokkal** (embernél teljes körűen, jogi személynél korlátozottan).
+
+A jogképesség intézménye így biztosítja, hogy **mind az emberek, mind a szervezetek** részt vehessenek a polgári jogi forgalomban, jogokat szerezzenek, kötelezettségeket vállaljanak, és ezáltal a gazdasági és társadalmi élet aktív résztvevőivé váljanak. A jogképesség az **emberi méltóság és szabadság**, valamint a **gazdasági fejlődés és jogbiztonság** alapvető garanciája.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

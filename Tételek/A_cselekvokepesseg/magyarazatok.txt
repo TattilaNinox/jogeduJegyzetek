@@ -1,0 +1,119 @@
+1. A jogképesség és a cselekvőképesség elhatárolása alapvető a polgári jogban, mert míg a jogképesség a jogalannyá válás statikus képessége, amely minden ember számára a születéssel kezdődik és életben maradásig fennáll, addig a cselekvőképesség a jogviszonyokban való aktív, dinamikus részvétel képessége. A Ptk. 2:8. § (1) bekezdése kimondja: "Minden ember cselekvőképes, akinek cselekvőképességét e törvény vagy a bíróság gondnokság alá helyezést elrendelő ítélete nem korlátozza." Ez a megkülönböztetés lehetővé teszi, hogy valaki jogképes legyen, de cselekvőképessége korlátozott legyen, így védve őt a hátrányos döntésektől.
+
+2. A Ptk. 2:8. § (3) bekezdése egyértelműen kimondja: "A cselekvőképességet korlátozó jognyilatkozat semmis." Ez a rendelkezés a cselekvőképesség személyhez fűződő, elidegeníthetetlen jellegét biztosítja, és megakadályozza, hogy valaki lemondjon róla vagy korlátozza azt jognyilatkozatával. A cselekvőképesség korlátozása kizárólag törvényi vagy bírósági úton történhet, ami biztosítja az állami felügyeletet és az érintett személy védelmét.
+
+3. A Ptk. 2:10. § (1) bekezdése szerint: "Kiskorú az, aki a tizennyolcadik életévét nem töltötte be. A kiskorú a házasságkötéssel nagykorúvá válik." A (3) bekezdés pedig kimondja: "A házasságkötéssel megszerzett nagykorúságot a házasság megszűnése nem érinti." Ez azt jelenti, hogy a házasságkötés automatikusan cselekvőképessé teszi a kiskorút, és ez a státusz a házasság megszűnése után is megmarad, biztosítva a folytonosságot és a jogbiztonságot.
+
+4. A Ptk. 2:14. § (2) bekezdése kimondja: "A cselekvőképtelenség miatt nem semmis a cselekvőképtelen kiskorú által kötött és teljesített csekély jelentőségű szerződés, amelynek megkötése a mindennapi életben tömegesen fordul elő, és különösebb megfontolást nem igényel." Ez a kivétel a mindennapi élet gyakorlati szükségletei miatt szükséges, és csak akkor érvényes, ha a szerződés teljesítésre is került, így biztosítva a jogi forgalom egyszerűségét és a kereskedők védelmét.
+
+5. A Ptk. 2:12. § (1) bekezdése kimondja: "Ha a korlátozottan cselekvőképes kiskorú cselekvőképessé válik, maga dönt függő jognyilatkozatainak érvényességéről." Ez a rendelkezés biztosítja, hogy a kiskorú ne legyen kényszerítve egy olyan szerződés érvényességének elfogadására, amelyet már nem kíván, amikor cselekvőképessé válik, így védve őt a feletti akarattal szemben.
+
+6. A Ptk. 2:12. § (2) bekezdése részletesen felsorolja azokat az eseteket, amikor a korlátozottan cselekvőképes kiskorú a törvényes képviselője közreműködése nélkül tehet érvényes nyilatkozatot: személyes jellegű jognyilatkozatokra, mindennapi szükségletek fedezésére szolgáló kisebb szerződésekre, munkával szerzett jövedelmével való rendelkezésre, tisztán előnyös szerződésekre és szokásos mértékű ajándékozásra. Ezek a kivételek a kiskorú önállóságának fokozatos növekedését és a gyakorlati szükségleteket szolgálják.
+
+7. A Ptk. 2:12. § (4) bekezdése kimondja: "A törvényes képviselő a korlátozottan cselekvőképes kiskorú nevében maga is tehet jognyilatkozatot, kivéve azokat, amelyeknél jogszabály a korlátozottan cselekvőképes kiskorú saját nyilatkozatát kívánja meg, vagy amelyek a korlátozottan cselekvőképes kiskorú munkával szerzett jövedelmére vonatkoznak." Ez azt jelenti, hogy a törvényes képviselő és a kiskorú kumulatívan, egymás mellett is eljárhatnak, de bizonyos ügyekben kizárólag a kiskorú saját nyilatkozata érvényes.
+
+8. A Ptk. 2:17. § kimondja: "A kiskorúság miatti korlátozott cselekvőképességen vagy cselekvőképtelenségen alapuló semmisségre annak érdekében lehet hivatkozni, akinek cselekvőképessége korlátozott vagy hiányzik." Ez a relatív semmisség szabálya megvédi a kiskorúakat a visszaélésektől, mert csak ők hivatkozhatnak a semmisségre, a szerződő fél nem, így megakadályozva, hogy kihasználják a kiskorúság tényét.
+
+9. A cselekvőképesség formális korlátozása törvényi vagy bírósági úton történik és állandó jellegű, míg a cselekvőképtelen állapot átmeneti, konkrét élethelyzethez kapcsolódik. A Ptk. 2:9. § (1) bekezdése kimondja: "Semmis annak a személynek a jognyilatkozata, aki a jognyilatkozat megtételekor olyan állapotban van, hogy az ügyei viteléhez szükséges belátási képessége teljesen hiányzik." Ez független a formális cselekvőképességi státusztól, és konkrét élethelyzethez kapcsolódik.
+
+10. A Ptk. 2:19. § (2) bekezdése kimondja: "A bíróság cselekvőképességet részlegesen korlátozó gondnokság alá azt a nagykorút helyezi, akinek ügyei viteléhez szükséges belátási képessége – mentális zavara következtében – tartósan vagy időszakonként visszatérően nagymértékben csökkent, és emiatt – egyéni körülményeire, valamint családi és társadalmi kapcsolataira tekintettel – meghatározott ügycsoportban gondnokság alá helyezése indokolt." A (3) bekezdés előírja, hogy a bíróságnak konkrétan meg kell határoznia azokat a személyi, illetve vagyoni jellegű ügycsoportokat, amelyekben a cselekvőképességet korlátozza, az arányos korlátozás érdekében.
+
+11. A Ptk. 2:19. § (4) bekezdése kimondja: "A cselekvőképesség részlegesen sem korlátozható, ha az érintett személy jogainak védelme a cselekvőképességet nem érintő más módon biztosítható." Ez a szubszidiaritás elve biztosítja, hogy a cselekvőképesség korlátozása csak akkor alkalmazható, ha más megoldások, például a támogatott döntéshozatal nem elegendőek, így védve az érintett személy autonómiáját.
+
+12. A Ptk. 2:19. § (5) bekezdése kimondja: "A cselekvőképességében részlegesen korlátozott személy minden olyan ügyben önállóan tehet érvényes jognyilatkozatot, amely nem tartozik abba az ügycsoportba, amelyben cselekvőképességét a bíróság korlátozta." Ez biztosítja, hogy a részleges korlátozás valóban részleges maradjon, és az érintett személy minden más ügyben önállóan dönthessen.
+
+13. A Ptk. 2:21. § (2) bekezdése kimondja: "A bíróság cselekvőképességet teljesen korlátozó gondnokság alá azt a nagykorút helyezi, akinek az ügyei viteléhez szükséges belátási képessége – mentális zavara következtében – tartósan, teljeskörűen hiányzik." A (3) bekezdés pedig hozzáteszi: "A bíróság a cselekvőképességet abban az esetben korlátozhatja teljesen, ha az érintett személy jogainak védelme a cselekvőképességet nem érintő módon vagy a cselekvőképesség részleges korlátozásával nem biztosítható." Ez biztosítja, hogy a teljes korlátozás csak ultima ratio-ként alkalmazható.
+
+14. A Ptk. 2:14. § (1) bekezdése a cselekvőképtelen kiskorúakra vonatkozóan kimondja: "A cselekvőképtelen kiskorú jognyilatkozata semmis; nevében a törvényes képviselője jár el." A Ptk. 2:22. § (1) bekezdése pedig a cselekvőképtelen nagykorúakra vonatkozóan ugyanezt mondja: "A cselekvőképtelen nagykorú jognyilatkozata semmis, nevében gondnoka jár el." Mindkettőnél a (2) bekezdés kivételt tesz a csekély jelentőségű, teljesített szerződések tekintetében, így biztosítva a mindennapi élet szokásos ügyleteinek lebonyolítását.
+
+15. A Ptk. 2:38. § (1) bekezdése kimondja: "A gyámhatóság az egyes ügyei intézésében, döntései meghozatalában belátási képességének kisebb mértékű csökkenése miatt segítségre szoruló nagykorú számára, annak kérelmére – cselekvőképessége korlátozásának elkerülése érdekében – támogató kirendeléséről határoz." A (3) bekezdés pedig hangsúlyozza: "A támogató kirendelése a nagykorú cselekvőképességét nem érinti." Ez azt jelenti, hogy a támogató csak segít, de nem helyettesíti a nagykorút, és a végső döntés az érintetté marad, míg a gondnokság esetében a cselekvőképesség korlátozott vagy hiányzik.
+
+16. A Ptk. 2:38. § (1) bekezdése szerint a támogató akkor rendelhető ki, ha a nagykorú belátási képességének kisebb mértékű csökkenése miatt segítségre szorul, és maga kéri. A (2) bekezdés pedig kimondja, hogy ha a bíróság gondnokság alá helyezési perben úgy ítéli meg, hogy a részleges korlátozás sem indokolt, de az érintett személy segítségre szorul, akkor a bíróság határozatát közli a gyámhatósággal, és a támogatót az érintettel egyetértésben a gyámhatóság rendeli ki.
+
+17. A részleges korlátozás esetében a Ptk. 2:20. § (1) bekezdése kimondja, hogy a gondnok hozzájárulása szükséges a korlátozott ügycsoportokban, míg a támogatott döntéshozatal esetében a Ptk. 2:38. § (3) bekezdése biztosítja, hogy a cselekvőképesség megmaradjon. A támogató csak tanácsot ad és segít az információk megszerzésében, de nem helyettesíti az érintettet, és nem kell hozzájárulása a döntésekhez.
+
+18. A Ptk. 2:9. § (2) bekezdése kimondja: "A cselekvőképtelen állapotban tett jognyilatkozat – a végintézkedés kivételével – a cselekvőképtelenség miatt nem semmis, ha tartalmából és megtételének körülményeiből arra lehet következtetni, hogy a jognyilatkozat megtétele a fél cselekvőképessége esetén is indokolt lett volna." Ez a rendelkezés biztosítja, hogy azok a jognyilatkozatok, amelyek objektíven indokoltak, ne legyenek semmisek csak azért, mert az érintett átmenetileg cselekvőképtelen állapotban volt.
+
+19. A Ptk. 2:14. § (3) bekezdése kimondja: "A törvényes képviselőnek a kiskorú személyét és vagyonát érintő jognyilatkozata megtétele során az ítélőképessége birtokában lévő cselekvőképtelen kiskorú véleményét – korának és érettségének megfelelően – figyelembe kell vennie." Ez a részvételi jog biztosítja, hogy a kiskorú véleménye figyelembe legyen véve, ami tükrözi a gyermek jogairól szóló ENSZ Egyezmény alapelvét, amely szerint a gyermek véleményét figyelembe kell venni az őt érintő döntésekben.
+
+20. A Ptk. 2:12. § (2) c) pontja kimondja, hogy a korlátozottan cselekvőképes kiskorú "rendelkezhet munkával szerzett jövedelmével, annak erejéig kötelezettséget vállalhat." Ez önálló gazdasági szférát teremt a kiskorú számára, míg a törvényes képviselő által kezelt vagyon felett nincs önálló rendelkezési joga, ami biztosítja a vagyon védelmét és a kiskorú önállóságának fokozatos növekedését.
+
+21. A Ptk. 2:12. § (1) bekezdése kimondja: "A korlátozottan cselekvőképes kiskorú jognyilatkozatának érvényességéhez – ha e törvény eltérően nem rendelkezik – törvényes képviselőjének hozzájárulása szükséges." Ha a törvényes képviselő megtagadja a hozzájárulást, akkor a jognyilatkozat érvénytelen marad, mert a hozzájárulás hiánya esetén a korlátozottan cselekvőképes kiskorú jognyilatkozata nem érvényes, kivéve a törvényben meghatározott kivételeket.
+
+22. A hozzájárulás előzetesen felhatalmazás formájában, utólagosan pedig jóváhagyás formájában történhet. Mindkét esetben érvényessé teszi a jognyilatkozatot, de a felhatalmazás lehetővé teszi a kiskorú előzetes önállóságát, míg a jóváhagyás utólagos ellenőrzést biztosít. Ez a rugalmas rendszer lehetővé teszi, hogy a kiskorú bizonyos ügyekben előzetesen is eljárhasson, vagy utólagosan kérhesse a jóváhagyást.
+
+23. A Ptk. 2:12. § (3) bekezdése kimondja: "A törvényes képviselő a korlátozottan cselekvőképes kiskorúnak ígért vagy adott ingyenes juttatást a gyámhatóság engedélyével visszautasíthatja. Ha a gyámhatóság a törvényes képviselő visszautasító nyilatkozatát nem hagyja jóvá, a határozat a törvényes képviselő elfogadó nyilatkozatát pótolja." Ez a védelmi mechanizmus biztosítja, hogy a gyámhatóság ellenőrizhesse az ingyenes juttatásokat, és megvédhesse a kiskorút a nem kívánatos ajándékoktól vagy kötelezettségektől.
+
+24. A Ptk. 2:14. § (1) bekezdése szerint a cselekvőképtelen kiskorú jognyilatkozata semmis, így általában nem ajándékozhat. A Ptk. 2:12. § (2) e) pontja szerint viszont a korlátozottan cselekvőképes kiskorú "ajándékozhat a szokásos mértékben." Ez a különbség tükrözi a két kategória közötti eltérést: a korlátozottan cselekvőképes kiskorú nagyobb önállósággal rendelkezik, mint a cselekvőképtelen kiskorú.
+
+25. A Ptk. 2:16. § kimondja: "Semmis a kiskorú törvényes képviselőjének olyan jognyilatkozata, amellyel – a kiskorú vagyona terhére – ajándékoz, idegen kötelezettségért megfelelő ellenérték nélkül kötelezettséget vállal, vagy amellyel jogokról ellenérték nélkül lemond." Ez a rendelkezés a kiskorú vagyonának védelmét szolgálja, és megfelelően alkalmazandó a törvényes képviselőnek a korlátozottan cselekvőképes kiskorú jognyilatkozatához való hozzájárulására is.
+
+26. A Ptk. 2:19. § (2) bekezdése a részleges korlátozás esetében azt követeli meg, hogy a belátási képesség "tartósan vagy időszakonként visszatérően nagymértékben csökkent", míg a Ptk. 2:21. § (2) bekezdése a teljes korlátozás esetében azt követeli meg, hogy a belátási képesség "tartósan, teljeskörűen hiányzik." Ez a lényeges különbség: a részleges korlátozás esetében csak csökkenésről van szó, míg a teljes korlátozás esetében teljes hiányról.
+
+27. A Ptk. 2:19. § (2) bekezdése kimondja, hogy a bíróságnak "egyéni körülményeire, valamint családi és társadalmi kapcsolataira tekintettel" kell elbírálást végeznie. Ez biztosítja, hogy a bíróság ne egy általános sablont alkalmazzon, hanem minden esetben egyénileg értékelje az érintett személy helyzetét, figyelembe véve az egyedi körülményeket, családi és társadalmi kapcsolatokat.
+
+28. A mentális zavar az ok, amely a belátási képesség csökkenését vagy hiányát okozza. A Ptk. 2:19. § (2) és 2:21. § (2) bekezdései is hangsúlyozzák, hogy a belátási képesség csökkenése vagy hiánya "mentális zavara következtében" következik be. A mentális zavar lehet értelmi fogyatékosság, pszichés betegség, szenvedélybetegség vagy demencia, és ez alapján dönt a bíróság a gondnokság alá helyezés szükségességéről.
+
+29. A Ptk. 2:20. § (1) bekezdése kimondja: "Ha a cselekvőképességében részlegesen korlátozott személy cselekvőképessé válik, maga dönt függő jognyilatkozatainak érvényességéről." Ez biztosítja, hogy az érintett személy ne legyen kényszerítve olyan kötelezettségek elfogadására, amelyeket már nem kíván, amikor cselekvőképessé válik, így védve őt a nem kívánatos jognyilatkozatoktól.
+
+30. A Ptk. 2:20. § (1) bekezdése kimondja, hogy a részlegesen korlátozottan cselekvőképes nagykorú a korlátozott ügycsoportokban csak a gondnok hozzájárulásával tehet érvényes jognyilatkozatot. A gondnok viszont a gondnokolt nevében is eljárhat, de bizonyos ügyekben, például személyes jellegű jognyilatkozatoknál, csak a gondnokolt saját nyilatkozata érvényes, ami biztosítja az érintett személy autonómiáját bizonyos ügyekben.
+
+31. A Ptk. 2:20. § (3) bekezdése felsorolja azokat az eseteket, amikor a részlegesen korlátozottan cselekvőképes nagykorú a korlátozott ügycsoportokban is tehet érvényes nyilatkozatot a gondnok hozzájárulása nélkül: személyes jellegű jognyilatkozatokra, mindennapi szükségletek fedezésére szolgáló kisebb szerződésekre, jövedelmének meghatározott hányadával való rendelkezésre, tisztán előnyös szerződésekre és szokásos mértékű ajándékozásra. Ezek a kivételek biztosítják, hogy az érintett személy ne legyen teljesen kizárva a mindennapi életből.
+
+32. A Ptk. 2:14. § (2) bekezdése a cselekvőképtelen kiskorúakra vonatkozóan és a Ptk. 2:22. § (2) bekezdése a cselekvőképtelen nagykorúakra vonatkozóan ugyanazt a szabályt tartalmazza: nem semmis a csekély jelentőségű, mindennapi életben tömegesen előforduló, teljesített szerződés, amely különösebb megfontolást nem igényel. Ez biztosítja, hogy mindkét kategória ne legyen teljesen kizárva a mindennapi élet szokásos ügyleteiből.
+
+33. A Ptk. 2:22. § (3) bekezdése kimondja: "A gondnoknak a véleménynyilvánításra képes cselekvőképtelen nagykorú kívánságát az őt érintő jognyilatkozata megtétele előtt meg kell hallgatnia és lehetőség szerint figyelembe kell vennie." Ez a rendelkezés a személyiségi jogok tiszteletben tartását szolgálja, és tükrözi a fogyatékossággal élő személyek jogairól szóló ENSZ Egyezmény szellemét, amely szerint az érintett személy véleményét figyelembe kell venni.
+
+34. A támogatott döntéshozatal esetében a Ptk. 2:38. § (3) bekezdése biztosítja, hogy a cselekvőképesség megmaradjon, és a támogató csak segít, de nem helyettesíti az érintettet. A részleges korlátozás esetében viszont a Ptk. 2:20. § (1) bekezdése kimondja, hogy bizonyos ügyekben a gondnok hozzájárulása szükséges, ami korlátozza az érintett önállóságát. A támogatott döntéshozatal jobban tiszteletben tartja az autonómiát, mert a végső döntés az érintetté marad.
+
+35. Ha a támogató kirendelése után az érintett személy belátási képessége tovább romlik, akkor újra kell értékelni a helyzetet. A Ptk. 2:38. § (2) bekezdése szerint a bíróság gondnokság alá helyezési perben dönthet arról, hogy a támogatott döntéshozatal elegendő-e, vagy gondnokság alá helyezésre van szükség. Ha a belátási képesség tovább romlik, akkor lehet, hogy gondnokság alá helyezésre kerül sor, ami súlyosabb korlátozást jelent.
+
+36. A törvényi korlátozás objektív, életkoron alapuló, és a kiskorúakra vonatkozik, akiknek cselekvőképességét automatikusan korlátozza az életkor. A bírósági korlátozás viszont egyéni körülményekre tekintettel történik, mentális zavar alapján, és csak bírósági eljárás után alkalmazható. A Ptk. 2:8. § (1) bekezdése kimondja, hogy a cselekvőképességet "e törvény vagy a bíróság gondnokság alá helyezést elrendelő ítélete" korlátozhatja.
+
+37. A Ptk. 2:8. § (3) bekezdése kimondja: "A cselekvőképességet korlátozó jognyilatkozat semmis." Ez biztosítja, hogy a cselekvőképesség személyhez fűződő, elidegeníthetetlen jellegű maradjon, és senki ne mondhasson le róla vagy korlátozhassa azt jognyilatkozatával. Ez a védelem biztosítja, hogy a cselekvőképesség korlátozása kizárólag törvényi vagy bírósági úton történhessen, állami felügyelet mellett.
+
+38. A Ptk. 2:8. § (1) bekezdése kimondja: "Minden ember cselekvőképes, akinek cselekvőképességét e törvény vagy a bíróság gondnokság alá helyezést elrendelő ítélete nem korlátozza." Ez a vélelm azt jelenti, hogy minden ember cselekvőképes, kivéve, ha ezt a törvény vagy bírósági ítélet korlátozza, így a korlátozás bizonyítási terhe azokra hárul, akik a korlátozást állítják, nem azokra, akik a cselekvőképességet igazolják.
+
+39. Ha egy korlátozottan cselekvőképes kiskorú házasságot köt és ezzel cselekvőképessé válik, akkor a Ptk. 2:12. § (1) bekezdése szerint "maga dönt függő jognyilatkozatainak érvényességéről." Ez azt jelenti, hogy már nincs szüksége törvényes képviselő közreműködésére, és maga dönthet korábbi, függő jognyilatkozatairól, így védve őt a nem kívánatos kötelezettségektől.
+
+40. A kiskorúak esetében a korlátozás törvényi, életkoron alapuló, és automatikusan következik be, míg a nagykorúak esetében bírósági eljárás szükséges, mentális zavar alapján, egyéni körülményekre tekintettel. A Ptk. 2:10. § (1) bekezdése szerint a kiskorúak automatikusan korlátozottan cselekvőképesek vagy cselekvőképtelenek, míg a nagykorúak esetében a Ptk. 2:19. § és 2:21. § szerint bírósági eljárás szükséges a gondnokság alá helyezéshez.
+
+41. A Ptk. 2:17. § kimondja: "A kiskorúság miatti korlátozott cselekvőképességen vagy cselekvőképtelenségen alapuló semmisségre annak érdekében lehet hivatkozni, akinek cselekvőképessége korlátozott vagy hiányzik." Ez a szabály megakadályozza, hogy a szerződő fél kihasználja a kiskorúság tényét és a neki kedvezőtlen szerződéstől utólag szabaduljon, így csak a kiskorú hivatkozhat a semmisségre, védve őt a visszaélésektől.
+
+42. A Ptk. 2:9. § (2) bekezdése kimondja: "A cselekvőképtelen állapotban tett jognyilatkozat – a végintézkedés kivételével – a cselekvőképtelenség miatt nem semmis, ha tartalmából és megtételének körülményeiből arra lehet következtetni, hogy a jognyilatkozat megtétele a fél cselekvőképessége esetén is indokolt lett volna." Ez azt jelenti, hogy a végintézkedés mindig semmis, míg más jognyilatkozatok esetében lehet kivétel, ha objektíven indokoltak voltak.
+
+43. Ha a törvényes képviselő nem veszi figyelembe az ítélőképessége birtokában lévő cselekvőképtelen kiskorú véleményét, akkor megsérti a Ptk. 2:14. § (3) bekezdésében foglalt részvételi jogot. Ez a rendelkezés a gyermek jogairól szóló ENSZ Egyezmény alapelvével is ellentétes, amely szerint a gyermek véleményét figyelembe kell venni az őt érintő döntésekben, korának és érettségének megfelelően.
+
+44. A Ptk. 2:12. § (2) a) pontja szerint a korlátozottan cselekvőképes kiskorú "tehet olyan személyes jellegű jognyilatkozatot, amelyre jogszabály feljogosítja", és ezeket önállóan teheti. A vagyoni jellegű jognyilatkozatokhoz viszont általában a törvényes képviselő hozzájárulása szükséges, kivéve a törvényben meghatározott kivételeket, mint például a munkával szerzett jövedelemmel való rendelkezés vagy a tisztán előnyös szerződések.
+
+45. A Ptk. 2:12. § (4) bekezdése kimondja: "A törvényes képviselő a korlátozottan cselekvőképes kiskorú nevében maga is tehet jognyilatkozatot, kivéve azokat, amelyeknél jogszabály a korlátozottan cselekvőképes kiskorú saját nyilatkozatát kívánja meg." Ez azt jelenti, hogy a törvényes képviselő és a korlátozottan cselekvőképes kiskorú kumulatívan, egymás mellett is eljárhatnak, de bizonyos ügyekben kizárólag a kiskorú saját nyilatkozata érvényes.
+
+46. A gondnokság esetében a gondnok kezeli a gondnokolt vagyonát a korlátozás mértékétől függően, és bizonyos ügyekben a gyámhatóság jóváhagyása is szükséges. A támogatott döntéshozatal esetében viszont az érintett megtartja vagyonával való rendelkezési jogát, a támogató csak segít az információk megszerzésében és a lehetőségek mérlegelésében, de nem kezeli a vagyonát.
+
+47. Ha a részlegesen korlátozottan cselekvőképes nagykorú a gondnoka hozzájárulása nélkül tesz jognyilatkozatot a korlátozott ügycsoportokban, akkor a Ptk. 2:20. § (1) bekezdése szerint az érvénytelen, kivéve a (3) bekezdésben felsorolt kivételeket: személyes jellegű jognyilatkozatokra, mindennapi szükségletek fedezésére szolgáló kisebb szerződésekre, jövedelmének meghatározott hányadával való rendelkezésre, tisztán előnyös szerződésekre és szokásos mértékű ajándékozásra.
+
+48. A Ptk. 2:19. § (2) bekezdése kimondja, hogy a belátási képesség "tartósan vagy időszakonként visszatérően nagymértékben csökkent" lehet. Ez azt jelenti, hogy az időszakonként visszatérő csökkenés is alkalmazható a részleges korlátozás esetében, ha a visszatérés tartós jellegű. A teljes korlátozás esetében viszont a Ptk. 2:21. § (2) bekezdése azt követeli meg, hogy a belátási képesség "tartósan, teljeskörűen hiányzik", ami súlyosabb követelmény.
+
+49. A cselekvőképesség szabályozása biztosítja, hogy a szerződő felek tudják, milyen feltételek mellett érvényesek a jognyilatkozatok, és kinek van szüksége törvényes képviselő vagy gondnok közreműködéséhez. A Ptk. 2:8. § (1) bekezdése szerint minden ember cselekvőképes, kivéve, ha ezt a törvény vagy bírósági ítélet korlátozza, így megteremti a jogbiztonságot és a kiszámíthatóságot a jogi forgalomban.
+
+50. A differenciált, egyéniesített szabályozás lehetővé teszi, hogy mindenki képességeihez mérten aktívan részt vehessen a jogi életben, miközben megvédi őt a saját hátrányos döntéseitől és mások visszaéléseitől. A Ptk. 2:19. § (2) bekezdése szerint a bíróságnak "egyéni körülményeire, valamint családi és társadalmi kapcsolataira tekintettel" kell elbírálást végeznie, ami jobban tiszteletben tartja az autonómiát, mint egy merev, egységes rendszer, amely nem veszi figyelembe az egyéni körülményeket.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

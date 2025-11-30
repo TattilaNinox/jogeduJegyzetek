@@ -1,0 +1,408 @@
+A POLGÁRI JOGI JOGVISZONY
+
+I. Bevezetés: A Polgári Jogi Jogviszony Fogalma és Jellemzői
+
+A **polgári jogi jogviszony** olyan **jogilag szabályozott társadalmi viszony**, amelyben a feleket egymással szemben **konkrétan meghatározott jogok illetik meg és kötelezettségek terhelik**. A jogviszony a polgári jog egyik alapfogalma, amely a társadalmi viszonyok jogi modellezését, rendezését teszi lehetővé.
+
+A **2013. évi V. törvény (Polgári Törvénykönyv) 1:1. §-a** utal a polgári jog szabályozási körére:
+
+"E törvény a mellérendeltség és egyenjogúság elve szerint szabályozza a személyek alapvető vagyoni és személyi viszonyait."
+
+Ez a rendelkezés kifejezi a polgári jogi jogviszonyok **legfontosabb jellemzőit**:
+
+**1. Vagyoni és személyi jelleg**
+
+A polgári jogi jogviszonyok **kétféle természetűek** lehetnek:
+
+**a) Vagyoni jellegű jogviszonyok**: Olyan jogviszonyok, amelyek **vagyoni értékkel bíró javakra** vonatkoznak, és amelyek gazdasági jellegűek. Ide tartoznak:
+- **tulajdoni viszonyok** (ki a tulajdonosa egy dolognak – dologi jog);
+- **szerződéses viszonyok** (adás-vétel, bérlet, kölcsön – kötelmi jog);
+- **öröklési viszonyok** (vagyon átszállása halál esetén – öröklési jog).
+
+A vagyoni jellegű jogviszonyok jellemzője, hogy **pénzben kifejezhetők**, és esetükben a **teljesítés pénzben** is lehetséges.
+
+**b) Személyi jellegű jogviszonyok**: Olyan jogviszonyok, amelyek az **ember személyiségéhez, emberi méltóságához, családi kapcsolataihoz** fűződnek. Ide tartoznak:
+- **személyiségi jogi viszonyok** (névhez való jog, becsülethez való jog, képmáshoz való jog);
+- **családi jogi viszonyok** (házastársi viszony, szülő-gyermek viszony);
+- **jogalanyisággal kapcsolatos viszonyok** (jogképesség, cselekvőképesség, státusz).
+
+A személyi jellegű jogviszonyok jellemzője, hogy **nem elsősorban vagyoni természetűek** (bár vagyoni vonzatuk lehet, pl. tartás), és nem **átruházhatók**, személyhez fűződőek.
+
+**2. Mellérendeltség és egyenjogúság**
+
+A polgári jogi jogviszonyokban a felek **mellérendeltek** (horizontális viszony) és **egyenjogúak**: nincs közöttük alá-fölérendeltségi viszony, egyik félnek sincs többletjoga a másikkal szemben pusztán jogi pozíciója alapján.
+
+Ez **megkülönbözteti** a polgári jogi jogviszonyokat a **közjogi jogviszonyoktól** (pl. közigazgatási, büntetőjogi jogviszonyok), ahol az egyik fél (állam, hatóság) felette áll a másik félnek (állampolgár).
+
+**3. Diszpozitivitás (jogviszonyalakító szabadság)**
+
+A polgári jogi jogviszonyokban a felek **autonómok**: **szabadon alakíthatják** jogviszonyaikat. Ez a **privát autonómia** és a **szerződési szabadság** elve.
+
+A polgári jog szabályai **javarészt diszpozitívek** (eltérést engedőek): a felek megállapodásukkal eltérhetnek a törvényi szabályoktól. Ez eltér a közjog kógens (imperatív, eltérést nem engedő) szabályaitól.
+
+**4. További jellemzők**
+
+- A polgári jogi jogviszonyok alanyai **emberek és emberi szervezetek** (természetes személyek, jogi személyek);
+- A felek **egyaránt autonómok**, egymástól elkülönültek;
+- A jogviszonyok tipikusan a felek **szabad akaratából** keletkeznek (szerződési szabadság);
+- A feleket egymással szemben **kiegyensúlyozott** jogosultságok és kötelezettségek illetik meg és terhelik.
+
+
+II. A Polgári Jogi Jogviszony Szerkezeti Elemei
+
+A polgári jogi jogviszony **három klasszikus szerkezeti elemből** áll: **alanyok, tárgy és tartalom**. Ez a **hármas tagolás** a jogtudomány által kimunkált, általánosan elfogadott rendszer.
+
+**1. Alanyok**
+
+A jogviszony **alanyai** azok a személyek (természetes személyek, jogi személyek), akik vagy amelyek között a jogviszony létrejön, és akik jogok hordozói és kötelezettségek viselői.
+
+**a) Ki lehet jogviszony alanya?**
+
+Jogviszony alanya lehet:
+
+- **Természetes személy** (ember): A **Ptk. 2:1. § (1) bekezdése** szerint: "Minden ember jogképes: jogai és kötelezettségei lehetnek." A természetes személy **jogképessége** a fogamzás időpontjától (élve születés feltételével) a halálig tart (Ptk. 2:2. §, 2:4. §).
+
+- **Jogi személy**: A **Ptk. 3:1. § (1) bekezdése** szerint: "A jogi személy jogképes: jogai és kötelezettségei lehetnek." A jogi személy a bírósági nyilvántartásba vétellel keletkezik (Ptk. 3:4. § (4) bekezdés).
+
+**b) Jogképesség és cselekvőképesség**
+
+A **jogalannyá válás feltételei**:
+
+- **Jogképesség**: A személynek az a képessége, hogy polgári jogi jogviszonyokban **jogai és kötelezettségei lehetnek**. A jogképesség **statikus** képesség: arról szól, hogy valaki jogok alanya lehet.
+
+- **Cselekvőképesség**: A személynek az a képessége, hogy saját akaratnyilatkozatával, saját nevében **jogokat szerezhet és kötelezettségeket vállalhat**. A cselekvőképesség **dinamikus** képesség: arról szól, hogy valaki maga, önállóan tehet jognyilatkozatokat.
+
+A **Ptk. 2:8. § (1) bekezdése** kimondja: "Minden ember cselekvőképes, akinek cselekvőképességét e törvény vagy a bíróság gondnokság alá helyezést elrendelő ítélete nem korlátozza."
+
+**c) A jogviszony pólusai**
+
+A jogviszonyban az alanyok különböző **érdekpozíciókat** (pólusokat) foglalnak el:
+
+- **Kétpólusú (dualisztikus) jogviszony**: A jogviszony alanyai **két különböző, szembenálló érdekállásban** helyezkednek el. Az egyik fél **jogosult**, a másik fél **kötelezett**. Ez jellemző a szerződésekre (pl. adás-vétel: eladó és vevő).
+
+- **Többpólusú (pluralisztikus) jogviszony**: A jogviszony alanyai **különböző érdekpozíciókat** foglalnak el, de nem határozható meg egyértelműen, hogy az ellentétes vagy azonos. Pl. társasági szerződésben több tag van, különböző érdekekkel.
+
+**d) Egyidejű és egymást követő többalanyúság**
+
+- **Egyidejű többalanyúság**: A jogviszony egyazon pólusán **egy időben többen** is szerepelhetnek (pl. több tulajdonostárs, több adós). A jogosultság vagy kötelezettség lehet:
+  - **Osztott**: mindenkinek a ráeső rész (hányad) szerint;
+  - **Együttes**: mindenkinek egyidejűleg, arányosan;
+  - **Egyetemleges**: bármelyiktől az egész követelhető (egyetemleges kötelezettség esetén).
+
+- **Egymást követő többalanyúság (jogutódlás)**: A jogviszonyban **alanyváltozás** történik: a korábbi jogalany (jogelőd) helyébe új jogalany (jogutód) lép. A jogutódlás lehet:
+  - **Egyetemes (universalis)**: a jogelőd vagyona, mint egész száll át (pl. öröklés);
+  - **Különös (singularis)**: csak egyes, meghatározott jogok és kötelezettségek szállnak át (pl. engedményezés, tartozásátvállalás).
+
+**2. Tárgy**
+
+A jogviszony **tárgya** az az **érdek**, amelynek védelmére és céljából a jogviszony keletkezik, amire a jogviszony vonatkozik.
+
+A tárgy **kétféle** lehet:
+
+**a) Közvetlen tárgy**
+
+A jogviszony **közvetlen tárgya** azon **emberi magatartások**, amelyeket az adott jogviszony alanyainak egymás irányában tanúsítaniuk kell. Szűkebb értelemben a közvetlen tárgy a **kötelezett magatartása**, vagyis az a **szolgáltatás**, amit a jogosult a kötelezettől követelhet.
+
+A kötelezett magatartása lehet:
+
+**- Tevőleges (pozitív) magatartás**: A kötelezettől valamilyen **tevékenység kifejtését** követeli meg. A római jogban megkülönböztették:
+  - **dare**: a dolog vagy jog átruházása (pl. adás-vételnél a tulajdonjog átruházása);
+  - **facere**: valamilyen tevékenység kifejtése (pl. vállalkozási szerződésnél a munka elvégzése);
+  - **praestare**: tartós rendelkezésre állás (pl. bérletnél a dolog használatra bocsátása).
+
+**- Nemleges (negatív) magatartás**: A kötelezettől **tartózkodást, tűrést** követel meg. A jogosulttal szemben mindenki vagy a meghatározott kötelezett **tartózkodni köteles** a jogosult jogainak megsértésétől (pl. tulajdonjog esetén mindenki köteles tartózkodni a tulajdonos jogának megsértésétől).
+
+Példák:
+- **Adás-vételi szerződés közvetlen tárgya**: az eladó köteles átadni a dolgot és átruházni a tulajdonjogot (dare), a vevő köteles fizetni a vételárat (dare).
+- **Vállalkozási szerződés közvetlen tárgya**: a vállalkozó köteles elvégezni a munkát (facere).
+- **Tulajdonjog közvetlen tárgya**: mindenki köteles tartózkodni a tulajdonos jogának megsértésétől (nemleges magatartás).
+
+**b) Közvetett tárgy**
+
+A jogviszony **közvetett tárgya** minden esetben az a **dolog** (vagy jog, vagyontárgy), amelyre a közvetlen tárgyat jelentő emberi magatartás irányul.
+
+Példák:
+- **Adás-vételi szerződés közvetett tárgya**: az eladott dolog (pl. lakás, autó, könyv).
+- **Bérleti szerződés közvetett tárgya**: a bérbe adott dolog (pl. lakás, földterület).
+- **Tulajdonjog közvetett tárgya**: a tulajdonban álló dolog.
+
+Nem minden jogviszonynak van közvetett tárgya (pl. személyiségi jogi jogviszonyoknak, családi jogi jogviszonyoknak általában nincs).
+
+**3. Tartalom**
+
+A jogviszony **tartalma** a jogviszony alanyait megillető **alanyi jogok** és az őket terhelő **kötelezettségek** összessége.
+
+**a) Alanyi jog**
+
+Az **alanyi jog** a személynek olyan megengedett cselekedete, amelyhez jogi hatások fűződnek. Az alanyi jog **jogi kényszerrel biztosított lehetőség** valamely jogi kötelesség teljesítésének a követelésére. Az alanyi jog **jogosultság**: a jogosult követelheti a kötelezettől a kötelezettség teljesítését.
+
+Az **alanyi magánjog** a személy (természetes személy vagy jogi személy) **autonómiájának, szabadságának és cselekvésének** végső soron **bírósági jogvédelemben** is részesíthető vonatkozása.
+
+Az alanyi jog **típusai**:
+
+- **Igényjoggal rendelkező alanyi jog**: Bírósági úton kikényszeríthető (pl. a vevő követelheti a dolog átadását).
+- **Igény nélküli (naturalis obligatio)**: Bírósági úton nem érvényesíthető (pl. elévült követelés – a kötelezettség fennáll, de nem kényszeríthető ki).
+- **Alakító jogok (hatalmasságok)**: A jogosultnak hatalmában áll, hogy egyoldalú cselekvésével jogváltozást idézzen elő (pl. felmondási jog, elállási jog, elővásárlási jog).
+
+**b) Kötelezettség**
+
+A **kötelezettség** az alanyi jog **korrelatív párja**: a kötelezett **köteles** teljesíteni azt, amit a jogosult követelhet. A kötelezettség **jogi kényszerrel** kikényszeríthető: ha a kötelezett nem teljesít, a jogosult **bírósághoz fordulhat**, és a kötelezettséget **végrehajtás** útján kikényszerítheti.
+
+**c) Az alanyi jogok és kötelezettségek korrelációja**
+
+Az alanyi jogok és kötelezettségek **kölcsönösen** feltételezik egymást: ahol jogosultság van, ott kötelezettség is van, és fordítva. Ez a **korreláció** biztosítja a jogviszony **egyensúlyát**: a jogosult jogát a kötelezett kötelezettsége biztosítja.
+
+Példa: az adás-vételi szerződésben a vevő **joga** a dolog tulajdonjogának megszerzéséhez **korrelál** az eladó **kötelezettségével** a tulajdonjog átruházására. Ugyanakkor a vevő **kötelezettsége** a vételár megfizetésére **korrelál** az eladó **jogával** a vételár követeléséhez.
+
+
+III. A Polgári Jogi Jogviszonyok Osztályozása
+
+A polgári jogi jogviszonyok **sokfélék**, és különböző szempontok szerint osztályozhatók. A legfontosabb osztályozási szempontok:
+
+**1. Szerkezet szerint: abszolút és relatív jogviszonyok**
+
+**a) Abszolút szerkezetű jogviszonyok**
+
+Az **abszolút szerkezetű jogviszonyokban** csak a **jogosult személye** ismert, név szerint meghatározott, vele szemben pedig **mindenki más** – mint kívülálló – **kötelezett**. A kívülállók kötelezettsége alapvetően **negatív tartalmú**: **elismerni, tűrni és tartózkodni** a jogosult jogának megsértésétől.
+
+Az abszolút szerkezetű jogviszonyok jellemzői:
+- **Erga omnes hatály**: mindenkivel szemben hatályosak;
+- **Védelmi jelleg**: alapvetően a jogosult pozíciójának, státuszának védelmét szolgálják;
+- **Kógens szabályozás**: a szabályok javarészt kógensek, nem lehet eltérni tőlük;
+- **Elvállalástól függetlenül keletkeznek**: nem a felek akaratából, hanem törvény erejénél fogva (pl. a tulajdonjog a dolog megszerzésével keletkezik).
+
+Példák abszolút szerkezetű jogviszonyokra:
+- **Tulajdonjog**: A tulajdonos jogosult, vele szemben mindenki kötelezett arra, hogy elismerjék tulajdonjogát, tűrjék annak gyakorlását, és tartózkodjanak a tulajdonjog megsértésétől.
+- **Személyiségi jogok**: Az ember jogosult személyiségi jogai védelmére, mindenki kötelezett arra, hogy tartózkodjon azok megsértésétől.
+- **Szellemi alkotásokhoz fűződő jogok**: A szerző jogosult, mindenki kötelezett tiszteletben tartani jogait.
+
+Az abszolút szerkezetű jogviszony **jogsértés esetén** **relatív szerkezetűvé** alakul: ha valaki megsérti a jogot (pl. ellopja a dolgot, becsületsértést követ el), a jogosult és a jogsértő között **konkrét, relatív szerkezetű jogviszony** keletkezik (kártérítési, visszaszolgáltatási kötelezettség).
+
+**b) Relatív szerkezetű jogviszonyok**
+
+A **relatív szerkezetű jogviszonyokban** mind a **jogosult**, mind a **kötelezett(ek)** **személy szerint** (név szerint) **meghatározottak**. A jogosult csak a meghatározott kötelezettekkel szemben érvényesítheti jogát, nem mindenkivel szemben.
+
+A relatív szerkezetű jogviszonyok jellemzői:
+- **Inter partes hatály**: csak a felek között hatályosak;
+- **Cselekvési szabadságot biztosító jelleg**: a felek jogszerzését, a felek közötti vagyonforgalmat szolgálják;
+- **Diszpozitív szabályozás**: a szabályok javarészt diszpozitívek, a felek eltérhetnek tőlük;
+- **Elvállalástól függően keletkeznek**: tipikusan a felek akaratából (szerződés) jönnek létre;
+- **A kötelezettségek a jogosultságokat ellentételezik**: a felek kölcsönösen jogosultak és kötelezettek (szinallagma).
+
+Példák relatív szerkezetű jogviszonyokra:
+- **Szerződéses jogviszonyok**: adás-vétel, bérlet, kölcsön, megbízás stb. Mindegyikben a felek személy szerint meghatározottak.
+- **Szerződésen kívüli károkozásból eredő jogviszony**: a károsult (jogosult) és a károkozó (kötelezett) között konkrét kártérítési jogviszony áll fenn.
+- **Társasági jogviszony**: a társaság tagjai között.
+
+**2. Tartalom szerint: dologi jogi és kötelmi jogi jogviszonyok**
+
+**a) Dologi jogi jogviszonyok**
+
+A **dologi jogi jogviszonyok** **dolgokra vonatkozó jogokat** szabályoznak. A dologi jog tipikusan **abszolút szerkezetű**: a jogosulttal szemben mindenki kötelezett.
+
+A **Ptk. Ötödik Könyve** (Dologi jog) szabályozza a dologi jogi jogviszonyokat:
+- **Tulajdonjog** (Ptk. 5:1-5:72. §): a legteljesebb dologi jog;
+- **Birtokvédelem** (Ptk. 5:8-5:15. §): a birtok védelme;
+- **Közös tulajdon** (Ptk. 5:73-5:84. §): többek tulajdonjoga ugyanazon dolgon;
+- **Zálogjog** (Ptk. 5:86-5:139. §): biztosítéki jog;
+- **Szolgalmi jogok** (Ptk. 5:140-5:184. §): idegen dolog használatára vonatkozó jogok.
+
+A dologi jogi jogviszonyok jellemzői:
+- **Abszolút szerkezet** (erga omnes hatály);
+- **Dologra vonatkoznak** (corpus);
+- **Védelmi jelleg** (státusz védelem);
+- **Kógens szabályozás**.
+
+**b) Kötelmi jogi jogviszonyok**
+
+A **kötelmi jogi jogviszonyok** **szolgáltatásra irányuló viszonyokat** szabályoznak. A kötelmi jog tipikusan **relatív szerkezetű**: a jogosult és a kötelezett személy szerint meghatározott.
+
+A **Ptk. Hatodik Könyve** (Kötelmi jog) szabályozza a kötelmi jogi jogviszonyokat:
+- **Szerződések** (adás-vétel, bérlet, kölcsön, megbízás, vállalkozási szerződés stb.);
+- **Szerződésen kívüli kötelmek** (kártérítés, jogalap nélküli gazdagodás);
+- **Egyoldalú kötelezettségvállalások** (díjkitűzés).
+
+A kötelmi jogi jogviszonyok jellemzői:
+- **Relatív szerkezet** (inter partes hatály);
+- **Szolgáltatásra irányulnak** (magatartás);
+- **Cselekvési szabadság** (jogszerzés, forgalom);
+- **Diszpozitív szabályozás** (a felek alakíthatják).
+
+**3. Egyéb osztályozási szempontok**
+
+- **Előkészítő jogviszonyok**: Egy másik jogviszony létesítése a tárgyuk (pl. előszerződés).
+- **Biztosító jogviszonyok**: Egy másik jogviszony zavartalanságát biztosítják (pl. kezesség, zálogjog).
+- **Csonka jogviszonyok**: A jogviszony valamelyik fogalmi eleme hiányzik (pl. csak jog van, de nincs kikényszeríthető kötelezettség – természetes kötelezettség).
+
+
+IV. A Jogviszonyok Változása: A Jogi Tények
+
+A **jogi tények** az életnek azon **jelenségei** (emberi, társadalmi, természeti), amelyek a magánjog szabályai és elvei alapján **jogviszonyok keletkezését, módosulását vagy megszűnését** váltják ki.
+
+**1. A jogi tények rendszerezése**
+
+A jogi tényeket többféle szempont szerint osztályozhatjuk:
+
+**a) Joghatások szerint**
+
+- **Jogviszonyokat keletkeztető jogi tények**: Létrehozzák a polgári jogviszonyokat. Ez lehet:
+  - **Eredeti jogszerzés**: más jogától függetlenül, újonnan jön létre a jog (pl. uratlan dolog elsajátítása, elbirtoklás);
+  - **Származékos jogszerzés**: a jogot szerző a korábban jogot gyakorló jogait szerzi meg (pl. adás-vétel, öröklés).
+
+- **Jogviszonyokat módosító jogi tények**: A jogviszony fennmarad, de bizonyos részében megváltozik (pl. a kötelezett személye változik – tartozásátvállalás).
+
+- **Jogviszonyokat megszüntető jogi tények**: A jogviszony megszűnik (pl. szerződés felmondása, a tulajdonjog átruházása). A megszűnés lehet:
+  - **Ex nunc** (a jövőre nézve): a megszűnés időpontjától;
+  - **Ex tunc** (visszamenőleg): a keletkezés időpontjára visszamenőleg (pl. érvénytelenség).
+
+**b) Természetük szerint**
+
+**1) Emberi magatartások**
+
+Az **emberi magatartások** olyan jogi tények, amelyek **emberi akaratból, cselekvésből** erednek.
+
+**Jogos magatartások (jogügyletek):**
+
+A **jogügylet** olyan emberi magatartás, amely **joghatások kiváltására** irányul, és amelyet a jogalkotó **joghatásokkal** ruház fel. A jogügylet jellemzője, hogy a **joghatás a cselekvő akaratának megfelelően** következik be.
+
+Példák:
+- **Szerződés**: A felek **akaratából** jön létre a szerződéses jogviszony (pl. adás-vételi szerződés megkötése).
+- **Végintézkedés**: Az örökhagyó **akaratából** rendelkezik vagyonáról halála esetére (pl. végrendelet).
+- **Társaság alapítása**: A tagok **akaratából** jön létre a társasági jogviszony.
+
+**Jogellenes magatartások:**
+
+A **jogellenes magatartások** olyan emberi magatartások, amelyek **jogsértést** jelentenek, és amelyekhez a jog **hátrányos jogkövetkezményeket** (szankciókat) fűz.
+
+Példák:
+- **Károkozás**: Jogellenesen kárt okoz, kártérítési kötelezettség keletkezik (Ptk. 6:519. §).
+- **Szerződésszegés**: A szerződés megszegése kártérítési kötelezettséget eredményez.
+- **Tulajdonjog megsértése**: Birtokháborítás, birtokelvonás.
+
+**2) Emberi magatartástól független tények**
+
+**Események:**
+
+Az **események** olyan jogi tények, amelyek **emberi akarattól függetlenül**, természeti vagy más okokból következnek be.
+
+Példák:
+- **Természeti katasztrófák** (árvíz, tűzvész, földrengés): megszüntetheti a kötelezettséget (vis maior), vagy tulajdonváltozást eredményezhet;
+- **Termés érése**: tulajdonszerzés (a termés a tulajdonosé);
+- **Halál**: a jogképesség megszűnése, öröklés megnyílása.
+
+**Az idő múlása:**
+
+Az **idő múlása** különösen fontos jogi tény, amely számos joghatást vált ki:
+
+- **Elbirtoklás**: Hosszú időn át tartó birtoklás tulajdonszerzést eredményez.
+- **Elévülés**: Az igény kikényszeríthetőségének elvesztése (Ptk. 6:21-6:26. §).
+- **Jogvesztő határidő**: Az alanyi jog elvesztése.
+- **Határozott idő lejárta**: A jogviszony megszűnése (pl. határozott időre kötött szerződés).
+
+**3) Hatósági és bírósági aktusok**
+
+A **hatósági és bírósági aktusok** olyan jogi tények, amelyek állami (közhatalom) döntéséből erednek.
+
+Példák:
+
+- **Konstitutív (jogviszonyt alakító) határozat**: Maga hozza létre, módosítja vagy szünteti meg a jogviszonyt (pl. házasság felbontása, holtnak nyilvánítás, kisajátítás, gondnokság alá helyezés).
+
+- **Deklaratív (jogviszonyt megállapító) határozat**: Megállapítja a jogviszony fennállását vagy fenn nem állását (pl. tulajdonjog megállapítása, apaság megállapítása).
+
+- **Ingatlan-nyilvántartási bejegyzés**: Sok esetben konstitutív hatályú (pl. jelzálogjog keletkezése, tulajdonjog átszállása ingatlannál).
+
+- **Anyakönyvi bejegyzés**: Tanúsítja a jogképesség kezdetét (születés), a házasság létrejöttét, a jogképesség megszűnését (halál).
+
+**2. Példa: hogyan hoz létre, módosít és szüntet meg egy jogi tény egy jogviszonyt**
+
+**Szerződéskötés (jogi tény: jogügylet):**
+
+- **Keletkezés**: A és B **adás-vételi szerződést kötnek** (jogügylet). Ez **létrehozza** a szerződéses jogviszonyt: A (eladó) köteles átadni a dolgot, B (vevő) köteles fizetni a vételárat.
+
+- **Módosítás**: A és B **megállapodnak** a vételár módosításában (újabb jogügylet). Ez **módosítja** a jogviszonyt: a vételár összege megváltozik, de a jogviszony fennmarad.
+
+- **Megszűnés**: A átadja a dolgot, B megfizeti a vételárat (teljesítés – jogügylet). Ez **megszünteti** a jogviszonyt: mindkét fél teljesített, a jogviszony megszűnik.
+
+**Károkozás (jogi tény: jogellenes magatartás):**
+
+- **Keletkezés**: C **jogellenesen kárt okoz** D-nek (jogellenes magatartás). Ez **létrehozza** a kártérítési jogviszonyt: C (károkozó) köteles megtéríteni a kárt D-nek (károsult).
+
+- **Megszűnés**: C **megfizeti a kártérítést** (teljesítés). Ez **megszünteti** a jogviszonyt.
+
+**Halál (jogi tény: esemény):**
+
+- **Keletkezés és megszűnés**: E meghal (esemény). Ez **megszünteti** E jogképességét (Ptk. 2:4. §), és **létrehozza** az öröklési jogviszonyt: E örökösei jogosulttá válnak az örökségre.
+
+
+V. Összegzés
+
+A **polgári jogi jogviszony** a polgári jog **alapfogalma** és **dogmatikai alapja**, amely lehetővé teszi a társadalmi viszonyok jogi modellezését és a jogviták rendezését.
+
+**A jogviszony fogalma**: Jogilag szabályozott társadalmi viszony, amelyben a feleket egymással szemben konkrétan meghatározott jogok illetik meg és kötelezettségek terhelik.
+
+**A jogviszony szerkezeti elemei:**
+
+**1. Alanyok**: Természetes személyek, jogi személyek, akik jogok hordozói és kötelezettségek viselői. Feltétel: jogképesség (statikus) és cselekvőképesség (dinamikus).
+
+**2. Tárgy**: 
+- **Közvetlen tárgy**: az emberi magatartás, szolgáltatás (tevőleges vagy nemleges)
+- **Közvetett tárgy**: a dolog, amelyre a magatartás irányul
+
+**3. Tartalom**: Az alanyi jogok és kötelezettségek összessége. Az alanyi jogok és kötelezettségek korrelálnak egymással.
+
+**A jogviszonyok osztályozása:**
+
+**Szerkezet szerint:**
+- **Abszolút szerkezetű**: jogosult ismert, mindenki kötelezett (pl. tulajdonjog, személyiségi jogok)
+- **Relatív szerkezetű**: mind a jogosult, mind a kötelezett ismert (pl. szerződések)
+
+**Tartalom szerint:**
+- **Dologi jogi**: dolgokra vonatkoznak, abszolút szerkezetűek (tulajdon, birtok, zálogjog)
+- **Kötelmi jogi**: szolgáltatásra irányulnak, relatív szerkezetűek (szerződések, kártérítés)
+
+**A jogviszonyok változása – jogi tények:**
+
+**1. Jogviszonyokat keletkeztető tények**: Létrehozzák a jogviszonyt (eredeti vagy származékos jogszerzés)
+
+**2. Jogviszonyokat módosító tények**: Megváltoztatják a jogviszony valamely elemét (alany, tárgy, tartalom)
+
+**3. Jogviszonyokat megszüntető tények**: Megszüntetik a jogviszonyt (ex nunc vagy ex tunc hatállyal)
+
+**A jogi tények fajtái:**
+- **Emberi magatartások**: jogügyletek (jogos) és jogellenes magatartások
+- **Emberi magatartástól független tények**: események, idő múlása
+- **Hatósági és bírósági aktusok**: konstitutív vagy deklaratív határozatok
+
+**A jogviszony-tan jelentősége:**
+
+A jogviszony-tan nemcsak **elméleti jelentőségű**, hanem **gyakorlati eszköz** is:
+- Lehetővé teszi a **társadalmi viszonyok jogi modellezését**: a komplex társadalmi kapcsolatokat jogi kategóriákkal (jogosult-kötelezett, jog-kötelezettség) lehet leírni és rendezni;
+- Biztosítja a **jogviták rendezését**: ha ismerjük a jogviszony szerkezetét, meg tudjuk határozni, kinek milyen jogai és kötelezettségei vannak;
+- Alapozza meg a **jogalkalmazást**: a bíróságnak meg kell állapítania a jogviszony alanyait, tárgyát, tartalmát, hogy helyes döntést hozhasson;
+- Biztosítja a **jogbiztonságot**: az egyértelmű jogviszony-szerkezet kiszámíthatóvá teszi a jogi következményeket.
+
+A polgári jogi jogviszony fogalma és rendszere így a **polgári jog dogmatikai magja**, amely nélkül nem érthető meg a polgári jog működése, nem alkalmazhatók helyesen a polgári jogi szabályok, és nem valósítható meg a jogbiztonság.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

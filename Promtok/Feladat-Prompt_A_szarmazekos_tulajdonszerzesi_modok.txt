@@ -1,0 +1,60 @@
+AI Feladat-Prompt: Témaspecifikus Jogászi Tétel Kidolgozása
+
+1. Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkészülését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat megtalálod a "forrasok" mappában Feltétlen használd fel őket nagyon fontos!!!! ? hogy idézd meg pontosan szorul szóra azokat a jogszabályokat amelyek a jelen témakörhöz kapcsolódnak, illetve amik alapján ki lett dolgozva a tétel tartalma. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd
+
+2. Feladat Célja:
+A feladatod egy teljeskörű, részletes és jól strukturált tétel kidolgozása a következő témakörben:
+"A származékos tulajdonszerzési módok"
+
+A végeredmény egy olyan önálló, koherens dokumentum legyen, amely önmagában is elegendő a téma alapos megértéséhez és egy sikeres vizsgához.
+
+3. Strukturális és Tartalmi Követelmények:
+
+I. Bevezetés: A Származékos Szerzésmódok Lényege
+- Definiáld a **származékos szerzésmód** fogalmát: a szerző a tulajdonjogát a jogelődjétől származtatja, annak jogutódja lesz.
+- Mutasd be a származékos szerzés alapelvét, a **nemo plus iuris ad alium transferre potest, quam ipse haberet** (senki sem ruházhat át több jogot másra, mint amennyivel maga rendelkezik) tételét.
+- Emeld ki a legfontosabb joghatását: a szerző a tulajdonjogot azokkal a terhekkel szerzi meg, amelyek a jogelőd idejében is terhelték a dolgot.
+- Rendszerezd a származékos szerzésmódokat: **átruházás** és **öröklés**. Hangsúlyozd, hogy a dologi jog elsősorban az átruházással foglalkozik.
+
+II. A Tulajdonjog Átruházása: Az Általános Modell
+- Definiáld az **átruházás** fogalmát, mint a tulajdonos és a szerző fél erre irányuló jogügyletét (szerződését).
+- Tárgyald az átruházás kettős követelményrendszerét:
+    - **1. A tulajdonjog-átruházó szerződés (titulus):** A jogcím, amely kötelmi jogi igényt keletkeztet a tulajdonjog átruházására (pl. adásvételi, ajándékozási, csere szerződés).
+    - **2. A tulajdonjog-átruházó aktus (modus):** A dologi jogi aktus, amellyel a tulajdonjog ténylegesen átszáll a szerzőre.
+
+III. Az Átruházás Különös Szabályai Dologtípusok Szerint:
+- Részletezd a modus-t az ingó és ingatlan dolgok megkülönböztetése mentén:
+    - **1. Ingó dolog tulajdonjogának átruházása (Ptk. 5:38. §):**
+        - A modus a **birtokátruházás (traditio)**.
+        - Részletezd a birtokátruházás eseteit (kézbeadás, brevi manu traditio, constitutum possessorium, longa manu traditio).
+    - **2. Ingatlan tulajdonjogának átruházása (Ptk. 5:39. §):**
+        - A modus az **ingatlan-nyilvántartási bejegyzés**.
+        - Tárgyald az ingatlan-nyilvántartás közhitelességének elvét és a bejegyzés konstitutív (jogkeletkeztető) hatályát.
+        - Emeld ki az érvényes írásbeli szerződés szükségességét.
+
+IV. Kivételek és Különleges Esetek:
+- **Tulajdonjog-fenntartás:** Tárgyald a felek megállapodását, amely a modus hatályát (a tulajdonjog átszállását) a vételár teljes kifizetéséig elhalasztja.
+- **Szerzés nem tulajdonostól:**
+    - Főszabály: a nemo plus iuris elve.
+    - Kivétel: a kereskedelmi forgalomban, jóhiszeműen, ellenérték fejében történő szerzés, amely eredeti szerzésmódnak minősül. Hasonlítsd össze a főszabállyal!
+
+V. Összegzés:
+- Foglald össze a származékos tulajdonszerzés kettős (kötelmi jogi és dologi jogi) természetét.
+- Hangsúlyozd a `titulus-modus` rendszer logikáját és a nyilvánosság (publicitás) elvének eltérő érvényesülését ingók (birtok) és ingatlanok (ingatlan-nyilvántartás) esetében.
+
+4. Formázási és Stilisztikai Utasítások:
+- Tagolás: Használj egyértelmű címsorokat és alcímeket a fenti struktúra szerint.
+- Kiemelés: A **kulcsfontosságú jogi szakkifejezéseket** (pl. **származékos szerzésmód**, **nemo plus iuris**, **titulus és modus**, **traditio**) és a **jogszabályi hivatkozásokat** emeld ki félkövér formázással.
+- Hivatkozások: Pontosan és következetesen hivatkozz a **Ptk. Ötödik Könyvének releváns szakaszaira**.
+- Nyelvezet: Maradj végig a tudományos, szakmai nyelvezetnél, de törekedj a világos és érthető fogalmazásra.
+
+A végeredmény legyen egy professzionális, informatív és a tanulást hatékonyan támogató dokumentum. A kimenet egy TXT fájl legyen a Tételek mappába
+
+
+
+
+
+
+
+

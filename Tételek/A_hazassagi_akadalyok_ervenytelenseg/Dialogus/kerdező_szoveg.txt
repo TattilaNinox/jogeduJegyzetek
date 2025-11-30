@@ -1,0 +1,205 @@
+Szia! Most akkor térjünk egy bonyolultabb témára, a házassági akadályokra és az érvénytelenségre! Kezdjük az alapokkal! Mi a különbség a nem létező házasság és az érvénytelen házasság között abban, hogy miként keletkeznek és milyen joghatásokat váltanak ki?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a Polgári Törvénykönyv negyedik könyvének ötödik paragrafusának harmadik bekezdése kimondja, hogy a nemlétező házasságot úgy kell tekinteni, mintha meg sem kötötték volna?
+
+<break time="5s"/>
+
+Wow! És miért tekinthető a nem létező házasság joghatások kiváltására alkalmatlannak, és milyen konstitutív feltételek hiánya okozza ezt?
+
+<break time="5s"/>
+
+Értem! És mi a különbség az érvényesség vélelmének elve és a nemlétezés között abban, hogy miként kezelik a hibás házasságot?
+
+<break time="5s"/>
+
+Világos! És milyen jogi védelmet biztosít a megdönthető érvényesség vélelmének elve a harmadik személyek, gyermekek és a felek számára?
+
+<break time="5s"/>
+
+Szuper! Most térjünk a házassági akadályokra! Mi a különbség az abszolút, elháríthatatlan, akadályok és a relatív, elhárítható, akadályok között a házassági akadályok rendszerében?
+
+<break time="5s"/>
+
+Értem! És milyen jogi alapja van a monogámia elvének a magyar családjogban, és hogyan kapcsolódik ez a Polgári Törvénykönyv negyedik könyvének tizenhárom paragrafusához?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a korábbi házasság fennállása és a korábbi házasság megszűnése között a házassági kötelék akadály szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha a korábbi házasság utóbb megszűnik vagy érvénytelenné válik, és hogyan működik a konvalidáció ebben az esetben?
+
+<break time="5s"/>
+
+Szuper! És mi a különbség a Polgári Törvénykönyv negyedik könyvének tizenhárom paragrafusának második bekezdésében szabályozott automatikus érvényessé válás és a fakultatív konvalidáció között?
+
+<break time="5s"/>
+
+Értem! Most térjünk a rokoni akadályokra! Milyen biológiai, erkölcsi és jogi okok indokolják a rokoni és hozzátartozói kapcsolaton alapuló házassági tilalmakat?
+
+<break time="5s"/>
+
+Világos! És mi a különbség az egyenesági rokonok és az oldalági rokonok közötti házasság tilalma között a Polgári Törvénykönyv negyedik könyvének tizenkettedik paragrafusa alapján?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a testvérnek testvére vér szerinti leszármazójával kötött házassága esetén felmentés adható?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a jegyző és a gyámhatóság felmentési jogköre között a házassági akadályok tekintetében?
+
+<break time="5s"/>
+
+Értem! És milyen feltételeknek kell megfelelnie ahhoz, hogy a jegyző felmentést adhasson a testvérnek testvére vér szerinti leszármazójával kötött házasság esetén?
+
+<break time="5s"/>
+
+Világos! És mi a különbség az örökbefogadó és örökbefogadott közötti házasság tilalma és az egyenesági rokonok közötti házasság tilalma között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha az örökbefogadás megszűnik, és milyen hatása van ez a házassági akadályra?
+
+<break time="5s"/>
+
+Világos! Most térjünk a kiskorúság és gondnokság miatti akadályokra! Mi a különbség a kiskorúság miatti érvénytelenség és a cselekvőképességet teljesen korlátozó gondnokság miatti érvénytelenség között?
+
+<break time="5s"/>
+
+Értem! És milyen feltételeknek kell megfelelnie ahhoz, hogy a gyámhatóság engedélyt adhasson a kiskorú házasságkötéséhez?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a tizenhat életév előtt és a tizenhat életév után, de tizennyolc életév előtt kötött házasság között a gyámhatósági engedély szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha a kiskorú a nagykorúság elérése után hat hónapon belül nem támadja meg a házasságot?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a cselekvőképességet teljesen korlátozó gondnokság és a cselekvőképtelen állapot között a házassági akadályok szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha a gondnokságot megszüntetik, és a gondnokolt hat hónapon belül nem támadja meg a házasságot?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a cselekvőképtelen állapot átmeneti jellege és a gondnokság tartós jellege között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi védelmet biztosít a hat hónapos konvalidációs határidő a cselekvőképességüket visszanyert személyek számára?
+
+<break time="5s"/>
+
+Szuper! És mi a különbség az automatikus konvalidáció és a fakultatív konvalidáció között abban, hogy miként válik érvényessé az érvénytelen házasság?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a konvalidáció általában visszamenőleges hatályú, ex tunk?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a jogvesztő határidő és az elévülés között a házassági akadályok megtámadása tekintetében?
+
+<break time="5s"/>
+
+Értem! Most térjünk a perindítási jogosultságra! Milyen jogi alapja van annak, hogy bármelyik házastárs, az ügyész vagy az, akinek jogi érdeke fűződik, jogosult az érvénytelenítési per indítására?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a házastárs és az ügyész perindítási jogának alapja között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha az érvénytelenítési pert megindító jogosult meghal?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a kiskorúság és gondnokság miatti érvénytelenség esetén a perindítási jogosultság korlátozása és az abszolút akadályok esetén a jogosultság terjedelme között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi védelmet biztosít a Polgári Törvénykönyv negyedik könyvének tizenhatodik paragrafusának első bekezdése az érintett házastárs számára azzal, hogy kizárólagosan ő jogosult a perindításra?
+
+<break time="5s"/>
+
+Szuper! És mi a különbség a hat hónapos jogvesztő határidő és a hat hónapos konvalidációs határidő között?
+
+<break time="5s"/>
+
+Világos! És milyen jogi következménye van annak, ha a cselekvőképtelen állapotban lévő házastárs a cselekvőképességének visszanyerése előtt meghal?
+
+<break time="5s"/>
+
+Értem! Most térjünk az eljárási kérdésekre! Mi a különbség a személyes perindítási kötelezettség és a törvényes képviselő általi perindítás között?
+
+<break time="5s"/>
+
+Világos! És milyen jogi védelmet biztosít a Polgári Törvénykönyv negyedik könyvének tizenhetedik paragrafusának második bekezdése a cselekvőképességében részlegesen korlátozott házastárs számára?
+
+<break time="5s"/>
+
+Értem! És mi a különbség az ügyész és a házastárs alpereseinek meghatározása között az érvénytelenítési perben?
+
+<break time="5s"/>
+
+Világos! És milyen jogi következménye van annak, ha az alperes már nem él, és a bíróság ügygondnokot rendel ki?
+
+<break time="5s"/>
+
+Értem! Most térjünk az érvénytelenítő ítélet hatályára! Mi a különbség az érvénytelenítő ítélet ergá omnész hatálya és az ex tunk hatálya között?
+
+<break time="5s"/>
+
+Világos! És milyen logikai következménye van annak, hogy az érvénytelenségi ok a házasságkötés időpontjában állt fenn, és az érvénytelenítésnek visszamenőlegesen kell hatályosulnia?
+
+<break time="5s"/>
+
+Értem! És mi a különbség a gyermek jogállásának védelme és a felek vagyoni viszonyainak rendezése között az érvénytelenítés jogkövetkezményei tekintetében?
+
+<break time="5s"/>
+
+Világos! És milyen jogi alapja van annak, hogy a gyermek jogállását az érvénytelenné nyilvánítás nem érinti?
+
+<break time="5s"/>
+
+Értem! És mi a különbség a házastársi vagyonközösség szabályai és az élettársi vagyonjogi szabályok között az érvénytelen házasság vagyoni viszonyainak rendezésében?
+
+<break time="5s"/>
+
+Világos! És milyen jogi következménye van annak, hogy az érvénytelen házasság alapján felvett házassági nevet a házastárs megtarthatja vagy visszaveheti?
+
+<break time="5s"/>
+
+Értem! És mi a különbség a házastársi tartási kötelezettség és a méltányossági alapon való tartásra kötelezés között az érvénytelen házasság esetében?
+
+<break time="5s"/>
+
+Világos! És milyen jogi védelmet biztosít a jogbiztonság szempontjából a megdönthető érvényesség vélelmének elve?
+
+<break time="5s"/>
+
+Szuper! És mi a különbség a visszamenőleges hatály, ex tunk, és a jövőre szóló hatály, ex nunk, között az érvénytelenítő ítélet esetében?
+
+<break time="5s"/>
+
+Értem! És milyen logikai kapcsolat van a házassági akadályok rendszere, az érvénytelenítési per és a konvalidáció között?
+
+<break time="5s"/>
+
+És végül, hogyan szolgálja a házassági akadályok és az érvénytelenség intézménye a házasság jogintézményének, a felek és a társadalom érdekeinek védelmét?
+
+<break time="5s"/>
+
+Remek! Akkor most már átlátjuk a házassági akadályok és az érvénytelenség bonyolult rendszerét! Köszönöm szépen ezt a részletes áttekintést!
+
+<break time="5s"/>
+
+

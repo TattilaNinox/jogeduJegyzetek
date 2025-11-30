@@ -1,0 +1,150 @@
+Tudod, azért hoztam ma ezt a kérdést, mert a cselekvőképesség fogalma sok félreértést szül a polgári jogban, szóval mi a különbség a jogképesség és a cselekvőképesség között, és miért fontos ez az elhatárolás?
+<break time="5s"/>
+
+Pontosan, és ebből következik a következő, hogy milyen jogi következménye van annak, ha valaki jognyilatkozatával korlátozni kívánja saját cselekvőképességét?
+<break time="5s"/>
+
+Értem, amit mondasz, de várj, hadd kérdezzem meg, milyen feltételek mellett válik egy kiskorú automatikusan nagykorúvá a tizennyolc életév betöltése előtt, és mi történik ezzel a státusszal a házasság megszűnése esetén?
+<break time="5s"/>
+
+Igen, ez jó pont, hozzátenném, hogy miért nem semmis a cselekvőképtelen kiskorú által kötött és teljesített csekély jelentőségű szerződés, és milyen feltételeknek kell megfelelnie ennek a kivételnek?
+<break time="5s"/>
+
+Hmm, érdekes, és milyen jogi mechanizmus biztosítja, hogy a korlátozottan cselekvőképes kiskorú ne legyen kényszerítve egy olyan szerződés érvényességének elfogadására, amelyet már nem kíván, amikor cselekvőképessé válik?
+<break time="5s"/>
+
+Ja, igen, és milyen kivételek esetén tehet érvényes jognyilatkozatot a korlátozottan cselekvőképes kiskorú a törvényes képviselője közreműködése nélkül, és mi a jogi indoklás ezeknek a kivételeknek?
+<break time="5s"/>
+
+Világos, és még egy dolog, mi a különbség a korlátozottan cselekvőképes kiskorú és a törvényes képviselője jognyilatkozattételi jogköre között, és milyen ügyekben kizárólag a kiskorú saját nyilatkozata érvényes?
+<break time="5s"/>
+
+Értem, de hadd kérdezzem meg, mi a relatív semmisség fogalma a kiskorúak cselekvőképességére vonatkozóan, és miért fontos ez a szabály a kiskorúak védelmében?
+<break time="5s"/>
+
+Igen, ezt remek, és milyen különbség van a cselekvőképesség formális korlátozása és a cselekvőképtelen állapot között, és milyen jogi következményei vannak ennek a megkülönböztetésnek?
+<break time="5s"/>
+
+Várj, hozzátenném, hogy milyen feltételeket kell teljesítenie annak, hogy egy nagykorút részlegesen korlátozó gondnokság alá lehessen helyezni, és miért szükséges a bíróságnak konkrét ügycsoportokat meghatároznia?
+<break time="5s"/>
+
+Értem, amit mondasz, de hadd kérdezzem meg, mi a szubszidiaritás elve a2 cselekvőképesség korlátozásában, és milyen alternatív megoldásokat kell figyelembe venni a gondnokság alá helyezés előtt?
+<break time="5s"/>
+
+Igen, ez remek, és milyen jogi helyzetben van a részlegesen korlátozottan cselekvőképes nagykorú azokban az ügyekben, amelyek nem tartoznak a bíróság által meghatározott korlátozott ügycsoportokba?
+<break time="5s"/>
+
+Hmm, érdekes, és milyen feltételek mellett alkalmazható a teljes korlátozás a részleges korlátozás helyett, és miért tekinthető ez az intézmény ultima ratio-nak?
+<break time="5s"/>
+
+Pontosan, és mi a különbség a cselekvőképtelen kiskorú és a cselekvőképtelen nagykorú jognyilatkozatainak jogi sorsa között, és vannak-e közös vonások?
+<break time="5s"/>
+
+Értem, de várj, hadd kérdezzem meg, mi a támogatott döntéshozatal intézményének lényege, és miben különbözik a gondnokságtól a cselekvőképesség szempontjából?
+<break time="5s"/>
+
+Igen, ez biztató, és milyen feltételek mellett rendelhető ki támogató egy nagykorú számára, és milyen szerepe van a bíróságnak ebben a folyamatban?
+<break time="5s"/>
+
+Ja, igen, és mi a különbség a cselekvőképesség részleges korlátozása és a támogatott döntéshozatal között abban az esetben, amikor egy nagykorú belátási képessége csökkent?
+<break time="5s"/>
+
+Értem, amit mondasz, de miért nem semmis a cselekvőképtelen állapotban tett jognyilatkozat, ha tartalmából és körülményeiből arra lehet következtetni, hogy a fél cselekvőképessége esetén is indokolt lett volna?
+<break time="5s"/>
+
+Pontosan, és még egy dolog, milyen jogi védelmet biztosít a Polgári Törvénykönyv második könyvének tizennegyedik paragrafusának harmadik bekezdése a cselekvőképtelen kiskorú számára, és mi a kapcsolata a gyermek jogairól szóló ENSZ Egyezményhez?
+<break time="5s"/>
+
+Várj, hadd kérdezzem meg, mi a különbség a korlátozottan cselekvőképes kiskorú munkával szerzett jövedelmének jogi státusza és a törvényes képviselő által kezelt vagyon között?
+<break time="5s"/>
+
+Igen, ez jó pont, és milyen jogi következménye van annak, ha a korlátozottan cselekvőképes kiskorú törvényes képviselője megtagadja a hozzájárulást egy jognyilatkozatához?
+<break time="5s"/>
+
+Pontosan, és mi a különbség a hozzájárulás előzetes, azaz felhatalmazás, és utólagos, azaz jóváhagyás formája között a korlátozottan cselekvőképes kiskorúak esetében?
+<break time="5s"/>
+
+Értem, de hadd kérdezzem meg, milyen jogi helyzetben van a korlátozottan cselekvőképes kiskorú, ha a törvényes képviselője ingyenes juttatást ígér vagy ad neki, és milyen védelmi mechanizmusok állnak rendelkezésre?
+<break time="5s"/>
+
+Igen, ez jó pont, hozzátenném, hogy mi a különbség a cselekvőképtelen kiskorú és a korlátozottan cselekvőképes kiskorú ajándékozási képessége között?
+<break time="5s"/>
+
+Hmm, érdekes, és milyen jogi következménye van annak, ha egy cselekvőképtelen kiskorú törvényes képviselője ellenérték nélkül kötelezettséget vállal a kiskorú vagyona terhére?
+<break time="5s"/>
+
+Ja, igen, és mi a különbség a gondnokság alá helyezés feltételei között a részleges és a teljes korlátozás esetében, különösen a belátási képesség csökkenésének mértékét illetően?
+<break time="5s"/>
+
+Pontosan, és milyen szerepe van a bíróságnak abban, hogy egyéni körülményekre tekintettel határozza meg a gondnokság alá helyezés szükségességét és mértékét?
+<break time="5s"/>
+
+Értem, de várj, hadd kérdezzem meg, mi a különbség a mentális zavar fogalma és a belátási képesség csökkenése között a gondnokság alá helyezés szempontjából?
+<break time="5s"/>
+
+Igen, ez jó pont, és milyen jogi következménye van annak, ha a részlegesen korlátozottan cselekvőképes nagykorú cselekvőképessé válik, és függő jognyilatkozatai vannak?
+<break time="5s"/>
+
+Várj, hozzátenném, hogy mi a különbség a gondnokolt és a gondnok jognyilatkozattételi jogköre között a részleges korlátozás esetében?
+<break time="5s"/>
+
+Igen, ez jó pont, és milyen kivételeket tartalmaz a Polgári Törvénykönyv második könyvének huszadik paragrafusának harmadik bekezdése a részlegesen korlátozottan cselekvőképes nagykorú számára, és mi a jogi indoklásuk?
+<break time="5s"/>
+
+Értem, de hadd kérdezzem meg, mi a különbség a cselekvőképtelen nagykorú és a cselekvőképtelen kiskorú csekély jelentőségű szerződéseinek jogi kezelése között?
+<break time="5s"/>
+
+Ja, igen, és milyen jogi kötelezettségei vannak a gondnoknak a véleménynyilvánításra képes cselekvőképtelen nagykorúval szemben?
+<break time="5s"/>
+
+Pontosan, és mi a különbség a támogatott döntéshozatal és a részleges korlátozás között abban, hogyan kezelik az érintett személy önállóságát és döntési képességét?
+<break time="5s"/>
+
+Hmm, érdekes, és milyen jogi következménye van annak, ha a támogató kirendelése után az érintett személy belátási képessége tovább romlik?
+<break time="5s"/>
+
+Értem, de várj, hadd kérdezzem meg, mi a különbség a cselekvőképesség korlátozásának törvényi és bírósági úton történő módjai között?
+<break time="5s"/>
+
+Igen, ez jó pont, hozzátenném, hogy milyen jogi védelmet biztosít a Polgári Törvénykönyv második könyvének nyolcadik paragrafusának harmadik bekezdése a cselekvőképesség személyhez fűződő jellege tekintetében?
+<break time="5s"/>
+
+Ja, igen, és mi a különbség a cselekvőképesség vélelmének és a tényleges cselekvőképességnek a bizonyítási terhe között?
+<break time="5s"/>
+
+Pontosan, és milyen jogi következménye van annak, ha egy korlátozottan cselekvőképes kiskorú házasságot köt, és ezzel cselekvőképessé válik?
+<break time="5s"/>
+
+Várj, hadd kérdezzem meg, mi a különbség a kiskorúak és a nagykorúak cselekvőképességének korlátozása között abban, hogy milyen szervek és eljárások érintik ezt a folyamatot?
+<break time="5s"/>
+
+Igen, ez jó pont, és milyen jogi védelmet biztosít a relatív semmisség szabálya a kiskorúak számára a szerződő felek visszaéléseivel szemben?
+<break time="5s"/>
+
+Értem, de hadd kérdezzem meg, mi a különbség a cselekvőképtelen állapotban tett végintézkedés és más jognyilatkozatok jogi kezelése között?
+<break time="5s"/>
+
+Ja, igen, és milyen jogi következménye van annak, ha egy cselekvőképtelen kiskorú törvényes képviselője nem veszi figyelembe az ítélőképessége birtokában lévő kiskorú véleményét?
+<break time="5s"/>
+
+Pontosan, és mi a különbség a korlátozottan cselekvőképes kiskorú személyes jellegű jognyilatkozatai és vagyoni jellegű jognyilatkozatai között?
+<break time="5s"/>
+
+Hmm, érdekes, és milyen jogi helyzetben van a korlátozottan cselekvőképes kiskorú, ha a törvényes képviselője és a kiskorú is szeretne jognyilatkozatot tenni ugyanabban az ügyben?
+<break time="5s"/>
+
+Értem, de várj, hadd kérdezzem meg, mi a különbség a gondnokság alá helyezés és a támogatott döntéshozatal között abban, hogyan kezelik az érintett személy vagyonát?
+<break time="5s"/>
+
+Igen, ez jó pont, hozzátenném, hogy milyen jogi következménye van annak, ha a részlegesen korlátozottan cselekvőképes nagykorú gondnoka hozzájárulása nélkül tesz jognyilatkozatot a korlátozott ügycsoportokban?
+<break time="5s"/>
+
+Ja, igen, és mi a különbség a cselekvőképesség korlátozásának időszakonként visszatérő és tartós jellege között a gondnokság alá helyezés szempontjából?
+<break time="5s"/>
+
+Pontosan, és milyen jogi védelmet biztosít a cselekvőképesség szabályozása a jogi forgalom biztonságának és kiszámíthatóságának szempontjából?
+<break time="5s"/>
+
+Várj, hadd zárjam ezzel, mi a különbség a cselekvőképesség differenciált, egyéniesített szabályozása és egy egységes, merev rendszer között a személyek védelme és az autonómia tiszteletben tartása szempontjából?
+<break time="5s"/>
+

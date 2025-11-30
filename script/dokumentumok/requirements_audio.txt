@@ -1,0 +1,3 @@
+# Nincs szükség Python könyvtárakra
+# A script közvetlenül FFmpeg-et használ subprocess-szel
+# Csak az FFmpeg telepítése szükséges: https://ffmpeg.org/download.html

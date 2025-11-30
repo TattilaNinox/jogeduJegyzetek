@@ -1,0 +1,90 @@
+Témaspecifikus AI Feladatprompt – Tanulókártya Kérdésbank Generálás: Az egyesület és az alapítvány
+
+Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkészülését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat a "forrasok" mappa teljes tartalmában találod. Emellett a fő forrás a kidolgozott tétel, amelynek elérési útvonalát alább adom meg. Feltétlen használd fel ezeket a forrásokat, és idézd pontosan, szóról szóra azokat a jogszabályokat, amelyek a jelen témakörhöz kapcsolódnak. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd.
+
+Kidolgozott tétel forrásfájl:
+
+forrasok\2013. évi V. törvény a Polgári Törvénykönyvről.txt.txt, forrasok\PJZV_HEJ_MR-kidolgozott tételek.txt,forrasok\VÉKÁS-GÁRDOS_ PTK KOMMENTÁR_2018 január 1-től hatályos.txt
+
+
+Feladat:
+Készíts pontosan [50] darab EGYETEMI SZINTŰ kérdést és választ az alább részletezett tananyagból a tanulási folyamat támogatására.
+
+A Témakör: Az egyesület és az alapítvány
+A kérdések és válaszok alapját a következő strukturális és tartalmi követelmények képezik:
+
+I. Bevezetés: A Nonprofit Jogi Személyek
+- Kezdd az egyesület és az alapítvány elhelyezésével a jogi személyek rendszerében, mint a Ptk. által nevesített két alapvető **nonprofit** (civil) szervezeti forma.
+- Emeld ki a közös jellemzőjüket: elsődleges céljuk nem a gazdasági tevékenység folytatása, vagyonukat a tagok között nem oszthatják fel, és nyereséget nem juttathatnak nekik.
+
+II. Az Egyesület (Universitas Personarum – Személyegyesülés):
+- **Fogalma és célja:** A tagok közös, tartós, alapszabályban meghatározott céljának folyamatos megvalósítására létesített, **nyilvántartott tagsággal rendelkező** jogi személy.
+- **Létesítése:**
+    - Az **alapszabály** elfogadása, amelyhez legalább **tíz tag** szükséges.
+- **Szervezete és működése:**
+    - **A közgyűlés:** Az egyesület legfőbb döntéshozó szerve, amely a tagok összességéből áll.
+    - **Az ügyvezetés:** Elnökség vagy ügyvezető.
+    - **A tagsági jogviszony:** Tárgyald a keletkezését, a tagok jogait (pl. részvétel a közgyűlésen) és kötelezettségeit (pl. tagdíj fizetése).
+- **Megszűnése:** Térj ki a speciális megszűnési okokra (pl. a taglétszám tartósan tíz fő alá csökkenése) és a vagyon sorsára.
+
+III. Az Alapítvány (Universitas Bonorum – Vagyonegyesülés):
+- **Fogalma és célja:** Az **alapító(k) által** egy tartós cél folyamatos megvalósítására rendelt, **meghatározott vagyonnal rendelkező**, tagság nélküli jogi személy.
+- **Létesítése:**
+    - Az **alapító okirat** egyoldalú jogügylete, amelyet az alapító(k) hoznak létre.
+    - Térj ki a végrendeleti alapítvány-létesítés lehetőségére is.
+    - Az alapítványi vagyon (induló tőke) rendelkezésre bocsátásának kötelezettsége.
+- **Szervezete és működése:**
+    - **A kuratórium (vagy kurátor):** Az alapítvány ügyvezető szerve, amelyet az alapító jelöl ki. A tagjai az alapítvány vezető tisztségviselői.
+    - **Az alapító jogai:** Tárgyald az alapító jogait a nyilvántartásba vétel után (pl. az alapító okirat módosítása, a kuratóriumi tagok visszahívása). Emeld ki, hogy az alapító az alapítványt nem szüntetheti meg!
+    - A **kedvezményezettek** helyzete.
+- **Megszűnése:** Térj ki a speciális megszűnési okokra (pl. a cél megvalósulása vagy lehetetlenné válása) és a vagyon sorsára.
+
+IV. Az Egyesület és az Alapítvány Összehasonlítása:
+- Foglald össze táblázatos vagy leíró formában a két jogi személy típus közötti legfontosabb különbségeket az alábbi szempontok szerint:
+    - **Létrehozás alapja:** Személyi közösség (egyesület) vs. Célvagyon (alapítvány)
+    - **Létesítő okirat:** Többoldalú (egyesület) vs. Egyoldalú (alapítvány)
+    - **Tagság:** Van (egyesület) vs. Nincs (alapítvány)
+    - **Legfőbb szerv:** Közgyűlés (egyesület) vs. Kuratórium (alapítvány)
+    - **Alapító(k) szerepe:** A működésben tagként vesz(nek) részt (egyesület) vs. Korlátozott, külső jogai vannak (alapítvány)
+
+V. Összegzés:
+- Hangsúlyozd az egyesület és az alapítvány szerepét a civil társadalom működésében, mint a közhasznú és közérdekű célok megvalósításának alapvető jogi kereteit.
+- Emeld ki, hogy a két eltérő modell (személy- és vagyonegyesülés) különböző típusú társadalmi célok megvalósítására kínál hatékony szervezeti formát.
+
+Kérdésekre vonatkozó szabályok:
+- A kérdések legyenek EGYETEMI SZINTŰ, nehéz szintűek – kerüld az egyszerű definíciós jellegű kérdéseket.
+- Minden kérdés legyen egyértelmű, gondolkodtató, a tananyag mélyebb megértését mérje.
+- A kérdések legyenek változatosak: tárjanak fel fogalmakat, ok-okozati összefüggéseket, különbségeket, gyakorlati vonatkozásokat a fenti témakörön belül.
+- A kérdések között ne legyen ismétlés. Tilos a duplikálás a kérdésekben és a válaszokban is!
+
+Válaszokra vonatkozó szabályok:
+- Minden kérdéshez tartozzon egyetlen, egyértelmű válasz.
+- A válasz ne legyen túl hosszú (1–3 mondat).
+- A válasz közvetlenül kapcsolódjon a kérdéshez, ne tartalmazzon felesleges információt.
+
+Kimeneti formátum:
+A kimenet a `Tételek` mappába kerüljön. Ott hozz létre egy mappát a témakör nevével (pl. `Az_egyesulet_es_az_alapitvany`), és a következő három fájlt ebbe az új mappába generáld:
+
+1.  **Kérdések (Előlap)** – csak az [50] kérdés felsorolva. Fájlnév: `kerdesek.txt`
+2.  **Válaszok (Hátlap)** – az [50] kérdéshez tartozó [50] válasz felsorolva, sorrendben megegyezően. Fájlnév: `valaszok.txt`
+3.  **Magyarázatok (Indoklás)** – Minden kártyához legalább 2 mondatos indoklás, magyarázat, ami tartalmazza a vonatkozó jogszabályok szövegét is. Az indoklásnál a számozás kell, de ne legyenek címek, csak a tartalom. Ne szerepeljen benne, hogy pld: Magyarázat:, vagy Indoklás:. Szigorúan TILOS, hogy az indoklás szövege egyezzen akár a kérdéssel, akár a kérdésre adott válasszal! Fájlnév: `magyarazatok.txt`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

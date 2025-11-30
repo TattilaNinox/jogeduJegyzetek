@@ -1,0 +1,9 @@
+A Mentor blokkokat rakd e tag közé <voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+</voice>
+
+
+
+A tangle blokkokat rakd e tag közé <voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+</voice>
+
+És töröld a mentor és tanuló címkéket

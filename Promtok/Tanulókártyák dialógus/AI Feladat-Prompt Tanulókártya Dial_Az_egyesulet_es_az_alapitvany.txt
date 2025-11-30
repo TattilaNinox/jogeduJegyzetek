@@ -1,0 +1,77 @@
+AI Feladat-Prompt: Tanulókártya Dialógus Generálása TTS (Text-to-Speech) Használatra
+
+1. Szerepkör (Persona):
+Viselkedj mint egy tapasztalt forgatókönyvíró és TTS (text-to-speech) szakértő. A célod, hogy meglévő, különálló kérdés, válasz és magyarázat fájlokból egy két szereplős, felolvasóbarát POTTCAST dialógust hozz létre, amely optimálisan hangzik fel, amikor szintetikus hangalapú szövegfelolvasó programok (TTS) olvassák fel. A stílus maradjon tudományos és szakmai, de a formátum, a szövegfolyam és a kifejezésmód legyen egy természetes párbeszédre optimalizált.
+
+2. Feladat Célja:
+A feladatod három különálló forrásfájl (kérdések, válaszok, magyarázatok) tartalmának összefésülése egyetlen, koherens dialógus-szkriptté. A végeredmény egy olyan dokumentum legyen, amely:
+- Egy két hangra (Kérdező, Válaszoló) optimalizált párbeszéd formátumát követi.
+- Természetesen hangzik fel, amikor TTS programok olvassák fel.
+- Megtartja az eredeti szakmai tartalmat és pontosságot.
+- Optimalizált a hallgatásra és a megértésre.
+- Nem tartalmaz olyan formázásokat vagy karaktereket, amelyek zavarhatják a felolvasást.
+
+3. Forrásfájlok:
+A dialógus alapját a következő három fájl képezi (a konkrét elérési útjukat meg kell adni):
+- Kérdések fájl: Tételek/Az_egyesulet_es_az_alapitvany/kerdesek.txt
+- Válaszok fájl: Tételek/Az_egyesulet_es_az_alapitvany/valaszok.txt
+- Magyarázatok fájl: Tételek/Az_egyesulet_es_az_alapitvany/magyarazatok.txt
+
+4. Strukturális és Tartalmi Követelmények:
+
+A. Dialógus Formátum:
+- Minden kérdést a "Kérdező:" címke vezessen be.
+- Minden választ és a hozzá tartozó magyarázatot a "Válaszoló:" címke vezessen be.
+- A válasz és a magyarázat szövegét fűzd össze egyetlen, logikus és folyamatos válasszá. A válasz után használj természetes átkötést a magyarázathoz (pl. "Ez azért van, mert...", "A jogszabályi háttér szerint...", "Fontos kiemelni, hogy...").
+
+Példa a dialógus struktúrájára:
+Kérdező: [Az első kérdés felolvasóbarát szövege.]
+Válaszoló: [Az első válasz felolvasóbarát szövege.] [Átkötés] [Az első magyarázat felolvasóbarát szövege.]
+
+Kérdező: [A második kérdés felolvasóbarát szövege.]
+Válaszoló: [A második válasz felolvasóbarát szövege.] [Átkötés] [A második magyarázat felolvasóbarát szövege.]
+...és így tovább.
+
+B. TTS-Optimalizált Átalakítások (Kötelezően Alkalmazandó Szabályok):
+
+I. Számok és Számjegyek:
+- Minden számot fonetikusan írj ki szavakkal.
+- Példa: "18" → "tizennyolc", "Ptk. 2:8. §" → "a Polgári Törvénykönyv második könyvének nyolcadik paragrafusa".
+- Törvényi hivatkozásokban a számokat melléknévi alakban használd: "első", "második", "harmadik" és így tovább.
+- Példa: "Ptk. 2:8. § (1)" → "a Polgári Törvénykönyv második könyvének nyolcadik paragrafusának első bekezdése".
+
+II. Rövidítések Kibontása:
+- Minden rövidítést teljes szóval írj ki.
+- Példa: "Ptk." → "Polgári Törvénykönyv", "pl." → "például", "stb." → "és így tovább".
+
+III. Latin Kifejezések Fonetikusan:
+- Latin kifejezéseket magyar fonetikával írd ki.
+- Példa: "ex tunc" → "ex tunk", "ipso iure" → "ipszo júre".
+
+IV. Speciális Karakterek és Formázás Eltávolítása:
+- Távolíts el minden zárójelet, a tartalmukat illeszd be a folyó szövegbe.
+- Távolíts el minden listajeles pontot ("-", "•", "*").
+- Távolíts el minden Markdown formázást (pl. `**`, `*`). A kiemelések a természetes mondathangsúlyozás által valósuljanak meg.
+- A felsorolásokat és számozott listákat alakítsd át folyamatos, kerek mondatokká.
+
+5. Stilisztikai Utasítások:
+
+A. Mondatok és Bekezdések:
+- Használj közepesen hosszú, logikusan felépített mondatokat.
+- Használj megfelelő írásjeleket (pont, vessző, kettőspont) a természetes szünetek és a helyes hangsúlyozás jelzésére.
+- A "Kérdező:" és "Válaszoló:" címkék után ne tegyél sortörést, a szöveg azonnal folytatódjon.
+
+B. Nyelvezet:
+- Tartsd meg a forrásszövegek tudományos, szakmai nyelvezetét és a pontos jogi szakkifejezéseket.
+- A cél nem a tartalom egyszerűsítése, hanem annak felolvasásra való optimalizálása.
+
+6. Kimenet Formátuma:
+- A kimenet 3 db , sima TXT fájl legyen.
+- A fájl ne tartalmazzon semmilyen speciális formázást, csak a szöveget, szóközöket és írásjeleket. Kiemelten fontos, hogy nem kell tartalmaznia "Kérdező:", vagy "Válaszoló:" címkéket.
+- A fájl neve: Tanulokartya-Dialogus_Az_egyesulet_es_az_alapitvany.txt
+- A Tételek/Az_egyesulet_es_az_alapitvany mappába kerüljenek a fájlok, egy Dialógus nevű mappába.
+
+NAGYON FONTOS!! 3 Fájlra van szükség. egy amiben a teljes dialógus szerepel, Kell egy olyan ami csak a kérdező szövegét tartalmazza, itt ne legyen benne az pld, hogy "Kérdező:", és legyen egy külön fájl ami csak a válaszoló szövegét tartalmazza és ebbe se legyen benne pld: "Válaszoló, vagy Válasz:" Külön leszenek a hangok rögzítve és utána egyesítve, ezért nem szabad azt a hallgatónak felismernie, hogy ezek külön lettek rögzítve
+
+A végeredmény legyen egy professzionális, felolvasóbarát POTTCAST dialógus-szkript, amely készen áll a két hanggal történő TTS-feldolgozásra, miközben hűen tükrözi az eredeti tanulókártyák szakmai tartalmát.
+

@@ -1,0 +1,162 @@
+Szia Márk! Ma a kártérítés általános szabályairól szeretnék beszélni.
+
+<break time="5s"/>
+
+Értem, akkor ez egy olyan hely, ahol a kártérítés minden részletét rendszerezve mutatják be.
+
+<break time="5s"/>
+
+Szóval ez azt jelenti, hogy a károkozó a károsult teljes kárát köteles megtéríteni.
+
+<break time="5s"/>
+
+Tehát ez a teljes kártérítés elve a magyar kártérítési jog vezérelve.
+
+<break time="5s"/>
+
+Értem, akkor a kártérítés célja az, hogy a károsultat olyan vagyoni helyzetbe hozza, mintha a károkozás meg sem történt volna.
+
+<break time="5s"/>
+
+Tehát a kárnak három eleme van.
+
+<break time="5s"/>
+
+Szóval ez a károsult vagyonában beállott értékcsökkenés.
+
+<break time="5s"/>
+
+Tehát ide tartozik a megsemmisült dolog értéke, az elveszett dolog értéke, a megrongálódott dolog értékcsökkenése.
+
+<break time="5s"/>
+
+Értem, akkor ez az az érték, amellyel a károsult vagyona akkor gyarapodott volna, ha a károsító magatartás nem következik be.
+
+<break time="5s"/>
+
+Tehát ide tartozik az elmaradt munkabér, az elmaradt üzleti nyereség, az elmaradt bérleti díj.
+
+<break time="5s"/>
+
+Szóval ezek az indokolt költségek, amelyek a károsultat ért hátrány csökkentéséhez, elhárításához vagy kiküszöböléséhez szükségesek.
+
+<break time="5s"/>
+
+Tehát ez a hármas tagolás az európai és magyar jogban klasszikusan alkalmazott rendszer.
+
+<break time="5s"/>
+
+Értem, akkor a kártérítésnek különböző módjai lehetnek.
+
+<break time="5s"/>
+
+Szóval a pénzbeli kártérítés a főszabály, amely a legtöbb esetben alkalmazandó.
+
+<break time="5s"/>
+
+Tehát a pénzbeli kártérítés előnyei: egyszerű és gyors lebonyolítás, rugalmas, univerzális, objektív.
+
+<break time="5s"/>
+
+Szóval a természetbeni kártérítés azt jelenti, hogy a károkozó nem pénzt fizet, hanem maga állítja helyre az eredeti állapotot.
+
+<break time="5s"/>
+
+Értem. És a bíróság hivatalból is elrendelheti a természetbeni kártérítést.
+
+<break time="5s"/>
+
+Tehát a bíróság hivatalból is elrendelheti a természetbeni kártérítést, ha azt a körülmények indokolják, még akkor is, ha a károsult pénzbeli kártérítést kért.
+
+<break time="5s"/>
+
+Szóval a járadék olyan kártérítési mód, amely a jövőben rendszeresen felmerülő károk megtérítésére szolgál.
+
+<break time="5s"/>
+
+Tehát a járadék időszakonként, általában havonta, visszatérően, előre fizetendő, meghatározott összegű pénzbeli szolgáltatás.
+
+<break time="5s"/>
+
+Értem, akkor a jövedelempótló járadék azt kompenzálja, hogy a károsult munkaképességének csökkenése miatt tartósan kevesebb jövedelmet szerez, mint korábban.
+
+<break time="5s"/>
+
+És a jövedelempótló járadékot a munkaképesség-csökkenés és a bekövetkezett jövedelemkiesés mértékének együttes vizsgálata alapján kell meghatározni.
+
+<break time="5s"/>
+
+Most nézzük meg a második részleget.
+
+<break time="5s"/>
+
+Szóval a tartást pótló járadék azt kompenzálja, hogy a károsodás következtében meghalt személy már nem tud tartást nyújtani azoknak, akik vele szemben tartásra jogosultak voltak.
+
+<break time="5s"/>
+
+És a tartást pótló járadék jár akkor is, ha a meghalt személy ténylegesen nem nyújtott tartást.
+
+<break time="5s"/>
+
+Most menjünk fel a második emeletre.
+
+<break time="5s"/>
+
+Szóval a károsultat kármegelőzési, kárelhárítási és kárenyhítési kötelezettség terheli.
+
+<break time="5s"/>
+
+Tehát a károsult nem lehet passzív, nem ülhet a kárán, hanem aktívan köteles közreműködni a kár megelőzésében, elhárításában és csökkentésében.
+
+<break time="5s"/>
+
+Szóval ha a károsult felróható magatartása is közrehatott a kár bekövetkeztében, a kárt meg kell osztani a károkozó és a károsult között.
+
+<break time="5s"/>
+
+Tehát a megosztás szempontjai hierarchikus sorrendben: először a felróhatóság aránya, ha ez nem állapítható meg, akkor a közrehatás aránya, ha ez sem, akkor egyenlő arányban.
+
+<break time="5s"/>
+
+Szóval ha a károsult a károkozásból vagyoni előnyhöz jut, azt el kell számolni a kártérítés összegéből.
+
+<break time="5s"/>
+
+Tehát az elszámolás nem automatikus, a bíróság mérlegelheti, hogy az adott vagyoni előnyt el kell-e számolni.
+
+<break time="5s"/>
+
+Szóval a bíróság különös méltánylást érdemlő körülmények fennállása esetén a kártérítés mértékét a teljes kárnál alacsonyabb összegben is meghatározhatja.
+
+<break time="5s"/>
+
+És ez kivételes jogintézmény, nem alkalmazható rutinszerűen.
+
+<break time="5s"/>
+
+Szóval ez akkor alkalmazandó, amikor a kár mértéke nem állapítható meg pontosan.
+
+<break time="5s"/>
+
+Most nézzük meg a hatodik teremet.
+
+<break time="5s"/>
+
+Szóval ha a károkozás és az ítélethozatal között az értékviszonyokban jelentős változás következett be, a bíróság az ítélethozatal időpontjában fennállt értékviszonyok szerint határozhatja meg a kárt.
+
+<break time="5s"/>
+
+És ha a károsult felróhatóan késlekedik az igénye érvényesítésével, az értékviszonyok változásának kockázatát maga viseli.
+
+<break time="5s"/>
+
+Most menjünk vissza a földszintre, és lépjünk ki a központból.
+
+<break time="5s"/>
+
+Tehát összefoglalva: a teljes kártérítés elve, a kár három eleme – felmerült kár, elmaradt haszon, indokolt költségek –, a kártérítés három módja – pénzbeli, természetbeni, járadék –, és a kártérítés mértékét befolyásoló hat tényező – kárenyhítési kötelezettség, kármegosztás, előnyök beszámítása, méltányossági mérséklés, általános kártérítés, értékviszonyok változása.
+
+<break time="5s"/>
+
+Köszönöm, Márk! Ez nagyon hasznos volt.
+

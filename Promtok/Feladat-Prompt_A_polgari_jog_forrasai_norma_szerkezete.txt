@@ -1,0 +1,52 @@
+AI Feladat-Prompt: Témaspecifikus Jogászi Tétel Kidolgozása
+
+1. Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikailag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkészülését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat megtalálod a "forrasok" mappában Feltétlen használd fel őket nagyon fontos!!!! ? hogy idézd meg pontosan szorul szóra azokat a jogszabályokat amelyek a jelen témakörhöz kapcsolódnak, illetve amik alapján ki lett dolgozva a tétel tartalma. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd
+
+2. Feladat Célja:
+A feladatod egy teljeskörű, részletes és jól strukturált tétel kidolgozása a következő témakörben:
+"A polgári jog forrásai, a polgári jogi norma szerkezete"
+
+A végeredmény egy olyan önálló, koherens dokumentum legyen, amely önmagában is elegendő a téma alapos megértéséhez és egy sikeres vizsgához.
+
+3. Strukturális és Tartalmi Követelmények:
+
+I. Bevezetés és a Témakör Fogalmi Keretei:
+- Kezdd a téma elhelyezésével a jogrendszerben, kiemelve a polgári jog alapvető jellegét.
+- Definiáld a **jogforrás** fogalmát anyagi és alaki értelemben (belső-érvényességi vs. külső-megismerési forrás).
+- Mutasd be a **jogforrási hierarchia** magyarországi modelljét, különös tekintettel a **Magyarország Alaptörvénye (T) cikkére**.
+
+II. A Téma Részletes Kifejtése: A Polgári Jog Forrásai
+- **Írott jogforrások:**
+    - **A Polgári Törvénykönyvről szóló 2013. évi V. törvény (Ptk.)** mint elsődleges és legfontosabb forrás. Emeld ki a Ptk. kodifikációs jellegét.
+    - **Más törvények** és **rendeletek** (kormányrendelet, miniszteri rendelet) szerepe a polgári jogban. Hozz konkrét példákat!
+    - **Az Európai Unió joga:** Mutasd be az EU általános hatályú, közvetlenül alkalmazandó jogi aktusainak (főként rendeletek) helyét a magyar jogforrási rendszerben, ahogy arra a Ptk. is utal.
+- **Nem írott jogforrások és egyéb jogalkalmazást befolyásoló tényezők:**
+    - **Bírói gyakorlat:** Magyarázd el a Kúria jogegységesítő szerepét. Térj ki a **BH-k (Bírósági Határozatok)** és **EBH-k (Elvi Bírósági Határozatok)** jelentőségére. Vitassad meg, hogy a bírói gyakorlat jogforrásnak tekinthető-e a kontinentális jogrendszerben!
+    - **Szokásjog:** Tárgyald a szerepét a modern polgári jogban. Említsd meg a történeti jelentőségét (pl. Werbőczy Hármaskönyve) és a mai korlátozott alkalmazhatóságát.
+    - **Alkotmánybírósági határozatok:** Mutasd be, hogyan befolyásolják az AB-határozatok a polgári jogi normák érvényességét és értelmezését.
+
+III. A Polgári Jogi Norma Szerkezete:
+- Definiáld a **jogi norma** fogalmát.
+- Részletezd a klasszikus, három elemből álló szerkezetet:
+    - **Hipotézis (Tényállás):** Az a feltételrendszer, amelynek bekövetkezése esetére a norma a rendelkezést megállapítja.
+    - **Diszpozíció (Rendelkezés):** A tanúsítandó magatartás (parancs, tilalom, megengedés). Térj ki a kógens és diszpozitív normák különbségére a polgári jogban!
+    - **Jogkövetkezmény (Szankció):** A magatartás következménye. Mutasd be a polgári jogi szankciók típusait (pl. kártérítés, sérelemdíj, érvénytelenség).
+- Illusztráld a norma szerkezetét egy konkrét, a **Ptk.-ból vett példán** keresztül, elemenként bemutatva a hipotézist, diszpozíciót és a lehetséges jogkövetkezményt.
+
+IV. Kapcsolódási Pontok és Gyakorlati Jelentőség:
+- Mutass rá, hogy a jogforrástan és a norma szerkezetének ismerete hogyan alapozza meg a teljes jogtudományt és a gyakorlati jogalkalmazást.
+- Hozz példát arra, hogy egy jogeset megoldásánál a jogásznak hogyan kell végigkövetnie a jogforrási hierarchiát és elemeznie a releváns norma szerkezetét.
+
+V. Összegzés:
+- Foglald össze röviden a tétel legfontosabb megállapításait.
+- Emeld ki a téma központi jelentőségét a jogászi gondolkodásban és a jogalkalmazásban.
+- Erősítsd meg, hogy a polgári jog forrásainak és a normák szerkezetének alapos ismerete elengedhetetlen a stabil jogi tudáshoz.
+
+4. Formázási és Stilisztikai Utasítások:
+- Tagolás: Használj egyértelmű címsorokat és alcímeket a fenti struktúra szerint.
+- Kiemelés: A **kulcsfontosságú jogi szakkifejezéseket** és a **jogszabályi hivatkozásokat** emeld ki félkövér formázással.
+- Hivatkozások: Pontosan és következetesen hivatkozz a releváns jogszabályokra (pl. **Alaptörvény T) cikk**, **Ptk. 1:1. §**).
+- Nyelvezet: Maradj végig a tudományos, szakmai nyelvezetnél, de törekedj a világos és érthető fogalmazásra.
+
+A végeredmény legyen egy professzionális, informatív és a tanulást hatékonyan támogató dokumentum. A kimenet egy TXT fájl legyen a Tételek mappába

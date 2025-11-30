@@ -1,0 +1,119 @@
+1. A szerződés teljesítése a szerződésben vállalt szolgáltatás nyújtása, a kötelezettség megszüntetése, a szerződés céljának megvalósítása, míg a szerződés megkötése a szerződés létrehozása, a jogviszony keletkeztetése, a kötelezettségek vállalása, így a megkötés kezdet, a teljesítés befejezés.
+
+2. A szerződés teljesítésének két eleme: szerződésszerű teljesítés (olyan, amilyet a felek megállapodtak, megfelel a szerződésnek, objektív elem), és a jogosult érdekének megfelelő teljesítés (a jogosult érdekeit szolgálja, hasznos, szubjektív elem), így objektív és szubjektív elem együttesen.
+
+3. A diszpozitivitás elve azt jelenti, hogy a felek eltérhetnek a szabályoktól megállapodással, rugalmas, a felek akarata elsőbbséget élvez, csak akkor alkalmazandó a Ptk., ha nem tértek el, míg a kógens szabályok kötelezőek, nem lehet eltérni tőlük, merev, így a diszpozitív rugalmas, a kógens merev.
+
+4. Ha a teljesítés körülményeit elsősorban a felek megállapodása határozza meg, akkor a felek autonómiája érvényesül, szabadon alakíthatják a teljesítés helyét, idejét, módját, a Ptk. csak másodlagosan, ha nem állapodtak meg, így a felek megállapodása elsődleges, a Ptk. másodlagos, hézagpótló.
+
+5. A Ptk. elsődleges szerepe azt jelenti, hogy kötelező szabályokat tartalmaz, amelyeket mindig alkalmazni kell (kógens szabályok, imperatív jelleg), míg a másodlagos szerepe azt jelenti, hogy diszpozitív szabályokat tartalmaz, csak akkor lépnek életbe, ha a felek nem rendelkeztek, kiegészítő, hézagpótló, így az elsődleges kötelező, a másodlagos kiegészítő.
+
+6. A teljesítés helyének három területen van jelentősége: hol kell teljesíteni (melyik helyszínen kell a szolgáltatást nyújtani, hova kell szállítani), hol merül fel költség (szállítási, fuvarozási költség melyik helyen merül fel, ki viseli), melyik bíróság illetékes (polgári perben melyik bíróság járhat el, területi illetékesség), így gyakorlati, költségviselési és eljárásjogi jelentőség.
+
+7. A Ptk. 6:37. § szerinti főszabály, hogy a teljesítés helye a kötelezett helye (telephely, székhely, lakóhely), "hozó" tartozás, a jogosult megy a kötelezetthez, míg a kivétel a pénztartozás esetén a Ptk. 6:44. §, hogy a jogosult helye vagy bankja, "vivő" tartozás, a kötelezett viszi a jogosulthoz, így különbség van a teljesítés helyében és irányában.
+
+8. Annak, hogy a teljesítés helye főszabály szerint a kötelezett helye, a Ptk. 6:37. § szerint az az alapja, hogy a kötelezett ott készíti elő, állítja elő, tárolja a szolgáltatást, logikus, hogy ott teljesítsen, a kötelezett helye természetes, és a jogosult menjen érte, praktikus, gazdaságos.
+
+9. A "hozó" tartozás azt jelenti, hogy a jogosultnak el kell mennie a kötelezetthez a teljesítésért (a kötelezett a saját helyén teljesít, a jogosult odamegy, "hozza el"), a jogosult mozog, míg a "vivő" tartozás azt jelenti, hogy a kötelezettnek el kell vinnie a jogosulthoz (a kötelezett viszi a szolgáltatást a jogosulthoz, "elviszi"), a kötelezett mozog, így különbség van a mozgás irányában.
+
+10. Annak, hogy a pénztartozás "vivő" tartozás, míg más tartozás "hozó" tartozás, az az alapja, hogy a pénz könnyen szállítható, átruházható, átutalható, ezért a kötelezett viszi a jogosulthoz, praktikus, míg a dolog nehezen szállítható, nehéz, nagy, ezért a jogosult megy érte, gazdaságos, így a pénz mobil, a dolog kevésbé, a mondás: "a pénz mindig házhoz jön".
+
+11. A telephelyek közötti választás a Ptk. 6:37. § (2) bekezdése szerint azt jelenti, hogy több telephely van, a teljesítés helyének azt kell tekinteni, amely a kötelemmel a legszorosabb kapcsolatban áll (például gyártóüzem, raktár, értékesítőhely közül melyik releváns), válogatás, legszorosabb kapcsolat, míg az egyetlen telephely esetén nincs választás, egyértelmű, csak egy hely van, így a több telephely választást igényel, az egy telephely egyértelmű.
+
+12. Ha a teljesítési hely megváltozik, akkor a Ptk. 6:37. § (3) bekezdése szerint az új hely lesz a teljesítési hely, ha a kötelezett értesíti a jogosultat, de a többletköltséget (például hosszabb szállítási útvonal, nagyobb fuvarozási díj) a kötelezett előlegezi és viseli, így a változás lehetséges, de a költséget a kötelezett viseli, védve a jogosultat.
+
+13. A többletköltség viselése általános szabálynál a Ptk. 6:37. § (3) bekezdése szerint a kötelezett viseli (a kötelezett költözött, ő viseli a többletköltséget), a kötelezett terheli, míg pénztartozásnál a Ptk. 6:44. § (4) bekezdése szerint a jogosult viseli (a jogosult költözött, ő viseli a többletköltséget), a jogosult terheli, így különbség van a költség viselőjében.
+
+14. A Ptk. 6:44. § szerinti pénztartozás teljesítési helyének különös szabályának az az alapja, hogy a pénz könnyen szállítható, átutalható, ezért a kötelezett viszi vagy utalja a jogosulthoz, nem a jogosult megy érte, és a pénz mindig házhoz jön, a jogosult helye a természetes, így eltér az általános szabálytól, pénztartozás speciális.
+
+15. A készpénzfizetés esetében a Ptk. 6:44. § (1) bekezdése szerint a teljesítés helye a jogosult helye (telephely, székhely, lakóhely), oda kell vinni a pénzt, személyes kézbesítés, míg az átutalás esetében a jogosult bankja (a jogosult fizetési számláját vezető bank), oda kell utalni, elektronikus kézbesítés, így különbség van a teljesítés módjában és helyében.
+
+16. Ha a pénztartozás teljesítésének helye a jogosult helye vagy bankja, akkor a kötelezettnek el kell vinnie vagy át kell utalnia a pénzt oda, "vivő" tartozás, a kötelezett mozog vagy fizet, így a kötelezett feladata, felelőssége a pénz eljuttatása, nem a jogosulté, védve a jogosultat, kényelmesebb a jogosult számára.
+
+17. A határnap a Ptk. 6:35. § (1) bekezdése szerint egy konkrét naptári nap (például 2025. december 15.), pontosan meghatározott, a szolgáltatást ezen a napon kell teljesíteni, sem korábban, sem később, fix, míg a határidő egy meghatározott időtartam (például "30 napon belül", "2025. december 1-15. között"), időintervallum, a szolgáltatás bármikor teljesíthető ezen belül, rugalmas, így a határnap fix, a határidő rugalmas.
+
+18. Ha határnap esetén a szolgáltatást ezen a napon kell teljesíteni, akkor a Ptk. 6:35. § (1) bekezdése szerint sem korábban, sem később nem lehet, fix időpont, pontosan ekkor kell (például karácsonyra rendelt torta december 24-én kell, nem 23-án, nem 25-én), így szigorú időbeli kötöttség, rugalmatlan, de egyértelmű.
+
+19. A határidő esetén a kötelezett választása azt jelenti, hogy a meghatározott időtartamon belül a kötelezett választhatja meg a teljesítés pontos időpontját, a kötelezett dönt (például 30 napon belül, mikor teljesít, a kötelezett dönt: 10. napon vagy 25. napon), a kötelezett szabadsága, míg a jogosult választása azt jelenti, hogy a jogosult választhatja meg, ha az eset körülményeiből ez következik (például futárszolgáltatásnál a jogosult mondja meg, mikor kéri a kézbesítést), a jogosult dönt, így különbség van a választás jogosultjában.
+
+20. A Ptk. 6:35. § hierarchikus szabályozást alkalmaz: először a szolgáltatás rendeltetéséből megállapítható idő (ha a rendeltetés meghatározza, például esküvői torta az esküvő napjára), objektív, másodszor a teljesítés előkészítéséhez szükséges idő (ha rendeltetésből nem, akkor ésszerű idő), szubjektív, így fokozatosan enyhítve a feltételeket, először objektív, majd szubjektív.
+
+21. A szolgáltatás rendeltetéséből megállapítható teljesítési idő a Ptk. 6:35. § (2) bekezdése szerint objektív, a szolgáltatás jellege, célja határozza meg (esküvői torta az esküvő napjára, karácsonyi ajándék december 24-ig), külső kritérium, míg az ésszerű idő a (3) bekezdés szerint szubjektív, a teljesítés előkészítéséhez szükséges idő, a szolgáltatás jellege szerint változó, belső kritérium, így az egyik objektív, a másik szubjektív.
+
+22. Annak, hogy pénztartozás esetén a jogosult a teljesítést azonnal követelheti, az az alapja, hogy a pénz fizetése nem igényel különös előkészítést, azonnal teljesíthető, nincs szükség előkészítési időre (nem kell legyártani, beszerezni, előkészíteni), így azonnal esedékes, kivéve ha a felek eltérően állapodtak meg.
+
+23. Az idő előtti teljesítés főszabálya a Ptk. 6:36. § szerint, hogy a jogosult köteles elfogadni, ha lényeges jogi érdekét nem sérti és a kötelezett viseli a többletköltséget, feltételes, míg a pénztartozás különös szabálya a Ptk. 6:43. § szerint, hogy feltétel nélkül köteles elfogadni, mindig, így a pénznél feltétel nélküli, más szolgáltatásnál feltételes, a pénzt mindig el kell fogadni.
+
+24. Ahhoz, hogy a jogosult elfogadhassa az idő előtti teljesítést, a Ptk. 6:36. § (1) bekezdése szerint a teljesítés nem sértheti a jogosult lényeges jogi érdekét (például van tárolóhelye, tudja használni, nem okoz gondot), és a kötelezettnek viselnie kell az ezzel járó többletköltséget (korábbi szállítás költsége, tárolási költség), így két feltételnek kell teljesülnie.
+
+25. A lényeges jogi érdek sérelme azt jelenti, hogy a jogosult számára valóban hátrányos az idő előtti teljesítés (nincs tárolóhelye, nem tudja felhasználni még, vagyoni vagy jogi hátrány), objektív, súlyos, míg a puszta kényelmetlenség azt jelenti, hogy csak kényelmetlen, de nem okoz valódi hátrányt (kicsit korábban jön, mint szerette volna, szubjektív, enyhe), így a lényeges érdek súlyos, a kényelmetlenség enyhe.
+
+26. A Ptk. 6:43. § szerint ha pénznél feltétel nélkül köteles elfogadni az idő előtti teljesítést, akkor a pénzt mindig el kell fogadni, még ha korábbi is (nincs kifogás, nem hivatkozhat lényeges érdek sérelmére), így védelem a kötelezett számára, hamarabb megszabadulhat a tartozástól, a mondás: "a pénz mindig jókor jön".
+
+27. A szolgáltatás minősége azt jelenti, hogy milyen minőségű a szolgáltatás (jó, kiváló, megfelelő, hibás, rossz minőségű), kvalitás, tulajdonságok, míg a szolgáltatás mennyisége azt jelenti, hogy mennyi a szolgáltatás (darabszám, súly, térfogat, mennyiség), kvantitás, méret, így a minőség kvalitatív, a mennyiség kvantitatív.
+
+28. Ha a szolgáltatás nem szerződésszerű (hibás, hiányos, nem megfelelő minőségű), akkor hibás teljesítés vagy nem teljesítés áll fenn, és a jogosult kellékszavatossági jogokat gyakorolhat (kijavítás, kicserélés, árleszállítás, elállás, kártérítés), így jogkövetkezmények, védelem a jogosult számára.
+
+29. A rendeltetése szerinti használatra alkalmasság azt jelenti, hogy a dolog arra a célra alkalmas, amire általában használják (autó vezetésre alkalmas, ház lakásra alkalmas), általános, objektív, míg a felek által ismert egyéb célra való megfelelőség azt jelenti, hogy a felek által kifejezetten meghatározott különleges célra is alkalmas (például terepjáró hegyi viszonyokra is alkalmas), speciális, szubjektív, így az egyik általános, a másik speciális.
+
+30. A csomagolási és megjelölési kötelezettség jogi alapja az, hogy a szolgáltatást megfelelően csomagolva, megjelölve kell teljesíteni, hogy a szállítás során ne sérüljön meg (védelem), a jogosult azonosítani tudja (azonosíthatóság), biztonságos legyen (biztonság), így védelem, azonosíthatóság, biztonság.
+
+31. A tájékoztatási kötelezettség azt jelenti, hogy a kötelezett köteles a jogosultat tájékoztatni a szolgáltatással kapcsolatos lényeges körülményekről (használati utasítás, figyelmeztetések, kockázatok), szóbeli vagy írásbeli információ, míg az okmányok átadása azt jelenti, hogy át kell adni a dokumentumokat (számla, garancia, eredetigazolás), fizikai átadás, így az egyik információ, a másik dokumentum.
+
+32. A pénztartozás a Ptk. 6:42. § (1) bekezdése szerint két módon teljesíthető: pénz tulajdonjogának a jogosult részére való átruházása (készpénzfizetés, kézből kézbe adás), vagy a jogosult fizetési számlájára való befizetés vagy átutalás (átutalás, elektronikus fizetés), így készpénz vagy átutalás, két alternatív mód.
+
+33. A készpénzfizetés fizikai pénz átadása, kézből kézbe, készpénz, személyes, azonnal, a jogosult kézhez kapja, míg az átutalás elektronikus pénzmozgás, bankszámlák között, elektronikus, késleltetett, a bank közreműködik, jóváírás szükséges, így különbség van a fizikai és elektronikus, azonnali és késleltetett jellegben.
+
+34. Ha az átutalás esetén a pénztartozás a jóváírásakor válik teljesítetté, akkor a Ptk. 6:42. § (2) bekezdése szerint nem a küldéskor (amikor a kötelezett elindítja az átutalást, megbízza a bankot), hanem amikor a jogosult számláján jóváírják vagy jóvá kellett volna írni, így a jóváírás a döntő, védve a jogosultat, csak akkor teljesített, ha rendelkezésére áll a pénz.
+
+35. A pénz küldése azt jelenti, hogy a kötelezett elindítja az átutalást, megbízza a bankot, még nincs a jogosultnál, folyamatban van, míg a jóváírás azt jelenti, hogy a jogosult számláján jóváírják, a jogosult rendelkezésére áll a pénz, teljesítve, így a küldés folyamatban, a jóváírás befejezés, a jóváírás a döntő időpont.
+
+36. A Ptk. 6:45. § (1) bekezdése szerinti pénznem szabály jogi alapja az, hogy a pénztartozást a teljesítés helyén és idején érvényben lévő pénznemben kell megfizetni, törvényes fizetőeszköz, Magyarországon forint, biztosítva az egységes fizetési eszközt, védve a pénz stabilitását.
+
+37. A forintban meghatározott tartozás forintban fizetendő, egyszerű, nincs átszámítás, egyértelmű, míg a külföldi pénznemben meghatározott tartozás (euró, dollár) át kell számítani forintra a teljesítés idején érvényes árfolyamon a Ptk. 6:45. § (2) bekezdése szerint, bonyolultabb, árfolyam-ingadozás kockázata, így a forint egyszerű, a külföldi bonyolult.
+
+38. Ha pénztartozás után kamat jár, akkor a Ptk. 6:47. § (1) bekezdése szerint a pénz használatáért ellenszolgáltatás, a pénz időértéke, jegybanki alapkamat mértékű a (2) bekezdés szerint, így a jogosult kompenzációt kap azért, hogy nem rendelkezik a pénzzel, a kötelezett fizet a pénz használatáért.
+
+39. A rendes kamat a Ptk. 6:47. § szerint a pénztartozás után járó kamat, főszabály szerint jegybanki alapkamat, szerződéses vagy törvényi, időarányos, a pénz használatáért, míg a késedelmi kamat a Ptk. 6:48. § szerint késedelem esetén járó kamat, magasabb (alapkamat vagy alapkamat + egyharmad), szankcionáló jellegű, a késedelem miatt, így a rendes kompenzációs, a késedelmi szankcionáló.
+
+40. Annak, hogy a késedelmi kamat akkor is jár, ha a kötelezett kimenti késedelmét, a Ptk. 6:48. § (4) bekezdése szerint az az alapja, hogy a késedelmi kamat objektív jellegű, nem függ a felróhatóságtól, az időbeli késedelem tényéből fakad, nem a kötelezett hibájából, így még kimentés esetén is jár, védve a jogosultat.
+
+41. Az elszámolás sorrendje a Ptk. 6:46. § szerint költségekre, majd kamatokra, végül főtartozásra, hierarchikus, elsősorban a járulékos tételek, másodlagosan a fő, míg más sorrend (például főtartozásra, majd kamatokra, költségekre) fordított lenne, a kötelezett kedvezőbb, így a Ptk. sorrendje a jogosult számára előnyös, más sorrend a kötelezett számára előnyös.
+
+42. Az elszámolás sorrendje a jogosult számára a Ptk. 6:46. § szerint biztosítja, hogy először a járulékos költségeket (amelyek kisebb összegűek, de fontosak), majd a kamatokat (amelyek felhalmozódtak), végül a főtartozást rendezik (amely a legnagyobb), így a jogosult biztosan megkapja a költségeket és kamatokat, még ha nem elég a teljes főtartozásra, védelem.
+
+43. A teljesítés elismerése a Ptk. 6:38. § (1) bekezdése szerint azt jelenti, hogy a jogosult írásban elismeri a teljesítés tényét (átvételi elismervény, nyugta, aláírás), dokumentum, bizonyíték, míg a kötelezvény visszaadása azt jelenti, hogy visszaadja az eredeti szerződést, váltót, okiratot (amely a tartozást igazolta), fizikai átadás, megsemmisítés vagy megőrzés, így az egyik elismerés, a másik visszaadás.
+
+44. A látszaton alapuló képviselet a Ptk. 6:38. § (2) bekezdése szerint azt jelenti, hogy ha valaki felmutatja a jogosult írásba foglalt elismerő nyilatkozatát, azt jogosultnak kell tekinteni (látszat szerint jogosult, a kötelezett megbízhat benne), kivéve ha nyilvánvaló, hogy nem jogosult (körülmények egyértelműen mutatják, hogy nem ő), így védelem a kötelezettnek, megbízhat a látszatban.
+
+45. A teljesítési költségek a teljesítéssel járó kiadások (csomagolás, szállítás, fuvarozás, kézbesítés), a teljesítéshez szükségesek, egyszeri, míg a használati költségek a dolog használatából eredő kiadások (áram, víz, karbantartás, amortizáció), a használathoz kapcsolódnak, folyamatosak, így a teljesítési egyszeri, a használati folyamatos.
+
+46. Annak, hogy a Ptk. 6:39. § szerint a teljesítéssel járó költségek a kötelezettet terhelik, az az alapja, hogy a kötelezett köteles teljesíteni, és ez magában foglalja a teljesítés költségeit is, a kötelezettség része, logikus, hogy aki teljesít, viseli a költségeket, így a kötelezett felelőssége, kivéve ha a felek eltérően állapodtak meg.
+
+47. A felek eltérő megállapodása elsődleges, a felek szabadon megállapodhatnak a költségek viselésében (például a vevő viseli a szállítási költséget, bár a Ptk. szerint az eladó viselné), szerződési szabadság, autonómia, míg a Ptk. diszpozitív szabályai másodlagosak, csak akkor alkalmazandók, ha a felek nem tértek el, kiegészítő, hézagpótló, így a felek megállapodása elsődleges, a Ptk. másodlagos.
+
+48. Ha a Ptk. szabályai hézagpótló szerepet töltenek be, akkor csak akkor alkalmazandók, ha a felek nem vagy nem teljes körűen rendelkeztek a teljesítés körülményeiről, kiegészítő, másodlagos, biztosítva a teljes körű szabályozást, nincs szabályozatlan terület, a hiányokat a Ptk. tölti ki, így jogbiztonság, teljes körű szabályozás.
+
+49. A zökkenőmentes lebonyolítás azt jelenti, hogy a teljesítés gördülékenyen, probléma nélkül zajlik, a felek tudják, hogy hol, mikor, hogyan kell teljesíteni, egyértelmű, pozitív cél, míg a jogviták azt jelentik, hogy konfliktusok, perek keletkeznek, vita van a teljesítésről, bizonytalan, negatív eredmény, így a szabályozás célja a zökkenőmentes lebonyolítás, a jogviták elkerülése.
+
+50. A teljesítés helyére vonatkozó szabályok (főszabály: kötelezett helye a Ptk. 6:37. §; kivétel: jogosult helye vagy bankja pénznél a Ptk. 6:44. §; változás: új hely, többletköltség viselése) meghatározzák, hol kell teljesíteni, az idejére vonatkozó szabályok (határnap vagy határidő a Ptk. 6:35. §; rendeltetésből vagy ésszerű idő; pénz azonnal; idő előtti teljesítés a Ptk. 6:36. §) meghatározzák, mikor kell teljesíteni, a módjára vonatkozó szabályok (minőség, csomagolás, tájékoztatás; pénz: készpénz vagy átutalás a Ptk. 6:42. §; pénznem a Ptk. 6:45. §; kamat a Ptk. 6:47. §; elszámolás a Ptk. 6:46. §; elismerés a Ptk. 6:38. §; költségek a Ptk. 6:39. §) meghatározzák, hogyan kell teljesíteni, így együtt biztosítják a szerződések zökkenőmentes lebonyolítását (a felek tudják, mit, hol, mikor, hogyan kell teljesíteni, világos, egyértelmű), a felek jogainak egyértelmű meghatározását (ki mit követelhet, ki mit köteles teljesíteni, mikor, hol, jogok és kötelezettségek pontosan meghatározottak) és a jogbiztonságot (nincs bizonytalanság, kiszámítható, előrelátható, a Ptk. hézagpótló szabályai biztosítják, hogy még ha a felek nem is rendelkeztek, van szabályozás), az átlátható, logikus, praktikus rendszer, amely egyszerre szolgálja a felek autonómiáját (megállapodás elsődleges), a rugalmasságot (diszpozitív szabályok) és a jogbiztonságot (hézagpótló szabályozás).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

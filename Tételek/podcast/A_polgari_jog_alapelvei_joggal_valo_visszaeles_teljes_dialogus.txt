@@ -1,624 +1,99 @@
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szia! Ma a polgári jog alapelveiről szeretnék beszélni, különös tekintettel a joggal való visszaélés tilalmára.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Szia! Nagyszerű téma, kezdjük el. Ma egy nagyon egyedi helyszínbe megyünk – egy modern, betonból készült, szürke falú jogi alapelvek központ épületébe. Ez az épület egy vertikális struktúra, ahol minden emelet egy-egy alapelvet testesít meg. Lépjünk be a főbejáraton, ahol egy hatalmas, fémből készült, többrétegű, szivárványos fényt szóró lámpa fogad, amely folyamatosan forog és színes fénysugarakat vet a falakra.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Értem, tehát ez az épület maga a polgári jogi alapelvek struktúráját reprezentálja.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. A prizma folyamatosan forog, és a színes fénysugarak, amelyeket vet, a falakra vetülve láthatóvá teszik, hogy a polgári jogi alapelvek, más terminológiával generálklauzulák, olyan általános, elvont jogi szabályok, amelyek áthatják az egész polgári jogot, és zsinórmértékként szolgálnak mind a jogalkalmazás, mind a jogértelmezés számára. Az alapelvek nyitott normák: nem tartalmaznak konkrét, részletesen szabályozott tényállást és jogkövetkezményt, hanem általános értékeket, követelményeket fogalmaznak meg, amelyeket minden polgári jogi viszonyban érvényesíteni kell.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval ha jól gondolom, ezek az alapelvek olyanok, mint egy iránytű, amely mindig mutatja a helyes irányt.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen, nagyon jó hasonlat. Most forduljunk jobbra, és lépjünk be a bejárati csarnokba. Itt négy különálló, fémből készült, kocka alakú doboz látható, mindegyik egy funkciót reprezentál, és mindegyik belülről világít, különböző színű fénnyel. Közelítsünk az első kockához, és nézzük meg belülről.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Látom, a kocka belsejében egy hatalmas, fekete tolmácsgép van, amely bekapcsol, és amikor bekapcsol, hangosan beszél, és a hang eléri a kocka tetején lévő lámpát, amely kigyullad.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. Ez az alapelvek jogértelmezési funkciója. Az alapelvek útmutatást adnak a jogszabályok értelmezéséhez. Ha egy jogszabály többféleképpen értelmezhető, az alapelvek alapján kell eldönteni, melyik értelmezés helyes. Ha egy jogszabály homályos vagy hiányos, az alapelvek alapján kell azt kiegészíteni, konkretizálni.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát ez azt jelenti, hogy amikor egy jogszabály nem egyértelmű, akkor az alapelvek segítenek eldönteni, hogyan kell értelmezni.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Most menjünk a második kockához. Belül egy hiányzó fogaskerék helyére csatlakozik egy arany színű, kör alakú fogaskerék, amely elkezd forogni, és a forgása közben egy hatalmas, régi, bronzból készült óraművet indít el, amely hangosan ketyeg, és a ketyegés hatására a kocka tetején egy piros lámpa kigyullad.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez a joghézagkitöltő funkció, ugye?
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. Ha a jogszabályok nem szabályoznak egy adott kérdést, joghézag, az alapelvek alapján lehet eldönteni, mi a jogszerű magatartás. Az alapelvek így biztosítják a jogrendszer teljességét: nem hagyják jogi szabályozás nélkül az élethelyzeteket.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval ha nincs konkrét szabály egy helyzetre, akkor az alapelvek alapján lehet eldönteni, mi a helyes.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A harmadik kockához közeledve egy precíziós, bronzból készült bírói mérleget látunk, amely folyamatosan kiegyensúlyozza a két serpenyőjét, és amikor kiegyensúlyozódik, egy arany golyó kiesik a mérleg egyik serpenyőjéből, és eléri a következő kockát.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez a korrekciós funkció?
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Az alapelvek lehetővé teszik a bírói mérlegelést: a bíró az alapelvek alapján korrigálhatja a merev jogszabályok alkalmazását, ha az az adott esetben méltánytalan vagy igazságtalan eredményre vezetne.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát ez azt jelenti, hogy a bíró az alapelvek segítségével elkerülheti az igazságtalan eredményeket.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. A negyedik kockában egy hatalmas, piros színű, fémből készült rugó van, amely összenyomódik, majd visszapattan, és amikor visszapattan, egy lila színű, pulzáló fényt bocsát ki, amely eléri a kocka tetején lévő lámpát, és az elkezd ragyogni.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez a rugalmasság és adaptáció biztosítása.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Az alapelvek rugalmassá teszik a jogrendszert: lehetővé teszik, hogy a jog alkalmazkodjon a változó társadalmi, gazdasági viszonyokhoz anélkül, hogy a jogszabályokat folyamatosan módosítani kellene.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Értem, tehát az alapelvek segítségével a jogrendszer rugalmas maradhat, anélkül hogy folyamatosan módosítani kellene a törvényeket.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A kétezer-tizenharmadik évi ötödik törvény, Polgári Törvénykönyv alapelveit az Első Könyv, Bevezető Rendelkezések, a Polgári Törvénykönyv első könyvének első paragrafusától a hatodik paragrafusig tartalmazza. Ezek a rendelkezések a törvény egészét átható, minden polgári jogi viszonyra alkalmazandó szabályok, amelyeket mind a jogalkalmazóknak, mind a jogalanyoknak tiszteletben kell tartaniuk.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval összefoglalva, hat alapelv van, és ezek mind a Polgári Törvénykönyv első könyvének első hat paragrafusában találhatók.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. Most menjünk fel a lifttel az első emeletre. Az ajtó kinyílik, és egy hosszú, világos folyosó tárul elénk. A folyosó bal oldalán hat különálló terem van, mindegyik egy alapelvet reprezentál. Lépjünk be az első terembe.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Látom, itt két teljesen egyforma magasságú, arany színű, fényes deszka van egymás mellett, amelyek folyamatosan pulzálnak, és amikor egyszerre pulzálnak, egy zöld fény villan fel közöttük.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen, és közöttük nincs semmiféle magasságkülönbség vagy hierarchia. Ez a törvény hatálya és a mellérendeltség elve. A Polgári Törvénykönyv első könyvének első paragrafusa szerint: E törvény a mellérendeltség és egyenjogúság elve szerint szabályozza a személyek alapvető vagyoni és személyi viszonyait.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát ez azt jelenti, hogy a polgári jogban a felek egyenlőek, nincs közöttük alá-fölérendeltségi viszony.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. Ez a rendelkezés kifejezi a polgári jog alapvető jellegét: a polgári jogi viszonyokban a felek mellérendeltek, horizontális viszony, nem alá-fölérendeltségi, és egyenjogúak, egyik félnek sincs többletjoga a másikkal szemben pusztán jogi pozíciója alapján. Ez elhatárolja a polgári jogot a közjogtól, ahol a viszonyok általában vertikálisak, alá-fölérendeltségiek.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Értem, akkor ez az alapelv különbözteti meg a polgári jogot a közjogtól.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Most lépjünk ki, és menjünk a második terembe. Itt egy két szintből álló, stabil, arany színű piramis látható, ahol az alsó szint egy hatalmas, arany színű, villogó kocka, a felső szint pedig egy kisebb, ezüst színű kocka, és amikor a két kocka egyszerre villog, egy fehér fénysugár lövell ki a piramis tetejéről, és eléri a mennyezetre szerelt lámpát, amely kigyullad.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez az értelmezési alapelv, ugye?
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A Polgári Törvénykönyv első könyvének második paragrafusa szerint: első bekezdés: E törvény rendelkezéseit Magyarország alkotmányos rendjével összhangban kell értelmezni. Második bekezdés: A polgári jogi viszonyokra vonatkozó jogszabályokat e törvénnyel összhangban kell értelmezni.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval ez egy hierarchikus értelmezési szabály.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen, két szintet tartalmaz. Alaptörvénnyel való összhang, első szint: a Polgári Törvénykönyv rendelkezéseit Magyarország alkotmányos rendjével, Alaptörvény, alkotmánybírósági határozatok összhangban kell értelmezni. Ez azt jelenti: ha egy rendelkezés többféleképpen értelmezhető, az alkotmányos rendnek megfelelő értelmezést kell választani; a Polgári Törvénykönyv rendelkezései nem értelmezhetők az alkotmányos renddel ellentétesen; az alkotmányos értékek, emberi méltóság, tulajdonhoz való jog, szerződési szabadság stb. át kell hassák a Polgári Törvénykönyv alkalmazását.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát az alkotmányos értékek mindig elsőbbséget élveznek.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Ezt a követelményt erősíti Magyarország nemzetközi kötelezettségvállalásai is, például Emberi Jogok Európai Egyezménye, amelyek szintén befolyásolják a Polgári Törvénykönyv értelmezését. Polgári Törvénykönyvvel való összhang, második szint: a polgári jogi viszonyokra vonatkozó más jogszabályokat, például külön törvények, rendeletek a Polgári Törvénykönyvvel összhangban kell értelmezni. A Polgári Törvénykönyv központi szerepe a polgári jogban azt jelenti, hogy a speciális jogszabályokat a Polgári Törvénykönyv elveivel, fogalmaival, szabályaival összhangban kell alkalmazni.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval ha jól értem, a Polgári Törvénykönyv a központi jogforrás a polgári jogban, és a polgári jogi viszonyokra vonatkozó más jogszabályokat ennek megfelelően kell értelmezni.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. Most menjünk a harmadik terembe. Itt két összekapcsolt fogaskerék látható, amelyek egymást hajtják. A bal oldali fogaskerék átlátszó műanyagból készült, kör alakú, és belül egy kék színű, pulzáló fény villog, a jobb oldali fogaskerék pedig tömör, fekete fémből készült, kör alakú, és egy állandó, erős, fehér fényt bocsát ki. Amikor a két fogaskerék egyszerre forog, a kék és fehér fény összeolvad, és egy lila fénysugár lövell ki, amely eléri a terem végén lévő lámpát, és az elkezd ragyogni.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez a jóhiszeműség és tisztesség elve.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A Polgári Törvénykönyv első könyvének harmadik paragrafusa szerint: első bekezdés: A jogok gyakorlása és a kötelezettségek teljesítése során a felek a jóhiszeműség és tisztesség követelményének megfelelően kötelesek eljárni. Második bekezdés: A jóhiszeműség és tisztesség követelményét sérti az is, akinek joggyakorlása szemben áll olyan korábbi magatartásával, amelyben a másik fél okkal bízhatott.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát ez az alapelv kétkomponensű: a jóhiszeműség és a tisztesség.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Jóhiszeműség, latinul bóná fídész: a jóhiszeműség szubjektív fogalom: azt fejezi ki, hogy a fél nem tud, és nem is kell tudnia olyan körülményről, amely a joggyakorlását jogszerűtlenné tenné. A jóhiszemű fél tévedésben van, de ez a tévedés menthető, mert nem kellett tudnia az igaz tényállásról.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval a jóhiszeműség azt jelenti, hogy valaki nem tud valamiről, amit nem is kellett volna tudnia.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. Példák: a jóhiszemű birtokos nem tudja, hogy a dolog nem az övé; a jóhiszemű szerző nem tudja, hogy a szerződő fél nem jogosult a szerződéskötésre; a jóhiszemű vevő nem tudja, hogy az eladó nem tulajdonos. A jóhiszeműség fogalma különösen fontos a tulajdonszerzésnél: a jóhiszemű szerző bizonyos esetekben tulajdonossá válhat akkor is, ha az átruházó nem volt tulajdonos.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Értem, tehát a jóhiszeműség különösen fontos a tulajdonszerzésnél.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Tisztesség, objektív jóhiszeműség: a tisztesség objektív fogalom: azt fejezi ki, hogy a félnek úgy kell eljárnia, ahogy az a jogi forgalomban általában elvárható. A tisztesség követelménye nem függ attól, hogy a fél mit tud vagy mit gondol, hanem attól, hogy magatartása megfelel-e az általánosan elfogadott normáknak.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval a tisztesség objektív, míg a jóhiszeműség szubjektív.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. A tisztesség magában foglalja: a lojalitást, hűséget a szerződő félhez; a kooperációt, együttműködési készséget; a tájékoztatási kötelezettséget lényeges körülményekről; az etikus üzleti magatartást.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát a tisztesség sok mindent tartalmaz: lojalitást, kooperációt, tájékoztatási kötelezettséget.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Most nézzük meg a venire contra factum proprium tilalmát. A Polgári Törvénykönyv első könyvének harmadik paragrafusának második bekezdése tartalmazza a venire contra factum proprium, saját korábbi magatartással való szembemenetel tilalmát: A jóhiszeműség és tisztesség követelményét sérti az is, akinek joggyakorlása szemben áll olyan korábbi magatartásával, amelyben a másik fél okkal bízhatott.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval ez azt jelenti, hogy senki nem járhat el ellentétesen olyan korábbi magatartásával, amelyben a másik fél joggal bízott.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. Ez az ősi latin jogszabály klasszikus megfogalmazása. A tilalom alkalmazásának feltételei: a fél korábbi magatartása létezett; ebben a magatartásban a másik fél okkal bízhatott, ésszerű volt a bizalom; a későbbi magatartás ellentétes a korábbiakkal; a másik fél hátrányára van.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát négy feltételnek kell teljesülnie.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Példák: ha valaki beleegyezik egy építkezésbe, később nem tiltakozhat ellene; ha valaki évekig nem kifogásolja a szomszéd birtokzavaró magatartását, később nem hivatkozhat rá; ha valaki bejelenti, hogy nem érvényesít követelést, később nem követelheti.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Értem, tehát ha valaki korábban egy bizonyos magatartást mutatott, később nem fordulhat ellene.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. Most lépjünk a negyedik terembe. Itt egy hatalmas, bronzból készült, precíziós mérleg látható, amely folyamatosan méri és jelzi az elvárható magatartást, és amikor a mérleg egyensúlyba kerül, egy zöld fény villan fel a mérleg tetején, és egy kis csengő csendül.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez az elvárható magatartás elve.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A Polgári Törvénykönyv első könyvének negyedik paragrafusa szerint: első bekezdés: Ha e törvény eltérő követelményt nem támaszt, a polgári jogi viszonyokban úgy kell eljárni, ahogy az az adott helyzetben általában elvárható. Második bekezdés: Felróható magatartására előnyök szerzése végett senki nem hivatkozhat. Harmadik bekezdés: A másik fél felróható magatartására hivatkozhat az is, aki maga felróhatóan járt el.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval ez az objektív mérce, az ésszerű ember követelménye.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A Polgári Törvénykönyv első könyvének negyedik paragrafusának első bekezdése az általános gondossági kötelezettséget fejezi ki: a polgári jogi viszonyokban úgy kell eljárni, ahogy az az adott helyzetben általában elvárható. Ez az objektív mérce, az úgynevezett rezónábil men, ésszerű ember követelménye. Nem az a kérdés, hogy az adott személy képességeihez képest hogyan járt el, hanem az, hogy egy átlagos, ésszerű, gondos ember hogyan járt volna el az adott helyzetben.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát nem az egyén képességei számítanak, hanem az, hogy egy átlagos, ésszerű ember hogyan járt volna el.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. Ez a követelmény alapja: a gondossági kötelezettségnek, szerződési jogban; a felróhatóságnak, kártérítési jogban; az általános magatartási szabályoknak.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Értem, tehát ez a követelmény több területen is fontos.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Most nézzük meg a nemo turpitudinem suam allegans auditur elvét. A Polgári Törvénykönyv első könyvének negyedik paragrafusának második bekezdése tartalmazza a nemo turpitudinem suam allegans auditur, senki sem hivatkozhat saját felróható magatartására előnyök szerzése végett elvét: Felróható magatartására előnyök szerzése végett senki nem hivatkozhat.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval ez azt jelenti, hogy senki nem hasznosíthatja saját felróható magatartását.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Ez az önkontradikcióhoz vezető magatartás tilalma. Példák: a károkozó nem hivatkozhat saját gondatlanságára a felelősség alóli mentesülés végett; a szerződésszegő nem hivatkozhat saját szerződésszegésére előny szerzése végett; az érvénytelen szerződést kötő nem hivatkozhat saját felróható magatartására, például tévedésre, kényszerre, ha azt maga okozta.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát senki nem szerezhet előnyt saját hibájából.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. A Polgári Törvénykönyv első könyvének negyedik paragrafusának harmadik bekezdése kimondja: A másik fél felróható magatartására hivatkozhat az is, aki maga felróhatóan járt el.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval ha mindkét fél hibás, akkor is hivatkozhatnak egymás hibájára.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Ez azt jelenti, hogy a másik fél felróható magatartására hivatkozáshoz nem szükséges, hogy a hivatkozó maga kifogástalan legyen. Ha mindkét fél felróhatóan járt el, az nem zárja ki, hogy az egyik hivatkozzon a másik felróható magatartására. Ez a szabály különösen fontos a kármegosztásnál: ha mindkét fél hozzájárult a kárhoz, a kárt fel kell osztani, nem azt kell vizsgálni, hogy melyik fél tiszta.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Értem, tehát a kármegosztásnál is fontos ez a szabály.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Most menjünk vissza a folyosóra, és lépjünk be az ötödik terembe, amely a legfontosabb és legbonyolultabb. Ez a terem egy speciális, több részből álló struktúrát tartalmaz. A terem közepén egy hatalmas, vörös színű, fémből készült tiltójel látható, amely egyébként helyes, de rossz módon használt jogot szimbolizál, és a tiltójel körül vörös fénysugarak villognak, amelyek elérnek a terem falaira szerelt lámpákhoz, amelyek kigyulladnak.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez a joggal való visszaélés tilalma.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A Polgári Törvénykönyv első könyvének ötödik paragrafusának első bekezdése tömör egyértelműséggel kimondja: A törvény tiltja a joggal való visszaélést.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval ez egy nagyon egyszerű, de fontos szabály.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A joggal való visszaélés fogalma: a joggal való visszaélés, latinul abusz de dró, németül Rektszmiszbrauh azt jelenti, hogy valaki egy egyébként jogos, formálisan jogszerű magatartást olyan módon gyakorol, vagy olyan célból gyakorol, hogy az jogellenessé válik a joggyakorlás módja miatt.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát nem a jog hiánya a probléma, hanem a jog visszaélésszerű gyakorlása.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. A joggal való visszaélés tehát nem a jog hiányát, hanem a jog visszaélésszerű gyakorlását jelenti. A joggyakorló rendelkezik a joggal, például tulajdonos, szerződő fél, hitelező, de a jog gyakorlásának módja sérti a jog rendeltetését, célját, vagy sérti mások jogos érdekeit aránytalanul.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Értem, tehát a joggyakorló rendelkezik a joggal, de rossz módon gyakorolja.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A joggal való visszaélés tilalma nem magyar találmány, hanem nemzetközileg elismert jogelv: Svájci Polgári Törvénykönyv, latinul Cívilgeszecbuh második cikk: Senki sem gyakorolhatja jogát visszaélésszerűen. Ez az egyik legkorábbi pozitív jogi megfogalmazása a joggal való visszaélés tilalmának.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát ez egy nemzetközileg elismert elv.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Német Polgári Törvénykönyv, latinul Bürgérliches Geszecbuh kétszázhuszonhatodik paragrafus: Einem anderen zur Schikane dient, ha a jog gyakorlása kizárólag mások zaklatására szolgál, az nem élvez jogi védelmet. Francia jog: abusz de dró doktrínája a bírói gyakorlatban alakult ki. A magyar jogban a joggal való visszaélés tilalma az ezerkilencszázötvenkilencedik évi Polgári Törvénykönyvben jelent meg először pozitív jogi szabályként, és a kétezer-tizenharmadik évi Polgári Törvénykönyv átvette és módosította.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval a magyar jogban is régen jelen van ez az elv.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Most nézzük meg a terem bal oldalán lévő négy, fémből készült táblát, amelyek a joggal való visszaélés fogalmi jegyeit mutatják. Az első táblán egy bronzból készült mérleg látható, amelynek egyik oldala túl nehéz, a másik túl könnyű, és a mérleg egyértelműen aránytalan, és amikor a mérleg leesik, egy vörös golyó kiesik a túl nehéz serpenyőből, és eléri a második táblát.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez az aránytalanság.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A jog gyakorlása aránytalan kárt vagy hátrányt okoz a másik félnek ahhoz az előnyhöz képest, amelyet a joggyakorló szerez. A joggyakorló minimális előnye érdekében súlyos kárt okoz másnak. Példa: az ingatlan tulajdonosa megtiltja a szomszédnak, hogy villanyvezetéket húzzon a telkén keresztül, miközben ez neki semmi hátrányt nem okoz, a szomszédnak viszont lehetetlenné teszi az áramszolgáltatást.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát itt a joggyakorló minimális előnye érdekében súlyos kárt okoz.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. A második táblán egy eltorzított, sötét, etikátlan képet látunk, amely ellentétes az általánosan elfogadott normákkal, és a tábla leesik, és amikor leesik, eléri a harmadik táblát.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez a tisztességtelenség.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A jog gyakorlása ellentétes az általánosan elfogadott erkölcsi normákkal, az üzleti etikával, a jóhiszeműség és tisztesség követelményével. Példa: a hitelező egyszer már lemondott a követeléséről, később mégis érvényesíti, venire contra factum proprium.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval ez ellentétes a jóhiszeműség és tisztesség követelményével.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A harmadik táblán egy rozsdás, éles tőr látható, amely kizárólag károkozásra, zaklatásra szolgál, semmiféle konstruktív cél nélkül, és a tőr körül vörös fénysugarak villognak, amelyek elérnek a negyedik táblához.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez a kizárólag károkozási szándék, latinul sikané.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A jog gyakorlása kizárólag vagy elsősorban azzal a céllal történik, hogy másnak kárt okozzon, zaklatást, bosszantást jelentsen, anélkül, hogy a joggyakorlónak bármilyen ésszerű előnye származna belőle. Példa: az ingatlan tulajdonosa rosszindulatból emeli magasra a kerítést, hogy elzárja a szomszéd kilátását, miközben neki semmi haszna nincs belőle.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát itt kizárólag a károkozás a cél.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. A negyedik táblán egy fordított, ellentétes irányba mutató, fémből készült nyíl látható, amely egyébként helyes irányt mutat, de rossz célra használják, és a nyíl körül sárga fénysugarak villognak, amelyek visszaverődnek a terem közepén lévő tiltójelre.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez a jog rendeltetésével való ellentét.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A jog gyakorlása ellentétes a jog céljával, rendeltetésével. A jog nem arra való, amire a joggyakorló használja. Példa: a felmondási jog arra való, hogy megszüntessék a szerződést, ha az már nem felel meg az érdekeknek, nem arra, hogy a másik felet megzsarolják.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Értem, tehát a jogot nem a rendeltetésének megfelelően használják.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. Most nézzük meg a terem jobb oldalán lévő táblákat, amelyek a szankciókat mutatják. Az első táblán egy törött, érvénytelenített, papírból készült jogi dokumentum látható, amely egy iratmegsemmisítő gépbe esik, és a gép hangosan darál, miközben kék füst száll ki belőle.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez a kívánt joghatás elmaradása.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Ha megállapítják a joggal való visszaélést, a visszaélésszerűen gyakorolt jog nem élvez jogi védelmet: a kívánt joghatás nem következik be. Ha valaki visszaélésszerűen érvényesít követelést, a bíróság elutasítja a keresetet. Ha valaki visszaélésszerűen tagad meg jognyilatkozatot, a bíróság pótolhatja azt.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát a visszaélésszerűen gyakorolt jog nem élvez jogi védelmet.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A második táblán egy hatalmas, papírból készült kártérítési számla és egy halom arany pénzérme látható, amelyek folyamatosan villognak, és amikor a számla és a pénzérme egyszerre villan, egy zöld fény villan fel.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez a kártérítési kötelezettség.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Ha a joggal való visszaélés kárt okoz a másik félnek, a visszaélő kártérítési felelősséggel tartozik. A kártérítés jogcíme lehet: szerződésszegés, ha szerződéses jogviszonyban történt a visszaélés; deliktuális felelősség, ha szerződésen kívüli jogviszonyban.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval a kártérítés lehet szerződéses vagy deliktuális.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A harmadik táblán egy megtámadott, érvénytelenített, papírból készült szerződés és egy elveszett jogi dokumentum látható, amelyek egy tűzbe esnek, és a tűz lángjai vörös fénysugarakat vetnek a terem falaira.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez az egyéb polgári jogi szankciók.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A joggal való visszaélés további szankciókat vonhat maga után: a szerződés megtámadása vagy érvénytelenítése; a jog elvesztése, például elévülés, jogvesztés; személyiségi jogi szankciók, ha a visszaélés személyiségi jogot sért.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát többféle szankció lehet.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Most nézzük meg a terem hátsó részét, ahol egy hatalmas, arany színű bírói pálca és egy bronzból készült bírói pecsét látható, amely egy hiányzó nyilatkozatot pótol, és amikor a pecsét lecsap, egy fehér fénysugár lövell ki, amely eléri a terem tetején lévő lámpát, és az kigyullad.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez a jognyilatkozat bírósági pótlása.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A Polgári Törvénykönyv első könyvének ötödik paragrafusának második bekezdése a joggal való visszaélés egyik legfontosabb jogkövetkezményét tartalmazza: Ha a joggal való visszaélés jogszabály által megkívánt nyilatkozat megtagadásában áll, és ez a magatartás nyomós közérdeket vagy különös méltánylást érdemlő magánérdeket sért, a bíróság a nyilatkozatot ítéletével pótolhatja, feltéve, hogy az érdeksérelem másképpen nem hárítható el.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval ez a mulasztásos joggal való visszaélés speciális esete.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Ez a rendelkezés a mulasztásos joggal való visszaélés speciális esetét szabályozza: amikor valaki visszaélésszerűen megtagad egy jogszabály által megkívánt nyilatkozatot. A jognyilatkozat bírósági pótlásának feltételei: első, jogszabály által megkívánt nyilatkozat megtagadása: létezik egy jogszabályi kötelezettség a nyilatkozat megtételére, például a házastárs hozzájárulása a közös lakás eladásához, a tulajdonostárs hozzájárulása a közös tulajdon megszüntetéséhez, a vezető tisztségviselő nyilatkozata cégeljárásban. A kötelezett megtagadja a nyilatkozatot, azaz nem teszi meg, miközben jogszabály szerint köteles lenne.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát létezik egy jogszabályi kötelezettség, de a kötelezett nem teljesíti.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Második, a megtagadás visszaélésszerű: a nyilatkozat megtagadása visszaélésszerű, azaz: nincs ésszerű indoka a megtagadásnak; kizárólag vagy elsősorban a másik fél zaklatására, károkozására szolgál; aránytalanul súlyos hátrányt okoz a másik félnek; ellentétes a jóhiszeműség és tisztesség követelményével.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval négy feltételnek kell teljesülnie ahhoz, hogy visszaélésszerű legyen.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Harmadik, nyomós közérdek vagy különös méltánylást érdemlő magánérdek sérelme: a nyilatkozat megtagadása nyomós közérdeket, például közigazgatási eljárás akadályozása, közhatalmi határozat végrehajtásának megakadályozása vagy különös méltánylást érdemlő magánérdeket, például lakhatáshoz való jog, egzisztenciális érdek sért.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát vagy közérdek, vagy különös méltánylást érdemlő magánérdek sérül.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Negyedik, az érdeksérelem másképpen nem hárítható el: a jognyilatkozat bírósági pótlása ultima ratio, végső eszköz: csak akkor alkalmazható, ha az érdeksérelem másképpen, például kártérítéssel, más jogi eszközzel nem hárítható el.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval ez csak akkor alkalmazható, ha másképpen nem lehet megoldani.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Ötödik, bírósági mérlegelés: a bíróság mérlegelési jogkörben dönt arról, hogy pótolható-e a nyilatkozat. A pótolhatja szó fakultatív: a bíróság nem köteles, hanem jogosult pótolni.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát a bíróság dönthet úgy is, hogy nem pótolja.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Példák a bírói gyakorlatból: közös tulajdon megszüntetése: ha az egyik tulajdonostárs visszaélésszerűen megtagadja a hozzájárulását a megszüntetéshez, például kizárólag azért, hogy a másik tulajdonostársat zaklatja, a bíróság pótolhatja a nyilatkozatot.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát ha valaki csak azért tagadja meg, hogy zaklasson, akkor a bíróság pótolhatja.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Cégeljárás: ha a cég vezető tisztségviselője visszaélésszerűen megtagadja a cégbírósági eljárásban szükséges nyilatkozatot, például szándékosan blokkolja a cég működését, a bíróság pótolhatja. Házastársi hozzájárulás: ha az egyik házastárs visszaélésszerűen megtagadja a hozzájárulást a közös lakás eladásához, például már rég nem lakik ott, de bosszúból nem járul hozzá, a bíróság pótolhatja.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát több helyzetben is alkalmazható ez a szabály.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A pótlás joghatása: a bíróság ítélete helyettesíti a hiányzó jognyilatkozatot: úgy kell tekinteni, mintha a kötelezett megtette volna a nyilatkozatot. Az ítélet alapján a joghatások, például tulajdonjog átszállása, cégbejegyzés bekövetkeznek.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval az ítélet ugyanazt a hatást váltja ki, mintha a kötelezett megtette volna a nyilatkozatot.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. Most menjünk vissza a folyosóra, és lépjünk be a hatodik terembe. Itt egy hatalmas, arany színű bírói pálca és egy bronzból készült bírói pecsét látható, amelyek folyamatosan pulzálnak, és amikor egyszerre pulzálnak, egy kék fénysugár lövell ki, amely eléri a terem végén lévő lámpát, amely kigyullad.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Ez a bírói út.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A Polgári Törvénykönyv első könyvének hatodik paragrafusa szerint: a Polgári Törvénykönyvben biztosított jogok érvényesítése főszabály szerint bírói útra tartozik.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát a jogok érvényesítése bírói útra tartozik.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Most menjünk fel a második emeletre. Itt hat, különböző színű, fémből készült fogaskerék látható, amelyek összekapcsolódnak egymással, és mutatják az alapelvek egymáshoz való viszonyát, és amikor a fogaskerekek forognak, különböző színű fénysugarak lövellnek ki, amelyek összeolvadnak egy fehér fénysugárrá.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát az alapelvek nem elszigeteltek, hanem összefüggnek egymással.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A polgári jogi alapelvek nem elszigetelt szabályok, hanem egymással összefüggő, átfedő normák, amelyek együttesen határozzák meg a jogszerű magatartás kereteit. Az alapelvek közötti átfedések: a jóhiszeműség és tisztesség elve, a Polgári Törvénykönyv első könyvének harmadik paragrafusa és a joggal való visszaélés tilalma, a Polgári Törvénykönyv első könyvének ötödik paragrafusa között szoros kapcsolat van: a joggal való visszaélés gyakran egyben a jóhiszeműség és tisztesség követelményének megsértése is.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát ezek az alapelvek átfedik egymást.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A venire contra factum proprium tilalma, a Polgári Törvénykönyv első könyvének harmadik paragrafusának második bekezdése és a joggal való visszaélés tilalma szintén átfedik egymást: a saját korábbi magatartással való szembemenetel gyakran joggal való visszaélésnek is minősül. Az elvárható magatartás elve, a Polgári Törvénykönyv első könyvének negyedik paragrafusa és a jóhiszeműség és tisztesség elve átfedik egymást: mindkettő objektív magatartási mércét állít fel.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval ezek az alapelvek összefüggnek egymással.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Dogmatikai pontosság követelménye: az alapelvek közötti átfedések ellenére a jogalkalmazónak törekednie kell arra, hogy dogmatikailag a leginkább helytálló alapelvre hivatkozzon egy adott tényállás esetén. Ez azt jelenti, hogy: ha egy magatartás egyértelműen venire contra factum proprium, akkor erre kell hivatkozni, a Polgári Törvénykönyv első könyvének harmadik paragrafusának második bekezdése, nem általában a joggal való visszaélésre; ha egy magatartás egyértelműen a felróhatóság körébe tartozik, akkor a Polgári Törvénykönyv első könyvének negyedik paragrafusára kell hivatkozni; csak akkor kell a Polgári Törvénykönyv első könyvének ötödik paragrafusára, joggal való visszaélés hivatkozni, ha az eset nem illeszthető be a többi, specifikusabb alapelvbe.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát mindig a leginkább specifikus alapelvre kell hivatkozni.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Ez a dogmatikai pontosság biztosítja: a jogbiztonságot, egyértelmű, milyen jogalappal éltek; a kiszámíthatóságot, a jogalanyok tudják, mire számíthatnak; a jogfejlődést, a bírói gyakorlat egységes, következetes.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval ez fontos a jogbiztonság és a kiszámíthatóság szempontjából.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Most menjünk le a lifttel a földszintre, és lépjünk ki az épületből. A kijáratnál egy hatalmas, arany színű, fémből készült összefoglaló tábla látható, amely a főbb pontokat emlékezteti, és a tábla körül hat különböző színű lámpa villog, amelyek folyamatosan pulzálnak.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát itt összefoglaljuk, amit megtanultunk.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. A polgári jogi alapelvek, és kiemelten a joggal való visszaélés tilalma alapvető jelentőségűek a jogbiztonság és az igazságosság érvényesülésében. A Polgári Törvénykönyv bevezető rendelkezéseiben, első könyv első paragrafusától a hatodik paragrafusig megfogalmazott alapelvek: első, a mellérendeltség és egyenjogúság elve, a Polgári Törvénykönyv első könyvének első paragrafusa: a polgári jogi viszonyok horizontális, mellérendelt, egyenjogú felek között állnak fenn. Második, az értelmezési alapelv, a Polgári Törvénykönyv első könyvének második paragrafusa: a Polgári Törvénykönyv rendelkezéseit Magyarország alkotmányos rendjével összhangban kell értelmezni, és a polgári jogi jogszabályokat a Polgári Törvénykönyvvel összhangban. Harmadik, a jóhiszeműség és tisztesség elve, a Polgári Törvénykönyv első könyvének harmadik paragrafusa: a jogok gyakorlása és kötelezettségek teljesítése során a felek a jóhiszeműség, szubjektív és tisztesség, objektív követelményének megfelelően kötelesek eljárni. Venire contra factum proprium tilalma: a jóhiszeműség és tisztesség követelményét sérti az is, akinek joggyakorlása szemben áll olyan korábbi magatartásával, amelyben a másik fél okkal bízhatott. Negyedik, az elvárható magatartás elve, a Polgári Törvénykönyv első könyvének negyedik paragrafusa: a polgári jogi viszonyokban úgy kell eljárni, ahogy az az adott helyzetben általában elvárható, objektív mérce, rezónábil men, ésszerű ember. Nemo turpitudinem suam allegans auditur: felróható magatartására előnyök szerzése végett senki nem hivatkozhat. Ötödik, a joggal való visszaélés tilalma, a Polgári Törvénykönyv első könyvének ötödik paragrafusa: a törvény tiltja a joggal való visszaélést. Ha a joggal való visszaélés jogszabály által megkívánt nyilatkozat megtagadásában áll, és ez nyomós közérdeket vagy különös méltánylást érdemlő magánérdeket sért, a bíróság a nyilatkozatot ítéletével pótolhatja, ultima ratio, végső eszköz. Hatodik, bírói út, a Polgári Törvénykönyv első könyvének hatodik paragrafusa: a Polgári Törvénykönyvben biztosított jogok érvényesítése főszabály szerint bírói útra tartozik.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Szóval összefoglalva, hat alapelv van, és ezek mind fontosak a jogbiztonság és az igazságosság szempontjából.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Az alapelvek gyakorlati jelentősége: ezek az eszközök adják a jogalkalmazó kezébe a lehetőséget a méltányos és a konkrét eset sajátosságait figyelembe vevő ítélkezésre. Az alapelvek biztosítják, hogy: a merev jogszabályok ne vezessenek igazságtalan eredményre; a visszaélésszerű joggyakorlás ne élvezzen jogi védelmet; a jóhiszemű, tisztességes, gondos magatartás előnyt jelentsen; a jogrendszer rugalmas, adaptív és élő maradjon.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Tehát ezek az alapelvek nemcsak elméleti jelentőségűek, hanem gyakorlati eszközök is.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Pontosan. A polgári jogi alapelvek így nemcsak elméleti jelentőségűek, hanem gyakorlati eszközök, amelyek nélkül a polgári jog nem tudná betölteni funkcióját a modern társadalomban. Különösen a joggal való visszaélés tilalma játszik kulcsszerepet abban, hogy a formális jogosultság ne válhasson eszközzé mások igazságtalan károsítására, és hogy a jog rendeltetése mindig érvényesüljön.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Értem, tehát a joggal való visszaélés tilalma különösen fontos.
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Igen. Most lépjünk ki az épületből, és köszönjük el egymástól. Remélem, hogy ezzel a beszélgetéssel sikerült megértened a polgári jog alapelveit és a joggal való visszaélés tilalmát.
-</voice>
-
-<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
-Igen, nagyon hasznos volt. Köszönöm a segítségedet!
-</voice>
-
-<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
-Szívesen! Sok sikert a tanuláshoz!
-</voice>
+MENTOR
+Üdvözöllek! Ma a polgári jog alapköveit, az alapelveket fogjuk megvizsgálni, különös tekintettel a joggal való visszaélés tilalmára. Hogy ezeket az elvont szabályokat kézzelfoghatóvá tegyük, egy különleges helyszínre látogatunk: egy hatalmas, régi vasúti pályaudvarra. Képzeld el a gőzmozdonyok füstjét, a fémek csikorgását és a visszhangzó csarnokot.
+
+TANULÓ
+Izgalmasan hangzik! A vasútállomás rendszere és szabályai biztosan segítenek megérteni a jogi struktúrát. Induljunk!
+
+MENTOR
+Lépjünk be a főbejáraton az Indulási Csarnokba. Nézz fel! A fejünk felett egy óriási, kattogó Menetrendi Tábla kattog, rajta a vágányok számai és az indulási idők. Ez a tábla jelképezi az alapelveket: ezek határozzák meg az egész forgalom, vagyis a polgári jogi viszonyok kereteit. A tábla mellett egy hatalmas Mérőszalag lóg a mennyezetről.
+
+TANULÓ
+Értem, tehát ez a Mérőszalag a zsinórmérték, amihez minden mást igazítani kell a jogalkalmazás során.
+
+MENTOR
+Pontosan. És nézd csak a padlót! Egy helyen hiányzik a burkolat, egy nagy repedés tátong, amit egy munkás éppen friss betonnal tölt ki. Ez a joghézagkitöltő funkció: ahol a törvény szövege lyukas, ott az alapelvek, mint a beton, kitöltik a hézagot. Most pedig menjünk ki a peronokhoz. Az egyes vágánynál két fényes sínpárt látsz a földön.
+
+TANULÓ
+Látom a síneket. Párhuzamosan futnak egymás mellett, soha nem keresztezik egymást, és egyik sincs magasabban a másiknál.
+
+MENTOR
+Így van. Ez a kép a mellérendeltség és egyenjogúság elvét rögzíti. A felek, mint a sínpár két szála, egyenrangúak. A Polgári Törvénykönyv első könyvének első paragrafusa szerint: E törvény a mellérendeltség és egyenjogúság elve szerint szabályozza a személyek alapvető vagyoni és személyi viszonyait.
+
+TANULÓ
+Tehát a mellérendeltség és egyenjogúság elve szerint. Ez világos.
+
+MENTOR
+Most emeld a tekinteted a sínek melletti magas építményre. Egy Jelzőtornyot látsz. A tetején egy hatalmas Főjelző karja áll, alatta pedig egy kisebb Jelzőlámpa világít. A kettőt egy vastag drótkötél köti össze. Ha a fenti Főjelző, ami az Alaptörvényt jelképezi, elmozdul, a lenti Jelzőlámpa, a Polgári Törvénykönyv, kénytelen követni a mozgását.
+
+TANULÓ
+Ez nagyon szemléletes! Szóval a drótkötél mutatja a hierarchikus viszonyt és az összhangot a két szint között.
+
+MENTOR
+Igen. A Polgári Törvénykönyv első könyvének második paragrafusának első és második bekezdése szerint: E törvény rendelkezéseit Magyarország alkotmányos rendjével összhangban kell értelmezni. A polgári jogi viszonyokra vonatkozó jogszabályokat e törvénnyel összhangban kell értelmezni.
+
+TANULÓ
+Értem. Tehát Magyarország alkotmányos rendjével és e törvénnyel összhangban. Menjünk tovább!
+
+MENTOR
+Lépjünk be a Jegyirodába. Az ablaknál egy utast látsz, aki szorongat egy érvényes Menetjegyet. Ő a jóhiszeműség, a bona fides megtestesítője: joggal bízik abban, hogy a jegye érvényes. A pult túloldalán a kalauz áll, nyakában egy fényes Síppal. Ő a tisztességet képviseli: kötelessége tájékoztatni és korrektül eljárni.
+
+TANULÓ
+Látom őket. A jegy a jóhiszemű bizalom, a síp pedig a tisztességes eljárás jele. De mi az ott a kijáratnál?
+
+MENTOR
+Az egy Forgókapu. Figyeld meg! Zöld jelzést mutat, hívogatóan nyitva áll, de amint az utas belépne, hirtelen rácsapódik és pirosra vált. Ez a "venire contra factum proprium", vagyis a saját korábbi magatartással való szembemenetel tilalma. Nem ígérhetsz zöldet, hogy aztán pirosat adj. A Polgári Törvénykönyv első könyvének harmadik paragrafusának első és második bekezdése szerint: A jogok gyakorlása és a kötelezettségek teljesítése során a felek a jóhiszeműség és tisztesség követelményének megfelelően kötelesek eljárni. A jóhiszeműség és tisztesség követelményét sérti az is, akinek joggyakorlása szemben áll olyan korábbi magatartásával, amelyben a másik fél okkal bízhatott.
+
+TANULÓ
+Szóval a jóhiszeműség és tisztesség követelménye. És a forgókapu remekül mutatja azt a helyzetet, amikor valaki szembe megy a korábbi ígéretével.
+
+MENTOR
+Továbbhaladunk a Váróterembe. A padlón egy széles Sárga Biztonsági Sáv húzódik. Az utasok többsége fegyelmezetten e mögött várakozik. Ez az "elvárható magatartás" határa, az általános mérce. De nézd azt a férfit! Átugorja a lezárt Korlátot, megbotlik és elesik. Most pedig dühösen kiabál a kártérítésért.
+
+TANULÓ
+De hiszen ő ugrott át! Ez a saját hibája.
+
+MENTOR
+Pontosan. Ez a "nemo turpitudinem suam allegans auditur" elve: saját felróható magatartására előnyök szerzése végett senki nem hivatkozhat. Nézd meg a sarokban azt a két összetört Csomagkocsit is! Mindkét hordár figyelmetlen volt, és most egymásra mutogatnak. Itt mindkettő hibás, de ez nem akadálya annak, hogy hivatkozzanak a másik hibájára.
+
+TANULÓ
+Értem, tehát ha én is hibás vagyok, attól még felhozhatom a te hibádat.
+
+MENTOR
+Így van. A Polgári Törvénykönyv első könyvének negyedik paragrafusának első, második és harmadik bekezdése szerint: Ha e törvény eltérő követelményt nem támaszt, a polgári jogi viszonyokban úgy kell eljárni, ahogy az az adott helyzetben általában elvárható. Felróható magatartására előnyök szerzése végett senki nem hivatkozhat. A másik fél felróható magatartására hivatkozhat az is, aki maga felróhatóan járt el.
+
+TANULÓ
+Világos. Úgy kell eljárni, ahogy az adott helyzetben általában elvárható. Mi következik most?
+
+MENTOR
+Elérkeztünk a legfontosabb helyszínre, a Forgalomirányító Központba. Itt a joggal való visszaélés tilalmáról lesz szó. A falon egy piros Vészfékkar látható. Egy alak odalép, és hangosan nevetve meghúzza, bár nincs semmi veszély, csak a vonatot akarja megállítani poénból. Ez a visszaélés klasszikus esete: van joga meghúzni, de a célja helytelen. A Polgári Törvénykönyv első könyvének ötödik paragrafusának első bekezdése szerint: A törvény tiltja a joggal való visszaélést.
+
+TANULÓ
+Tehát a vészfék indokolatlan használata a joggal való visszaélés szimbóluma. És mi történik a terem közepén?
+
+MENTOR
+Ott egy hatalmas Váltókart látsz. A váltókezelő, akinek a feladata lenne átállítani, keresztbe tett kézzel áll és dacosan rázza a fejét. Megtagadja a cselekvést, pedig kötelessége lenne. Emiatt a kint várakozó vonatok feltorlódnak, ami sérti a közérdeket. Ez a jognyilatkozat visszaélésszerű megtagadása.
+
+TANULÓ
+És mit lehet tenni ilyenkor? Megáll az egész vasút?
+
+MENTOR
+Nem. Nézd, ki lép be az ajtón! Az Állomásfőnök, aki a bírót jelképezi. A kezében egy nagy, csillogó Aranykulcs van. Félretolja a makacs váltókezelőt, beilleszti a kulcsot a zárba, és maga húzza át a váltókart. Ezzel pótolja a hiányzó nyilatkozatot.
+
+TANULÓ
+Aha! Szóval az Állomásfőnök kulcsa a bírósági ítélet, ami helyettesíti a megtagadott nyilatkozatot.
+
+MENTOR
+Pontosan. A Polgári Törvénykönyv első könyvének ötödik paragrafusának második bekezdése szerint: Ha a joggal való visszaélés jogszabály által megkívánt nyilatkozat megtagadásában áll, és ez a magatartás nyomós közérdeket vagy különös méltánylást érdemlő magánérdeket sért, a bíróság a nyilatkozatot ítéletével pótolhatja, feltéve, hogy az érdeksérelem másképpen nem hárítható el.
+
+TANULÓ
+Ez egy nagyon fontos szabály. Nyomós közérdek vagy különös méltánylást érdemlő magánérdek esetén a bíróság ítéletével pótolhatja a nyilatkozatot.
+
+MENTOR
+Így van. Ezzel végigjártuk a Polgári Jog alapelveinek pályaudvarát. A menetrendtől a síneken és jelzőkön át eljutottunk a vészfékig és a váltóig. Ezek a képek segíteni fognak felidézni a paragrafusokat a vizsgán.
+
+TANULÓ
+Köszönöm! A párhuzamos sínek, a forgókapu és az állomásfőnök kulcsa biztosan megmarad. Viszlát!
+
+MENTOR
+Sikeres felkészülést! Viszlát!
 

@@ -1,0 +1,119 @@
+1. Milyen összefüggés áll fenn a polgári jogi jogviszony jogilag szabályozott jellege és a jogbiztonság között?
+
+2. Hogyan tükrözi a Ptk. 1:1. §-a a polgári jogi jogviszonyok alapvető természetét a mellérendeltség és egyenjogúság elvével?
+
+3. Miért tekinthető a vagyoni és személyi jellegű jogviszonyok megkülönböztetése alapvető jelentőségűnek a polgári jog rendszerében?
+
+4. Milyen különbség van a vagyoni jellegű jogviszonyok pénzben kifejezhetősége és a személyi jellegű jogviszonyok nem átruházhatósága között?
+
+5. Hogyan érvényesül a mellérendeltség elve a polgári jogi jogviszonyokban a közjogi jogviszonyokkal összehasonlítva?
+
+6. Miért jelent alapvető különbséget a polgári jog és a közjog között a diszpozitív normák dominanciája?
+
+7. Milyen összefüggés van a privát autonómia és a szerződési szabadság érvényesülése között a polgári jogi jogviszonyokban?
+
+8. Hogyan biztosítja a jogképesség és cselekvőképesség megkülönböztetése a jogalanyok védelmét és a jogforgalom biztonságát?
+
+9. Miért tekinthető a jogképesség statikus, míg a cselekvőképesség dinamikus képességnek a jogviszonyokban való részvétel szempontjából?
+
+10. Milyen jelentősége van annak, hogy a Ptk. 2:1. § (1) bekezdése szerint "Minden ember jogképes"?
+
+11. Hogyan különbözik a természetes személy jogképességének kezdete a jogi személy jogképességének keletkezésétől?
+
+12. Milyen szerepet tölt be a cselekvőképesség korlátozása a cselekvőképtelen személy védelmében a Ptk. 2:8. § alapján?
+
+13. Miért fontos a kétpólusú és többpólusú jogviszonyok megkülönböztetése a jogviszony alanyainak érdekpozíciói szempontjából?
+
+14. Hogyan jelenik meg az egyidejű többalanyúság esetén az egyetemleges kötelezettség szerepe a hitelezők védelmében?
+
+15. Milyen különbség van az egyetemes és a különös jogutódlás között a jogviszony kontinuitásának biztosítása szempontjából?
+
+16. Miért különíthető el a jogviszony közvetlen és közvetett tárgya, és milyen elméleti jelentősége van ennek?
+
+17. Hogyan tükrözi a dare, facere és praestare római jogi hármas felosztás a kötelezett magatartásának különböző típusait?
+
+18. Milyen összefüggés áll fenn a jogviszony közvetlen tárgya (magatartás) és a kötelezett szolgáltatási kötelezettsége között?
+
+19. Miért nem minden jogviszonynak van közvetett tárgya, és mely jogviszonyok tartoznak ezek közé?
+
+20. Hogyan biztosítja az alanyi jogok és kötelezettségek korrelációja a jogviszony egyensúlyát?
+
+21. Milyen különbség van az igényjoggal rendelkező alanyi jog és a naturalis obligatio (természetes kötelezettség) között?
+
+22. Miért tekinthetők az alakító jogok (hatalmasságok) különleges alanyi jogoknak a jogviszony változtatása szempontjából?
+
+23. Hogyan jelenik meg az abszolút szerkezetű jogviszonyok erga omnes hatálya a jogosult védelmében?
+
+24. Miért alakul át az abszolút szerkezetű jogviszony jogsértés esetén relatív szerkezetűvé?
+
+25. Milyen összefüggés áll fenn az abszolút szerkezetű jogviszonyok védelmi jellege és azok kógens szabályozása között?
+
+26. Hogyan különbözik a relatív szerkezetű jogviszonyok inter partes hatálya az abszolút szerkezetű jogviszonyok hatályától?
+
+27. Miért jellemző a relatív szerkezetű jogviszonyokra a diszpozitív szabályozás a felek autonómiája szempontjából?
+
+28. Milyen szerepet játszik a szinallagma (kölcsönösség) a relatív szerkezetű jogviszonyokban a felek egyensúlyának biztosításában?
+
+29. Hogyan tükrözi a dologi jogi jogviszonyok abszolút szerkezete a tulajdonjog és más dologi jogok természetét?
+
+30. Miért tekinthető a kötelmi jogi jogviszonyok relatív szerkezete a felek közötti vagyonforgalom alapjának?
+
+31. Milyen összefüggés áll fenn a dologi jogi jogviszonyok corpus (dologra vonatkozás) jellege és azok védelmi funkciója között?
+
+32. Hogyan biztosítja a kötelmi jogi jogviszonyok cselekvési szabadságot biztosító jellege a gazdasági forgalom rugalmasságát?
+
+33. Miért tekinthető a jogi tény fogalma kulcsfontosságúnak a jogviszonyok dinamikájának megértésében?
+
+34. Hogyan különbözik az eredeti jogszerzés a származékos jogszerzéstől a jogviszonyok keletkezése szempontjából?
+
+35. Milyen szerepet játszik a jogviszonyokat módosító jogi tény a jogviszony kontinuitásának fenntartásában?
+
+36. Miért fontos megkülönböztetni az ex nunc és ex tunc hatályú megszűnést a jogviszonyok megszűnése esetén?
+
+37. Hogyan jelenik meg a jogügylet, mint jogos emberi magatartás szerepe a jogviszonyok keletkezésében?
+
+38. Milyen különbség van a jogügylet és a jogellenes magatartás joghatásai között a jogviszonyok szempontjából?
+
+39. Miért tekinthető a károkozás, mint jogellenes magatartás a kártérítési jogviszony keletkezésének alapjává?
+
+40. Hogyan válik az idő múlása önálló jogi ténnyé olyan esetekben, mint az elbirtoklás vagy az elévülés?
+
+41. Milyen szerepet játszik az elévülés, mint az idő múlásához kapcsolódó jogi tény az igény kikényszeríthetőségének korlátozásában?
+
+42. Miért különböztetjük meg a konstitutív és deklaratív hatósági határozatokat a jogviszonyok alakítása szempontjából?
+
+43. Hogyan biztosítja a konstitutív bírósági határozat (pl. házasság felbontása) a jogviszonyok módosítását vagy megszüntetését?
+
+44. Milyen szerepet tölt be az ingatlan-nyilvántartási bejegyzés konstitutív hatálya a dologi jogi jogviszonyokban?
+
+45. Hogyan illusztrálja az adás-vételi szerződés létrejötte, módosítása és megszűnése a jogi tények rendszerét?
+
+46. Miért tekinthető a halál, mint esemény egyidejűleg megszüntető és keletkeztető jogi ténynek?
+
+47. Milyen összefüggés áll fenn a jogviszony-tan és a társadalmi viszonyok jogi modellezése között?
+
+48. Hogyan járul hozzá a jogviszony szerkezeti elemeinek ismerete a jogviták helyes rendezéséhez?
+
+49. Miért tekinthető a jogviszony-tan a polgári jog dogmatikai magjának és a jogalkalmazás alapjának?
+
+50. Hogyan biztosítja a jogviszony szerkezetének egyértelmű rendszere a jogalkalmazás kiszámíthatóságát és a jogbiztonságot?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

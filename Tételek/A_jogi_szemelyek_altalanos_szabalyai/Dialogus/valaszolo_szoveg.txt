@@ -1,0 +1,188 @@
+Fontos kérdés! A jogi személyek intézménye azért jött létre, hogy a modern gazdasági és társadalmi életben a szervezett közösségek, vállalkozások, egyesületek, alapítványok, önálló jogalanyként vehessenek részt a jogviszonyokban. Ez különösen fontos a vagyoni elkülönítés miatt, amelynek révén a jogi személy saját vagyonnal rendelkezik, amely elkülönül a tagok vagy alapítók vagyonától, így biztosítva a korlátolt felelősséget. A folytonosság elve azt jelenti, hogy a jogi személy fennmarad akkor is, ha a tagok személye változik, kilépés, belépés, halál, ami a vállalkozások stabilitásának alapja. Tehát önállóság, vagyonelkülönítés és folytonosság.
+
+<break time="5s"/>
+
+Ez alapvető! A Polgári Törvénykönyv harmadik könyvének negyedik paragrafusának negyedik bekezdése kimondja, hogy a jogi személy a jogi személy típusnak megfelelő létesítő okiratán alapuló bírósági nyilvántartásba vétellel jön létre. Ez azt jelenti, hogy a létesítő okirat aláírása önmagában nem elegendő, hanem a bírósági nyilvántartásba vétel hozza létre a jogi személyt mint jogalanyt. A nyilvántartásba vétel előtt a jogi személy nem létezik, nincs jogképessége, így nem lehet jogok és kötelezettségek alanya. Tehát a bejegyzés teremti meg.
+
+<break time="5s"/>
+
+Ez összefügg! A Polgári Törvénykönyv harmadik könyvének első paragrafusának ötödik bekezdése szerint a jogi személynek tagjaitól, illetve alapítójától elkülönített vagyonnal kell rendelkeznie. Ez az elkülönült vagyon a jogi személy önálló tulajdona, amely a jogi személy kötelezettségeinek fedezetéül szolgál. A Polgári Törvénykönyv harmadik könyvének második paragrafusának első bekezdése ehhez kapcsolódóan rögzíti, hogy a jogi személy kötelezettségeiért saját vagyonával köteles helytállni; a jogi személy tagjai és alapítója a jogi személy tartozásaiért nem felelnek. Tehát az elkülönült vagyon alapja a korlátolt felelősségnek.
+
+<break time="5s"/>
+
+Autonómia! A Polgári Törvénykönyv harmadik könyvének negyedik paragrafusának első bekezdése szerint a jogi személy létrehozásáról a személyek szerződésben, alapító okiratban vagy alapszabályban, a továbbiakban együtt létesítő okirat, szabadon rendelkezhetnek, a jogi személy szervezetét és működési szabályait maguk állapíthatják meg. Ez a létesítési autonómia érvényesülését jelenti, amely csak törvényi keretek között korlátozott. Az elv biztosítja, hogy a személyek szabadon alakíthassanak ki olyan szervezeti és működési szabályokat, amelyek a jogi személy céljának megfelelnek. Tehát szabadon alakítható, törvényi keretek között.
+
+<break time="5s"/>
+
+Ez kivételes eset! A felelősség áttörése a Polgári Törvénykönyv harmadik könyvének második paragrafusának második bekezdésében szabályozott: ha a jogi személy tagja vagy alapítója korlátolt felelősségével visszaélt, és emiatt a jogi személy jogutód nélküli megszűnésekor kielégítetlen hitelezői követelések maradtak fenn, e tartozásokért a tag vagy az alapító korlátlanul köteles helytállni. Visszaélésnek minősül például a jogi személy vagyonának kivonása, asset stripping, látszatjogi személy létrehozása, vagy a tagok és a jogi személy vagyonának összekeverése. Ez kivételes esetekre korlátozódik, és a bíróságnak bizonyítania kell a visszaélés tényét. Tehát csak visszaélés esetén.
+
+<break time="5s"/>
+
+Szükséges elem! A Polgári Törvénykönyv harmadik könyvének első paragrafusának ötödik bekezdése megköveteli, hogy a jogi személynek az ügyvezetését és képviseletét ellátó szervezettel kell rendelkeznie. A Polgári Törvénykönyv harmadik könyvének ötödik paragrafusának f pontja ezért írja elő, hogy a létesítő okiratban meg kell határozni a jogi személy első vezető tisztségviselőjét. A vezető tisztségviselő nélkül a jogi személy nem tudna cselekedni, ezért ez alapvető konstitutív ismérv. Tehát a működéshez kell.
+
+<break time="5s"/>
+
+Megtévesztés tilos! A Polgári Törvénykönyv harmadik könyvének hatodik paragrafusának második bekezdése kimondja, hogy a jogi személy neve nem kelthet a valósággal ellentétes látszatot. A jogi személy típusára vagy formájára vonatkozó elnevezést a jogi személy nevében fel kell tüntetni. Ha a név megtévesztő, a nyilvántartó bíróság a Polgári Törvénykönyv harmadik könyvének negyedik paragrafusának negyedik bekezdés második mondata alapján megtagadhatja a bejegyzést. A név tisztaságának követelménye a jóhiszemű harmadik személyek védelmét szolgálja, hogy tudják, milyen típusú jogi személlyel állnak szemben. Tehát a név legyen őszinte.
+
+<break time="5s"/>
+
+Ez fontos! A Polgári Törvénykönyv harmadik könyvének hetedik paragrafusa szerint a jogi személy székhelye a jogi személy bejegyzett irodája, ahol a jogi személynek biztosítania kell a részére címzett jognyilatkozatok fogadását és a jogi személy jogszabályban meghatározott iratainak elérhetőségét. A székhely meghatározza a nyilvántartó bíróság illetékességét, a hatósági eljárások illetékességét, valamint bizonyos polgári jogi eljárások illetékességét is. Ez biztosítja a jogbiztonságot és a hatékony jogérvényesítést. Tehát ez határozza meg az illetékességet.
+
+<break time="5s"/>
+
+Ez természetes! A Polgári Törvénykönyv harmadik könyvének első paragrafusának második bekezdése szerint a jogi személy jogképessége kiterjed minden olyan jogra és kötelezettségre, amely jellegénél fogva nem csupán az emberhez fűződhet. Ez azt jelenti, hogy bizonyos jogok, például házasságkötési jog, választójog politikai értelemben, testi integritáshoz való jog, jellegüknél fogva csak természetes személyeket illethetnek meg. A jogi személy mesterséges jogalany, amely nem rendelkezik emberi tulajdonságokkal, így e jogok nem ruházhatók rá. Tehát nem ember, ezért korlátozott.
+
+<break time="5s"/>
+
+Ez logikus! A jogi személy mesterséges jogalany, nem fizikai entitás, amely maga nem tud gondolkodni, cselekedni vagy akaratot nyilvánítani. A Polgári Törvénykönyv harmadik könyvének első paragrafusának ötödik bekezdése ezért megköveteli, hogy a jogi személynek az ügyvezetését és képviseletét ellátó szervezettel kell rendelkeznie. A szervezet minimálisan magában foglalja a vezető tisztségviselőket, akik a jogi személy operatív irányítását végzik, valamint a döntéshozó szervet, amely a legfontosabb döntéseket hozza. A szervezet nélkül a jogi személy nem tudna jognyilatkozatokat tenni, így nem lenne működőképes. Tehát szerveken keresztül él.
+
+<break time="5s"/>
+
+Védelem! A Polgári Törvénykönyv harmadik könyvének negyedik paragrafusának harmadik bekezdése tiltja az eltérést, ha az eltérés a jogi személy hitelezőinek, munkavállalóinak vagy a tagok kisebbségének jogait nyilvánvalóan sérti, vagy a jogi személyek törvényes működése feletti felügyelet érvényesülését akadályozza. Ez a rendelkezés biztosítja a kógens szabályok érvényesülését. A hitelezők, munkavállalók és a tagok kisebbségének védelme, valamint a jogi személyek törvényes működése feletti felügyelet érvényesülése érdekében bizonyos szabályoktól nem lehet eltérni. Tehát vannak merev szabályok is.
+
+<break time="5s"/>
+
+Legitimáció! A Polgári Törvénykönyv harmadik könyvének tizennyolcadik paragrafusának első bekezdése szerint a döntéshozó szerv ülése akkor határozatképes, ha azon a leadható szavazatok több mint felét képviselő szavazásra jogosult részt vesz. A Polgári Törvénykönyv harmadik könyvének tizenkilencedik paragrafusának harmadik bekezdése kimondja, hogy a tagok vagy az alapítók határozatukat a határozatképesség megállapításánál figyelembe vett szavazatok többségével hozzák meg. Ez az egyszerű többség elve, amely biztosítja, hogy a döntések kellő legitimációval szülessenek, és a döntéshozó szerv határozata a tagság valós akaratát tükrözze. Fontos ügyekben, például létesítő okirat módosítása, gyakran minősített többség szükséges. Tehát a többség akarata érvényesül.
+
+<break time="5s"/>
+
+Hűségi kötelezettség! A Polgári Törvénykönyv harmadik könyvének huszonegyedik paragrafusának második bekezdése rögzíti, hogy a vezető tisztségviselő ügyvezetési tevékenységét a jogi személy érdekének megfelelően köteles ellátni. Ez a fiduciárius, hűségi, kötelezettség, amely azt jelenti, hogy a vezető tisztségviselőnek a jogi személy érdekeit kell elsősorban szem előtt tartania, nem pedig saját vagy harmadik személyek érdekeit. A gondossági standard azt követeli meg, hogy a vezető tisztségviselő kellő szakértelemmel, körültekintéssel és a jogi személy érdekében járjon el. Tehát a jogi személy érdeke az első.
+
+<break time="5s"/>
+
+Bizalmi viszony! A fiduciárius kötelezettség a bizalmi viszony alapvető jellemzője, amely a vezető tisztségviselő és a jogi személy, illetve a tagok vagy alapítók, között áll fenn. A vezető tisztségviselő nem saját érdekében jár el, hanem megbízatása alapján a jogi személy érdekeit szolgálja. Ez különösen fontos az összeférhetetlenségi helyzetek elkerülése és a tisztességes ügyvezetés biztosítása szempontjából. Tehát bizalomból adódik.
+
+<break time="5s"/>
+
+Szerződésszegés! A Polgári Törvénykönyv harmadik könyvének huszonnegyedik paragrafusának első bekezdése szerint a vezető tisztségviselő az ügyvezetési tevékenysége során a jogi személynek okozott károkért a szerződésszegéssel okozott kárért való felelősség szabályai szerint felel a jogi személlyel szemben. Ez azt jelenti, hogy a vezető tisztségviselő belső felelősséggel tartozik, vagyis a jogi személy követelheti tőle a kártérítést, ha a gondossági kötelezettségét megszegi. A szerződésszegéssel okozott kár szabályai szerint kimentésre nincs lehetőség, objektív felelősség érvényesül. Tehát a jogi személy követelheti tőle.
+
+<break time="5s"/>
+
+Nem mindig kötelező! A Polgári Törvénykönyv harmadik könyvének huszonhatodik paragrafusának első bekezdése kimondja, hogy a tagok vagy az alapítók a létesítő okiratban három tagból álló felügyelőbizottság létrehozását rendelhetik el azzal a feladattal, hogy az ügyvezetést a jogi személy érdekeinek megóvása céljából ellenőrizze. A felügyelőbizottság tehát nem kötelező szerv, kivéve bizonyos jogi személy típusoknál, például nagy részvénytársaságoknál, de létrehozása biztosítja a tulajdonosi ellenőrzés hatékonyságát. A felügyelőbizottság ellenőrzi az ügyvezetést, véleményezi az előterjesztéseket, és betekinthet a jogi személy irataiba. Tehát opcionális, de hasznos.
+
+<break time="5s"/>
+
+Önállóság! A Polgári Törvénykönyv harmadik könyvének huszonkilencedik paragrafusának első és második bekezdései szerint a jogi személy törvényes képviseletét a vezető tisztségviselő látja el, és a vezető tisztségviselő képviseleti jogát önállóan gyakorolja. A törvényes képviselet azt jelenti, hogy a vezető tisztségviselő jogszabály alapján, külön meghatalmazás nélkül jogosult a jogi személy képviseletére. Az önállóság azt biztosítja, hogy a vezető tisztségviselő gyorsan és hatékonyan hozhat döntéseket, tehet jognyilatkozatokat a jogi személy nevében. Tehát nincs szükség külön meghatalmazásra.
+
+<break time="5s"/>
+
+Jóhiszemű védelem! A Polgári Törvénykönyv harmadik könyvének harmincegyedik paragrafusa kimondja, hogy a jogi személynek a jogi személyek nyilvántartásába bejegyzett képviselője képviseleti jogának korlátozása és nyilatkozatának feltételhez vagy jóváhagyáshoz kötése harmadik személyekkel szemben nem hatályos, kivéve, ha a harmadik személy a korlátozásról vagy a feltétel bekövetkeztének vagy a jóváhagyásnak a szükségességéről és annak hiányáról tudott vagy tudnia kellett volna. Ez a rendelkezés a jóhiszemű harmadik személyek védelmét szolgálja. Ha a harmadik személy nem tudott és nem is kellett tudnia a belső korlátozásról, akkor a jogi személy kötve van a képviselő jognyilatkozatához. Tehát a jóhiszeműt védik.
+
+<break time="5s"/>
+
+Két út! Jogutóddal történő megszűnésnél, átalakulás, egyesülés, szétválás, a Polgári Törvénykönyv harmadik könyvének harminckilencedik paragrafusának első bekezdése szerint az átalakuló jogi személy megszűnik, jogai és kötelezettségei az átalakulással keletkező jogi személyre mint általános jogutódra szállnak át. Ezzel szemben jogutód nélküli megszűnésnél a jogi személy jogai és kötelezettségei nem szállnak át másra, hanem a tartozásokat kiegyenlítik, a hitelezőket kielégítik, és a fennmaradó vagyont felosztják. Az általános jogutódlás azt jelenti, hogy a jogok és kötelezettségek törvény erejénél fogva átszállnak. Tehát az egyik esetben átszállás, a másik esetben lezárás.
+
+<break time="5s"/>
+
+Lezárás kell! A Polgári Törvénykönyv harmadik könyvének negyvennyolcadik paragrafusának első bekezdésének zárómondata szerint a jogi személy csak akkor szűnik meg, ha a jogi személy vagyoni viszonyainak lezárására irányuló megfelelő eljárás lefolytatását követően a bíróság a jogi személyt a nyilvántartásból törli. A vagyoni viszonyok lezárása azt jelenti, hogy a tartozásokat ki kell egyenlíteni, a hitelezőket ki kell elégíteni, végelszámolás vagy felszámolás, és csak ezt követően törölhető a jogi személy. Ez biztosítja a hitelezők védelmét és a jogbiztonságot. Tehát rendezni kell mindent.
+
+<break time="5s"/>
+
+Utólagos felelősség! A Polgári Törvénykönyv harmadik könyvének negyvennyolcadik paragrafusának harmadik bekezdése kimondja, hogy a jogutód nélkül megszűnt jogi személy tagjai és alapítója a felosztott vagyonból való részesedésük mértékéig kötelesek helytállni a megszűnt jogi személy ki nem elégített tartozásaiért. Ez az utólagos felelősség megakadályozza, hogy a tagok vagy alapítók tisztességtelenül gazdagodjanak, miközben hitelezők szenvednek sérelmet. Ha a vagyonfelosztás után derül ki, hogy vannak kielégítetlen követelések, a tagok és alapítók a kapott vagyon mértékéig kötelesek helytállni, így a hitelezők védelme biztosított. Tehát a kapott vagyonnal felelnek.
+
+<break time="5s"/>
+
+Stabilitás! A jogi személy mint önálló jogalany a tagok vagy alapítók személyétől független entitás. A Polgári Törvénykönyv ennek következtében biztosítja, hogy a tagok változása, kilépés, belépés, halál, ne érintse a jogi személy fennállását. Ez különösen fontos a vállalkozások és szervezetek hosszú távú működése szempontjából, hiszen így a jogi személy átélheti a tagok generációit, biztosítva a folytonosságot és a stabilitást. Tehát generációkat élhet túl.
+
+<break time="5s"/>
+
+Tőkevédelem! A Polgári Törvénykönyv harmadik könyvének kilencedik paragrafusának első bekezdése szerint a jogi személy alapítója vagy tagja a jogi személy alapításakor vagy a tagsági jogok keletkezésének más eseteiben köteles a jogi személy részére vagyoni hozzájárulást teljesíteni, a jogi személy részére teljesített vagyoni hozzájárulást vagy annak értékét nem lehet visszakövetelni. A vagyoni hozzájárulás a jogi személy tőkéjét, működési alapját képezi, amely a hitelezők követeléseinek fedezetéül szolgál. Ha ezt visszakövethetnék, a jogi személy működése és a hitelezők kielégítése veszélybe kerülne. Tehát ez a fedezet.
+
+<break time="5s"/>
+
+Automatikus átszállás! Az általános jogutódlás azt jelenti, hogy a jogutód jogi személy törvény erejénél fogva, külön átruházási aktusok, szerződések, átírások és így tovább, nélkül szerzi meg a jogelőd jogi személy jogait és kötelezettségeit. A Polgári Törvénykönyv harmadik könyvének negyvennegyedik paragrafusának első bekezdése szerint összeolvadásnál az összeolvadó jogi személyek megszűnnek, és új jogi személy jön létre általános jogutódlás mellett. Ez azt jelenti, hogy az új jogi személy automatikusan az összes jog és kötelezettség alanyává válik, ami biztosítja a jogfolytonosságot és a hitelezők védelmét. Tehát nincs szükség külön átruházásra.
+
+<break time="5s"/>
+
+Kulcsszerep! A nyilvántartó bíróság, cégbíróság, ellenőrzi, hogy a létesítő okirat tartalmaz e minden kötelező elemet, megfelel e a törvényi követelményeknek, és nincs e jogszabálysértés. A Polgári Törvénykönyv harmadik könyvének negyedik paragrafusának negyedik bekezdése szerint a jogi személy nyilvántartásba való bejegyzését a nyilvántartó bíróság jogszabályban meghatározott okból tagadhatja meg. A nyilvántartásba vétel konstitutív hatályú, azaz létrehozza a jogi személyt. A nyilvántartó bíróság továbbá törvényességi felügyeletet gyakorol a jogi személy működése felett. Tehát ellenőriz és bejegyez.
+
+<break time="5s"/>
+
+Egyediség! A Polgári Törvénykönyv harmadik könyvének hatodik paragrafusának első bekezdése szerint a jogi személy nevének olyan mértékben kell különböznie a korábban nyilvántartásba vett más jogi személy elnevezésétől, hogy azzal ne legyen összetéveszthető. Ez az azonosíthatóság és megkülönböztethetőség követelménye, amely biztosítja, hogy a jogforgalomban egyértelműen azonosítani lehessen a jogi személyeket. Ha a név összetéveszthető, a jogforgalom biztonsága sérül, és harmadik személyek megtévesztése is előfordulhat. Tehát nem lehet összetéveszthető.
+
+<break time="5s"/>
+
+Két forma! A Polgári Törvénykönyv harmadik könyvének negyvennegyedik paragrafusának első bekezdése különbséget tesz: összeolvadásnál az összeolvadó jogi személyek megszűnnek, és új jogi személy jön létre általános jogutódlás mellett; beolvadásnál a beolvadó jogi személy szűnik meg, általános jogutódja az egyesülésben részt vevő másik jogi személy. Összeolvadásnál tehát minden érintett jogi személy megszűnik és új entitás jön létre, míg beolvadásnál az egyik jogi személy fennmarad. Mindkét esetben általános jogutódlás történik, vagyis a jogok és kötelezettségek átszállnak. Tehát az egyik új hoz létre, a másik meglévőt bővít.
+
+<break time="5s"/>
+
+Szétválás formái! A Polgári Törvénykönyv harmadik könyvének negyvenötödik paragrafusának első bekezdése szerint különválás esetén a jogi személy megszűnik, és vagyona a különválással létrejövő több jogi személyre mint jogutódra száll át; kiválás esetén a jogi személy fennmarad, és vagyonának egy része a kiválással létrejövő jogi személyre mint jogutódra száll át. Különválásnál tehát az eredeti jogi személy megszűnik és helyébe több új lép, míg kiválásnál az eredeti jogi személy fennmarad, csak vagyonának egy része válik ki. Mindkét esetben általános jogutódlás történik. Tehát az egyik teljes szétválás, a másik részleges.
+
+<break time="5s"/>
+
+Kötelező vizsgálat! A Polgári Törvénykönyv harmadik könyvének tizennyolcadik paragrafusának első bekezdése kimondja, hogy a határozatképességet minden határozathozatalnál vizsgálni kell. Ez azt jelenti, hogy nem elegendő, ha a döntéshozó szerv ülése kezdetén határozatképes volt, hanem minden egyes határozat meghozatalakor újra vizsgálni kell. Ez biztosítja, hogy a döntések kellő legitimációval, a leadható szavazatok több mint felének jelenléte, szülessenek, és a döntéshozó szerv határozata a tagság valós akaratát tükrözze. Tehát folyamatosan ellenőrizni kell.
+
+<break time="5s"/>
+
+Tisztaság! A Polgári Törvénykönyv harmadik könyvének tizenkilencedik paragrafusának második bekezdése felsorolja az összeférhetetlenségi okokat, nem szavazhat például az, akit a határozat kötelezettség vagy felelősség alól mentesít vagy a jogi személy terhére másfajta előnyben részesít, vagy akivel a határozat szerint szerződést kell kötni. Ezek a szabályok biztosítják, hogy senki ne szavazhasson olyan ügyben, amelyben személyesen érdekelt, mert az összeférhetetlenség veszélyeztetné a döntéshozatal pártatlanságát és tisztességét. Az összeférhetetlenségi szabályok a jogi személy és a többi tag érdekeinek védelmét szolgálják. Tehát nem szavazhat, ahol érdekelt.
+
+<break time="5s"/>
+
+Átláthatóság! A Polgári Törvénykönyv harmadik könyvének hatodik paragrafusának második bekezdése előírja, hogy a jogi személy típusára vagy formájára vonatkozó elnevezést a jogi személy nevében fel kell tüntetni. Ez azt jelenti, hogy a névben szerepelnie kell, hogy a jogi személy például Korlátolt Felelősségű Társaság, Kft, Részvénytársaság, Rt, Egyesület vagy Alapítvány. Ez a követelmény azért fontos, hogy a harmadik személyek, üzleti partnerek, hitelezők, számára egyértelmű legyen, milyen típusú jogi személlyel állnak szemben, ami kihat a felelősségi és működési szabályokra is. Tehát a jogforgalom átláthatósága érdekében.
+
+<break time="5s"/>
+
+Konstitutív hatály! A bírósági nyilvántartásba vétel konstitutív, jogkeletkeztető, hatálya azt jelenti, hogy a jogi személy mint jogalany csak a nyilvántartásba vétellel jön létre. A Polgári Törvénykönyv harmadik könyvének negyedik paragrafusának negyedik bekezdése szerint a jogi személy a jogi személy típusnak megfelelő létesítő okiratán alapuló bírósági nyilvántartásba vétellel jön létre. A létesítő okirat aláírása csak előkészítő lépés, amely még nem hozza létre a jogi személyt. A nyilvántartásba vétel előtt a jogi személy nem létezik, nincs jogképessége, nem lehet jogok és kötelezettségek alanya. Tehát a bejegyzés a döntő.
+
+<break time="5s"/>
+
+Értékelési szabály! A Polgári Törvénykönyv harmadik könyvének tizedik paragrafusának harmadik bekezdése kimondja, hogy ha a nem pénzbeli vagyoni hozzájárulás átruházáskor fennálló értéke nem éri el a létesítő okiratban megjelölt értéket, a különbözet megfizetését a jogi személy az átruházástól számított öt éven belül követelheti a nem pénzbeli vagyoni hozzájárulást szolgáltató személytől. Ez a rendelkezés védi a hitelezőket és a többi tagot a vagyoni hozzájárulások túlértékelésével szemben. Ha a vagyoni hozzájárulás valós értéke alacsonyabb, a jogi személy tőkéje nem megfelelő, ami veszélyezteti a hitelezők kielégítését. Tehát a valós érték számít.
+
+<break time="5s"/>
+
+Általános szabadság! A Polgári Törvénykönyv harmadik könyvének nyolcadik paragrafusa szerint a jogi személy minden olyan tevékenységet folytathat, amelyet jogszabály nem tilt vagy nem korlátoz. Ez azt jelenti, hogy a jogi személy jogképessége általános tevékenységi szabadságot biztosít, azaz nem szükséges, hogy a tevékenység a célban pontosan meghatározott legyen. A Polgári Törvénykönyv harmadik könyvének első paragrafusának negyedik bekezdése azonban előírja, hogy a jogi személy törvény által nem tiltott tevékenység folytatására alapítható, ami bizonyos korlátozást jelent. Tehát általános a szabadság, de törvény határolja.
+
+<break time="5s"/>
+
+Csak szándékosan! A Polgári Törvénykönyv harmadik könyvének huszonnegyedik paragrafusának második bekezdése szerint a vezető tisztségviselő által e jogkörében eljárva harmadik személynek okozott károkért a jogi személy felel, a vezető tisztségviselő a jogi személlyel egyetemlegesen felel, ha a kárt szándékosan okozta. Főszabály szerint tehát a harmadik személyekkel szemben a jogi személy felel, a vezető tisztségviselő csak szándékos károkozás esetén. Ez a szabály védi a tisztségviselőket a túlzott felelősségtől, miközben biztosítja, hogy a harmadik személyek a jogi személy vagyonából kielégítést találjanak. Tehát főszabály a jogi személy felelőssége.
+
+<break time="5s"/>
+
+Kizáró okok! A Polgári Törvénykönyv harmadik könyvének huszonkettedik paragrafusa meghatározza a kizáró okokat: nem lehet vezető tisztségviselő a szabadságvesztésre ítélt személy, amíg a büntetett előélethez fűződő hátrányos következmények alól nem mentesült, a foglalkozástól eltiltott személy, a vezető tisztségviselői tevékenységtől eltiltott személy, valamint az, akinek cselekvőképességét a tevékenysége ellátásához szükséges körben korlátozták. Ezek a szabályok biztosítják, hogy csak megbízható, cselekvőképes személyek láthatják el a vezető tisztségviselői feladatokat, ami a jogi személy érdekeinek védelmét szolgálja. Tehát csak megbízható emberek.
+
+<break time="5s"/>
+
+Megszűnési ok! A Polgári Törvénykönyv harmadik könyvének negyvennyolcadik paragrafusának első bekezdés a pontja szerint a jogi személy jogutód nélkül megszűnik, ha határozott időre jött létre és a meghatározott időtartam eltelt. Ez azonban csak megszűnési ok bekövetkezése, a tényleges megszűnés a zárómondat szerint csak akkor következik be, ha a jogi személy vagyoni viszonyainak lezárására irányuló megfelelő eljárás lefolytatását követően a bíróság a jogi személyt a nyilvántartásból törli. Tehát a határozott idő lejárta után is végelszámolási vagy felszámolási eljárást kell lefolytatni. Tehát lejár, de le kell zárni.
+
+<break time="5s"/>
+
+Alapvető döntések! A döntéshozó szerv a jogi személy legfőbb szerve, amely a legfontosabb döntéseket hozza, mint például a létesítő okirat módosítása, a vezető tisztségviselők megválasztása és visszahívása, az éves beszámoló elfogadása, valamint a jogi személy megszüntetése. Ezek a döntések a tagok vagy alapítók alapvető jogait érintik, ezért ezeket nem lehet delegálni a vezető tisztségviselőre. A Polgári Törvénykönyv harmadik könyvének huszonegyedik paragrafusának első bekezdése szerint a vezető tisztségviselő csak azokat a döntéseket hozhatja meg, amelyek nem tartoznak a tagok vagy az alapítók hatáskörébe. Tehát bizonyos dolgokat csak a tagok dönthetnek el.
+
+<break time="5s"/>
+
+Visszaélés! Az undercapitalization, alultőkésítés, azt jelenti, hogy a jogi személy tőkéje nem elegendő a működéséhez, és a tagok a saját vagyonukat és a jogi személy vagyonát összekeverik. Ez a felelősség áttörésének egyik tipikus esete, amikor a bíróság megállapítja, hogy a tagok visszaéltek a korlátolt felelősséggel. A Polgári Törvénykönyv harmadik könyvének második paragrafusának második bekezdése szerint ilyen esetben a tag vagy az alapító korlátlanul köteles helytállni a jogi személy tartozásaiért. Az összekeverés azt jelzi, hogy a jogi személy nem valódi elkülönült entitás, hanem csak a tagok vagyonának része. Tehát az összekeverés felelősséget von maga után.
+
+<break time="5s"/>
+
+Csak ami illő! A Polgári Törvénykönyv harmadik könyvének első paragrafusának harmadik bekezdése kimondja, hogy a jogi személy személyhez fűződő jogaira a személyiségi jogokra vonatkozó szabályokat kell alkalmazni, kivéve, ha a védelem jellegénél fogva csupán az embert illetheti meg. Ez azt jelenti, hogy a jogi személy rendelkezik bizonyos személyiségi jogokkal, például jó hírnévhez való jog, adatvédelem, de csak azokkal, amelyek jellegüknél fogva nem kizárólag az emberhez fűződnek. A testi integritáshoz való jog, az emberi méltósághoz való jog bizonyos aspektusai vagy a házasságkötés joga nem illethetik meg a jogi személyt. Tehát csak ami nem emberi.
+
+<break time="5s"/>
+
+Fizetőképesség a kulcs! Végelszámolás esetén a jogi személy fizetőképes, azaz vagyona fedezi a tartozásait, így a végelszámolás során a tartozásokat kiegyenlítik, majd a fennmaradó vagyont a tagok vagy alapítók között felosztják vagyoni hozzájárulásuk arányában. Felszámolás esetén a jogi személy fizetésképtelen, azaz vagyona nem fedezi a tartozásait, így a vagyont értékesítik, és a hitelezői követeléseket rangsor szerint elégítik ki, munkavállalók, közterhek, egyéb hitelezők. Ha marad vagyon, azt a tagok vagy alapítók kapják, de gyakran nem marad. Tehát az egyik rendezett, a másik csőd.
+
+<break time="5s"/>
+
+Igazságosság! A Polgári Törvénykönyv harmadik könyvének negyvennyolcadik paragrafusának harmadik bekezdése szerint a jogutód nélkül megszűnt jogi személy tagjai és alapítója a felosztott vagyonból való részesedésük mértékéig kötelesek helytállni a megszűnt jogi személy ki nem elégített tartozásaiért. Ez az utólagos felelősség megakadályozza, hogy a tagok vagy alapítók tisztességtelenül gazdagodjanak, miközben hitelezők szenvednek sérelmet. Ha a vagyonfelosztás után derül ki, hogy vannak kielégítetlen követelések, a tagok és alapítók a kapott vagyon mértékéig kötelesek helytállni, így a hitelezők védelme biztosított. Tehát a hitelezők ne szenvedjenek.
+
+<break time="5s"/>
+
+Kettős szerkezet! A Polgári Törvénykönyv Harmadik Könyvének szerkezete szerint vannak általános szabályok, Polgári Törvénykönyv harmadik könyv első harmadik könyv ötvenegyedik paragrafusai, amelyek minden jogi személyre vonatkoznak, jogképesség, létesítés, szervezet, képviselet, megszűnés és így tovább, valamint különös szabályok, amelyek az egyes jogi személy típusokra, egyesület, alapítvány, korlátolt felelősségű társaság, részvénytársaság, szövetkezet és így tovább, vonatkoznak. Ez a kétsíkú szabályozás biztosítja, hogy egyrészt legyenek általános, minden jogi személyre érvényes alapelvek, másrészt az egyes típusok sajátosságai is figyelembe vételre kerüljenek. Tehát általános és speciális együtt.
+
+<break time="5s"/>
+
+Kiegészítő alkalmazás! A Polgári Törvénykönyv harmadik könyvének harmadik paragrafusának első bekezdése szerint a jogi személy általános szabályait kell alkalmazni, ha e törvény az egyes jogi személy típusokkal kapcsolatban eltérően nem rendelkezik. Ez a szubszidiárius, kiegészítő, alkalmazás elve, amely azt jelenti, hogy ha a különös szabályok eltérően nem rendelkeznek, az általános szabályok alkalmazandók. A Polgári Törvénykönyv harmadik könyvének harmadik paragrafusának második és harmadik bekezdései továbbá előírják, hogy az általános szabályokat megfelelően alkalmazni kell az e törvényben nem szabályozott típusú jogi személyekre és a nem jogi személy jogalanyokra is. Tehát kitöltő funkció.
+
+<break time="5s"/>
+
+Nem jön létre! A Polgári Törvénykönyv harmadik könyvének ötödik paragrafusa felsorolja a létesítő okirat kötelező tartalmi elemeit, név, székhely, cél vagy fő tevékenység, alapítók neve, vagyoni hozzájárulások, első vezető tisztségviselő. Ha a létesítő okirat nem tartalmazza ezeket, a nyilvántartó bíróság a Polgári Törvénykönyv harmadik könyvének negyedik paragrafusának negyedik bekezdése alapján megtagadhatja a bejegyzést. A hiányos létesítő okirat alapján a jogi személy nem jön létre, amíg a hiányosságokat nem pótolják. Ez biztosítja a jogbiztonságot és a hitelezők védelmét. Tehát pótolni kell a hiányt.
+
+<break time="5s"/>
+
+Ez a gazdaság alapja! A korlátolt felelősség elve azt jelenti, hogy a jogi személy tartozásaiért csak a jogi személy saját vagyona felel, a tagok személyes vagyona nem. Ez rendkívül fontos gazdasági szempontból, mert lehetővé teszi a vállalkozások létrehozását anélkül, hogy a tagok teljes vagyonukat kockáztatnák. A korlátolt felelősség ösztönzi a beruházásokat, a kockázatvállalást és az innovációt, ami a gazdasági fejlődés motorja. Nélküle a modern gazdaság nem működne hatékonyan, mert a vállalkozók túlzott kockázatot vállalnának. Tehát ezen áll a modern kapitalizmus.
+
+<break time="5s"/>
+
+Szívesen! Hajrá a vizsgához, ez egy összetett, de nagyon fontos téma volt!
+
+<break time="5s"/>
+

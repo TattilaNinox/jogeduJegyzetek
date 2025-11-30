@@ -1,0 +1,118 @@
+1. Mi a különbség a szerződésszegés mint a szerződésnek meg nem felelő teljesítés és a szerződésszerű teljesítés között?
+
+2. Milyen négy formában nyilvánulhat meg a szerződésszegés (nem teljesít, nem megfelelően, nem időben, nem megfelelő helyen)?
+
+3. Mi a különbség a szerződésszegés objektív jellege és a felróhatóság szubjektív jellege között?
+
+4. Milyen jogi következménye van annak, hogy a szerződésszegés ténye felróhatóságtól független?
+
+5. Mi a különbség a felróhatóság szerepe a szerződésszegés megállapításában és a jogkövetkezmények (kártérítés) megállapításában között?
+
+6. Milyen kétszintű rendszert alkot a Ptk. szerződésszegési szabályozása?
+
+7. Mi a különbség az általános szabályok és a nevesített esetek között a szerződésszegés szabályozásában?
+
+8. Milyen jogi alapja van a kétszintű szabályozásnak (általános és különös szabályok együtt)?
+
+9. Mi a különbség a teljesítés követelése (természetes teljesítéshez való jog) és a kártérítés között mint jogkövetkezmények?
+
+10. Milyen jogi védelmet biztosít a természetes teljesítéshez való jog a jogosult számára?
+
+11. Mi a különbség a visszatartási jog és az elállás között mint jogkövetkezmények?
+
+12. Milyen jogi alapja van a visszatartási jognak a szinallagma védelmében?
+
+13. Mi a különbség az elállás és a felmondás között a szerződés megszüntetésének hatálya szempontjából?
+
+14. Milyen jogi következménye van annak, hogy az elállás ex tunc, a felmondás ex nunc hatályú?
+
+15. Mi a különbség az érdekmúlás fogalma és az érdekmúlás bizonyítása között?
+
+16. Milyen feltételrendszert tartalmaz a Ptk. 6:142. § szerinti kimentési klauzula?
+
+17. Mi a különbség az ellenőrzési körön kívül eső és az ellenőrzési körön belüli körülmény között?
+
+18. Milyen jogi alapja van az előre nem láthatóság követelményének a kimentésben?
+
+19. Mi a különbség a tényleges előreláthatóság és az elvárható előreláthatóság között a szerződéses kártérítésnél?
+
+20. Milyen jogi következménye van annak, hogy mindhárom kimentési feltételnek kumulatívan kell teljesülnie?
+
+21. Mi a különbség a tapadó kár és a következménykárok között a Ptk. 6:143. § alapján?
+
+22. Milyen jogi alapja van annak, hogy a tapadó kár 100%-ban megtérítendő előreláthatóság nélkül?
+
+23. Mi a különbség a következménykárok korlátozott megtérítése és a teljes kár megtérítése között?
+
+24. Milyen jogi következménye van a szándékos szerződésszegésnek a kártérítés mértéke szempontjából?
+
+25. Mi a különbség a kötelezett késedelme és a jogosult késedelme között?
+
+26. Milyen jogi alapja van annak, hogy a Ptk. 6:153. § szerint a kötelezett késedelembe esik, ha a szolgáltatást annak esedékességekor nem teljesíti?
+
+27. Mi a különbség a teljesítés követelése és az elállás között mint a jogosult választási lehetőségei késedelem esetén?
+
+28. Milyen feltételeknek kell megfelelnie ahhoz, hogy a jogosult elállhasson késedelem esetén?
+
+29. Mi a különbség az érdekmúlás bizonyítása és az érdekmúlás vélelme között a Ptk. 6:154. § (2) bekezdése alapján?
+
+30. Milyen két esetben nem kell bizonyítani az érdekmúlást?
+
+31. Mi a különbség a fixügylet és más szerződések között az érdekmúlás szempontjából?
+
+32. Milyen jogi védelmet biztosít a póthatáridő intézménye a jogosult számára?
+
+33. Mi a különbség a késedelmi kamat objektív jellege és a kártérítés szubjektív feltételei között?
+
+34. Milyen jogi következménye van annak, hogy a késedelmi kamat akkor is jár, ha a kötelezett kimenti késedelmét?
+
+35. Mi a különbség az átvételi késedelem és a kötelezett késedelme között?
+
+36. Milyen jogi alapja van annak, hogy a jogosult késedelme a kötelezett egyidejű késedelmét kizárja?
+
+37. Mi a különbség a kárveszély átszállása és a tulajdonjog átszállása között az átvételi késedelem jogkövetkezményei szempontjából?
+
+38. Milyen jogi következménye van annak, hogy átvételi késedelem esetén az őrzési kötelezettség enyhül?
+
+39. Mi a különbség a hibás teljesítés és a nem teljesítés között?
+
+40. Milyen feltételeknek kell megfelelnie ahhoz, hogy hibás teljesítés álljon fenn a Ptk. 6:157. § szerint?
+
+41. Mi a különbség a volenti non fit iniuria elve és a hibás teljesítés felelőssége között?
+
+42. Milyen hierarchikus rendszert alkot a Ptk. 6:159. § szerinti kellékszavatossági jogok?
+
+43. Mi a különbség az elsődleges kellékszavatossági jogok (kijavítás, kicserélés) és a másodlagos jogok (árleszállítás, elállás) között?
+
+44. Milyen jogi alapja van annak, hogy jelentéktelen hiba miatt elállásnak nincs helye?
+
+45. Mi a különbség a lehetetlenülés fogalma és a nehezen teljesíthető szerződés között?
+
+46. Milyen jogi következményei vannak a lehetetlenülésnek attól függően, hogy ki felelős érte?
+
+47. Mi a különbség a kötelezett felelőssége és a jogosult felelőssége között a lehetetlenülés jogkövetkezményei szempontjából?
+
+48. Milyen jogi alapja van a kármegosztásnak, ha mindkét fél felelős a lehetetlenülésért?
+
+49. Mi a különbség a vis maior miatti lehetetlenülés és más lehetetlenülési okok között?
+
+50. Hogyan alkotják a szerződésszegés fogalma, az általános jogkövetkezmények, a nevesített esetek és a kártérítési felelősség szigorú kimentési feltételrendszere együtt egy rugalmas, igazságos és gyakorlatias rendszert?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

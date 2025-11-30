@@ -1,0 +1,39 @@
+Általános AI Feladatprompt – Tanulókártya Kérdésbank Generálás
+
+Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkészülését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat megtalálod a "forrasok" mappában Feltétlen használd fel őket nagyon fontos!!!! ? hogy idézd meg pontosan szorul szóra azokat a jogszabályokat amelyek a jelen témakörhöz kapcsolódnak, illetve amik alapján ki lett dolgozva a tétel tartalma. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd
+
+
+Feladat:
+Készíts pontosan [50] darab EGYETEMI SZINTŰ kérdést és választ a megadott tananyagból a tanulási folyamat támogatására.
+
+A Témakör: 
+
+Csatolva lett egy kidolgozott tétel és a 2013. évi V. törvény a Polgári Törvénykönyvről szóló törvény is
+
+Kérdésekre vonatkozó szabályok:
+
+A kérdések legyenek EGYETEMI SZINTŰ  nehéz szintűek – kerüld az egyszerű definíciós jellegű kérdéseket.
+
+Minden kérdés legyen egyértelmű, gondolkodtató, a tananyag mélyebb megértését mérje.
+
+A kérdések legyenek változatosak: tárjanak fel fogalmakat, ok-okozati összefüggéseket, különbségeket, gyakorlati vonatkozásokat.
+
+A kérdések között ne legyen ismétlés. Tilos a Duplikálás a kérdésekben és a válaszokban is!!
+
+Válaszokra vonatkozó szabályok:
+
+Minden kérdéshez tartozzon egyetlen, egyértelmű válasz.
+
+A válasz ne legyen túl hosszú (1–3 mondat).
+
+A válasz közvetlenül kapcsolódjon a kérdéshez, ne tartalmazzon felesleges információt.
+
+Kimeneti formátum:
+A választ két különálló listában add meg:
+
+Kérdések (Előlap) – csak a [50] kérdés felsorolva. külön fájlban : kerdesek.txt
+
+Válaszok (Hátlap) – a [50] kérdéshez tartozó [50] válasz felsorolva, sorrendben megegyezően.: külön fájlban : valaszok.txt
+
+Ezek után a 3. oldal legyen MINDEN KÁRTYÁHOZ legalább 2 mondatos indoklás, magyarázat ami tartalmazza a vonatkozó jogszabályok szövegét is. Az indoklásnál a számozás kell de ne legyen címek, csak a tartalom. Ne szerpelejen benne, hogy pld: Magyarázat:, vagy Indoklás:...stb Szigorúan TILOS, hogy az indoklás szövege egyezzen akár a kérdéssel, akár a kérdésre adott válasszal!! : külön fájlban : magyarazatok.txt

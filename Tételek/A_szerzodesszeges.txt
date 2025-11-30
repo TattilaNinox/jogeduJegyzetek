@@ -1,0 +1,270 @@
+A SZERZŐDÉSSZEGÉS KÖZÖS SZABÁLYAI, NEVESÍTETT FORMÁI
+
+I. Bevezetés: A Szerződésszegés Fogalma és Rendszere
+
+A **szerződésszegés** a szerződés **bármely kötelezettségének** a **szerződésnek meg nem felelő teljesítése**. Ez azt jelenti, hogy a kötelezett **nem**, **nem megfelelően**, **nem időben** vagy **nem a megfelelő helyen** teljesíti a szerződésben vállalt kötelezettségét.
+
+A szerződésszegés **objektív jellegű**: a szerződésszegés **ténye** a **felróhatóságtól független**. Nem az a kérdés, hogy a kötelezett **szándékosan, gondatlanul** vagy **vétkességtől mentesen** szegett-e szerződést, hanem az, hogy a teljesítés **megfelel-e** a szerződésnek vagy sem. A **felróhatóságnak** elsősorban a **jogkövetkezmények** (különösen a **kártérítés**) körében van jelentősége: a kártérítési felelősség feltétele a felróhatóság (vagy a felróhatóság hiányának eredménytelen bizonyítása).
+
+A **2013. évi V. törvény (Polgári Törvénykönyv)** szabályozása **kétszintű rendszert** alkot:
+
+**1. Általános szabályok** (Ptk. 6:140-6:152. §): Minden szerződésszegésre alkalmazandó **közös jogkövetkezmények** és alapelvek.
+
+**2. Nevesített (tipizált) esetek** (Ptk. 6:153. §-tól): A leggyakrabban előforduló szerződésszegésekre vonatkozó **speciális szabályok** (késedelem, hibás teljesítés, lehetetlenülés).
+
+Ez a **kétszintű szabályozás** biztosítja, hogy egyrészt legyenek általános, minden szerződésszegésre vonatkozó szabályok, másrészt a tipikus esetek speciális szabályozást kapjanak.
+
+
+II. A Szerződésszegés Általános (Közös) Jogkövetkezményei
+
+Az **általános jogkövetkezmények** olyan szankciók, amelyeket a jogosult **bármely szerződésszegés** esetén igénybe vehet, függetlenül a szerződésszegés konkrét formájától.
+
+**1. Teljesítés követelése (természetes teljesítéshez való jog)**
+
+A jogosult **elsődleges igénye** a **teljesítés követelése**: hogy a kötelezett teljesítse a szerződésben vállalt kötelezettségét. Ez a **természetes teljesítéshez való jog**, amely biztosítja, hogy a jogosult **azt kapja**, amit a szerződésben kikötöttek, nem pusztán pénzbeli kompenzációt.
+
+A teljesítés követelése **minden szerződésszegés** esetén lehetséges, kivéve, ha:
+- a teljesítés **lehetetlenné vált**;
+- a jogosult **érdeke megszűnt** a teljesítéshez (érdekmúlás);
+- a jogosult **elállt** vagy **felmondott**.
+
+**2. Visszatartási jog**
+
+A **visszatartási jog** azt jelenti, hogy a jogosult a **saját esedékes szolgáltatását** a másik fél teljesítéséig vagy biztosíték adásáig **visszatarthatja**. Ez a **szinallagma** (kölcsönös szolgáltatások egyensúlya) védelme: ha az egyik fél nem teljesít, a másik fél sem köteles teljesíteni.
+
+A visszatartási jog biztosítja, hogy egyik fél se kerüljön hátrányos helyzetbe azzal, hogy teljesít, miközben a másik fél nem teljesít.
+
+**3. Elállás vagy felmondás**
+
+Az **elállás** és a **felmondás** a szerződés **megszüntetésének** módjai szerződésszegés esetén.
+
+**a) Elállás**
+
+Az **elállás** a szerződést **visszamenőleges hatállyal** (ex tunc) szünteti meg: úgy kell tekinteni, **mintha a szerződést meg sem kötötték volna**. Az elállás esetén a felek **kötelesek visszatéríteni** a már teljesített szolgáltatásokat (eredeti állapot helyreállítása).
+
+Az elállás feltétele: a szerződés teljesítéséhez fűződő **érdek megszűnése** (érdekmúlás). Ha a jogosult érdeke megszűnt (pl. a késedelem miatt már nincs szüksége a szolgáltatásra), elállhat.
+
+**b) Felmondás**
+
+A **felmondás** a szerződést **a jövőre nézve** (ex nunc) szünteti meg: a felmondás időpontjától megszűnik a szerződés, de a múltbeli joghatások (már teljesített szolgáltatások) **fennmaradnak**.
+
+A felmondás tipikusan **tartós jogviszonynál** (pl. bérleti szerződés, megbízási szerződés) alkalmazandó.
+
+**4. Kártérítés (Ptk. 6:142. §)**
+
+A szerződésszegés **legfontosabb jogkövetkezménye** a **kártérítési kötelezettség**. A **Ptk. 6:142. §-a** tartalmazza a szerződésszegéssel okozott károkért való felelősség alapszabályát:
+
+"Aki a szerződés megszegésével a másik félnek kárt okoz, köteles azt megtéríteni. Mentesül a felelősség alól, ha bizonyítja, hogy a szerződésszegést ellenőrzési körén kívül eső, a szerződéskötés időpontjában előre nem látható körülmény okozta, és nem volt elvárható, hogy a körülményt elkerülje vagy a kárt elhárítsa."
+
+Ez a szabály a **szerződéses kártérítési felelősség alapja**, amely **eltér** a deliktuális (szerződésen kívüli) kártérítéstől.
+
+**A kötelezett kimentési lehetősége (Ptk. 6:142. §):**
+
+A kötelezett **mentesül** a kártérítési felelősség alól, ha bizonyítja, hogy a szerződésszegést olyan körülmény okozta, amely **kumulatívan** megfelel a következő feltételeknek:
+
+**a) Ellenőrzési körén kívül eső**: Olyan körülmény, amelyre a kötelezett **nem képes hatást gyakorolni**, amely nem az ő cselekvési szférájába tartozik.
+
+Példák: vis maior (elháríthatatlan külső ok), politikai/társadalmi események (háború, forradalom), állami intézkedések (kormányrendelet), súlyos üzemzavar (nem a kötelezett hibájából), radikális piaci változások.
+
+**b) A szerződéskötés időpontjában előre nem látható**: A kötelezett a szerződéskötéskor **nem látta előre** és nem is kellett előre látnia, hogy ez a körülmény bekövetkezik. Ez **tényleges előreláthatóság** (nem az ideáltipikus személy előreláthatósága, mint a deliktuális felelősségnél).
+
+**c) Nem volt elvárható az elkerülés vagy elhárítás**: A kötelezetttől **nem volt elvárható**, hogy a körülményt elkerülje vagy a kárt elhárítsa (még a legnagyobb gondosság mellett sem).
+
+Ez **szigorú kimentési feltételrendszer**: mindhárom feltételnek **együttesen** kell teljesülnie. Ha a kötelezett nem tudja bizonyítani, **kártérítési felelősség** terheli.
+
+**A kártérítés mértéke (Ptk. 6:143. §):**
+
+A **Ptk. 6:143. §-a** szabályozza a szerződésszegéssel okozott kár megtérítésének mértékét:
+
+"(1) Kártérítés címén meg kell téríteni a szolgáltatás tárgyában keletkezett kárt.
+(2) A szerződésszegés következményeként a jogosult vagyonában keletkezett egyéb károkat és az elmaradt vagyoni előnyt olyan mértékben kell megtéríteni, amilyen mértékben a jogosult bizonyítja, hogy a kár mint a szerződésszegés lehetséges következménye a szerződés megkötésének időpontjában előre látható volt.
+(3) Szándékos szerződésszegés esetén a jogosult teljes kárát meg kell téríteni."
+
+Ez **megkülönbözteti**:
+
+**- "Tapadó kár"** (Ptk. 6:143. § (1) bekezdés): A szolgáltatás tárgyában keletkezett kár (pl. a hibás dolog javítási költsége, az el nem adott dolog értékcsökkenése). Ez **100%-ban** megtérítendő, előreláthatóság bizonyítása nélkül.
+
+**- "Következménykárok"** (Ptk. 6:143. § (2) bekezdés): A jogosult vagyonában keletkezett egyéb károk és az elmaradt vagyoni előny. Ez csak olyan mértékben térítendő meg, **amilyen mértékben előre látható volt** a szerződéskötéskor. A jogosultnak kell bizonyítania az előreláthatóságot.
+
+**- Szándékos szerződésszegés** (Ptk. 6:143. § (3) bekezdés): A **teljes kár** megtérítendő, előreláthatóság nélkül. Ez szigorúbb szankció a szándékos szerződésszegőre.
+
+
+III. A Nevesített Szerződésszegési Esetek és Különös Jogkövetkezményeik
+
+A Ptk. **tipizálja** a leggyakoribb szerződésszegési eseteket, és speciális szabályokat állapít meg rájuk.
+
+**1. A kötelezett késedelme (Ptk. 6:153-155. §)**
+
+**a) A késedelem fogalma (Ptk. 6:153. §)**
+
+"A kötelezett késedelembe esik, ha a szolgáltatást annak esedékességekor nem teljesíti."
+
+A késedelem **objektív tény**: ha az esedékességkor (a teljesítési időben) nem teljesít, késedelem áll fenn, **függetlenül** attól, hogy a kötelezett miért nem teljesített, felróható-e neki vagy sem.
+
+**b) A késedelem jogkövetkezményei (Ptk. 6:154. §)**
+
+A **Ptk. 6:154. § (1) bekezdése** szerint:
+
+"(1) Ha a kötelezett késedelembe esik, a jogosult követelheti a teljesítést, vagy ha a késedelem következtében a szerződés teljesítéséhez fűződő érdeke megszűnt, elállhat a szerződéstől."
+
+A jogosult **két lehetőség** között választhat:
+
+**- Teljesítés követelése**: A jogosult továbbra is követeli a teljesítést (még ha késve is).
+
+**- Elállás**: Ha a jogosult **érdeke megszűnt** a teljesítéshez (érdekmúlás), elállhat a szerződéstől.
+
+Az **érdekmúlást** főszabály szerint bizonyítani kell, de a **Ptk. 6:154. § (2) bekezdése** szerint bizonyos esetekben **nem kell** bizonyítani:
+
+"(2) A jogosult elállásához nincs szükség a teljesítéshez fűződő érdek megszűnésének bizonyítására, ha
+a) a szerződést a felek megállapodása szerint vagy a szolgáltatás felismerhető rendeltetésénél fogva a meghatározott teljesítési időben - és nem máskor - kellett volna teljesíteni; vagy
+b) a jogosult az utólagos teljesítésre megfelelő póthatáridőt tűzött, és a póthatáridő eredménytelenül telt el."
+
+Ez **két eset**:
+
+**- Fixügylet**: Ha a szerződést **meghatározott időben** kellett volna teljesíteni, és nem máskor (pl. esküvői torta az esküvő napjára, karácsonyi ajándék december 24-ig). Ilyenkor a késedelemből **automatikusan** következik az érdekmúlás.
+
+**- Póthatáridő**: Ha a jogosult **póthatáridőt** tűz (pl. "teljesíts 10 napon belül"), és az **eredménytelenül** telik el, az érdekmúlás vélelmezett.
+
+**c) Késedelmi kamat (Ptk. 6:154. § (3) bekezdés)**
+
+"(3) A kötelezett köteles megtéríteni a jogosultnak a késedelemből eredő, pénztartozás esetén a késedelmi kamatot meghaladó kárát, kivéve, ha a késedelmét kimenti."
+
+**Pénztartozás esetén** a kötelezett **késedelmi kamatot** köteles fizetni (Ptk. 6:48. §), amely a jegybanki alapkamattal megegyező vagy azt meghaladó mértékű. A késedelmi kamat **akkor is jár**, ha a kötelezett kimenti a késedelmét (Ptk. 6:48. § (4) bekezdés).
+
+Ha a jogosultnak a **késedelmi kamatot meghaladó kára** van, azt külön **kártérítésként** követelheti (ha a kötelezett nem tud kimentkezni).
+
+**2. A jogosult késedelme (átvételi késedelem) (Ptk. 6:156. §)**
+
+**a) Az átvételi késedelem fogalma (Ptk. 6:156. § (1) bekezdés)**
+
+"(1) A jogosult késedelembe esik, ha a felajánlott teljesítést nem fogadja el."
+
+A jogosult is késedelembe eshet, ha a kötelezett **felajánlja** a teljesítést (szerződésszerűen, időben, megfelelő helyen), de a jogosult **nem fogadja el** (pl. nem veszi át a dolgot, nem jelenik meg az átvételre).
+
+**b) Jogkövetkezmények (Ptk. 6:156. § (2)-(3) bekezdések)**
+
+"(2) A jogosult késedelme a kötelezett egyidejű késedelmét kizárja.
+(3) Átvételi késedelem esetén a kötelezett a dolog őrzésére a megbízás nélküli ügyvitel szabályai szerint köteles, a kárveszély pedig a jogosultra száll át."
+
+**- A kárveszély átszáll**: Ha a dolog elpusztul vagy megrongálódik, az **a jogosult kárára** van (nem követelheti a kicserélést).
+
+**- A kötelezett őrzési kötelezettsége enyhül**: A kötelezett csak a megbízás nélküli ügyvitel szabályai szerint őriz (kisebb gondossággal).
+
+**- A jogosult felel a kötelezettnek okozott károkért**: Ha a jogosult késedelme miatt a kötelezettnek kára keletkezik (pl. tárolási költség, elmaradt üzlet), a jogosult **kártérítést** tartozik fizetni.
+
+**3. Hibás teljesítés (Ptk. 6:157. §-tól)**
+
+**a) A hibás teljesítés fogalma (Ptk. 6:157. § (1) bekezdés)**
+
+"(1) A kötelezett hibásan teljesít, ha a szolgáltatás a teljesítés időpontjában nem felel meg a szerződésben vagy jogszabályban megállapított minőségi követelményeknek. Nem teljesít hibásan a kötelezett, ha a jogosult a hibát a szerződéskötés időpontjában ismerte, vagy a hibát a szerződéskötés időpontjában ismernie kellett."
+
+A hibás teljesítés azt jelenti, hogy a kötelezett **teljesített** (nem marad el a teljesítés), de a szolgáltatás **nem felel meg** a szerződésben vagy jogszabályban megállapított **minőségi követelményeknek**.
+
+Nem hibás a teljesítés, ha a jogosult a hibát **ismerte vagy ismernie kellett** a szerződéskötéskor (volenti non fit iniuria).
+
+**b) Kellékszavatossági jogok (Ptk. 6:159. §)**
+
+A **Ptk. 6:159. § (1)-(2) bekezdései** szerint:
+
+"(1) Olyan szerződés alapján, amelyben a felek kölcsönös szolgáltatásokkal tartoznak, a kötelezett a hibás teljesítésért kellékszavatossággal tartozik.
+(2) Kellékszavatossági igénye alapján a jogosult választása szerint
+a) kijavítást vagy kicserélést igényelhet, kivéve, ha a választott kellékszavatossági jog teljesítése lehetetlen, vagy ha az a kötelezettnek - másik kellékszavatossági igény teljesítésével összehasonlítva - aránytalan többletköltséget eredményezne;
+b) az ellenszolgáltatás arányos leszállítását igényelheti, a hibát a kötelezett költségére maga kijavíthatja vagy mással kijavíttathatja, vagy a szerződéstől elállhat, ha a kötelezett a kijavítást vagy a kicserélést nem vállalta, e kötelezettségének nem tud eleget tenni, vagy ha a jogosultnak a kijavításhoz vagy kicseréléshez fűződő érdeke megszűnt."
+
+A **kellékszavatossági jogok hierarchikus rendszere**:
+
+**Elsődleges jogok** (jogosult választása szerint):
+- **Kijavítás**: A hibát kijavítják, a dolog megfelelő állapotba hozása.
+- **Kicserélés**: Hibás dolog helyett hibátlan dolgot adnak.
+
+**Másodlagos jogok** (ha az elsődleges jogok nem érvényesíthetők):
+- **Árleszállítás**: A vételár (ellenszolgáltatás) arányos csökkentése.
+- **Saját kijavítás**: A jogosult maga kijavítja a hibát a kötelezett költségére.
+- **Elállás**: A szerződéstől való elállás (ha a hiba súlyos).
+
+A **Ptk. 6:159. § (3) bekezdése** szerint:
+
+"(3) Jelentéktelen hiba miatt elállásnak nincs helye."
+
+Ez azt jelenti, hogy **csekély, jelentéktelen hiba** esetén (apró kozmetikai hiba, amely a használatot nem befolyásolja) **nem lehet elállni** a szerződéstől.
+
+**4. A teljesítés lehetetlenné válása (lehetetlenülés)**
+
+Ha a teljesítés **lehetetlenné válik** (objektíve lehetetlen, nem csak a kötelezettnek nehéz), a kötelezettség **megszűnik**. A jogkövetkezmények attól függnek, hogy **ki felelős** a lehetetlenülésért:
+
+**- A kötelezett felelős**: A jogosult **kártérítést** követelhet, és elállhat a szerződéstől.
+
+**- A jogosult felelős**: A kötelezett **mentesül**, és követelheti az ellenszolgáltatást (ha már teljesített).
+
+**- Egyik sem felelős** (pl. vis maior): A kötelezettség **megszűnik**, de egyik fél sem követelhet kártérítést. A már teljesített szolgáltatásokat **vissza kell téríteni**.
+
+**- Mindkét fél felelős**: **Kármegosztás** a felróhatóság arányában.
+
+
+IV. Összegzés
+
+A **szerződésszegés szabályozása** egy **rugalmas, többlépcsős szankciórendszert** biztosít a jogosult számára, amely lehetővé teszi, hogy a konkrét helyzetnek leginkább megfelelő jogkövetkezményt válassza.
+
+**A szerződésszegés fogalma**: A szerződés bármely kötelezettségének a szerződésnek meg nem felelő teljesítése. **Objektív jellegű**: a felróhatóságtól független.
+
+**Általános jogkövetkezmények** (minden szerződésszegésnél):
+
+1. **Teljesítés követelése**: Természetes teljesítéshez való jog
+2. **Visszatartási jog**: A saját szolgáltatás visszatartása
+3. **Elállás vagy felmondás**: A szerződés megszüntetése (ex tunc vagy ex nunc hatállyal)
+4. **Kártérítés** (Ptk. 6:142. §): Szerződésszegéssel okozott károkért való felelősség
+
+**A kártérítési felelősség szigorú kimentési feltételrendszere** (Ptk. 6:142. §):
+- **Ellenőrzési körén kívül eső**
+- **Szerződéskötéskor előre nem látható**
+- **Nem volt elvárható az elkerülés/elhárítás**
+
+(mindhárom kumulatívan szükséges!)
+
+**A kártérítés mértéke** (Ptk. 6:143. §):
+- **Tapadó kár**: 100% (előreláthatóság nélkül)
+- **Következménykárok**: csak ha előre látható volt
+- **Szándékos szerződésszegés**: teljes kár
+
+**Nevesített szerződésszegési esetek:**
+
+**1. Kötelezett késedelme** (Ptk. 6:153-155. §):
+- **Fogalom**: A szolgáltatást az esedékességkor nem teljesíti
+- **Jogkövetkezmények**: teljesítés követelése vagy elállás (ha érdekmúlás), késedelmi kamat (pénztartozásnál), kártérítés
+
+**2. Jogosult késedelme** (Ptk. 6:156. §):
+- **Fogalom**: A felajánlott teljesítést nem fogadja el
+- **Jogkövetkezmények**: kárveszély átszáll, őrzési kötelezettség enyhül, kártérítési kötelezettség
+
+**3. Hibás teljesítés** (Ptk. 6:157-159. §):
+- **Fogalom**: A szolgáltatás nem felel meg a minőségi követelményeknek
+- **Jogkövetkezmények**: **Kellékszavatossági jogok** (kijavítás/kicserélés → árleszállítás/saját kijavítás/elállás)
+
+**4. Lehetetlenülés**:
+- **Jogkövetkezmények**: A kötelezettség megszűnik, kártérítés a felelős féltől
+
+A szerződésszegés szabályozása így **differenciált, igazságos és gyakorlatias** rendszert alkot, amely biztosítja a **jogosult érdekeit** (teljesítés, kártérítés), ugyanakkor **védi a kötelezettet** is a túlzott felelősségtől (kimentési lehetőség, következménykárok korlátozása), és lehetővé teszi a **szerződéses jogviszonyok rugalmas kezelését** a szerződésszegés esetén.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,81 @@
+Témaspecifikus AI Feladatprompt – Tanulókártya Kérdésbank Generálás: A szerződés fogalma, létrejötte, megkötése
+
+Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkészülését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat a "forrasok" mappa teljes tartalmában találod. Emellett a fő forrás a kidolgozott tétel, amelynek elérési útvonalát alább adom meg. Feltétlen használd fel ezeket a forrásokat, és idézd pontosan, szóról szóra azokat a jogszabályokat, amelyek a jelen témakörhöz kapcsolódnak. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd.
+
+Kidolgozott tétel forrásfájl:
+
+forrasok\2013. évi V. törvény a Polgári Törvénykönyvről.txt.txt, forrasok\PJZV_HEJ_MR-kidolgozott tételek.txt,forrasok\VÉKÁS-GÁRDOS_ PTK KOMMENTÁR_2018 január 1-től hatályos.txt
+
+
+Feladat:
+Készíts pontosan [50] darab EGYETEMI SZINTŰ kérdést és választ az alább részletezett tananyagból a tanulási folyamat támogatására.
+
+A Témakör: A szerződés fogalma, létrejötte, megkötése
+A kérdések és válaszok alapját a következő strukturális és tartalmi követelmények képezik:
+
+I. Bevezetés: A Szerződés mint Kötelemkeletkeztető Tény
+- Definiáld a **szerződés** fogalmát a **Ptk. 6:58. §** alapján: a felek kölcsönös és egybehangzó akaratnyilatkozata, amelyből szolgáltatás teljesítésére irányuló kötelezettség, és a szolgáltatás követelésére irányuló jogosultság keletkezik.
+- Emeld ki a szerződés szerepét, mint a legfontosabb **kötelemkeletkeztető jogi tényt** és a piacgazdaság alapvető jogi eszközét.
+- Tárgyald a **szerződési szabadság** elvét és annak korlátait.
+
+II. A Szerződés Létrejötte: Az Akaratnyilatkozatok Találkozása
+- Mutasd be a szerződés létrejöttének klasszikus modelljét: **ajánlat + elfogadás**.
+- **1. Az ajánlat (Ptk. 6:64. §):**
+    - Definiáld az ajánlat fogalmát: a szerződés megkötésére irányuló, kellően meghatározott, a lényeges kérdésekre kiterjedő és a címzetthez intézett jognyilatkozat.
+    - Tárgyald az **ajánlati kötöttség** intézményét: az ajánlattevő az ajánlatához kötve van. Részletezd az ajánlati kötöttség időtartamát jelenlévők és távollévők között tett ajánlat esetén.
+- **2. Az elfogadás (Ptk. 6:66. §):**
+    - Definiáld az elfogadás fogalmát: az ajánlattal egyező tartalmú, az ajánlati kötöttség időtartama alatt tett címzett jognyilatkozat.
+    - Különítsd el az **ellenajánlattól**: ha az elfogadás az ajánlattól eltérő tartalommal bír.
+    - Tárgyald a **hallgatás vagy a magatartástól való tartózkodás** főszabály szerint nem minősül elfogadásnak, de térj ki a kivételekre (pl. a felek korábbi megállapodása).
+
+III. A Szerződés Megkötésének Ideje és Helye:
+- Részletezd a Ptk. szabályait a szerződéskötés időpontjának és helyének meghatározására, különbséget téve az alábbi esetek között:
+    - **Jelenlévők között kötött szerződés:** A szerződés az elfogadó nyilatkozat megtételével jön létre.
+    - **Távollévők között kötött szerződés:** A szerződés az elfogadó nyilatkozatnak az ajánlattevőhöz való megérkezésével jön létre.
+- Térj ki röviden az **elektronikus úton történő szerződéskötés** speciális szabályaira.
+
+IV. A Szerződés Tartalma és Értelmezése:
+- Tárgyald a felek megállapodásának szerepét a szerződés tartalmának meghatározásában.
+- Különítsd el a **lényeges** (amelyekben a feleknek meg kell állapodniuk a szerződés létrejöttéhez) és a **nem lényeges** (amelyek hiányában a jogszabályok diszpozitív szabályai vagy a bírói gyakorlat tölti ki a szerződést) feltételeket.
+
+V. Összegzés:
+- Foglald össze a szerződés létrejöttének konszenzuális természetét: a felek egybehangzó akaratának (konszenzus) van jogviszonyt keletkeztető ereje.
+- Hangsúlyozd a világos és egyértelmű akaratnyilatkozatok fontosságát a jogviták elkerülése érdekében.
+
+Kérdésekre vonatkozó szabályok:
+- A kérdések legyenek EGYETEMI SZINTŰ, nehéz szintűek – kerüld az egyszerű definíciós jellegű kérdéseket.
+- Minden kérdés legyen egyértelmű, gondolkodtató, a tananyag mélyebb megértését mérje.
+- A kérdések legyenek változatosak: tárjanak fel fogalmakat, ok-okozati összefüggéseket, különbségeket, gyakorlati vonatkozásokat a fenti témakörön belül.
+- A kérdések között ne legyen ismétlés. Tilos a duplikálás a kérdésekben és a válaszokban is!
+
+Válaszokra vonatkozó szabályok:
+- Minden kérdéshez tartozzon egyetlen, egyértelmű válasz.
+- A válasz ne legyen túl hosszú (1–3 mondat).
+- A válasz közvetlenül kapcsolódjon a kérdéshez, ne tartalmazzon felesleges információt.
+
+Kimeneti formátum:
+A kimenet a `Tételek` mappába kerüljön. Ott hozz létre egy mappát a témakör nevével (pl. `A_szerzodes_fogalma_letrejotte`), és a következő három fájlt ebbe az új mappába generáld:
+
+1.  **Kérdések (Előlap)** – csak az [50] kérdés felsorolva. Fájlnév: `kerdesek.txt`
+2.  **Válaszok (Hátlap)** – az [50] kérdéshez tartozó [50] válasz felsorolva, sorrendben megegyezően. Fájlnév: `valaszok.txt`
+3.  **Magyarázatok (Indoklás)** – Minden kártyához legalább 2 mondatos indoklás, magyarázat, ami tartalmazza a vonatkozó jogszabályok szövegét is. Az indoklásnál a számozás kell, de ne legyenek címek, csak a tartalom. Ne szerepeljen benne, hogy pld: Magyarázat:, vagy Indoklás:. Szigorúan TILOS, hogy az indoklás szövege egyezzen akár a kérdéssel, akár a kérdésre adott válasszal! Fájlnév: `magyarazatok.txt`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

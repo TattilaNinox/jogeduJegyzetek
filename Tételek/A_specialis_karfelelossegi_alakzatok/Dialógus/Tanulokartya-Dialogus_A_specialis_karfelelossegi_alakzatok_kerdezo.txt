@@ -1,0 +1,249 @@
+Kezdjük azzal, hogy hogyan különül el egymástól a speciális felelősségi alakzatok rendszere és az általános deliktuális felelősség, különösen a felelősség alapja és a kimentés nézópontjából?
+<break time="5s"/>
+
+Ha már a szigorúságnál tartunk, mit eredményez, ha a jog szigorúbb helytállást ír elő ezekben a speciális alakzatokban?
+<break time="5s"/>
+
+Oké, és mi a praktikus különbség a szubjektív és az objektív felelősség között a kimentés lehetősége terén?
+<break time="5s"/>
+
+Foglaljuk össze a speciális alakzatok három fő jellemzőjét, hogy biztosan rögzüljön.
+<break time="5s"/>
+
+Jó, és mi különbözteti meg a fokozott kockázatot a szokásos kockázattól szabályozási cél szempontjából?
+<break time="5s"/>
+
+Van egy fontos elméleti funkció is: hogyan kap szerepet a prevenció a speciális alakzatoknál?
+<break time="5s"/>
+
+Jöjjön a veszélyes üzem: miben más ez, mint a hétköznapi tevékenységek a felelősség kapcsolódása alapján?
+<break time="5s"/>
+
+Pontosan mit jelent az, hogy aki fokozott veszéllyel járó tevékenységet folytat, köteles az ebből eredő kárt megtéríteni?
+<break time="5s"/>
+
+Világosítsuk meg: mi a különbség a rendellenes és a szokásos működés között egy veszélyes üzemben?
+<break time="5s"/>
+
+Hozzunk pár példát, hogy kézzelfogható legyen: milyen tipikus veszélyes üzemekre gondolunk, és mi közös bennük?
+<break time="5s"/>
+
+Nézzük meg a kimentés szűkülését: miben tér el az általános kimentési klauzula a veszélyes üzemétől?
+<break time="5s"/>
+
+Összefoglalva, melyik az a két feltétel, amelynek együttesen kell teljesülnie az elháríthatatlan oknál?
+<break time="5s"/>
+
+És akkor tisztázzuk: mi a különbség az elháríthatatlan ok és a rendellenesség között?
+<break time="5s"/>
+
+Mi következik jogilag abból, ha bizonyítható, hogy a kár a rendellenességből ered?
+<break time="5s"/>
+
+Kanyarodjunk a környezethez: mit jelent a környezetveszélyeztetés beemelése ebbe a rendszerbe?
+<break time="5s"/>
+
+Mi a jelentősége annak, hogy a felelősség kizárása vagy korlátozása semmis bizonyos károkra?
+<break time="5s"/>
+
+Térjünk rá az üzembentartóra: mi indokolja, hogy az viselje a kockázatot, akinek érdekében az üzem működik?
+<break time="5s"/>
+
+Gyakorlati azonosítás: miben tér el a tulajdonos, az üzemeltető és az üzembentartó szerepe?
+<break time="5s"/>
+
+Mi történik, ha a károsult is közrehatott a kár bekövetkezésében?
+<break time="5s"/>
+
+És miben más a kármegosztás logikája általános szabályok szerint, mint a veszélyes üzemnél?
+<break time="5s"/>
+
+Haladjunk a találkozási szituációkhoz: milyen hierarchiát alkalmaz a jog, ha két veszélyes üzem találkozik?
+<break time="5s"/>
+
+Ebből adódóan mi a különbség a felróhatósági és a rendellenességi alapú felelősség között?
+<break time="5s"/>
+
+És ha tényleg egyik félnél sincs rendellenesség, mi a végeredmény?
+<break time="5s"/>
+
+Most lépjünk át a más személyért való felelősséghez: miben erősebb a munkáltató felelőssége az alkalmazottért az általános rendszerhez képest?
+<break time="5s"/>
+
+Melyek a munkáltatói felelősség fennállásának kulcsfeltételei?
+<break time="5s"/>
+
+Miben különbözik a munkáltató objektív felelőssége a megbízó felelősségétől?
+<break time="5s"/>
+
+Mi változik, ha az alkalmazott szándékosan okozza a kárt?
+<break time="5s"/>
+
+Ezzel összefüggésben hogyan különül el az egyetemleges és a kizárólagos felelősség?
+<break time="5s"/>
+
+Mi indokolja, hogy a jogi személy a tagja károkozásáért feleljen, ha az a tagsági viszonnyal összefügg?
+<break time="5s"/>
+
+És akkor tegyük egymás mellé: miben más a megbízó felelőssége a megbízottért, mint a munkáltatóé az alkalmazottért?
+<break time="5s"/>
+
+Soroljuk fel a kimentkezés három kulcsterületét megbízói viszonyban.
+<break time="5s"/>
+
+Fejtsük ki árnyaltabban: hogyan különbözik egymástól ez a három kulpa?
+<break time="5s"/>
+
+Miért van az, hogy lazább megbízási viszonyban indokolt a kimentés lehetősége?
+<break time="5s"/>
+
+Most a segédfelelősségről beszéljünk: miben tér el ez a modell a többitől?
+<break time="5s"/>
+
+Miért előnyös a tényleges károkozó megnevezésének lehetősége?
+<break time="5s"/>
+
+Térjünk rá a vétőképtelenség kontra cselekvőképtelenség különbségére: hogyan érdemes megjegyezni?
+<break time="5s"/>
+
+Mi az alapja annak, hogy a vétőképtelen helyett a gondozó felel?
+<break time="5s"/>
+
+Hogyan különül el a nevelési és a felügyeleti kötelezettség?
+<break time="5s"/>
+
+És mi történik, ha a gondozó bizonyítja, hogy sem a nevelésben, sem a felügyeletben nem volt felróható?
+<break time="5s"/>
+
+Most az állattartás: miben különbözik az átlagos állattartó felelőssége a veszélyes állat tartójáétól?
+<break time="5s"/>
+
+Mi a dogmatikai alapja az állattartó szigorított felelősségének?
+<break time="5s"/>
+
+És ki felel a vadászható állat által okozott kárért?
+<break time="5s"/>
+
+Térjünk át az épületkárokra: miért terheli szigorú felelősség az épület tulajdonosát?
+<break time="5s"/>
+
+Mi a különbség az épületrészek lehullása és az épület hiányosságai révén okozott kár között?
+<break time="5s"/>
+
+Mit jelent a fordított bizonyítási teher ezekben az ügyekben?
+<break time="5s"/>
+
+Miben tér el a tárgy kidobásával okozott kár az épületrészek lehullásától?
+<break time="5s"/>
+
+Végül a termékfelelősség: mi a jogi alapja ennek az objektív felelősségi formának?
+<break time="5s"/>
+
+Hogyan különül el a személyi és a dologi kár a termékkár fogalmában?
+<break time="5s"/>
+
+Zárásképpen fűzzük össze az egészet: hogyan áll össze ebből egy differenciált felelősségi rendszer, és mi a preventív hatása?
+<break time="5s"/>
+Sziasztok! Ma a speciális kárfelelősségi alakzatokról fogunk beszélgetni, ami egy nagyon fontos téma a záróvizsgára készülve. Kezdjük is el!
+
+Mi a különbség a speciális felelősségi alakzatok és az általános deliktuális felelősség között a felelősség alapja és kimentés szempontjából?
+
+Érdekes kérdés merül fel: Milyen jogi következménye van annak, hogy a speciális felelősségi alakzatok szigorúbb helytállási kötelezettséget írnak elő?
+
+Most nézzük meg, mi a különbség a szubjektív felelősség és az objektív felelősség között a kimentés lehetősége szempontjából?
+
+Vizsgáljuk meg, milyen három jellemzője van a speciális felelősségi alakzatoknak?
+
+Beszéljünk arról, mi a különbség a fokozott kockázat és a szokásos kockázat között a speciális felelősségi alakzatok szabályozásának célja szempontjából?
+
+Milyen jogi alapja van annak, hogy a speciális felelősségi alakzatok prevenciós funkciót töltenek be?
+
+Térjünk át a veszélyes üzemre! Mi a különbség a veszélyes üzem és más tevékenységek között abban, hogy miként kapcsolódnak a felelősséghez?
+
+Fontos kérdés: Milyen jogi következménye van annak, hogy a Polgári Törvénykönyv hatodik könyvének ötszáz harmincötödik paragrafusának első bekezdése szerint aki fokozott veszéllyel járó tevékenységet folytat, köteles az ebből eredő kárt megtéríteni?
+
+Mi a különbség a veszélyes üzem rendellenes működése és a szokásos működés között?
+
+Milyen példákat sorolhatunk fel veszélyes üzemre, és mi a közös jellemzőjük?
+
+Most nézzük meg, mi a különbség az általános deliktuális felelősség kimentési klauzulája és a veszélyes üzemi felelősség kimentési klauzulája között?
+
+Milyen két feltételnek kell megfelelnie az elháríthatatlan oknak a Polgári Törvénykönyv hatodik könyvének ötszáz harmincötödik paragrafusa szerint?
+
+Érdekes kérdés: Mi a különbség az elháríthatatlan ok és a rendellenesség között a veszélyes üzemi felelősség szempontjából?
+
+Milyen jogi következménye van annak, ha a kár a veszélyes üzem rendellenességéből ered?
+
+Beszéljünk a környezetveszélyeztetésről! Mi a különbség a környezetveszélyeztetés és más veszélyes tevékenységek között?
+
+Milyen jogi védelmet biztosít a Polgári Törvénykönyv hatodik könyvének ötszáz harmincötödik paragrafusának harmadik bekezdése?
+
+Mi a különbség a személyi sérülés vagy halál esetén és a dologban okozott kár esetén a felelősség kizárásának lehetősége szempontjából?
+
+Nézzük meg az üzembentartó fogalmát! Milyen jogi alapja van annak, hogy az üzembentartó az, akinek érdekében a veszélyes üzem működik?
+
+Mi a különbség a tulajdonos, az üzemeltető és az üzembentartó között?
+
+Most térjünk át a kármegosztásra! Milyen jogi következménye van annak, ha a károsult is közrehatott a kárban?
+
+Mi a különbség az általános kármegosztási szabályok és a veszélyes üzemi felelősség kármegosztási szabályai között?
+
+Milyen hierarchikus szabályokat alkalmaz a Polgári Törvénykönyv a veszélyes üzemek találkozásakor?
+
+Mi a különbség a felróhatóság arányában való megosztás és a rendellenesség alapján való felelősség között?
+
+Milyen jogi következménye van annak, ha egyik veszélyes üzemnél sem állapítható meg rendellenesség?
+
+Térjünk át a munkáltatói felelősségre! Mi a különbség a munkáltató felelőssége és az általános deliktuális felelősség között?
+
+Milyen feltételeknek kell megfelelnie ahhoz, hogy a munkáltatói felelősség fennálljon?
+
+Mi a különbség a munkáltató objektív felelőssége és a megbízó kimentkezési lehetősége között?
+
+Milyen jogi következménye van annak, ha az alkalmazott szándékosan okozta a kárt?
+
+Mi a különbség az egyetemleges felelősség és a kizárólagos felelősség között?
+
+Milyen jogi alapja van a jogi személy felelősségének a tagja károkozásáért?
+
+Beszéljünk a megbízói felelősségről! Mi a különbség a megbízó felelőssége és a munkáltató felelőssége között?
+
+Milyen három kulpa formát tartalmaz a kimentési klauzula?
+
+Mi a különbség a kulpa in eligendo, a kulpa in instruendo és a kulpa in vigilando között?
+
+Milyen jogi következménye van annak, hogy a megbízási viszony lazább, mint a munkaviszony?
+
+Mi a különbség a segédfelelősség és más felelősségi formák között?
+
+Milyen jogi védelmet biztosít a tényleges károkozó megnevezésének lehetősége?
+
+Térjünk át a vétőképtelenekre! Mi a különbség a vétőképtelen személy és a cselekvőképtelen személy között?
+
+Milyen jogi alapja van annak, hogy a vétőképtelen helyett a gondozó felel?
+
+Mi a különbség a gondozó nevelési és felügyeleti kötelezettsége között?
+
+Milyen jogi következménye van annak, ha a gondozó bizonyítja, hogy felróhatóság nem terheli?
+
+Most nézzük az állattartói felelősséget! Mi a különbség az állattartó felelőssége és a veszélyes állat tartójának felelőssége között?
+
+Milyen jogi alapja van az állattartó szigorított felelősségének?
+
+Mi a különbség a vadászható állat által okozott kár és más állatok által okozott kár között?
+
+Beszéljünk az épületkárokról! Milyen jogi következménye van annak, hogy az épület tulajdonosa felel?
+
+Mi a különbség az épület egyes részeinek lehullása és az épület hiányosságai révén okozott kár között?
+
+Milyen fordított bizonyítási terhet tartalmaz a Polgári Törvénykönyv az épületkárok esetében?
+
+Mi a különbség a tárgyak kidobásával okozott kár és az épület lehullásával okozott kár között?
+
+Végül beszéljünk a termékfelelősségről! Milyen jogi alapja van a termékfelelősségnek mint objektív felelősségi formának?
+
+Mi a különbség a személyi sérülés vagy halál és a dologban okozott kár között a termékkár fogalmában?
+
+Végül egy összefoglaló kérdés: Hogyan alkotják a speciális felelősségi alakzatok egy differenciált rendszert, és milyen preventív funkciót töltenek be?
+
+Remélem, hasznos volt ez az áttekintés a speciális kárfelelősségi alakzatokról! Sok sikert a vizsgához!

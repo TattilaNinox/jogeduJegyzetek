@@ -1,0 +1,91 @@
+Témaspecifikus AI Feladatprompt – Tanulókártya Kérdésbank Generálás: A polgári jogi tények
+
+Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkészülését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat a "forrasok" mappa teljes tartalmában találod. Emellett a fő forrás a kidolgozott tétel, amelynek elérési útvonalát alább adom meg. Feltétlen használd fel ezeket a forrásokat, és idézd pontosan, szóról szóra azokat a jogszabályokat, amelyek a jelen témakörhöz kapcsolódnak. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd.
+
+Kidolgozott tétel forrásfájl:
+
+forrasok\2013. évi V. törvény a Polgári Törvénykönyvről.txt.txt, forrasok\PJZV_HEJ_MR-kidolgozott tételek.txt,forrasok\VÉKÁS-GÁRDOS_ PTK KOMMENTÁR_2018 január 1-től hatályos.txt
+
+
+
+Feladat:
+Készíts pontosan [50] darab EGYETEMI SZINTŰ kérdést és választ az alább részletezett tananyagból a tanulási folyamat támogatására.
+
+A Témakör: A polgári jogi tények
+A kérdések és válaszok alapját a következő strukturális és tartalmi követelmények képezik:
+
+I. Bevezetés: A Jogi Tények Szerepe a Polgári Jogban
+- Definiáld a **jogi tény** fogalmát: azok az emberi, társadalmi vagy természeti jelenségek, amelyekhez a jogszabályok joghatásokat – azaz polgári jogi jogviszonyok keletkezését, módosulását vagy megszűnését – fűzik.
+- Emeld ki a jogi tények központi szerepét a polgári jog dinamikájában, mint a jogviszonyok "mozgatórugóit".
+
+II. A Jogi Tények Osztályozása Eredetük Szerint:
+- Részletezd a jogi tények fő csoportjait az alábbi struktúra szerint, mindegyikre hozz konkrét példákat!
+    - **1. Emberi magatartások:**
+        - **Jogos magatartások:**
+            - **Jogügyletek:** Akaratnyilatkozaton alapuló, joghatás kiváltására irányuló cselekmények. Térj ki a szerződésre mint legfontosabb jogügylet-típusra.
+            - **Más engedélyezett cselekmények:** Olyan jogos magatartások, amelyek nem minősülnek jogügyletnek (pl. a megbízás nélküli ügyvitel).
+        - **Jogellenes magatartások:**
+            - **Szerződésszegés:** A szerződéses kötelezettség megsértése.
+            - **Szerződésen kívüli károkozás (deliktum):** Másnak jogellenesen okozott kár.
+            - Térj ki a jogellenesség objektív jellegére a polgári jogban.
+    - **2. Emberi magatartástól független (külső) körülmények:**
+        - **Események:** Olyan objektív jelenségek, amelyek emberi akarattól függetlenül következnek be (pl. természeti esemény, születés, halál).
+        - **Az idő múlása:** Tárgyald az idő jogi jelentőségét.
+            - **Jogvesztő határidő:** Az alanyi jog megszűnése.
+            - **Elévülés:** Az alanyi jog bírósági kikényszeríthetőségének megszűnése.
+            - **Elbirtoklás:** Eredeti tulajdonszerzési mód.
+    - **3. Állami (hatósági) aktusok:**
+        - **Konstitutív hatályú aktusok:** Jogviszonyt keletkeztető, módosító vagy megszüntető hatásúak (pl. bírósági ítélet a házasság felbontásáról, kisajátítási határozat).
+        - **Deklaratív hatályú aktusok:** Meglévő jogi helyzetet állapítanak meg vagy tanúsítanak (pl. bírósági ítélet a szerződés létrejöttéről, ingatlan-nyilvántartási bejegyzés).
+
+III. A Jogi Tények Osztályozása a Joghatás Szerint:
+- Mutasd be, hogy a fenti jogi tények milyen változást idézhetnek elő a jogviszonyokban:
+    - **Jogviszony-keletkeztető tények:** Új jogviszonyt hoznak létre (pl. szerződéskötés, öröklés).
+        - Térj ki az **eredeti** és a **származékos** jogszerzés közötti különbségre!
+    - **Jogviszony-módosító tények:** A fennálló jogviszony valamely elemét (alany, tárgy, tartalom) változtatják meg (pl. szerződésmódosítás, engedményezés).
+    - **Jogviszony-megszüntető tények:** A fennálló jogviszonyt lezárják (pl. szerződés teljesítése, felmondás, a dolog megsemmisülése).
+
+IV. Gyakorlati Jelentőség:
+- Hozz egy komplex, életszerű példát (pl. egy ingatlan adásvételének történetét az előszerződéstől a birtokbaadásig), és mutasd be rajta keresztül a különböző jogi tények láncolatát és azok joghatásait.
+
+V. Összegzés:
+- Foglald össze, hogy a jogi tények rendszerének ismerete miért alapvető a jogalkalmazásban.
+- Erősítsd meg, hogy a jogász feladata egy konkrét élethelyzetben azonosítani a releváns jogi tényeket, és azok alapján meghatározni a felek jogait és kötelezettségeit.
+
+Kérdésekre vonatkozó szabályok:
+- A kérdések legyenek EGYETEMI SZINTŰ, nehéz szintűek – kerüld az egyszerű definíciós jellegű kérdéseket.
+- Minden kérdés legyen egyértelmű, gondolkodtató, a tananyag mélyebb megértését mérje.
+- A kérdések legyenek változatosak: tárjanak fel fogalmakat, ok-okozati összefüggéseket, különbségeket, gyakorlati vonatkozásokat a fenti témakörön belül.
+- A kérdések között ne legyen ismétlés. Tilos a duplikálás a kérdésekben és a válaszokban is!
+
+Válaszokra vonatkozó szabályok:
+- Minden kérdéshez tartozzon egyetlen, egyértelmű válasz.
+- A válasz ne legyen túl hosszú (1–3 mondat).
+- A válasz közvetlenül kapcsolódjon a kérdéshez, ne tartalmazzon felesleges információt.
+
+Kimeneti formátum:
+A kimenet a `Tételek` mappába kerüljön. Ott hozz létre egy mappát a témakör nevével (pl. `A_polgari_jogi_tenyek`), és a következő három fájlt ebbe az új mappába generáld:
+
+1.  **Kérdések (Előlap)** – csak az [50] kérdés felsorolva. Fájlnév: `kerdesek.txt`
+2.  **Válaszok (Hátlap)** – az [50] kérdéshez tartozó [50] válasz felsorolva, sorrendben megegyezően. Fájlnév: `valaszok.txt`
+3.  **Magyarázatok (Indoklás)** – Minden kártyához legalább 2 mondatos indoklás, magyarázat, ami tartalmazza a vonatkozó jogszabályok szövegét is. Az indoklásnál a számozás kell, de ne legyenek címek, csak a tartalom. Ne szerepeljen benne, hogy pld: Magyarázat:, vagy Indoklás:. Szigorúan TILOS, hogy az indoklás szövege egyezzen akár a kérdéssel, akár a kérdésre adott válasszal! Fájlnév: `magyarazatok.txt`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

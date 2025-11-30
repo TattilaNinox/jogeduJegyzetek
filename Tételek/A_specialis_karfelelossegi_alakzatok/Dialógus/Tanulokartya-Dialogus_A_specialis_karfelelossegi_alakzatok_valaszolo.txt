@@ -1,0 +1,159 @@
+Röviden: a speciális alakzatok objektív, szigorúbb felelősséget hoznak, szűk vagy kizárt kimentéssel, míg az általános deliktuális felelősség a Polgári Törvénykönyv hatodik könyvének ötszáz tizenkilencedik paragrafusa szerint szubjektív, felróhatóságon alapul, és szélesebb a kimentés. Ez azért fontos, mert a speciális tényállások a fokozott kockázatot vállalót terhelik, így erősebb védelmet adnak a károsultnak.
+<break time="5s"/>
+
+Ez nagyobb eséllyel vezet kártérítéshez a károsult oldalán, mert a felelősség alóli kimentés szűkebb vagy akár kizárt. A fokozott kockázatú élethelyzetekben, például veszélyes üzemben, állattartásnál vagy épülettulajdonlásnál ez tudatosan a károsultvédelem irányába tolja a rendszert.
+<break time="5s"/>
+
+Szubjektív felelősségnél a károkozó mentesülhet, ha bizonyítja, hogy úgy járt el, ahogyan általában elvárható. Objektív felelősségnél csak nagyon szűk körben mentesülhet, tipikusan ha elháríthatatlan, a tevékenység körén kívüli ok okozta a kárt, vagy egyáltalán nincs kimentés.
+<break time="5s"/>
+
+Első: szigorúbb a felelősség és szűkebb vagy kizárt a kimentés. Második: objektív elemekre épül, vagyis a tevékenység, az állapot vagy a jogviszony hordozza a kockázatot. Harmadik: fokozott a károsultvédelem a nagyobb kockázatú szituációkban.
+<break time="5s"/>
+
+Fokozott kockázatnál a jog szigorít: objektív, kimentést szűkítő szabályokat rendel, mert nagyobb a várható kár. Szokásos kockázatnál maradnak az általános, felróhatóságon alapuló szabályok.
+<break time="5s"/>
+
+A szigorú felelősség előzetes gondosságra ösztönöz. Aki tudja, hogy kockázatos tevékenységet végez és szűk a kimentés, az nagyobb eséllyel tart be műszaki és biztonsági előírásokat, így kevesebb kár következik be.
+<break time="5s"/>
+
+Veszélyes üzemben a rendellenes működés kiemelt kockázattal jár, ezért objektív felelősség kapcsolódik hozzá a Polgári Törvénykönyv hatodik könyvének ötszáz harmincötödik paragrafusában. A nem veszélyes, szokásos tevékenységeknél marad a felróhatóságon alapuló általános rendszer.
+<break time="5s"/>
+
+Az objektív felelősséget. Ilyenkor a tevékenység folytatása és az okozati összefüggés a lényeg, a felróhatóság vizsgálata háttérbe szorul. Mentesülni csak akkor lehet, ha a kárt elháríthatatlan, a tevékenység körén kívüli ok idézte elő.
+<break time="5s"/>
+
+Rendellenesség a belső, működéshez kötődő hiba, például műszaki vagy kezelői hiba. Ilyen belső ok nem mentesít. A szokásos, hibátlan működés önmagában nem mentesítő ok, a mentesüléshez külső, elháríthatatlan ok kell.
+<break time="5s"/>
+
+Gépjárművek és vasutak, ipari üzemek és erőművek, robbanó és mérgező anyagok kezelése. Közös, hogy rendellenesség esetén nagy kárpotenciál jelenik meg, ezért indokolt a szigorú, objektív felelősség.
+<break time="5s"/>
+
+Az általános szabály a felróhatóság hiányát vizsgálja, míg a veszélyes üzemnél a mentesüléshez két feltételnek együtt kell fennállnia: elháríthatatlanság és kívülállóság. Ez lényegesen szigorúbb mérce.
+<break time="5s"/>
+
+Egyrészt a bekövetkezés elháríthatatlan legyen még maximális gondosság mellett is. Másrészt az ok a veszélyes tevékenység körén kívül essen, tehát külső, nem belső rendellenesség legyen.
+<break time="5s"/>
+
+Az elháríthatatlan ok külső és mentesít, a rendellenesség belső és nem mentesít. A belső működési hiba a tevékenység saját kockázata, amit a veszélyes üzemi felelősség kifejezetten az üzembentartóra terhel.
+<break time="5s"/>
+
+Az, hogy nincs mentesülés: az üzembentartó köteles megtéríteni a kárt. A rendellenesség a veszélyes üzem belső köre, ezért nem minősül kívülálló, elháríthatatlan oknak.
+<break time="5s"/>
+
+A Polgári Törvénykönyv hatodik könyvének ötszáz harmincötödik paragrafusának második bekezdése a környezetet veszélyeztető tevékenységekre is kiterjeszti a veszélyes üzemi felelősséget. Ez a környezeti károkra erős, objektív védelmet ad.
+<break time="5s"/>
+
+Személyi sérülés és halál esetén a felelősség kizárása vagy korlátozása semmis, ezzel védi a jog a személyiségi és egészséghez fűződő értékeket. Dologi károknál viszont eltérően megengedett lehet a szerződéses korlátozás.
+<break time="5s"/>
+
+A kockázat és a haszon összerendelése. Aki a működésből hasznot húz vagy akinek érdekkörébe tartozik a tevékenység, az viselje a kockázatát is. Ez igazságossági és gazdasági racionalitási érv egyszerre.
+<break time="5s"/>
+
+Tulajdonos a jogi tulajdonos. Üzemeltető a tényleges működtető. Üzembentartó pedig az, akinek érdekében az üzem működik. A három szerep egybe is eshet, de szét is válhat, és a felelősség az érdeket követi.
+<break time="5s"/>
+
+Kármegosztás történik, de a veszélyes jelleg miatti többletterhet az üzembentartó viseli. Ez a Polgári Törvénykönyv hatodik könyvének ötszáz harminchetedik paragrafusából következik.
+<break time="5s"/>
+
+Általános esetben felróhatóság, majd közrehatás, végül egyenlő megosztás lehet a sorrend. Veszélyes üzemnél viszont a fokozott kockázatot külön az üzembentartó terhére kell értékelni.
+<break time="5s"/>
+
+Először felróhatóság szerint oszt, ha van. Ha nincs felróhatóság, akkor az felel, akinél rendellenesség volt. Ha egyiknél sincs rendellenesség, mindenki a saját kárát viseli.
+<break time="5s"/>
+
+Felróhatóság szubjektív, magatartás-értékelő mérce. Rendellenesség objektív, műszaki-működési jellegű ok, amely a veszélyes tevékenység körében merül fel.
+<break time="5s"/>
+
+A saját károk viselése. Ilyenkor nincs olyan ok, ami alapján a másik féllel szemben felelősség lenne megállapítható.
+<break time="5s"/>
+
+Objektív jellegű: a munkáltató nem a saját felróhatósága alapján felel, hanem az alkalmazotti tevékenység kockázatát viseli. Ez szigorúbb, mint az általános felróhatóságon alapuló deliktuális rendszer.
+<break time="5s"/>
+
+Alkalmazotti minőség, a károkozásnak ezzel összefüggésben kell állnia, és harmadik személynek okozott kár legyen. Ezek együtt szükségesek.
+<break time="5s"/>
+
+A munkáltató nem kimentkezhet. A megbízó viszont mentesülhet, ha bizonyítja, hogy nem terheli felróhatóság a megválasztásban, az utasításadásban és a felügyeletben, vagyis nincs kulpa in eligendó, kulpa in instruendó és kulpa in vigilandó.
+<break time="5s"/>
+
+Beáll az egyetemleges felelősség a munkáltatóval: a károsult a teljes kárt követelheti bármelyiktől, erősítve a jogérvényesítést.
+<break time="5s"/>
+
+Egyetemlegesnél több kötelezett teljes tartozást visel, a károsult választhat. Kizárólagosnál egy kötelezett felel, a másik nem.
+<break time="5s"/>
+
+A tagsági minőségben végzett, a jogi személy érdekében álló tevékenység haszna a jogi személynél csapódik le, így a kockázatot is ő viseli. A kockázat-haszon összerendelés itt is érvényesül.
+<break time="5s"/>
+
+Megbízónál egyetemleges felelősség áll be, de van kimentkezési lehetőség a három kulpa területén. Munkáltatónál objektív és jellemzően kizárólagos a felelősség, kimentés nélkül, kivéve a szándékosság esete, amikor az alkalmazott is egyetemlegessé válik.
+<break time="5s"/>
+
+Kulpa in eligendó, vagyis megválasztási hiba hiánya; kulpa in instruendó, vagyis megfelelő utasításadás; kulpa in vigilandó, vagyis kellő felügyelet. Ezek igazolása vezet a mentesüléshez.
+<break time="5s"/>
+
+Az első a személy megválasztására, a második az utasítások minőségére, a harmadik a felügyelet intenzitására vonatkozik. Három eltérő időszak és feladat, mindhárom külön vizsgálandó.
+<break time="5s"/>
+
+Mert a megbízott önállóbban jár el és a megbízó kontrollja gyengébb. Ezzel szemben a munkaviszony szoros, a munkáltató irányítása erős, így ott indokolt az objektív felelősség.
+<break time="5s"/>
+
+Itt ideiglenes felelősség áll be a szerződő fél részéről, amíg a tényleges károkozót meg nem nevezi. Megnevezés után mögöttes, kezességi jellegű felelősséggé szelídül.
+<break time="5s"/>
+
+Átláthatóvá teszi a jogviszonyt, a károsult megismeri a károkozót, a szerződő fél pedig elsődleges felelősség helyett csak mögöttesen marad köteles, ha a károkozó nem tud helytállni.
+<break time="5s"/>
+
+Vétőképtelenség in konkréto, vagyis esetspecifikus belátási hiány. Cselekvőképtelenség in absztraktó, vagyis általános, státusz jellegű korlátozottság. Nem ugyanaz a vizsgálati sík.
+<break time="5s"/>
+
+Védelem és felelősségi telepítés: aki nevel és felügyel, az köteles a megelőzésre. Ha megfelelően járt el, mentesülhet; ha nem, helytáll.
+<break time="5s"/>
+
+A nevelés hosszabb távú érték- és normaközvetítés, a felügyelet azonnali, helyzetre reagáló kontroll. Mindkettő mulasztása felelősséghez vezethet.
+<break time="5s"/>
+
+Mentesül a felelősség alól, mert a modell szubjektív elemeket ismer el: a kellő gondosság igazolása kizárja a helytállást.
+<break time="5s"/>
+
+Átlagos állattartónál szigorított, de kimenthető felelősség áll fenn. Veszélyes állatnál a veszélyes üzemi szabályok érvényesülnek, objektív, szűk kimentéssel.
+<break time="5s"/>
+
+A kiszámíthatatlanság és a kárpotenciál: az állat viselkedése kockázatot hordoz, amit az tartson, aki az állat hasznát élvezi és kontrollálja.
+<break time="5s"/>
+
+A vadászatra jogosult, akinek a területén a kár bekövetkezett. Más állatoknál az állattartó felel. Itt az alany a vadászati jogosultsághoz és területhez kötődik.
+<break time="5s"/>
+
+Mert fordított a bizonyítás: a károsultnak elég a kárt és az okozati összefüggést igazolnia, a tulajdonosnak kell bizonyítania a szabálykövetést és a felróhatóság hiányát.
+<break time="5s"/>
+
+Lehullásnál tárgy esik le az épületről, hiányosságnál a hibás állapot okoz kárt. Két eltérő megjelenés, ugyanazon felelősségi logikával.
+<break time="5s"/>
+
+Hogy a tulajdonosnak kell igazolnia a szabályok betartását és a gondos eljárást. Ez a károsultat segíti, mert a lényegi információk a tulajdonos birtokában vannak.
+<break time="5s"/>
+
+Kidobásnál emberi aktus a kár oka, és a bérlő vagy használó felel. Lehullásnál természetes leválásról beszélünk, és a tulajdonos a felelős.
+<break time="5s"/>
+
+Az, hogy a hibás termék gyártója felel a termékkárért objektív alapon. A fogyasztó védelme és a gyártó kockázatviselése áll a középpontban.
+<break time="5s"/>
+
+Személyi kár a halál, testi sérülés, egészségkárosodás. Dologi kár más dolgokban okozott, jelentősebb, vagyis ötszáz euró feletti értékű kár. A rendszer az emberi élet és egészség védelmét helyezi előtérbe.
+<break time="5s"/>
+
+Az általános, felróhatóságon alapuló szabály mellé külön, kockázatra szabott objektív és szigorított tényállások sorakoznak, például veszélyes üzem, más személyért való felelősség, állattartás, épületkár és termékfelelősség. Ezek együtt igazságos kockázatelosztást és erős megelőző hatást biztosítanak: aki a kockázatból hasznot húz, viselje a kockázatot is, és ezzel ösztönözve legyen a károk megelőzésére.
+<break time="5s"/>
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,273 @@
+A SZERZŐDÉS TELJESÍTÉSÉNEK HELYE, IDEJE, MÓDJA
+
+I. Bevezetés: A Szerződés Teljesítésének Alapelvei
+
+A **szerződés teljesítése** a szerződésben vállalt **szolgáltatás (kötelezettség) szerződésszerű**, a **jogosult érdekének megfelelő** teljesítése. A teljesítés a szerződéses jogviszony **célja** és **beteljesülése**: a kötelezett azt nyújtja, amit vállalt, és ezzel kötelezettségét megszünteti.
+
+A teljesítés körülményeit – a **teljesítés helyét, idejét és módját** – a **2013. évi V. törvény (Polgári Törvénykönyv)** részletesen szabályozza, elsősorban **diszpozitív** szabályokkal.
+
+**A diszpozitivitás elve:**
+
+A teljesítés körülményeit **elsősorban** a **felek megállapodása** határozza meg. A Ptk. szabályai **másodlagosak**: akkor lépnek életbe, ha a felek erről **nem vagy nem teljes körűen rendelkeztek**. Ez tükrözi a **szerződési szabadság** elvét: a felek szabadon alakíthatják szerződésüket, beleértve a teljesítés körülményeit is.
+
+Ha a felek **megállapodtak** a teljesítés helyében, idejében vagy módjában, az **elsőbbséget élvez** a Ptk. diszpozitív szabályaival szemben. Ha **nem állapodtak meg**, vagy **hiányosan** állapodtak meg, a Ptk. **kiegészíti** a szerződést, és meghatározza a teljesítés körülményeit.
+
+
+II. A Teljesítés Helye
+
+A **teljesítés helye** az a hely, ahol a kötelezett a szolgáltatást **teljesíteni köteles**, és ahol a jogosult a teljesítést **elfogadni köteles**. A teljesítés helye meghatározza:
+- **hol** kell a szolgáltatást nyújtani;
+- hol merül fel **költség** (szállítási, fuvarozási költség);
+- melyik **bíróság** illetékes a jogvita esetén.
+
+**1. Általános szabály: a kötelezett helye (Ptk. 6:37. §)**
+
+A **Ptk. 6:37. § (1) bekezdése** tartalmazza a **főszabályt**:
+
+"(1) Ha e törvény eltérően nem rendelkezik, a szolgáltatás teljesítésének helye a kötelezettnek a kötelem keletkezésének időpontja szerinti telephelye, ennek hiányában székhelye, természetes személy esetén lakóhelye, ennek hiányában szokásos tartózkodási helye."
+
+Ez azt jelenti, hogy a teljesítés helye alapvetően a **kötelezett helye**: a kötelezett a saját telephelyén, székhelyén vagy lakóhelyén teljesít. Ez **"hozó" tartozás**: a jogosultnak **el kell mennie** a kötelezetthez a teljesítésért, vagy a kötelezett **onnan** küldi el a szolgáltatást.
+
+A **Ptk. 6:37. § (2) bekezdése** több telephely esetén:
+
+"(2) Ha a kötelezettnek több telephelye van, a teljesítés helyének azt a telephelyet kell tekinteni, amely a kötelemmel a legszorosabb kapcsolatban áll."
+
+**A Ptk. 6:37. § (3) bekezdése** a teljesítési hely változását szabályozza:
+
+"(3) Ha a kötelem keletkezését követően a teljesítési hely megváltozik, és erről a kötelezett a jogosultat értesíti, a teljesítés helye az új telephely vagy székhely, természetes személy esetén az új lakóhely vagy szokásos tartózkodási hely. A teljesítés helyének megváltozásából eredő többletköltséget a kötelezett előlegezi és viseli."
+
+Ha a kötelezett **elköltözik** vagy **áttelepül**, és erről értesíti a jogosultat, az **új hely** lesz a teljesítési hely. De a **többletköltséget** (pl. hosszabb szállítási útvonal) a **kötelezett viseli**.
+
+**2. Különös szabály: pénztartozás teljesítésének helye (Ptk. 6:44. §)**
+
+A **Ptk. 6:44. § (1) bekezdése** szerint:
+
+"(1) A pénztartozás teljesítésének helye készpénzfizetés esetén a jogosultnak a kötelem keletkezésének időpontja szerinti telephelye, ennek hiányában székhelye, természetes személy esetén a jogosult lakóhelye, ennek hiányában szokásos tartózkodási helye. Ha a pénztartozást a kötelezett nem készpénzfizetéssel teljesíti, a pénztartozás teljesítésének helye a jogosultnak a kötelem keletkezésének időpontja szerinti fizetési számláját vezető bank telephelye, ennek hiányában székhelye."
+
+Ez **eltér** az általános szabálytól: a pénztartozás teljesítésének helye a **jogosult helye** (készpénzfizetésnél) vagy a **jogosult bankja** (átutalásnál). Ez **"vivő" tartozás**: a kötelezettnek **el kell vinnie** a pénzt a jogosulthoz, vagy át kell utalnia a jogosult számlájára.
+
+**A logika: vivő és hozó tartozás**
+
+- **"Hozó" tartozás** (általános szabály, Ptk. 6:37. §): A jogosultnak el kell mennie a kötelezetthez, vagy a kötelezett onnan küldi. Ez pl. dologszolgáltatásoknál (adás-vétel, vállalkozási szerződés) van így.
+
+- **"Vivő" tartozás** (pénztartozás, Ptk. 6:44. §): A kötelezettnek el kell vinnie a jogosulthoz. Mondás: **"a pénz mindig házhoz jön"** – a pénzt a kötelezett viszi a jogosulthoz, nem a jogosult megy érte.
+
+Ez a megkülönböztetés **praktikus**: a pénz könnyen szállítható, átruházható, ezért a kötelezett viszi a jogosulthoz. A dolog nehezen szállítható, ezért a jogosult megy érte.
+
+
+III. A Teljesítés Ideje
+
+A **teljesítés ideje** az az időpont vagy időszak, amikor a kötelezett a szolgáltatást **teljesíteni köteles**, és amikor a jogosult a teljesítést **elfogadni köteles** (esedékesség).
+
+**1. A teljesítési idő meghatározása (Ptk. 6:35. §)**
+
+A **Ptk. 6:35. § (1) bekezdése** szerint:
+
+"(1) A teljesítés ideje meghatározható határnap vagy határidő tűzésével. Határnap tűzése esetén a szolgáltatást ezen a napon kell teljesíteni. Határidő megjelölése esetén a szolgáltatás a meghatározott időtartamon belül bármikor teljesíthető, kivéve, ha az eset körülményeiből az következik, hogy a jogosult választhatja meg a teljesítés időpontját."
+
+Ez megkülönbözteti a **határnap** és a **határidő** fogalmát:
+
+**a) Határnap**: Egy **konkrét naptári nap** (pl. 2025. december 15.). A szolgáltatást **ezen a napon** kell teljesíteni, sem korábban, sem később.
+
+**b) Határidő**: Egy **meghatározott időtartam** (pl. "30 napon belül", "2025. december 1-15. között"). A szolgáltatás a **meghatározott időtartamon belül bármikor** teljesíthető.
+
+Kivétel: Ha az eset körülményeiből az következik, hogy a **jogosult választhatja** meg a teljesítés időpontját (pl. futárszolgáltatásnál a jogosult mondja meg, mikor kéri a kézbesítést).
+
+**2. Ha a felek nem állapodtak meg a teljesítési időben**
+
+A **Ptk. 6:35. § (2)-(3) bekezdései** szabályozzák:
+
+"(2) Ha a szolgáltatás rendeltetéséből a teljesítési idő megállapítható, a szolgáltatást ebben az időpontban kell teljesíteni.
+(3) Ha a teljesítés idejét az (1)-(2) bekezdés alapján nem lehet megállapítani, a kötelezett a teljesítés előkészítéséhez szükséges idő elteltével köteles teljesíteni."
+
+Ez **hierarchikus szabályozás**:
+
+**1. lépés**: Ha a szolgáltatás **rendeltetéséből** megállapítható a teljesítési idő (pl. esküvői torta az esküvő napjára), akkor **ebben az időpontban** kell teljesíteni.
+
+**2. lépés**: Ha így sem állapítható meg, a kötelezett a teljesítés előkészítéséhez **szükséges idő elteltével** köteles teljesíteni. Ez az **ésszerű idő** követelménye: olyan időn belül, amely a szolgáltatás előkészítéséhez, elkészítéséhez szükséges.
+
+**3. Pénztartozás különös szabálya**
+
+Pénztartozás esetén a jogosult a teljesítést **azonnal követelheti** (a pénz fizetése nem igényel különös előkészítést). A pénztartozás tehát **azonnal esedékes**, kivéve, ha a felek eltérően állapodtak meg.
+
+**4. Idő előtti teljesítés (Ptk. 6:36. §)**
+
+A **Ptk. 6:36. § (1) bekezdése** szerint:
+
+"(1) A jogosult a teljesítési idő előtt felajánlott teljesítést köteles elfogadni, ha az lényeges jogi érdekét nem sérti, és a kötelezett az ezzel járó többletköltséget viseli."
+
+A jogosult főszabály szerint **köteles elfogadni** az idő előtti teljesítést, kivéve, ha az lényeges jogi érdekét sérti (pl. nincs tárolóhelye, nem tudja felhasználni még).
+
+A kötelezett viseli a többletköltséget (pl. korábbi szállítási költség).
+
+**Különös szabály pénztartozásnál**: A **Ptk. 6:43. §-a** szerint: "A jogosult a teljesítési idő előtt felajánlott teljesítést köteles elfogadni." Ez **feltétel nélküli**: a pénzt **mindig** el kell fogadni idő előtt is (mondás: "a pénz mindig jókor jön").
+
+
+IV. A Teljesítés Módja
+
+A **teljesítés módja** a szolgáltatás **minőségi** és **mennyiségi** jellemzőit, a teljesítés **körülményeit** jelenti.
+
+**1. A szolgáltatás minősége**
+
+A szolgáltatásnak **szerződésszerűnek** kell lennie: olyannak, amilyet a felek megállapodtak. A dolognak:
+- a **rendeltetése szerinti használatra alkalmasnak** kell lennie;
+- a felek által **ismert egyéb célra** megfelelőnek kell lennie;
+- a **szerződésben kikötött tulajdonságokkal** kell rendelkeznie.
+
+Ha a szolgáltatás **nem szerződésszerű** (hibás, hiányos, nem megfelelő minőségű), az **hibás teljesítés** (nem teljesítés), és a jogosult **kellékszavatossági jogokat** gyakorolhat.
+
+**2. A szolgáltatás csomagolása, megjelölése**
+
+A szolgáltatást **megfelelően csomagolva, megjelölve** kell teljesíteni, hogy:
+- a szállítás során **ne sérüljön meg**;
+- a jogosult **azonosítani tudja**;
+- **biztonságos** legyen.
+
+**3. Tájékoztatás és okmányok átadása**
+
+A kötelezett köteles a jogosultat **tájékoztatni** a szolgáltatással kapcsolatos lényeges körülményekről (használati utasítás, figyelmeztetések, kockázatok), és **átadni az okmányokat** (számla, garancia, eredetigazolás stb.).
+
+**4. A pénztartozás teljesítésének módja**
+
+A pénztartozás teljesítésének különös szabályait a **Ptk. IX. Fejezete** (6:42-6:52. §) tartalmazza.
+
+**a) Fizetés módja (Ptk. 6:42. §)**
+
+A **Ptk. 6:42. § (1) bekezdése** szerint:
+
+"(1) Pénztartozást pénz tulajdonjogának a jogosult részére való átruházása vagy a jogosult fizetési számlájára való befizetés vagy átutalás útján lehet teljesíteni."
+
+A pénztartozás teljesíthető:
+- **Készpénzfizetéssel**: pénz tulajdonjogának átruházása (kézből kézbe adás);
+- **Átutalással**: a jogosult fizetési számlájára való befizetés vagy átutalás.
+
+**b) Fizetés időpontja (Ptk. 6:42. § (2) bekezdés)**
+
+"(2) A pénztartozás készpénzfizetés esetén a pénz átvételének időpontjában, egyéb esetben abban az időpontban válik teljesítetté, amikor a pénzt a jogosult fizetési számláján a jogosult számlavezető bankja jóváírta vagy azt jóvá kellett volna írnia."
+
+Ez fontos szabály: az **átutalás** esetén a pénztartozás **nem a küldéskor**, hanem a **jóváírásakor** válik teljesítetté. Ez védi a jogosultat: csak akkor tekintjük teljesítettnek, ha a pénz ténylegesen a jogosult rendelkezésére áll.
+
+**c) Pénznem (Ptk. 6:45. §)**
+
+A **Ptk. 6:45. § (1) bekezdése** szerint:
+
+"(1) A pénztartozást a teljesítés helyén és idején érvényben lévő pénznemben kell megfizetni."
+
+Magyarországon ez a **forint**. Ha a szerződésben más pénznemben (pl. euró, dollár) határozták meg a tartozást, azt **át kell számítani** forintra a teljesítés idején érvényes árfolyamon (Ptk. 6:45. § (2) bekezdés), kivéve, ha a külföldi pénznemben való teljesítés lehetséges.
+
+**d) Kamatfizetési kötelezettség (Ptk. 6:47-48. §)**
+
+A **Ptk. 6:47. § (1) bekezdése** szerint:
+
+"(1) Pénztartozás után - ha e törvény eltérően nem rendelkezik - kamat jár."
+
+Pénztartozás esetén **kamat** jár, amelynek mértéke **megegyezik a jegybanki alapkamattal** (Ptk. 6:47. § (2) bekezdés), kivéve, ha a felek eltérően állapodtak meg.
+
+**Késedelmi kamat** (Ptk. 6:48. §): Ha a kötelezett **késedelembe esik**, **késedelmi kamatot** köteles fizetni, amely a jegybanki alapkamattal megegyező (vagy ha már járt kamat, akkor a kamat plusz az alapkamat egyharmada) mértékű. A késedelmi kamat **akkor is jár**, ha a kötelezett késedelmét kimenti (Ptk. 6:48. § (4) bekezdés).
+
+**e) Elszámolás több tartozás esetén (Ptk. 6:46. §)**
+
+"Ha a pénztartozás teljesítéseként fizetett összeg az egész tartozás kiegyenlítésére nem elegendő, azt - ha a jogosult eltérően nem rendelkezett, és egyértelmű szándéka sem ismerhető fel - elsősorban a költségekre, majd a kamatokra és végül a főtartozásra kell elszámolni."
+
+Ez a **sorrendiség** védi a jogosultat: először a járulékos költségeket, kamatokat rendezik, majd a főtartozást.
+
+**5. A teljesítés elismerése (Ptk. 6:38. §)**
+
+A **Ptk. 6:38. § (1) bekezdése** szerint:
+
+"(1) A jogosult a kötelezett kérelmére köteles a teljesítés tényének írásbeli elismerésére vagy a kötelezvény visszaadására."
+
+A kötelezett **kérheti**, hogy a jogosult **írásban** elismerje a teljesítést (pl. átvételi elismervény, nyugta), vagy **adja vissza** a kötelezvényt (az eredeti szerződést, váltót stb.). Ez **bizonyítja** a teljesítés tényét.
+
+A **Ptk. 6:38. § (2) bekezdése** védelmet nyújt a kötelezettnek:
+
+"(2) Azt, aki felmutatja a jogosult írásba foglalt elismerő nyilatkozatát, a teljesítés elfogadására jogosított személynek kell tekinteni, kivéve, ha a körülményekből nyilvánvaló, hogy a teljesítés elfogadására nem jogosult."
+
+Ez **látszaton alapuló képviselet**: ha valaki felmutatja a jogosult elismerő nyilatkozatát, azt jogosultnak kell tekinteni (kivéve, ha nyilvánvaló, hogy nem jogosult).
+
+**6. A teljesítési költségek viselése (Ptk. 6:39. §)**
+
+"A teljesítéssel járó költségek a kötelezettet terhelik."
+
+A teljesítés költségét (csomagolás, szállítás, fuvarozás stb.) **a kötelezett viseli**, kivéve, ha a felek eltérően állapodtak meg. Ez logikus: a kötelezett köteles teljesíteni, és ez magában foglalja a teljesítés költségeit is.
+
+
+V. Összegzés
+
+A szerződés **teljesítésének helyére, idejére és módjára** vonatkozó szabályok a **szerződéses jogviszonyok zökkenőmentes lebonyolítását** és a **jogbiztonságot** szolgálják.
+
+**A teljesítés helye:**
+
+**Főszabály** (Ptk. 6:37. §): A **kötelezett helye** (telephely, székhely, lakóhely) – **"hozó" tartozás**.
+
+**Kivétel – pénztartozás** (Ptk. 6:44. §): A **jogosult helye** (készpénznél) vagy a **jogosult bankja** (átutalásnál) – **"vivő" tartozás** ("a pénz mindig házhoz jön").
+
+**Több telephely** esetén: amely a kötelemmel a legszorosabb kapcsolatban áll.
+
+**Teljesítési hely változása**: Az új hely lesz a teljesítési hely, de a többletköltséget:
+- **általános szabálynál** a **kötelezett** viseli (Ptk. 6:37. § (3) bekezdés);
+- **pénztartozásnál** a **jogosult** viseli (Ptk. 6:44. § (4) bekezdés).
+
+**A teljesítés ideje:**
+
+**Határnap vagy határidő** (Ptk. 6:35. § (1) bekezdés): A felek meghatározhatják konkrét napban vagy időtartamban.
+
+**Szolgáltatás rendeltetéséből** (Ptk. 6:35. § (2) bekezdés): Ha a rendeltetésből megállapítható (pl. karácsonyi ajándék december 24-ig).
+
+**Ésszerű idő** (Ptk. 6:35. § (3) bekezdés): Ha egyébként nem állapítható meg, a teljesítés előkészítéséhez szükséges idő elteltével.
+
+**Pénztartozás**: **Azonnal** követelhető (nincs előkészítési idő).
+
+**Idő előtti teljesítés** (Ptk. 6:36. §): A jogosult főszabály szerint **köteles elfogadni**, ha lényeges jogi érdekét nem sérti. Pénznél **feltétel nélkül** köteles elfogadni (Ptk. 6:43. §).
+
+**A teljesítés módja:**
+
+**Szolgáltatás minősége**: Szerződésszerű, rendeltetésre alkalmas, megfelelő minőségű.
+
+**Csomagolás, megjelölés**: Megfelelő, biztonságos.
+
+**Tájékoztatás és okmányok**: A kötelezett köteles tájékoztatni és okmányokat átadni.
+
+**Pénztartozás teljesítése** (Ptk. 6:42. §): Készpénz átadása vagy átutalás. Teljesítés időpontja: készpénznél átvételkor, átutalásnál jóváírásakor.
+
+**Pénznem** (Ptk. 6:45. §): A teljesítés helyén és idején érvényben lévő pénznemben (Magyarországon forint).
+
+**Kamat** (Ptk. 6:47. §): Pénztartozás után kamat jár (jegybanki alapkamat).
+
+**Késedelmi kamat** (Ptk. 6:48. §): Késedelem esetén késedelmi kamat jár (alapkamat vagy alapkamat + egyharmad), még akkor is, ha a kötelezett kimenti késedelmét.
+
+**Elszámolás** (Ptk. 6:46. §): Költségekre, kamatokra, főtartozásra (ebben a sorrendben).
+
+**Teljesítés elismerése** (Ptk. 6:38. §): A jogosult köteles elismerni a teljesítést vagy visszaadni a kötelezvényt.
+
+**Költségek** (Ptk. 6:39. §): A teljesítési költségeket a kötelezett viseli.
+
+**A felek megállapodásának elsődlegessége:**
+
+Minden szabály **diszpozitív**: a felek **eltérhetnek** tőlük megállapodással. A Ptk. szabályai **hézagpótló szerepet** töltenek be: akkor alkalmazandók, ha a felek nem vagy nem teljes körűen rendelkeztek a teljesítés körülményeiről.
+
+A teljesítés szabályai így **átlátható, logikus és praktikus rendszert** alkotnak, amely biztosítja a szerződések **zökkenőmentes lebonyolítását**, a **felek jogainak és kötelezettségeinek egyértelmű meghatározását**, és a **jogbiztonságot**.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

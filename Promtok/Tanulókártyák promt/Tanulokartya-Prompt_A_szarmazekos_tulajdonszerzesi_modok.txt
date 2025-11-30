@@ -1,0 +1,85 @@
+Témaspecifikus AI Feladatprompt – Tanulókártya Kérdésbank Generálás: A származékos tulajdonszerzési módok
+
+Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkészülését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat a "forrasok" mappa teljes tartalmában találod. Emellett a fő forrás a kidolgozott tétel, amelynek elérési útvonalát alább adom meg. Feltétlen használd fel ezeket a forrásokat, és idézd pontosan, szóról szóra azokat a jogszabályokat, amelyek a jelen témakörhöz kapcsolódnak. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd.
+
+Kidolgozott tétel forrásfájl:
+
+forrasok\2013. évi V. törvény a Polgári Törvénykönyvről.txt.txt, forrasok\PJZV_HEJ_MR-kidolgozott tételek.txt,forrasok\VÉKÁS-GÁRDOS_ PTK KOMMENTÁR_2018 január 1-től hatályos.txt
+
+
+
+Feladat:
+Készíts pontosan [50] darab EGYETEMI SZINTŰ kérdést és választ az alább részletezett tananyagból a tanulási folyamat támogatására.
+
+A Témakör: A származékos tulajdonszerzési módok
+A kérdések és válaszok alapját a következő strukturális és tartalmi követelmények képezik:
+
+I. Bevezetés: A Származékos Szerzésmódok Lényege
+- Definiáld a **származékos szerzésmód** fogalmát: a szerző a tulajdonjogát a jogelődjétől származtatja, annak jogutódja lesz.
+- Mutasd be a származékos szerzés alapelvét, a **nemo plus iuris ad alium transferre potest, quam ipse haberet** (senki sem ruházhat át több jogot másra, mint amennyivel maga rendelkezik) tételét.
+- Emeld ki a legfontosabb joghatását: a szerző a tulajdonjogot azokkal a terhekkel szerzi meg, amelyek a jogelőd idejében is terhelték a dolgot.
+- Rendszerezd a származékos szerzésmódokat: **átruházás** és **öröklés**. Hangsúlyozd, hogy a dologi jog elsősorban az átruházással foglalkozik.
+
+II. A Tulajdonjog Átruházása: Az Általános Modell
+- Definiáld az **átruházás** fogalmát, mint a tulajdonos és a szerző fél erre irányuló jogügyletét (szerződését).
+- Tárgyald az átruházás kettős követelményrendszerét:
+    - **1. A tulajdonjog-átruházó szerződés (titulus):** A jogcím, amely kötelmi jogi igényt keletkeztet a tulajdonjog átruházására (pl. adásvételi, ajándékozási, csere szerződés).
+    - **2. A tulajdonjog-átruházó aktus (modus):** A dologi jogi aktus, amellyel a tulajdonjog ténylegesen átszáll a szerzőre.
+
+III. Az Átruházás Különös Szabályai Dologtípusok Szerint:
+- Részletezd a modus-t az ingó és ingatlan dolgok megkülönböztetése mentén:
+    - **1. Ingó dolog tulajdonjogának átruházása (Ptk. 5:38. §):**
+        - A modus a **birtokátruházás (traditio)**.
+        - Részletezd a birtokátruházás eseteit (kézbeadás, brevi manu traditio, constitutum possessorium, longa manu traditio).
+    - **2. Ingatlan tulajdonjogának átruházása (Ptk. 5:39. §):**
+        - A modus az **ingatlan-nyilvántartási bejegyzés**.
+        - Tárgyald az ingatlan-nyilvántartás közhitelességének elvét és a bejegyzés konstitutív (jogkeletkeztető) hatályát.
+        - Emeld ki az érvényes írásbeli szerződés szükségességét.
+
+IV. Kivételek és Különleges Esetek:
+- **Tulajdonjog-fenntartás:** Tárgyald a felek megállapodását, amely a modus hatályát (a tulajdonjog átszállását) a vételár teljes kifizetéséig elhalasztja.
+- **Szerzés nem tulajdonostól:**
+    - Főszabály: a nemo plus iuris elve.
+    - Kivétel: a kereskedelmi forgalomban, jóhiszeműen, ellenérték fejében történő szerzés, amely eredeti szerzésmódnak minősül. Hasonlítsd össze a főszabállyal!
+
+V. Összegzés:
+- Foglald össze a származékos tulajdonszerzés kettős (kötelmi jogi és dologi jogi) természetét.
+- Hangsúlyozd a `titulus-modus` rendszer logikáját és a nyilvánosság (publicitás) elvének eltérő érvényesülését ingók (birtok) és ingatlanok (ingatlan-nyilvántartás) esetében.
+
+Kérdésekre vonatkozó szabályok:
+- A kérdések legyenek EGYETEMI SZINTŰ, nehéz szintűek – kerüld az egyszerű definíciós jellegű kérdéseket.
+- Minden kérdés legyen egyértelmű, gondolkodtató, a tananyag mélyebb megértését mérje.
+- A kérdések legyenek változatosak: tárjanak fel fogalmakat, ok-okozati összefüggéseket, különbségeket, gyakorlati vonatkozásokat a fenti témakörön belül.
+- A kérdések között ne legyen ismétlés. Tilos a duplikálás a kérdésekben és a válaszokban is!
+
+Válaszokra vonatkozó szabályok:
+- Minden kérdéshez tartozzon egyetlen, egyértelmű válasz.
+- A válasz ne legyen túl hosszú (1–3 mondat).
+- A válasz közvetlenül kapcsolódjon a kérdéshez, ne tartalmazzon felesleges információt.
+
+Kimeneti formátum:
+A kimenet a `Tételek` mappába kerüljön. Ott hozz létre egy mappát a témakör nevével (pl. `A_szarmazekos_tulajdonszerzesi_modok`), és a következő három fájlt ebbe az új mappába generáld:
+
+1.  **Kérdések (Előlap)** – csak az [50] kérdés felsorolva. Fájlnév: `kerdesek.txt`
+2.  **Válaszok (Hátlap)** – az [50] kérdéshez tartozó [50] válasz felsorolva, sorrendben megegyezően. Fájlnév: `valaszok.txt`
+3.  **Magyarázatok (Indoklás)** – Minden kártyához legalább 2 mondatos indoklás, magyarázat, ami tartalmazza a vonatkozó jogszabályok szövegét is. Az indoklásnál a számozás kell, de ne legyenek címek, csak a tartalom. Ne szerepeljen benne, hogy pld: Magyarázat:, vagy Indoklás:. Szigorúan TILOS, hogy az indoklás szövege egyezzen akár a kérdéssel, akár a kérdésre adott válasszal! Fájlnév: `magyarazatok.txt`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

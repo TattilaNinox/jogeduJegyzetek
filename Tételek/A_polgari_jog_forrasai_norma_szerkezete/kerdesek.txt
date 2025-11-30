@@ -1,0 +1,119 @@
+1. Milyen különbség van a jogforrás anyagi és alaki értelmezése között a jogalkotás és a jogmegismerés szempontjából?
+
+2. Hogyan biztosítja a jogforrási hierarchia a jogrendszer koherenciáját és belső ellentmondásmentességét?
+
+3. Miért tekinthető a Ptk. 1:2. § (2) bekezdése a Polgári Törvénykönyv központi szerepének normatív kifejezésének?
+
+4. Milyen összefüggés áll fenn a Ptk. kodifikációs jellege és a polgári jogi szabályozás stabilitása között?
+
+5. Hogyan érvényesül a lex specialis derogat legi generali elv a Ptk. és a speciális polgári jogi törvények viszonyában?
+
+6. Miért nem lehetnek a rendeletek ellentétesek a törvényekkel, és milyen következménye van ennek a jogforrási hierarchiára?
+
+7. Hogyan jelenik meg az EU-jog primátusa a magyar polgári jogi jogforrási rendszerben?
+
+8. Milyen különbség van az EU rendeletek és az EU irányelvek joghatásai között a tagállami jogrendszerben?
+
+9. Miért tekinthető a GDPR (adatvédelmi rendelet) különösen jelentős EU jogi forrásnak a polgári jog szempontjából?
+
+10. Hogyan befolyásolják az EU fogyasztóvédelmi irányelvek a magyar polgári jog tartalmát?
+
+11. Miért vitatott kérdés a kontinentális jogrendszerekben, hogy a bírói gyakorlat jogforrásnak tekinthető-e?
+
+12. Milyen szerepet játszik a Kúria jogegységesítő funkciója a magyar bírói gyakorlat egységességének biztosításában?
+
+13. Hogyan különbözik a Bírósági Határozatok (BH) és az Elvi Bírósági Határozatok (EBH) formális kötelező ereje a tényleges alkalmazásuktól?
+
+14. Miért tekinthető a bírói gyakorlat "jog alakító tényezőnek", még ha formálisan nem is jogforrás?
+
+15. Milyen különbség van a stare decisis elv alkalmazása és a magyar jogrendszerben érvényesülő bírói gyakorlat között?
+
+16. Hogyan járul hozzá a bírói gyakorlat a joghézagok kitöltéséhez a polgári jogban?
+
+17. Miért csökkent a szokásjog jelentősége a modern polgári jogban az írott jog dominanciájával szemben?
+
+18. Milyen feltételek szükségesek ahhoz, hogy egy társadalmi gyakorlat szokásjogként elismerést nyerjen?
+
+19. Miért tekinthető Werbőczy Hármaskönyve (Tripartitum) különleges jelentőségű a magyar jogfejlődésben, annak ellenére, hogy nem emelkedett törvényerőre?
+
+20. Hogyan érvényesül a szokásjog a modern kereskedelmi forgalomban és a nemzetközi kereskedelemben?
+
+21. Milyen hatással van az Alkotmánybíróság megsemmisítő határozata a polgári jogi szabályozásra és a jogalkalmazásra?
+
+22. Hogyan befolyásolják az Alkotmánybíróság által kimunkált értelmezések a tulajdonhoz való jog és a szerződési szabadság tartalmát?
+
+23. Miért tekinthető az Alkotmánybíróság mulasztás megállapítására irányuló határozata a jogalkotó kötelezettségének forrásává?
+
+24. Milyen szerepet tölt be a hipotézis a jogi norma szerkezetében a norma alkalmazhatóságának meghatározásában?
+
+25. Hogyan határozza meg a hipotézis alanyai, tárgya és körülményei a norma személyi, tárgyi és időbeli hatályát?
+
+26. Milyen különbség van a parancsoló, tiltó és megengedő diszpozíciók között a jogalanyok magatartási szabadságának szempontjából?
+
+27. Miért jelent alapvető különbséget a polgári jog és a közjog között a diszpozitív normák dominanciája?
+
+28. Hogyan tükrözi a diszpozitív normák túlsúlya a polgári jogban a privát autonómia és a szerződési szabadság elvét?
+
+29. Milyen jogpolitikai megfontolások indokolják, hogy bizonyos polgári jogi normák kógensek (imperatívak)?
+
+30. Miért kógens norma a jogképességet korlátozó jognyilatkozat semmisségét kimondó Ptk. 2:1. § (2) bekezdés?
+
+31. Hogyan biztosítja a szándékosan okozott kárért való felelősséget kizáró kikötés semmissége a kártérítési jog céljának érvényesülését?
+
+32. Milyen összefüggés áll fenn a családjogi normák javarészt kógens jellege és a családjogi viszonyok közrendi védelme között?
+
+33. Miért tekinthető a szankció a jogi norma kikényszeríthetőségének biztosítékává?
+
+34. Hogyan különbözik a kártérítés mint szankció a sérelemdíjtól a jogsértés természete és az érvényesítés feltételei szempontjából?
+
+35. Milyen szerepet tölt be az érvénytelenség (semmisség) mint szankció a polgári jogi normák végrehajtásában?
+
+36. Hogyan jelenik meg a Ptk. 6:519. §-ában a deliktuális felelősség hipotézise, diszpozíciója és szankciója?
+
+37. Milyen jelentősége van a Ptk. 6:519. § második mondatában szereplő kimentési lehetőségnek a felelősség jellegének meghatározásában?
+
+38. Hogyan illusztrálja a Ptk. 2:1. § (2) bekezdése a kógens norma és a semmisség mint szankció kapcsolatát?
+
+39. Miért tekinthető a jogforrási hierarchia alkalmazása nélkülözhetetlennek egy konkrét jogeset megoldása során?
+
+40. Hogyan érvényesül a lex superior derogat legi inferiori elv, amikor az Alaptörvény és egy törvényi rendelkezés ellentétbe kerül?
+
+41. Milyen lépéseket kell követnie a jogalkalmazónak, amikor több jogforrás is szabályozza ugyanazt a kérdést?
+
+42. Hogyan járul hozzá a norma szerkezetének elemzése a tényállási elemek helyes értelmezéséhez?
+
+43. Miért kell a jogalkalmazónak megvizsgálnia, hogy a konkrét eset tényállása megfelel-e a hipotézis valamennyi eleméné?
+
+44. Milyen szerepet játszik a jogértelmezés (nyelvtani, logikai, rendszertani, teleologikus, történeti) a norma helyes alkalmazásában?
+
+45. Hogyan kapcsolódik a polgári jogi alapelvek (jóhiszeműség, tisztesség, joggal való visszaélés tilalma) alkalmazása a norma szerkezeti elemzéséhez?
+
+46. Miért tekinthető a Ptk. 6:142. § szerinti szerződésszegéssel okozott kárért való felelősség klasszikus példájának a norma szerkezeti elemzésére?
+
+47. Hogyan biztosítja a jogforrási hierarchia és a norma szerkezet ismerete a jogbiztonságot és a kiszámítható jogalkalmazást?
+
+48. Milyen összefüggés áll fenn a kodifikált polgári jog és a jogforrási rendszer áttekinthetősége között?
+
+49. Miért tekinthető a jogforrási hierarchia és a norma szerkezet alapvető eszköznek a jogászi gondolkodás strukturálásában?
+
+50. Hogyan járul hozzá a polgári jog forrásainak és a norma szerkezetének ismerete a stabil jogi tudás és a gyakorlati jogalkalmazás megalapozásához?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

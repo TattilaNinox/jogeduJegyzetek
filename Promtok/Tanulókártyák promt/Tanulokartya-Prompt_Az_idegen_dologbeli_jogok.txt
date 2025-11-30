@@ -1,0 +1,80 @@
+Témaspecifikus AI Feladatprompt – Tanulókártya Kérdésbank Generálás: Az idegen dologbeli jogok (korlátolt dologi jogok)
+
+Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkészülését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat a "forrasok" mappa teljes tartalmában találod. Emellett a fő forrás a kidolgozott tétel, amelynek elérési útvonalát alább adom meg. Feltétlen használd fel ezeket a forrásokat, és idézd pontosan, szóról szóra azokat a jogszabályokat, amelyek a jelen témakörhöz kapcsolódnak. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd.
+
+Kidolgozott tétel forrásfájl:
+
+forrasok\2013. évi V. törvény a Polgári Törvénykönyvről.txt.txt, forrasok\PJZV_HEJ_MR-kidolgozott tételek.txt,forrasok\VÉKÁS-GÁRDOS_ PTK KOMMENTÁR_2018 január 1-től hatályos.txt
+
+
+Feladat:
+Készíts pontosan [50] darab EGYETEMI SZINTŰ kérdést és választ az alább részletezett tananyagból a tanulási folyamat támogatására.
+
+A Témakör: Az idegen dologbeli jogok (korlátolt dologi jogok)
+A kérdések és válaszok alapját a következő strukturális és tartalmi követelmények képezik:
+
+I. Bevezetés: Az Idegen Dologbeli Jogok Fogalma és Rendszere
+- Definiáld az **idegen dologbeli jogok** fogalmát: olyan, a tulajdonjognál szűkebb tartalmú, abszolút szerkezetű (dologi) jogok, amelyek más személy tulajdonában álló dolgon biztosítanak valamilyen jogosultságot.
+- Emeld ki közös jellemzőjüket: korlátozzák a tulajdonos tulajdonjogát.
+- Rendserezd az idegen dologbeli jogokat két fő csoportba:
+    - **Használati jogok:** A dolog használatára, hasznosítására adnak lehetőséget.
+    - **Értékjogok (biztosítéki jogok):** A dolog értékéből való kielégítést biztosítják (pl. zálogjog).
+
+II. A Használati Jogok:
+- Részletezd a Ptk.-ban szabályozott legfontosabb használati jogokat:
+    - **1. A haszonélvezet (Ptk. 5:146. §-tól):**
+        - Definiáld a fogalmát: a jogosult (a haszonélvező) a más személy tulajdonában álló dolgot birtokában tarthatja, használhatja, hasznosíthatja és hasznait szedheti.
+        - Tárgyald a személyes jellegét (főszabály szerint a jogosult haláláig áll fenn) és a jogok/kötelezettségek megoszlását a tulajdonos és a haszonélvező között.
+    - **2. A használat joga (Ptk. 5:153. §-tól):**
+        - Mutasd be, mint a haszonélvezetnél szűkebb jogosultságot: a jogosult a dolgot a saját, valamint együtt élő családtagjai szükségleteit meg nem haladó mértékben használhatja és hasznait szedheti.
+    - **3. A telki szolgalom (Ptk. 5:156. §-tól):**
+        - Definiáld a fogalmát: egy ingatlan (az uralkodó telek) mindenkori birtokosa egy másik ingatlant (a szolgáló telket) meghatározott terjedelemben használhat, vagy követelheti, hogy a szolgáló telek birtokosa valamilyen magatartástól tartózkodjon.
+        - Tárgyald a keletkezését (szerződés, elbirtoklás) és hozz példákat a leggyakoribb szolgalmi típusokra (átjárási, vízvezetési, pincetartási szolgalom).
+
+III. Az Értékjogok: A Zálogjog
+- Mutasd be a **zálogjogot (Ptk. 5:86. §-tól)**, mint az idegen dologbeli jogok másik nagy csoportjának legfontosabb képviselőjét:
+    - Definiáld a fogalmát: a zálogjogosult a pénzben meghatározott vagy meghatározható követelésének biztosítására szolgáló zálogtárgyból más követeléseket megelőző sorrendben kielégítést kereshet, ha a kötelezett nem teljesít.
+    - Tárgyald a járulékos jellegét: a zálogjog mindig egy alapköveteléshez (pl. kölcsön) kapcsolódik.
+    - Különítsd el a főbb típusait: **jelzálog** (ingatlanok esetében, a dolog a kötelezett birtokában marad) és **kézizálog** (ingók esetében, a dolog a jogosult birtokába kerül).
+
+IV. Összegzés:
+- Foglald össze az idegen dologbeli jogok szerepét a vagyoni forgalomban, mint a tulajdonjog tartalmának "megbontását" és a részjogosítványok önállósodását lehetővé tevő eszközöket.
+- Hangsúlyozd, hogy ezek a jogintézmények teszik lehetővé a javak minél hatékonyabb gazdasági és személyes célú kihasználását.
+
+Kérdésekre vonatkozó szabályok:
+- A kérdések legyenek EGYETEMI SZINTŰ, nehéz szintűek – kerüld az egyszerű definíciós jellegű kérdéseket.
+- Minden kérdés legyen egyértelmű, gondolkodtató, a tananyag mélyebb megértését mérje.
+- A kérdések legyenek változatosak: tárjanak fel fogalmakat, ok-okozati összefüggéseket, különbségeket, gyakorlati vonatkozásokat a fenti témakörön belül.
+- A kérdések között ne legyen ismétlés. Tilos a duplikálás a kérdésekben és a válaszokban is!
+
+Válaszokra vonatkozó szabályok:
+- Minden kérdéshez tartozzon egyetlen, egyértelmű válasz.
+- A válasz ne legyen túl hosszú (1–3 mondat).
+- A válasz közvetlenül kapcsolódjon a kérdéshez, ne tartalmazzon felesleges információt.
+
+Kimeneti formátum:
+A kimenet a `Tételek` mappába kerüljön. Ott hozz létre egy mappát a témakör nevével (pl. `Az_idegen_dologbeli_jogok`), és a következő három fájlt ebbe az új mappába generáld:
+
+1.  **Kérdések (Előlap)** – csak az [50] kérdés felsorolva. Fájlnév: `kerdesek.txt`
+2.  **Válaszok (Hátlap)** – az [50] kérdéshez tartozó [50] válasz felsorolva, sorrendben megegyezően. Fájlnév: `valaszok.txt`
+3.  **Magyarázatok (Indoklás)** – Minden kártyához legalább 2 mondatos indoklás, magyarázat, ami tartalmazza a vonatkozó jogszabályok szövegét is. Az indoklásnál a számozás kell, de ne legyenek címek, csak a tartalom. Ne szerepeljen benne, hogy pld: Magyarázat:, vagy Indoklás:. Szigorúan TILOS, hogy az indoklás szövege egyezzen akár a kérdéssel, akár a kérdésre adott válasszal! Fájlnév: `magyarazatok.txt`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

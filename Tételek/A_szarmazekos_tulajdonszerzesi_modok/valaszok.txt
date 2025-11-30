@@ -1,0 +1,119 @@
+1. A nemo plus iuris elv szerint senki sem ruházhat át több jogot, mint amennyivel maga rendelkezik, így a szerző a tulajdonjogot azokkal a terhekkel szerzi meg, amelyek a jogelőd idejében is terhelték a dolgot.
+
+2. Mert ha a jogelőd tulajdonjoga korlátozott volt (pl. jelzáloggal, szolgalmi joggal terhelt), akkor a nemo plus iuris elv szerint a jogutód is csak korlátozott tulajdonjogot szerezhet, nem jobbat vagy teljesebbet.
+
+3. A titulus kötelmi jogi igényt keletkeztet a tulajdonjog átruházására, míg a modus dologi jogi joghatást eredményez (a tulajdonjog átszállását), így kettős biztosítékot nyújt: először jogcím, aztán átruházás.
+
+4. A titulus kötelmi jogi jogviszonyt keletkeztet (kötelezettség áll fenn), de a tulajdonjog még nem száll át, míg a modus dologi jogi joghatást eredményez: a tulajdonjog ténylegesen átszáll a szerzőre.
+
+5. Mert a titulus csak kötelmi jogi igényt keletkeztet, a tulajdonjog még nem száll át, így az átruházó köteles teljesíteni (átruházni), de ha nem teszi, szerződésszegés áll fenn és a szerző kártérítést követelhet.
+
+6. A modus hiányában a titulus alapján kötelmi jogi jogviszony áll fenn: az átruházó köteles átruházni a tulajdonjogot, és ha nem teljesít, szerződésszegésért felel, a szerző pedig kártérítést követelhet vagy teljesítést kérhet.
+
+7. A birtokátruházás látható, észlelhető jelzés arra, hogy ki a tulajdonos (aki birtokolja a dolgot, azt vélelmezzük tulajdonosnak), így a tulajdonváltozás kívülről is érzékelhető, ami védi a jóhiszemű harmadik személyeket.
+
+8. Mert a birtoklás látható, külső jelenség, amely alapján a forgalomban részt vevők ésszerűen következtethetnek arra, hogy a birtokos a tulajdonos is, így a birtok publicitási eszköz az ingó dolgoknál.
+
+9. A hagyományos átadásnál a tényleges hatalomgyakorlás fizikailag átkerül az átruházóról a szerzőre, míg a brevi manu traditio esetén a szerző már albirtokosként birtokolja a dolgot, így nem kell fizikailag átadni.
+
+10. A brevi manu traditio esetén nem kell fizikailag átadni a dolgot, mert a szerző már albirtokosként (pl. bérlő) birtokolja, így az átruházás gyorsabb, egyszerűbb és költséghatékonyabb.
+
+11. Mert a brevi manu traditio esetén a szerző már albirtokos és főbirtokossá válik, míg a constitutum possessorium esetén az átruházó főbirtokosból albirtokossá válik, de megtartja a birtokot.
+
+12. Az átruházó továbbra is használhatja a dolgot (pl. bérlőként), így nem kell feladnia a birtoklást és használatot, miközben a tulajdonjog átszáll (pl. eladja az autót, de továbbra is használja bérleti jogviszony alapján).
+
+13. Az átruházó felhagy a dolog feletti tényleges hatalomgyakorlással (pl. raktárkulcs átadása, áru elkülönítése), és ezzel a birtok átszáll a szerzőre, aki ezután megszerezheti a tényleges hatalmat.
+
+14. Ha a dolog harmadik személy birtokában van (pl. bérbe van adva), az átruházó és a szerző megállapodhatnak, hogy a dolog kiadása iránti igényt (követelést) a szerzőre ruházzák át (engedményezés), így a birtokátruházás megvalósul.
+
+15. Mert az ingatlan tulajdonjogának átruházásához a Ptk. 5:38. § (2) bekezdése szerint a tulajdonjog átruházásának az ingatlan-nyilvántartásba való bejegyzése szükséges, nem a testi átadás.
+
+16. A konstitutív hatály azt jelenti, hogy az ingatlan-nyilvántartási bejegyzéssel keletkezik vagy száll át a jog, így a bejegyzés jogkeletkeztető, a tulajdonjog a bejegyzéssel száll át, nem előtte.
+
+17. A konstitutív bejegyzés jogkeletkeztető hatályú (a jog a bejegyzéssel keletkezik vagy száll át), míg a deklaratív bejegyzés csak tanúsítja a már fennálló jogot (pl. törvényes öröklés esetén).
+
+18. Mert az ingatlan-nyilvántartásban bejegyzett adatokat ellenkező bizonyításig vélelmezni kell helyesnek, így aki a nyilvántartásban bízva, ellenérték fejében szerez jogot, azt a jog védi, még ha a bejegyzés téves is.
+
+19. A rangsor elve szerint a bejegyzések időbeli sorrendje meghatározza a jogok egymáshoz való viszonyát (pl. első és második jelzálogjog), így az időben korábbi bejegyzés elsőbbséget élvez.
+
+20. Az érvényes írásbeli szerződés a titulus (jogcím), amely kötelmi jogi igényt keletkeztet, és tartalmazza a bejegyzési engedélyt, amely alapján az ingatlan-nyilvántartásba való bejegyzés (modus) kérhető.
+
+21. Mert a tulajdonjog-fenntartás megállapodása szerint a tulajdonjog nem száll át azonnal a szerződéskötéssel és birtokátadással, hanem csak a vételár teljes kifizetésével, így a modus (tulajdonjog-átszállás) feltételhez kötött.
+
+22. Az eladó tulajdonos marad a vételár teljes kifizetéséig, így ha a vevő nem fizeti meg a vételárat, az eladó visszaveheti a dolgot, mert ő a tulajdonos, ami biztosítékot nyújt a vételár behajtására.
+
+23. A vevő rendelkezik tulajdonszerzésre irányuló joggal (váromány), amely azt jelenti, hogy a vételár kifizetésével automatikusan tulajdonossá válik, de még nem tulajdonos, csak birtokolja és használja a dolgot.
+
+24. Mert a nyilvántartásba vétel védi a jóhiszemű harmadik személyeket: ha a tulajdonjog-fenntartás nincs bejegyezve, a vevőtől jóhiszeműen és ellenérték fejében szerző megszerzi a tulajdonjogot, így nem hivatkozható vele szemben.
+
+25. Ha a tulajdonjog-fenntartás nincs nyilvántartva, a jóhiszemű harmadik személy (aki ellenérték fejében szerez a vevőtől) nem tudhatja, hogy a vevő nem tulajdonos, így a jog védi és tulajdonossá válik.
+
+26. A Ptk. 5:39. § (1) bekezdése kimondja: "Átruházással a dolog tulajdonosától lehet a tulajdonjogot megszerezni", ami a nemo plus iuris elv pozitív jogi megfogalmazása: csak tulajdonostól lehet tulajdonjogot szerezni.
+
+27. Mert a nemo plus iuris elv szerint ha a jogelőd nem tulajdonos, nem ruházhat át tulajdonjogot, így a szerző nem válik tulajdonossá, még ha jóhiszemű volt és ellenértéket fizetett is (főszabály szerint).
+
+28. A kivétel védi a jóhiszemű fogyasztókat és vásárlókat, hogy ne kelljen minden üzleti vásárlásnál ellenőrizniük az eladó tulajdonjogát, így a forgalom biztonságossá, gyorssá és hatékonnyá válik.
+
+29. A kereskedelmi forgalomban való szerzés (az eladó üzletszerű tevékenysége körében köti a szerződést), a jóhiszeműség (a vevő nem tudja, hogy az eladó nem tulajdonos) és az ellenérték fizetése (nem ingyenes szerzés).
+
+30. Mert a Ptk. 5:39. § (2) bekezdése szerint a kereskedelmi forgalomban jóhiszeműen és ellenérték fejében szerző megszerzi a tulajdonjogot akkor is, ha az átruházó nem volt tulajdonos, ami átlépi a nemo plus iuris elvét.
+
+31. A jóhiszemű vevő nem tudja és nem is kell tudnia, hogy az eladó nem tulajdonos, míg a rosszhiszemű vevő tudja vagy tudnia kell, hogy az eladó nem tulajdonos, így nem élvez védelmet.
+
+32. Az ellenérték fizetése biztosítja, hogy csak az kapjon védelmet, aki vételárat fizetett (tehát viselte a gazdasági terhet), az ajándékozással történő szerzés nem élvez védelmet, mert ingyenes.
+
+33. Mert az ajándékozás ingyenes szerzés, nem fizetnek ellenértéket, így a forgalom védelme nem indokolja a jóhiszemű ajándékozott védelmét a tulajdonos (akitől ellopták vagy elvették a dolgot) kárára.
+
+34. A Ptk. 5:39. § (3) bekezdése szerint kereskedelmi forgalomban való szerzésnek minősül, ha a vevő olyan eladótól vásárol, aki az adásvételi szerződést jogszerűen folytatott, üzletszerű gazdasági tevékenysége körében, saját nevében köti meg.
+
+35. Mert csak az minősül kereskedelmi forgalomnak, ha az eladó jogszerűen (engedéllyel, nem illegálisan) folytatott üzletszerű tevékenysége (nem magánszemély) körében, saját nevében (nem közvetítőként) köti a szerződést, így üzletből való vásárlás.
+
+36. Mert formálisan átruházás történik (származékos), de a szerző tehermentes tulajdonjogot szerez (a korábbi terhek megszűnnek) és a szerzés nem függ a jogelőd tulajdonjogától, ami az eredeti szerzés jellemzője.
+
+37. A Ptk. 5:39. § (4) bekezdése szerint a kereskedelmi forgalomban jóhiszeműen és ellenérték fejében szerző tehermentes tulajdonjogot szerez, vagyis a dolgon fennálló terhek (pl. jelzálogjog) megszűnnek.
+
+38. Az eredeti szerzésnél a szerző új tulajdonjogot szerez, amely nem terhelt a korábbi jogok által, így a terhek megszűnése azt jelzi, hogy a szerzés eredeti jellegű, nem származékos, mert megszakad a tulajdonjogok láncolata.
+
+39. Mert a Ptk. 5:40. § szerint pénz és értékpapír esetén mindig tulajdonossá válik a szerző, még ha az átruházó nem volt tulajdonos, függetlenül a jóhiszeműségtől vagy az ellenértéktől, ami szélesebb védelem.
+
+40. A pénz és értékpapírok forgalmának abszolút védelme biztosítja, hogy a gazdasági forgalomban senki ne kelljen ellenőriznie a pénz vagy értékpapír tulajdonjogát, így a forgalom gyors, biztonságos és hatékony.
+
+41. A titulus megelőzi a modust: először kell létrejönnie a kötelmi jogi jogviszonynak (titulus), amely kötelezettséget keletkeztet a tulajdonjog átruházására, majd következik a dologi jogi teljesítés (modus), amely a tulajdonjogot átruházza.
+
+42. Ha a modus megelőzné a titulust (először birtokátadás, aztán szerződés), jogalap nélküli gazdagodás keletkezne, mert a szerző megkapná a dolgot anélkül, hogy jogcíme lenne rá, így a titulus megelőzése biztosítja a jogalapot.
+
+43. A Ptk. 5:3. § (1) bekezdése szerint "A birtok átruházása a dolog feletti tényleges hatalomnak az erre irányuló megállapodás alapján való átengedésével valósul meg", ami a fizikai átadást (kézbeadást) jelenti.
+
+44. A birtokátruházás különböző formái (hagyományos átadás, brevi manu, constitutum possessorium, longa manu) lehetővé teszik, hogy a felek rugalmasan, a konkrét helyzethez igazodva hajtsák végre az átruházást, ami hatékonyabbá teszi a forgalmat.
+
+45. Az ingatlan-nyilvántartás publicitási funkciója közhiteles hatósági nyilvántartáson alapul, amely írásban rögzíti a tulajdonjogot, míg a birtok publicitási funkciója a látható, tényleges birtokláson alapul.
+
+46. Az ingatlan-nyilvántartásban bejegyzett adatokat (pl. tulajdonos neve) ellenkező bizonyításig vélelmezni kell helyesnek, vagyis amíg valaki nem bizonyítja, hogy téves a bejegyzés, azt helyesnek kell tekinteni.
+
+47. A bejegyzési engedély az írásbeli szerződés része, amely feljogosítja a szerzőt, hogy kérje a tulajdonjog átruházásának bejegyzését az ingatlan-nyilvántartásba, így az eljárás kezdeményezhető.
+
+48. Mert egyrészt érvényesül a nemo plus iuris elve (jogbiztonság az átruházó számára), másrészt védi a jóhiszemű szerzőket (forgalombiztonság), és biztosítja a publicitást (birtok, nyilvántartás), így kiegyensúlyozott.
+
+49. A titulus-modus rendszer egyértelmű szabályokat ad: először jogcím, aztán átruházás, mindkettő szükséges, így a felek tudják, mit kell tenniük a tulajdonszerzéshez, ami kiszámíthatóvá és hatékonnyá teszi a tulajdonszerzést.
+
+50. A publicitás elve (birtok ingóknál, nyilvántartás ingatlanoknál) biztosítja, hogy a tulajdonváltozás látható legyen, így a jóhiszemű szerzők ésszerűen bízhatnak a publicitási eszközökben (birtokos = tulajdonos, bejegyzett = tulajdonos), ami védi őket.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

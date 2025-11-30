@@ -1,0 +1,440 @@
+A POLGÁRI JOGI TÉNYEK
+
+I. Bevezetés: A Jogi Tények Szerepe a Polgári Jogban
+
+A **jogi tények** az **életnek azon jelenségei** (emberi, társadalmi vagy természeti), amelyekhez a **jogszabályok joghatásokat** – azaz polgári jogi **jogviszonyok keletkezését, módosulását vagy megszűnését** – fűznek.
+
+A jogi tények a polgári jog **dinamikájának** alapját képezik: a jogviszonyok nem statikusak, állandóak, hanem **változnak** – keletkeznek, módosulnak, megszűnnek. Ezeket a változásokat a **jogi tények** váltják ki, amelyek így a jogviszonyok **"mozgatórugói"**.
+
+A jogi tények **nélkülözhetetlenek** a polgári jog működése szempontjából:
+- **Nélkülük nem jönnének létre** jogviszonyok (pl. szerződéskötés nélkül nincs szerződéses jogviszony);
+- **Nélkülük nem változnának** a jogviszonyok (pl. szerződésmódosítás nélkül változatlan marad a szerződés);
+- **Nélkülük nem szűnnének meg** a jogviszonyok (pl. teljesítés nélkül fennmarad a kötelezettség).
+
+A jogi tények tehát a polgári jog **"élő elemei"**, amelyek biztosítják a jog **dinamizmusát**, **rugalmasságát** és **alkalmazkodását** a változó társadalmi-gazdasági viszonyokhoz.
+
+
+II. A Jogi Tények Osztályozása Eredetük Szerint
+
+A jogi tények **sokfélék**, és különböző szempontok szerint osztályozhatók. A legfontosabb osztályozási szempont az **eredetük**, vagyis hogy miből, hogyan keletkeznek.
+
+**1. Emberi magatartások**
+
+Az **emberi magatartások** olyan jogi tények, amelyek **emberi akaratból, cselekvésből vagy mulasztásból** erednek. Az emberi magatartások **aktív szerepet** játszanak a jogviszonyok alakításában: az emberek tudatosan, akaratlagosan befolyásolják jogviszonyaikat.
+
+Az emberi magatartások két fő csoportra oszthatók:
+
+**a) Jogos magatartások**
+
+A **jogos magatartások** olyan emberi cselekvések, amelyek **nem jogellenes**ek, azaz megfelelnek a jog követelményeinek. A jogos magatartások közül a legfontosabbak a **jogügyletek** és az **egyéb engedélyezett cselekmények**.
+
+**i) Jogügyletek**
+
+A **jogügylet** olyan **akaratnyilatkozaton alapuló** emberi magatartás, amely **joghatások kiváltására** irányul, és amelyet a jogszabály **joghatásokkal ruház fel**. A jogügylet jellemzője, hogy a **joghatás a cselekvő akaratának megfelelően** következik be: a jogalany azért teszi a jogügyletet, hogy bizonyos joghatásokat (jogok megszerzése, kötelezettségek vállalása) előidézzen.
+
+A jogügylet **típusai**:
+
+**- Egyoldalú jogügylet**: Csak az egyik fél akaratnyilatkozatával jön létre (pl. végrendelet, felmondás, elállás, ajándékozási ígéret).
+
+**- Kétoldalú jogügylet (szerződés)**: Két fél egybehangzó akaratnyilatkozatával jön létre. A **szerződés** a **legfontosabb jogügylet-típus** a polgári jogban.
+
+**- Többoldalú jogügylet**: Kettőnél több fél akaratnyilatkozatával jön létre (pl. társasági szerződés).
+
+**A szerződés mint legfontosabb jogügylet:**
+
+A szerződés a felek **megállapodása**, amely kötelezettségeket keletkeztet, módosít vagy megszüntet. A szerződés létrejöttének általános szabályait a **Ptk. Hatodik Könyve** (Kötelmi jog) tartalmazza.
+
+A szerződés **létrejötte**: A szerződés az **ajánlat** és az **elfogadás** egybehangzásával jön létre. A szerződés **joghatásai**: a felek között szerződéses jogviszony keletkezik, a feleket jogok illetik meg és kötelezettségek terhelik.
+
+Példák szerződésekre:
+- **Adás-vételi szerződés**: az eladó átruházza a tulajdonjogot, a vevő fizeti a vételárat;
+- **Bérleti szerződés**: a bérbeadó használatra átengedi a dolgot, a bérlő fizeti a bérleti díjat;
+- **Megbízási szerződés**: a megbízott elvégez egy feladatot, a megbízó megfizeti a díjat.
+
+**ii) Más engedélyezett cselekmények (nem jogügyletek)**
+
+Vannak olyan **jogos magatartások**, amelyek **nem minősülnek jogügyletnek** (mert nem akaratnyilatkozaton alapulnak, vagy nem joghatás kiváltására irányulnak), de **joghatásokat** váltanak ki.
+
+Példák:
+
+**- Megbízás nélküli ügyvitel**: Aki más ügyét önként vállalja anélkül, hogy arra jogviszony kötelezné, és az ügyvitel megkezdése a körülményekből következően az ügyvitelre jogosult feltehető akaratának megfelel, az ügyvitel szabályait kell alkalmazni.
+
+**- Jogalap nélküli gazdagodás**: Aki más rovására jogalap nélkül gazdagodik, köteles a gazdagodást kiadni. Ez nem jogügylet (nem akaratnyilatkozat), hanem **tényállapot**, amelyhez a jog jogkövetkezményeket fűz.
+
+**- Birtok megszerzése**: A birtok tényleges hatalomgyakorlás, amely nem jogügylet, hanem **tényleges magatartás**, de joghatásokat (birtokvédelem) eredményez.
+
+**b) Jogellenes magatartások**
+
+A **jogellenes magatartások** olyan emberi cselekvések vagy mulasztások, amelyek **jogsértést** jelentenek, és amelyekhez a jog **hátrányos jogkövetkezményeket** (szankciókat) fűz.
+
+**i) Szerződésszegés**
+
+A **szerződésszegés** a szerződéses kötelezettség megsértése: a kötelezett **nem teljesít** vagy **nem szerződésszerűen teljesít**. A szerződésszegés **joghatásai**:
+- **kártérítési kötelezettség** (Ptk. 6:142. §);
+- a jogosult **elállhat** vagy **felmondhat**;
+- **kellékszavatossági jogok** gyakorlása hibás teljesítés esetén.
+
+Példák:
+- az eladó nem adja át a dolgot a határidőre (nem teljesítés);
+- a vállalkozó hibásan végzi el a munkát (hibás teljesítés);
+- a bérlő nem fizeti a bérleti díjat (nem teljesítés).
+
+**ii) Szerződésen kívüli károkozás (deliktum)**
+
+A **szerződésen kívüli károkozás** (deliktuális károkozás) másnak **jogellenesen okozott kár**. A **Ptk. 6:519. §-a** tartalmazza az általános deliktuális felelősségi klauzulát:
+
+"Aki másnak jogellenesen kárt okoz, köteles azt megtéríteni. Mentesül a felelősség alól a károkozó, ha bizonyítja, hogy magatartása nem volt felróható."
+
+A deliktuális károkozás **joghatásai**:
+- **kártérítési kötelezettség** keletkezik a károkozó és a károsult között;
+- a károsult **követelheti a kár megtérítését**;
+- a károkozó **köteles megtéríteni** a teljes kárt (Ptk. 6:522. §).
+
+**iii) A jogellenesség objektív jellege**
+
+A polgári jogban a jogellenesség **objektív jellegű**: nem az a kérdés, hogy a cselekvő **szándékosan vagy gondatlanul** járt el (ez a felróhatóság kérdése), hanem az, hogy a magatartás **ellentétes-e** a jogi normákkal. A **Ptk. 6:520. §-a** kifejezi ezt:
+
+"Minden károkozás jogellenes, kivéve, ha a károkozó a kárt
+a) a károsult beleegyezésével okozta;
+b) a jogtalan támadás vagy a jogtalan és közvetlen támadásra utaló fenyegetés elhárítása érdekében a támadónak okozta, ha az elhárítással a szükséges mértéket nem lépte túl;
+c) szükséghelyzetben okozta, azzal arányos mértékben; vagy
+d) jogszabály által megengedett magatartással okozta, és a magatartás más személy jogilag védett érdekét nem sérti, vagy a jogszabály a károkozót kártalanításra kötelezi."
+
+Ez azt jelenti, hogy a károkozás **önmagában jogellenes**, kivéve, ha valamelyik **jogellenességet kizáró ok** fennáll.
+
+**2. Emberi magatartástól független (külső) körülmények**
+
+Az **emberi magatartástól független körülmények** olyan jogi tények, amelyek **nem emberi akaratból vagy cselekvésből** erednek, hanem a **külvilág objektív történéseiből**, amelyekre az embernek nincs (vagy csak korlátozott) befolyása.
+
+**a) Események**
+
+Az **események** olyan objektív jelenségek, amelyek **emberi akarattól függetlenül** következnek be, de **joghatásokat** váltanak ki.
+
+Példák:
+
+**- Természeti események**: Árvíz, tűzvész, földrengés, jégeső, villámcsapás. Ezek **joghatásai**:
+  - **megszüntetheti a kötelezettséget** (vis maior, lehetetlenülés – a kötelezett nem felel, ha teljesítése elháríthatatlan külső ok miatt lehetetlenné vált);
+  - **tulajdonváltozást** eredményezhet (ha a dolog megsemmisül, a tulajdonjog megszűnik);
+  - **biztosítási eseménynek** minősülhet (a biztosító köteles fizetni).
+
+**- Születés**: A **Ptk. 2:2. § (1) bekezdése** szerint: "A jogképesség az embert, ha élve születik, fogamzásának időpontjától illeti meg." A születés tehát **jogviszony-keletkeztető** jogi tény: a jogképesség kezdete.
+
+**- Halál**: A **Ptk. 2:4. §-a** szerint: "A jogképesség a halállal szűnik meg." A halál **jogviszony-megszüntető** jogi tény (a jogképesség megszűnik), és egyúttal **jogviszony-keletkeztető** is (az öröklési jogviszony megnyílik).
+
+**- Termés érése**: A termés a tulajdonosé – a termés érése tulajdonszerzést eredményez.
+
+**b) Az idő múlása**
+
+Az **idő múlása** különösen fontos jogi tény a polgári jogban, amely számos joghatást vált ki. Az idő múlása **passzív jellegű**: nem aktív esemény, hanem pusztán az idő **eltelése**, de a jog ehhez jelentős joghatásokat fűz.
+
+**i) Jogvesztő határidő**
+
+A **jogvesztő határidő** olyan határidő, amelynek **elmulasztása** az **alanyi jog megszűnését** eredményezi. A jogvesztő határidő elteltével a jog **véglegesen elvész**, nem érvényesíthető többé, és nem is újítható fel.
+
+Példák:
+- Személyiségi jogi jogsértés esetén **harmincnapos jogvesztő határidő** (Ptk. 2:51. § (5) bekezdés);
+- Elővásárlási jog gyakorlása **határidőhöz kötött** (Ptk. 6:218. §);
+- Visszavásárlási jog **öt éven belül** gyakorolható (Ptk. 6:227. §).
+
+A jogvesztő határidő **nem hosszabbítható meg**, **nem szakítható meg**, és elmulasztása esetén a jog **véglegesen megszűnik**.
+
+**ii) Elévülés**
+
+Az **elévülés** az alanyi jog **bírósági kikényszeríthetőségének megszűnése**. Az elévülés **nem szünteti meg** magát az alanyi jogot, csak a jog **bírói úton való érvényesíthetőségét** korlátozza: **igényszüntető kifogást** alapít a kötelezett javára.
+
+Az elévülés szabályait a **Ptk. Hatodik Könyve** tartalmazza. Az **általános elévülési idő** **öt év** (Ptk. 6:22. §), de vannak rövidebb (pl. egyes kereskedelmi ügyleteknél) és hosszabb (pl. bűncselekménnyel okozott kár esetén) elévülési idők is.
+
+Az elévülés **joghatásai**:
+- Az elévült követelés **bírói úton nem érvényesíthető** (a bíróság nem ítélheti meg a követelést);
+- A kötelezett **hivatkozhat az elévülésre** (kifogás);
+- De a kötelezett **önként teljesíthet** (a teljesítés nem követelhető vissza).
+
+Az elévülés **megszakadhat** (pl. követelés bírósági úton való érvényesítésével) és **nyugodhat** (pl. vis maior időtartama alatt).
+
+**iii) Elbirtoklás**
+
+Az **elbirtoklás** **eredeti tulajdonszerzési mód**: a hosszú időn át tartó, jogszerű, nyilvános és zavartalan birtoklás alapján a birtokos **tulajdonossá válik**, még akkor is, ha korábban nem volt tulajdonos.
+
+Az elbirtoklás **feltételei** ingatlanoknál (Ptk. 5:48-5:49. §):
+- **Jóhiszemű** birtoklás;
+- **Jogcímes** birtoklás (a birtokos úgy szerezte a birtokot, hogy azt tulajdonszerzésre alkalmas jogcímnek tartotta);
+- **Zavartalan** birtoklás;
+- **Tizenöt éves** időtartam (jóhiszemű, jogcímes birtoklásnál).
+
+Az elbirtoklás **joghatása**: A birtokos **tulajdonossá válik**. Az elbirtoklással szerzett tulajdonjog **eredeti** jogszerzés: nem a korábbi tulajdonostól származik, hanem **új tulajdonjog** keletkezik.
+
+**ii) Egyéb engedélyezett cselekmények**
+
+Vannak olyan **jogos magatartások**, amelyek nem minősülnek jogügyletnek, de joghatásokat váltanak ki:
+
+**- Megbízás nélküli ügyvitel**: Aki más ügyét önként, megbízás nélkül vállalja, és ez a körülményekből következően az ügyvitelre jogosult feltehető akaratának megfelel, bizonyos jogokat és kötelezettségeket szerez (pl. költségei megtérítését követelheti).
+
+**- Jogalap nélküli gazdagodás**: Aki más rovására jogalap nélkül gazdagodik, köteles a gazdagodást kiadni. Ez nem jogügylet, hanem **tényleges állapot** (gazdagodás ténye), amelyhez a jog **visszaszolgáltatási kötelezettséget** fűz.
+
+**- Birtoklás**: A birtoklás **tényleges hatalomgyakorlás**, nem jogügylet, de joghatásokat eredményez (birtokvédelem, elbirtoklás lehetősége).
+
+**b) Jogellenes magatartások**
+
+A **jogellenes magatartások** olyan emberi cselekvések vagy mulasztások, amelyek **jogsértést** jelentenek, és amelyekhez a jog **hátrányos jogkövetkezményeket** (szankciókat) fűz.
+
+**i) Szerződésszegés**
+
+A **szerződésszegés** a szerződéses kötelezettség megsértése. A kötelezett **nem teljesít** (pl. nem adja át a dolgot, nem fizeti a vételárat) vagy **nem szerződésszerűen teljesít** (pl. hibás dolgot ad át).
+
+A szerződésszegés **joghatásai**:
+- **Kártérítési kötelezettség**: A szerződésszegő köteles megtéríteni a szerződésszegéssel okozott kárt;
+- **Kellékszavatossági jogok**: Hibás teljesítés esetén a jogosult kijavítást, kicserélést, árleszállítást vagy elállást követelhet;
+- **Elállás, felmondás**: Súlyos szerződésszegés esetén a jogosult megszüntetheti a szerződést;
+- **Teljesítés követelése**: A jogosult továbbra is követelheti a teljesítést (természetes teljesítéshez való jog).
+
+**ii) Szerződésen kívüli károkozás (deliktum)**
+
+A **szerződésen kívüli károkozás** (deliktuális károkozás) másnak **jogellenesen okozott kár**. A **Ptk. 6:519. §-a** szerint:
+
+"Aki másnak jogellenesen kárt okoz, köteles azt megtéríteni. Mentesül a felelősség alól a károkozó, ha bizonyítja, hogy magatartása nem volt felróható."
+
+A deliktuális károkozás **joghatásai**:
+- **Kártérítési jogviszony** keletkezik a károkozó (kötelezett) és a károsult (jogosult) között;
+- A károkozó **köteles megtéríteni** a teljes kárt (Ptk. 6:522. §);
+- A károsult **követelheti** a kár megtérítését.
+
+**3. Emberi magatartástól független (külső) körülmények**
+
+Ezek a fenti kategóriába már belefoglaltuk (események és idő múlása), de most külön is tárgyaljuk őket mint önálló csoportot.
+
+**4. Állami (hatósági és bírósági) aktusok**
+
+Az **állami aktusok** olyan jogi tények, amelyek **állami szervek** (bíróságok, közigazgatási hatóságok, anyakönyvvezetők) döntéseiből, cselekvéseiből erednek.
+
+Az állami aktusok **kétfélék** lehetnek hatályuk szerint:
+
+**a) Konstitutív hatályú aktusok**
+
+A **konstitutív hatályú** aktusok olyan állami döntések, amelyek **maguk hozzák létre, módosítják vagy szüntetik meg** a jogviszonyt. A konstitutív aktus **nélkül** a joghatás **nem következne be**.
+
+Példák:
+
+**- Bírósági ítélet a házasság felbontásáról**: A **Ptk. 4:20. § (1) bekezdésének b) pontja** szerint a házasság megszűnik "bírósági felbontással." A házasság csak a bírósági ítélettel szűnik meg – a felek akarata önmagában nem elég.
+
+**- Gondnokság alá helyezés**: A bíróság ítélete **cselekvőképességet korlátozó** hatást eredményez (Ptk. 2:19-2:21. §).
+
+**- Holtnak nyilvánítás**: A **Ptk. 2:5. §-a** szerint a bíróság holtnak nyilvánítja az eltűnt személyt, és ez **jogképesség megszűntét** eredményezi.
+
+**- Kisajátítás**: Közigazgatási határozat, amely **tulajdonjog-váltást** eredményez: a magántulajdon állami tulajdonná válik.
+
+**- Ingatlan-nyilvántartási bejegyzés**: Sok esetben **konstitutív hatályú**: pl. a jelzálogjog **bejegyzéssel** keletkezik, az ingatlan tulajdonjoga **bejegyzéssel** száll át.
+
+**b) Deklaratív hatályú aktusok**
+
+A **deklaratív hatályú** aktusok olyan állami döntések, amelyek **meglévő jogi helyzetet állapítanak meg vagy tanúsítanak**. A deklaratív aktus **nem hozza létre** a joghatást, csak **megállapítja**, hogy az már korábban bekövetkezett.
+
+Példák:
+
+**- Bírósági ítélet a szerződés létrejöttéről**: Ha a bíróság megállapítja, hogy a szerződés létrejött, ez csak **tanúsítja** a létrejöttet, nem **hozza létre** azt. A szerződés a felek megállapodásával jött létre, nem a bírósági ítélettel.
+
+**- Tulajdonjog megállapítása iránti per**: A bíróság megállapítja, hogy a felperes tulajdonos – de nem **teszi** tulajdonossá, csak **megállapítja**, hogy már az.
+
+**- Anyakönyvi bejegyzés a születésről vagy halálról**: A **Ptk. 2:2. §** és **2:4. §** alapján a jogképesség a születéssel (fogamzással) kezdődik és a halállal szűnik meg – az anyakönyvi bejegyzés csak **tanúsítja** ezt, nem hozza létre.
+
+**- Bejegyzés az öröklés tényéről az ingatlan-nyilvántartásban**: Az öröklés a hagyaték **átszállását** eredményezi az örökösre (Ptk. 7:1. §), az ingatlan-nyilvántartási bejegyzés csak **deklaratív hatályú**, tanúsítja az átszállást.
+
+
+III. A Jogi Tények Osztályozása a Joghatás Szerint
+
+A jogi tényeket osztályozhatjuk aszerint is, hogy **milyen változást idéznek elő** a jogviszonyokban. E szerint három fő kategória van:
+
+**1. Jogviszony-keletkeztető tények**
+
+A **jogviszony-keletkeztető** tények olyan jogi tények, amelyek **új jogviszonyt hoznak létre**. A jogi tény bekövetkezése előtt a jogviszony nem létezett, a jogi tény hatására keletkezik.
+
+Példák:
+
+**- Szerződéskötés**: A felek **adás-vételi szerződést kötnek** (jogügylet). Ez **létrehozza** a szerződéses jogviszonyt.
+
+**- Öröklés**: Az örökhagyó **meghal** (esemény). Ez **létrehozza** az öröklési jogviszonyt: az örökösök jogosulttá válnak az örökségre.
+
+**- Károkozás**: Valaki **jogellenesen kárt okoz** (jogellenes magatartás). Ez **létrehozza** a kártérítési jogviszonyt.
+
+**- Elbirtoklás**: A birtokos **15 évig zavartalanul birtokol** (időmúlás + magatartás). Ez **tulajdonjogot keletkeztet**.
+
+**Eredeti és származékos jogszerzés:**
+
+A jogviszony-keletkeztető tények esetén fontos megkülönböztetni az **eredeti** és **származékos** jogszerzést:
+
+**- Eredeti jogszerzés**: Más jogától **függetlenül**, újonnan jön létre a jog, ill. a jogviszony. A korábbi tulajdonjog lététől/nem lététől függetlenül egy új tulajdonjog keletkezik, amelyet nem korlátoznak a dolgon esetlegesen fennálló egyéb jogok (megszakad a tulajdonjogok láncolata).
+
+Példák: uratlan dolog elsajátítása, találás, elbirtoklás, termés elsajátítása.
+
+**- Származékos jogszerzés**: A jogot szerző személy a **korábban jogot gyakorló személy jogait szerzi meg**. Ebben az esetben megkülönböztetjük a **jogelőd**öt és a **jogutód**ot. Legfontosabb kiindulópontja a **"nemo plus iuris"** elve: a jogutód jogai és kötelezettségei a jogelőd jogain és kötelezettségein alapulnak, azokat mintegy átveszi.
+
+A származékos jogszerzés lehet:
+- **Egyetemes (univerzális)**: a jogutód minden jogot és kötelezettséget megszerez (pl. örökös);
+- **Különös (szinguláris)**: csak bizonyos jogokat vagy kötelezettségeket szerez meg (pl. adás-vételnél a vevő csak a tulajdonjogot szerzi meg, nem az eladó minden jogát).
+
+**2. Jogviszony-módosító tények**
+
+A **jogviszony-módosító** tények olyan jogi tények, amelyek a fennálló jogviszony **valamely elemét** (alany, tárgy, tartalom) **megváltoztatják**, de a jogviszony **fennmarad**.
+
+A módosítás **három elemben** történhet:
+
+**a) Alanyváltozás (jogutódlás)**
+
+A jogviszony egyik vagy mindkét **alanya** megváltozik: a korábbi alany (jogelőd) helyébe új alany (jogutód) lép.
+
+Példák:
+- **Engedményezés**: A követelés átruházása: a korábbi jogosult (engedményező) helyébe új jogosult (engedményes) lép.
+- **Tartozásátvállalás**: Az adós helyébe új adós lép (az átvállalóhoz a jogosult hozzájárulása szükséges).
+- **Öröklés**: Az örökhagyó halála esetén tartozásai fennmaradnak, de azokért az **örökösök** felelnek (az alany változik: örökhagyó helyett örökös).
+
+**b) Tárgyváltozás**
+
+A jogviszony **tárgya** megváltozik.
+
+Példa:
+- A bérleti szerződés tárgya (bérlemény) megváltozik (pl. az eredeti helyett másik lakást adnak bérbe – a felek megállapodásával).
+
+**c) Tartalomváltozás**
+
+A jogviszony **tartalma** (jogok és kötelezettségek) megváltozik.
+
+Példák:
+- **Szerződésmódosítás**: A felek megállapodnak a vételár változtatásában – a kötelezettség mértéke változik, de a jogviszony fennmarad.
+- **Kamatemelés**: A kölcsönszerződésben a kamat mértéke változik.
+
+**3. Jogviszony-megszüntető tények**
+
+A **jogviszony-megszüntető** tények olyan jogi tények, amelyek a fennálló jogviszonyt **lezárják**, **megszüntetik**. A jogi tény hatására a jogviszony **megszűnik**: a felek között nincs többé jogviszony.
+
+A megszűnés **kétféle hatállyal** történhet:
+
+**a) Ex nunc (a jövőre nézve) hatállyal**
+
+A jogviszony a **megszűnés időpontjától** szűnik meg, de a **múltbeli joghatások** (korábban teljesített szolgáltatások, szerzett jogok) **fennmaradnak**.
+
+Példák:
+- **Szerződés teljesítése**: Mindkét fél teljesített, a szerződés megszűnik, de a teljesített szolgáltatások (pl. átadott dolog, fizetett pénz) fennmaradnak.
+- **Felmondás**: A szerződés a felmondás hatálybalépésekor szűnik meg.
+- **Elállás** bizonyos esetekben: ex nunc hatályú.
+
+**b) Ex tunc (visszamenőleg, a keletkezésre visszaható) hatállyal**
+
+A jogviszony **a keletkezés időpontjára visszamenőleg** szűnik meg, vagyis úgy kell tekinteni, **mintha soha nem jött volna létre**. A múltbeli joghatások **semmisek**, vissza kell állítani az eredeti állapotot.
+
+Példák:
+- **Érvénytelenség (semmisség)**: A **Ptk. 2:1. § (2) bekezdése** szerint: "A jogképességet korlátozó jognyilatkozat semmis." A semmis jognyilatkozat nem váltja ki a kívánt joghatást, úgy kell tekinteni, mintha meg sem történt volna.
+- **Megtámadás**: A megtámadható szerződés az eredményes megtámadás következtében **megkötésének időpontjától érvénytelenné válik** (ex tunc hatály).
+- **Házasság érvénytelenné nyilvánítása**: A házasságot a **megkötésének időpontjára visszamenőleg** nyilvánítják érvénytelenné (Ptk. 4:14. §).
+
+Egyéb megszüntető tények:
+
+**- A dolog megsemmisülése**: Ha a szerződés tárgya megsemmisül (pl. leég a ház), a kötelezettség lehetetlenül, a jogviszony megszűnik.
+
+**- Lehetetlenülés**: Ha a teljesítés objektíve lehetetlenné válik, a kötelezettség megszűnik.
+
+**- Elévülés**: Az igény bírói kikényszeríthetősége megszűnik (de a jogviszony formálisan fennmarad).
+
+
+IV. Gyakorlati Jelentőség: Komplex Példa
+
+Mutassuk be egy **ingatlan adásvételének** történetét az előszerződéstől a birtokbaadásig, és elemezzük a különböző jogi tények láncolatát:
+
+**1. lépés: Előszerződés megkötése**
+
+**A** és **B** **előszerződést** kötnek egy ingatlan eladásáról (jogügylet). 
+
+**Joghatás**: **Előkészítő jogviszony** keletkezik: A és B kötelezettséget vállalnak arra, hogy a jövőben adás-vételi szerződést kötnek. Ez **jogviszony-keletkeztető** jogi tény.
+
+**2. lépés: Adás-vételi szerződés megkötése**
+
+**A** (eladó) és **B** (vevő) **adás-vételi szerződést** kötnek az ingatlanra vonatkozóan (jogügylet).
+
+**Joghatás**: **Szerződéses jogviszony** keletkezik: A köteles átadni az ingatlant és átruházni a tulajdonjogot, B köteles fizetni a vételárat. Ez **jogviszony-keletkeztető** jogi tény. Egyúttal az előkészítő jogviszony **megszűnik** (teljesítették az előszerződést) – ez **jogviszony-megszüntető** hatás is.
+
+**3. lépés: Vételár megfizetése**
+
+**B** **megfizeti** a vételárat **A**-nak (jogos magatartás, teljesítés).
+
+**Joghatás**: B **teljesítette** kötelezettségét. A szerződéses jogviszony **részben módosul**: B vételárfizetési kötelezettsége megszűnt, de A átadási és tulajdonjog-átruházási kötelezettsége fennáll. Ez **jogviszony-módosító** jogi tény.
+
+**4. lépés: Tulajdonjog átruházása – ingatlan-nyilvántartási bejegyzés**
+
+**A** és **B** közösen kérik az ingatlan-nyilvántartási **bejegyzést** a tulajdonjog átruházásáról (hatósági aktus).
+
+**Joghatás**: A **tulajdonjog átszáll** A-ról B-re. Az ingatlan tulajdonjogának átruházásánál az ingatlan-nyilvántartási bejegyzés **konstitutív hatályú** (Ptk. 5:38. § (2) bekezdés): a tulajdonjog a bejegyzéssel száll át. Ez **jogviszony-keletkeztető** (B tulajdonossá válik) és egyúttal **jogviszony-megszüntető** (A tulajdonjoga megszűnik) jogi tény.
+
+**5. lépés: Birtok átadása**
+
+**A átadja** az ingatlan birtokát **B**-nek (jogos magatartás, teljesítés).
+
+**Joghatás**: A **teljesítette** átadási kötelezettségét. B **birtokossá** válik. A szerződéses jogviszony teljesen **teljesül**, és **megszűnik**. Ez **jogviszony-megszüntető** jogi tény.
+
+**Összegzés a példára:**
+
+Ez a komplex ügylet számos **jogi tény láncolatát** mutatja:
+- **Jogügyletek**: előszerződés, adás-vételi szerződés, vételár fizetése, birtok átadása;
+- **Hatósági aktus**: ingatlan-nyilvántartási bejegyzés (konstitutív);
+- **Joghatások**: jogviszonyok keletkezése, módosulása, megszűnése.
+
+
+V. Összegzés
+
+A **jogi tények rendszerének** ismerete alapvető a jogalkalmazásban, mert a jogász feladata egy konkrét élethelyzetben **azonosítani a releváns jogi tényeket**, és azok alapján **meghatározni a felek jogait és kötelezettségeit**.
+
+**A jogi tények osztályozása eredetük szerint:**
+
+**1. Emberi magatartások:**
+- **Jogos magatartások**: jogügyletek (szerződés, végrendelet, felmondás) és egyéb engedélyezett cselekmények (megbízás nélküli ügyvitel, jogalap nélküli gazdagodás)
+- **Jogellenes magatartások**: szerződésszegés, szerződésen kívüli károkozás (deliktum)
+
+**2. Emberi magatartástól független körülmények:**
+- **Események**: születés, halál, természeti katasztrófák
+- **Az idő múlása**: jogvesztő határidő, elévülés, elbirtoklás
+
+**3. Állami aktusok:**
+- **Konstitutív hatályú**: jogviszonyt létrehoznak, módosítanak, megszüntetnek (pl. házasság felbontása, gondnokság alá helyezés, ingatlan-nyilvántartási bejegyzés)
+- **Deklaratív hatályú**: meglévő joghelyzetet állapítanak meg (pl. tulajdonjog megállapítása, születés anyakönyvezése)
+
+**A jogi tények osztályozása joghatás szerint:**
+
+**1. Jogviszony-keletkeztető**: Új jogviszonyt hoznak létre. Lehet eredeti (új jog keletkezik) vagy származékos (jogelőd jogai szállnak át) jogszerzés.
+
+**2. Jogviszony-módosító**: A jogviszony valamely elemét változtatják (alany, tárgy, tartalom), de a jogviszony fennmarad.
+
+**3. Jogviszony-megszüntető**: A jogviszonyt lezárják. Lehet ex nunc (jövőre nézve) vagy ex tunc (visszamenőleg) hatállyal.
+
+**A jogi tények központi szerepe:**
+
+A jogi tények a **polgári jog dinamikájának** alapját képezik. Nélkülük a polgári jog **statikus, élettelen** lenne – nem változnának a jogviszonyok, nem alkalmazkodna a jog a változó élethelyzetekhez.
+
+A jogász feladata:
+- **Azonosítani** a jogi tényeket egy konkrét élethelyzetben;
+- **Minősíteni** őket (milyen típusú jogi tény);
+- **Meghatározni** a joghatásaikat (milyen jogviszony-változást idéznek elő);
+- **Alkalmazni** a releváns jogszabályokat;
+- **Meghatározni** a felek jogait és kötelezettségeit.
+
+A jogi tények rendszerének alapos ismerete így **elengedhetetlen** a **gyakorlati jogalkalmazáshoz**, a **jogviták megoldásához**, és a **jogbiztonság** megteremtéséhez. A jogi tények tan a polgári jog **dogmatikai alapja**, amely nélkül nem érthető meg a jogviszonyok működése és a jog élete.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

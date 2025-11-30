@@ -1,0 +1,352 @@
+A KÖZÖS TULAJDON ÉS ANNAK MEGSZÜNTETÉSE
+
+I. Bevezetés: A Közös Tulajdon Fogalma és Jellege
+
+A **közös tulajdon** a tulajdonjog egyik különleges formája, amelyben **több személy együttesen** gyakorolja a tulajdonjogot ugyanazon a dolgon. A **2013. évi V. törvény (Polgári Törvénykönyv) 5:73. § (1) bekezdése** meghatározza a közös tulajdon fogalmát:
+
+"(1) A dolgon fennálló tulajdonjog meghatározott hányadok szerint több személyt is megillethet."
+
+Ez a definíció kifejezi a közös tulajdon lényegét: **a tulajdonjog van megosztva** (nem a dolog), és ez a megosztás **meghatározott hányadok szerint** történik. A közös tulajdon **nem a dolog fizikai megosztását** jelenti (mint amikor egy földterületet feldarabolnak, és mindenkinek külön parcellája lesz), hanem **a tulajdonjog eszmei megosztását**: a dolog továbbra is egységes, osztatlan marad, de rajta **többen is tulajdonjoggal rendelkeznek**.
+
+**A közös tulajdon jellemzői:**
+
+**1. Osztatlanság**
+
+A közös tulajdonban álló dolog **fizikailag osztatlan** marad. Nem lehet azt mondani, hogy "ez a rész az enyém, az a rész a tiéd", hanem minden tulajdonostárs **az egész dolgon** rendelkezik tulajdoni hányadával. A tulajdonostársak nem lehetnek birtokosai vagy használói a dolog egyes "darabjainak", hanem **az egész dolgot együttesen** birtokolják és használják.
+
+**2. Eszmei hányadok**
+
+A tulajdonjog **eszmei (ideális) hányadokra** oszlik. A **tulajdoni hányad** azt fejezi ki, hogy milyen arányban illeti meg a tulajdonostársakat a tulajdonjog (pl. 1/2, 1/3, 2/5 stb.). A tulajdoni hányad **nem fizikai részt** jelent, hanem **jogok és kötelezettségek arányát**.
+
+A **Ptk. 5:73. § (2) bekezdése** tartalmaz egy fontos vélelmet:
+
+"(2) Kétség esetén a tulajdonostársak tulajdoni hányada egyenlő."
+
+Ez azt jelenti, hogy ha a tulajdoni hányadok aránya **nem bizonyított**, akkor azt kell vélelmezni, hogy a tulajdonostársak **egyenlő hányadokkal** rendelkeznek. Ez a vélelem **megdönthető**: aki azt állítja, hogy a hányadok nem egyenlőek, annak kell ezt bizonyítania.
+
+**3. A tulajdoni hányad jelentősége**
+
+A tulajdoni hányad meghatározza:
+- a **hasznok szedésének arányát** (Ptk. 5:75. §);
+- a **költségviselés arányát** (Ptk. 5:75. §);
+- a **szavazati jog mértékét** (Ptk. 5:78. §);
+- a **megszüntetéskor járó érték arányát**.
+
+
+II. A Tulajdonostársak Jogai és Kötelezettségei
+
+A közös tulajdon szabályozásának lényege a **tulajdonostársak belső jogviszonyának** rendezése. E jogviszonyban a tulajdonostársak **egyidejűleg** rendelkeznek jogokkal és viselik kötelezettségeket ugyanazon dologgal kapcsolatban.
+
+**1. Birtoklás és használat**
+
+A **Ptk. 5:74. §-a** szabályozza a birtoklásra és használatra vonatkozó jogot:
+
+"A tulajdonostársak mindegyike jogosult a dolog birtoklására és használatára; e jogot azonban egyik tulajdonostárs sem gyakorolhatja a többiek jogainak és a dologhoz fűződő lényeges jogi érdekeinek sérelmére."
+
+Ez a rendelkezés két alapelvet tartalmaz:
+
+**a) Mindegyik tulajdonostárs jogosult a birtoklásra és használatra**
+
+Minden tulajdonostárs **jogosult** az egész dolog birtoklására és használatára, nem csak a tulajdoni hányadának "megfelelő" részére. Ez logikus következménye az osztatlanság elvének: mivel a dolog fizikailag osztatlan, minden tulajdonostárs az egész dolgot birtokolhatja és használhatja.
+
+**b) A jog gyakorlása korlátozott**
+
+A birtoklási és használati jogot azonban **egyik tulajdonostárs sem gyakorolhatja** a többiek jogainak és a dologhoz fűződő lényeges jogi érdekeinek sérelmére. Ez azt jelenti, hogy:
+- a tulajdonostárs nem **kizárólagosíthatja** a dolog használatát (nem mondhatja, hogy "csak én használom");
+- nem **akadályozhatja** a többi tulajdonostársat a birtoklásban és használatban;
+- nem **károsíthatja** a dolgot vagy annak értékét;
+- **tekintettel kell lennie** a többiek jogaira és érdekeire.
+
+Ha a tulajdonostársak között **vita** van a birtoklás vagy használat módjáról, a **Ptk. 5:79. § (3) bekezdése** szerint:
+
+"(3) Határozat hiányában a birtoklást, a használatot vagy a hasznosítás módját a bíróság bármelyik tulajdonostárs kérelmére a tulajdoni hányadoknak, a tulajdonostársak jogainak és a dologhoz fűződő jogi érdekeinek, valamint az okszerű gazdálkodás követelményeinek megfelelően szabályozhatja."
+
+A bíróság tehát **mérlegelési jogkörben** szabályozhatja a birtoklást és használatot, figyelembe véve a tulajdoni hányadokat, a tulajdonostársak jogait és érdekeit, valamint az okszerű gazdálkodás követelményeit.
+
+**2. Rendelkezési jog**
+
+A rendelkezési jogot meg kell különböztetni aszerint, hogy a **saját tulajdoni hányadról** vagy **az egész közös tulajdonú dologról** van szó.
+
+**a) Rendelkezés a saját tulajdoni hányaddal**
+
+A **Ptk. 5:80. §-a** szerint:
+
+"Saját tulajdoni hányadával a tulajdonostárs jogosult rendelkezni."
+
+Minden tulajdonostárs **szabadon rendelkezhet** a saját tulajdoni hányadával: **eladhatja, elzálogosíthatja, elajándékozhatja, örökül hagyhatja** stb. Ehhez **nem szükséges a többi tulajdonostárs hozzájárulása**.
+
+A tulajdoni hányad átruházásával a **jogszerző belép** a közös tulajdonba: tulajdonostárssá válik, és őt illetik meg a tulajdonostársi jogok és terhelik a kötelezettségek.
+
+**b) Rendelkezés az egész közös tulajdonú dologgal**
+
+Az egész közös tulajdonú dologgal való rendelkezéshez (pl. az egész dolog eladása, elzálogosítása) a tulajdonostársak **közös döntése** szükséges. A döntéshozatal szabályait a **Ptk. 5:78. §-a** tartalmazza:
+
+"(1) A tulajdonostársak - ha eltérően nem rendelkeznek - szótöbbséggel határoznak a közös tulajdont érintő kérdésekben. Minden tulajdonostársat tulajdoni hányada arányában illeti meg szavazati jog.
+(2) A tulajdonostársak egyhangú határozata szükséges
+a) a rendes gazdálkodás körét meghaladó kiadásokhoz;
+b) az egész dolog feletti tulajdonjog átruházásához, az egész dolog megterheléséhez vagy az egész dologra kiterjedő kötelezettségvállaláshoz."
+
+Ez a rendelkezés **kétszintű döntéshozatali rendszert** teremt:
+
+**- Szótöbbségi döntés (főszabály)**: A közös tulajdont érintő kérdésekben a tulajdonostársak **szótöbbséggel** határoznak. A szavazati jog **tulajdoni hányad arányában** illeti meg a tulajdonostársakat (aki nagyobb hányadú, annak nagyobb a szavazata).
+
+**- Egyhangú határozat (kivétel)**: Bizonyos, különösen fontos kérdésekben **minden tulajdonostárs egyetértése** szükséges:
+  - **Rendes gazdálkodás körét meghaladó kiadások** (pl. jelentős felújítás, átalakítás);
+  - **Az egész dolog feletti tulajdonjog átruházása** (az egész dolog eladása);
+  - **Az egész dolog megterhelése** (pl. jelzálogjog alapítása az egész dologra);
+  - **Az egész dologra kiterjedő kötelezettségvállalás**.
+
+Ha a tulajdonostársak **nem tudnak megegyezni**, vagy a határozat **sérti a kisebbség érdekeit**, a **Ptk. 5:79. § (1) bekezdése** lehetőséget ad a bírósági felülvizsgálatra:
+
+"(1) Ha a határozat az okszerű gazdálkodást sérti vagy a kisebbség jogi érdekeinek lényeges sérelmével jár, a kisebbség a határozatot a bíróságnál megtámadhatja."
+
+**3. Elővásárlási, előbérleti és előhaszonbérleti jog**
+
+A **Ptk. 5:81. § (1) bekezdése** szerint:
+
+"(1) A tulajdonostárs tulajdoni hányadára a többi tulajdonostársat harmadik személlyel szemben elővásárlási, előbérleti és előhaszonbérleti jog illeti meg."
+
+Ez a **törvényen alapuló** (nem szerződéses) **elővásárlási jog**: ha az egyik tulajdonostárs el akarja adni, bérbe vagy haszonbérletbe adni a tulajdoni hányadát harmadik személynek, a **többi tulajdonostársnak elsőbbségi joga van** arra, hogy ugyanolyan feltételekkel megszerezzék.
+
+Az elővásárlási jog célja:
+- **megakadályozni**, hogy nemkívánatos harmadik személy kerüljön a közös tulajdonba;
+- **lehetővé tenni** a tulajdonostársak számára, hogy növeljék tulajdoni hányadukat;
+- **előmozdítani** a közös tulajdon megszüntetését (ha az egyik tulajdonostárs megvásárolja a többiek hányadát, egyedüli tulajdonossá válik).
+
+**4. Költségek viselése és hasznok szedése**
+
+A **Ptk. 5:75. §-a** szerint:
+
+"A dolog hasznai a tulajdonostársakat tulajdoni hányaduk arányában illetik meg; ilyen arányban terhelik őket a dologgal kapcsolatos kiadások, a közös tulajdoni viszonyból eredő kötelezettségek, és ugyanilyen arányban viselik a dologban beállott kárt is."
+
+Ez a **tulajdoni hányad arányosságának elve**: minden előny és hátrány **tulajdoni hányad arányában** oszlik meg:
+
+- **Hasznok** (pl. bérleti díj, termés, egyéb hozadék): tulajdoni hányad arányában illetik meg a tulajdonostársakat;
+- **Kiadások** (pl. javítás, fenntartás, adók): tulajdoni hányad arányában terhelik a tulajdonostársakat;
+- **Kötelezettségek**: tulajdoni hányad arányában felelnek;
+- **Kár**: tulajdoni hányad arányában viselik (pl. ha a dolog értéke csökken).
+
+A **Ptk. 5:76. §-a** különös szabályt tartalmaz az **állag megóvására**:
+
+"Az állag megóvásához és fenntartásához feltétlenül szükséges munkálatokat bármelyik tulajdonostárs jogosult elvégezni; az ilyen kiadások ráeső részét mindegyik tulajdonostárs köteles viselni. Ilyen kiadások előtt a tulajdonostársakat lehetőség szerint értesíteni kell."
+
+Ez azt jelenti, hogy a **sürgős, állagmegóvó munkálatok** (pl. tető javítása, esőcső cseréje, fűtés javítása) esetén **bármelyik tulajdonostárs önállóan eljárhat**, nem kell megvárnia a többiek hozzájárulását. A költséget azonban **mind viselik** tulajdoni hányaduk arányában.
+
+
+III. A Közös Tulajdon Megszüntetése
+
+A közös tulajdon egyik **legfontosabb jellemzője**, hogy **megszüntethető**. A **Ptk. 5:83. §-a** szabályozza a megszüntetés iránti igényt:
+
+"(1) A közös tulajdon megszüntetését bármelyik tulajdonostárs követelheti; az e jogról való lemondás semmis.
+(2) A közös tulajdon megszüntetését a bíróság nem rendelheti el, ha a közös tulajdon megszüntetése alkalmatlan időre esik."
+
+**1. A megszüntetés iránti alanyi jog**
+
+A **Ptk. 5:83. § (1) bekezdésének első mondata** szerint: "A közös tulajdon megszüntetését bármelyik tulajdonostárs követelheti."
+
+Ez **alanyi jog**: bármelyik tulajdonostárs, bármikor, bármilyen indok nélkül követelheti a közös tulajdon megszüntetését. Ez alapvető garanciája annak, hogy **senki se legyen kényszerítve** egy nem kívánt tulajdonközösségben való maradásra.
+
+Az alanyi jog jellegéből következik:
+- **nem függ** a többi tulajdonostárs beleegyezésétől;
+- **nem kell indokolni** (nem kell bizonyítani, hogy miért akarja megszüntetni);
+- **nem évül el** (bármikor követelhető);
+- **nem lehet lemondani róla**: a **Ptk. 5:83. § (1) bekezdésének második mondata** szerint "az e jogról való lemondás semmis."
+
+Ez utóbbi szabály biztosítja, hogy a tulajdonostársak ne kényszeríthessék egymást a lemondásra, és ne köthessék el magukat örökre a közös tulajdonban maradásra.
+
+**2. Az alkalmatlan idő kivétele**
+
+A **Ptk. 5:83. § (2) bekezdése** szerint: "A közös tulajdon megszüntetését a bíróság nem rendelheti el, ha a közös tulajdon megszüntetése alkalmatlan időre esik."
+
+Ez **kivétel** az alanyi jog alól: ha a megszüntetés **alkalmatlan időre esik**, a bíróság **elhalaszthatja** a megszüntetést.
+
+Alkalmatlan időre esik a megszüntetés pl.:
+- ha a dolog éppen **termést** hoz (pl. szüret előtt a szőlő);
+- ha a **használat idénye** van (pl. nyaralás idején a nyaraló);
+- ha a megszüntetés **különösen hátrányos** lenne valamelyik tulajdonostársra (pl. súlyos betegség).
+
+Az elhalasztás azonban csak **átmeneti**: a bíróság később, alkalmas időben **el kell rendelje** a megszüntetést.
+
+**3. A megszüntetés módjai (Ptk. 5:84. §)**
+
+A közös tulajdon megszüntetésének **három fő módja** van, amelyeket a bíróság **meghatározott sorrendben** alkalmaz. A **Ptk. 5:84. §-a** részletesen szabályozza ezeket:
+
+**a) Természetbeni megosztás (elsődleges mód)**
+
+A **Ptk. 5:84. § (1) bekezdésének első mondata** szerint:
+
+"(1) A közös tulajdon tárgyait elsősorban természetben kell megosztani."
+
+A **természetbeni megosztás** a **elsődleges, preferált megszüntetési mód**. Ez azt jelenti, hogy a dolgot **fizikailag felosztják**, és minden tulajdonostárs megkapja a tulajdoni hányadának megfelelő részt **kizárólagos tulajdonba**.
+
+Példák:
+- egy **földterület** felosztása parcelláka (minden tulajdonostárs külön parcellát kap);
+- egy **épület** szintenkénti vagy lakásonkénti felosztása;
+- **több dolog** (pl. bútorok, műtárgyak) szétosztása.
+
+A természetbeni megosztás feltételei:
+- a dolog **fizikailag osztható** (pl. földterület, értékpapírcsomag igen; gépkocsi, műtárgy nem);
+- a dolog **jogilag osztható** (pl. műemléképület nem osztható, mert az épület egysége védett);
+- a megosztás **nem jár jelentős értékcsökkenéssel**;
+- a megosztás **nem gátolja a rendeltetésszerű használatot**.
+
+Ha ezek a feltételek teljesülnek, a bíróság **természetben osztja meg** a dolgot. A megosztásnál figyelembe veszi:
+- a tulajdoni hányadokat;
+- a tulajdonostársak igényeit;
+- az egyenlő értékű részek kialakításának lehetőségét;
+- az okszerű gazdálkodás követelményeit.
+
+**b) Megváltás (másodlagos mód)**
+
+A **Ptk. 5:84. § (1) bekezdésének második-harmadik mondata** szerint:
+
+"A közös tulajdon tárgyait vagy azok egy részét - ha ez a tulajdonostársak körülményeire tekintettel indokolt - megfelelő ellenérték fejében a bíróság egy vagy több tulajdonostárs tulajdonába adhatja. Ehhez a tulajdonjogot megszerző tulajdonostárs beleegyezése szükséges, kivéve, ha a bíróság a közös tulajdonban álló ingatlanrészt az abban lakó tulajdonostárs tulajdonába adja, és ez nem sérti a benne lakó méltányos érdekeit."
+
+A **megváltás** azt jelenti, hogy a dolgot **egy vagy több tulajdonostárs kizárólagos tulajdonába adják**, és ő/ők **megfelelő ellenértéket** fizetnek a többi tulajdonostársnak.
+
+A megváltás feltételei:
+- a természetbeni megosztás **nem lehetséges** (a dolog nem osztható);
+- vagy a természetbeni megosztás **jelentős értékcsökkenéssel járna**;
+- vagy a természetbeni megosztás **gátolná a rendeltetésszerű használatot**;
+- és a megváltás a tulajdonostársak **körülményeire tekintettel indokolt**.
+
+A megváltáshoz főszabály szerint **a tulajdonjogot megszerző tulajdonostárs beleegyezése** szükséges – senkit nem lehet arra kényszeríteni, hogy magához váltsa a dolgot. 
+
+Kivétel: ha a bíróság a közös tulajdonban álló **ingatlanrészt az abban lakó tulajdonostárs** tulajdonába adja, és ez nem sérti a benne lakó méltányos érdekeit, akkor **beleegyezés nélkül** is elrendelhető a megváltás. Ez védi a **lakáshoz való jogot**.
+
+A megfelelő ellenértéket a **Ptk. 5:84. § (3) bekezdése** szerint a bíróságnak ítéletében kell megállapítania.
+
+**c) Árverési értékesítés (végső megoldás)**
+
+A **Ptk. 5:84. § (2) bekezdése** szerint:
+
+"(2) Ha a közös tulajdon más módon nem szüntethető meg, vagy a természetbeni megosztás jelentős értékcsökkenéssel járna vagy gátolná a rendeltetésszerű használatot, a közös tulajdon tárgyait értékesíteni kell, és a vételárat kell a tulajdonostársak között megfelelően felosztani. A tulajdonostársakat az elővásárlási jog harmadik személlyel szemben az értékesítés során is megilleti."
+
+Az **árverési értékesítés** (más terminológiával **bírósági árverés**) a **végső, szubszidiárius megszüntetési mód**, amely akkor alkalmazandó, ha:
+- sem a természetbeni megosztás, sem a megváltás **nem lehetséges**;
+- vagy a természetbeni megosztás **jelentős értékcsökkenéssel járna vagy gátolná a rendeltetésszerű használatot**.
+
+Az árverési értékesítés során:
+- a dolgot **nyilvános árverésen értékesítik**;
+- a **vételárat** a tulajdonostársak között **tulajdoni hányadaik arányában osztják fel**;
+- a tulajdonostársakat **elővásárlási jog** illeti meg az árverésen is (maguk is licitálhatnak).
+
+A **Ptk. 5:84. § (3) bekezdése** szerint:
+
+"(3) A közös tulajdon tárgyának a tulajdonostárs tulajdonába adása esetén a megfelelő ellenértéket, az árverés útján való értékesítésnél a legkisebb vételárat a bíróságnak ítéletében kell megállapítania. Az ítéletben megállapított legkisebb vételárat a végrehajtás során sem a végrehajtó, sem a bíróság nem változtathatja meg."
+
+Ez biztosítja, hogy a tulajdonostársak ne szenvedjenek vagyoni hátrányt: a megfelelő ellenérték vagy legkisebb vételár **piaci értéken** alapul.
+
+**4. Különös szabály: benne lakó tulajdonostárs védelme**
+
+A **Ptk. 5:84. § (4) bekezdése** különös védelmet biztosít a közös tulajdonú ingatlanban lakó tulajdonostársnak:
+
+"(4) Ha olyan ingatlan közös tulajdonát kell megszüntetni, amelyben az egyik tulajdonostárs benne lakik, a bíróság őt az ingatlan elhagyására kötelezi, vagy - ha az ingatlan elhagyására kötelezés a benne lakó tulajdonostárs méltányos érdekét sérti - részére a tulajdoni hányadával arányos használati jogot alapít."
+
+Ez azt jelenti, hogy ha az egyik tulajdonostárs **az ingatlanban lakik**, a bíróság **mérlegeli** a lakáshoz való jogot:
+- ha a tulajdonostárs máshol is lakhat, **kötelezheti az ingatlan elhagyására**;
+- ha az elhagyás **méltányos érdekét sérti** (pl. nincs más lakása, idős, beteg), **használati jogot alapít** részére a tulajdoni hányadával arányos mértékben.
+
+A használati jog értékcsökkentő hatását **az ingatlanban maradó tulajdonostársnak kell viselnie** (csökkentik az ellenértéket vagy a vételár felosztási arányát).
+
+**5. Társasházzá alakítás (speciális mód)**
+
+A **Ptk. 5:84. § (5) bekezdése** szerint:
+
+"(5) Az ingatlanon fennálló közös tulajdon - ha a társasház létesítésének feltételei egyébként fennállnak - az ingatlan társasházzá alakításával is megszüntethető. Ha a közös tulajdont társasházzá alakítással a bíróság szünteti meg, a társasház alapító okiratát a bíróság ítélete pótolja."
+
+Ez különösen **lakóépületek** esetén alkalmazható: a közös tulajdonú épületet **társasházzá alakítják**, amelyben a lakások külön tulajdonba, a közös részek (lépcsőház, tető stb.) közös tulajdonba kerülnek.
+
+**6. A bíróság mérlegelési jogköre**
+
+A **Ptk. 5:84. § (6) bekezdése** korlátozza a bíróság mérlegelési jogkörét:
+
+"(6) A bíróság nem alkalmazhatja a közös tulajdon megszüntetésének olyan módját, amely ellen valamennyi tulajdonostárs tiltakozik."
+
+Ez azt jelenti, hogy ha **valamennyi tulajdonostárs** egyetért abban, hogy egy adott módot **nem kívánnak**, a bíróság **nem alkalmazhatja** azt a módot. Ez a tulajdonostársak **autonómiájának** tiszteletben tartását szolgálja.
+
+
+IV. A Társasház mint Speciális Eset
+
+A **társasház** a közös tulajdon **speciális formája**, amelyet a **Ptk. 5:85. §-a** szabályoz:
+
+"(1) Társasház jön létre, ha az ingatlanon az alapító okiratban meghatározott, műszakilag megosztott, legalább két önálló lakás vagy nem lakás céljára szolgáló helyiség, vagy legalább egy önálló lakás és egy nem lakás céljára szolgáló helyiség a tulajdonostársak külön tulajdonába, a külön tulajdonként meg nem határozott épületrész, épületberendezés, helyiség, illetve lakás viszont a tulajdonostársak közös tulajdonába kerül."
+
+A társasház lényege a **kettős tulajdoni viszony**:
+
+**- Külön tulajdon**: Az egyes lakások és nem lakás céljára szolgáló helyiségek (pl. üzletek, irodák) **külön tulajdonba** kerülnek. Mindegyik tulajdonos egyedül, kizárólagosan tulajdonosa a saját lakásának/helyiségének.
+
+**- Közös tulajdon**: A közös épületrészek (pl. lépcsőház, folyosó, tető, pince, alapok, falak, fűtőrendszer) **közös tulajdonban** maradnak. Ezeket a tulajdonostársak együttesen birtokolják és használják.
+
+A **Ptk. 5:85. § (3) bekezdése** szerint:
+
+"(3) A közös tulajdon tárgyát képező ingatlanrész tulajdoni hányada a külön tulajdonba tartozó lakással és nem lakás céljára szolgáló helyiséggel együtt önálló ingatlan."
+
+Ez azt jelenti, hogy a lakás és a közös tulajdoni hányad **együtt**, **egységesen** képez önálló ingatlant – nem lehet külön-külön átruházni vagy megterhelni őket (Ptk. 5:85. § (4) bekezdés).
+
+A **Ptk. 5:85. § (5) bekezdése** szerint:
+
+"(5) A társasháztulajdonra a közös tulajdon szabályait kell megfelelően alkalmazni."
+
+Ez azt jelenti, hogy a társasház közös tulajdonú részeire (lépcsőház, tető stb.) a közös tulajdonra vonatkozó általános szabályok (birtoklás, használat, költségviselés, határozathozatal stb.) alkalmazandók.
+
+
+V. Összegzés
+
+A **közös tulajdon** szabályozása **kiegyensúlyozott rendszert** alkot, amely **egyensúlyt teremt** a tulajdonostársak **egyéni** (individuális) és **közösségi** (kollektív) érdekei között.
+
+**Egyéni érdekek védelme:**
+
+**1. Saját hányadhányadal való szabad rendelkezés** (Ptk. 5:80. §): Minden tulajdonostárs szabadon rendelkezhet saját tulajdoni hányadával, nem függ a többiek hozzájárulásától.
+
+**2. Megszüntetés iránti alanyi jog** (Ptk. 5:83. §): Bármelyik tulajdonostárs követelheti a közös tulajdon megszüntetését, és e jogról lemondani nem lehet. Ez biztosítja, hogy senki se legyen kényszerítve nem kívánt tulajdonközösségben maradni.
+
+**3. Elővásárlási jog** (Ptk. 5:81. §): A tulajdonostársakat elővásárlási jog illeti meg a többi tulajdonostárs hányadára, amely lehetővé teszi tulajdoni hányaduk növelését.
+
+**Közösségi érdekek védelme:**
+
+**1. Az egész dologgal kapcsolatos döntések közössége** (Ptk. 5:78. §): Az egész dolgot érintő rendelkezéshez (eladás, megterhelés) egyhangú határozat, más kérdésekben szótöbbségi határozat szükséges.
+
+**2. Költségviselés és hasznok szedése arányosan** (Ptk. 5:75. §): A hasznok és költségek tulajdoni hányad arányában oszlanak meg, biztosítva az arányosságot és igazságosságot.
+
+**3. Állag megóvása** (Ptk. 5:76. §): Bármelyik tulajdonostárs jogosult az állag megóvására, biztosítva a dolog értékének megőrzését.
+
+**A megszüntetés módjai hierarchikus sorrendben** (Ptk. 5:84. §):
+
+**1. Természetbeni megosztás (elsődleges)**: A dolgot fizikailag felosztják, minden tulajdonostárs kizárólagos tulajdonossá válik egy részben.
+
+**2. Megváltás (másodlagos)**: Egy vagy több tulajdonostárs tulajdonába adják a dolgot megfelelő ellenérték fejében. Ehhez főszabály szerint a megváltó beleegyezése szükséges.
+
+**3. Árverési értékesítés (végső megoldás)**: A dolgot nyilvános árverésen értékesítik, és a vételárat a tulajdonostársak között tulajdoni hányaduk arányában felosztják.
+
+**Különös szabályok:**
+
+- **Benne lakó tulajdonostárs védelme** (Ptk. 5:84. § (4) bekezdés): Az ingatlanban lakó tulajdonostársat védi a bíróság (használati jog vagy elhagyásra kötelezés mérlegelésével).
+- **Társasházzá alakítás** (Ptk. 5:84. § (5) bekezdés): Ingatlanok esetén a közös tulajdon társasházzá alakítással is megszüntethető.
+- **A felek tiltakozásának tiszteletben tartása** (Ptk. 5:84. § (6) bekezdés): A bíróság nem alkalmazhatja azt a módot, amely ellen valamennyi tulajdonostárs tiltakozik.
+
+A közös tulajdon szabályozása így **modern, rugalmas és a különböző érdekeket kiegyensúlyozó** normarendszert alkot, amely egyszerre biztosítja a **tulajdonostársak egyéni szabadságát** (saját hányadhányadal való rendelkezés, megszüntetés követelése), a **közösségi érdekek védelmét** (közös döntéshozatal, költségviselés), és a **méltányosság érvényesülését** (lakáshoz való jog, elővásárlási jog, bírósági mérlegelés). Ez a szabályozás teszi lehetővé, hogy a közös tulajdon – amely gyakran nem a tulajdonostársak szabad akaratából, hanem öröklés, házastársi vagyonközösség megszűnése vagy más ok miatt jön létre – hatékonyan és igazságosan működjön vagy megszüntethető legyen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

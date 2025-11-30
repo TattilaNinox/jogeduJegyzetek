@@ -1,0 +1,181 @@
+Szia! Most akkor vegyük sorra a házassági vagyonjogot és a lakáshasználatot! Ez egy fontos gyakorlati téma. Kezdjük az alapokkal! Mi a különbség a törvényes vagyonjogi rendszer és a szerződéses vagyonjogi rendszer között abban, hogy miként keletkeznek és milyen alapelveken nyugszanak?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a Polgári Törvénykönyv negyedik könyvének harmincnegyedik paragrafusának második bekezdése szerint a házastársi vagyonközösség a törvényes vagyonjogi rendszer?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a házasságkötés időpontja és az életközösség kezdete között a vagyonközösség időbeli hatálya szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a Polgári Törvénykönyv negyedik könyvének harmincötödik paragrafusának első bekezdése szerint a házasság megkötésével az életközösség létrejöttét vélelmezni kell?
+
+<break time="5s"/>
+
+Világos! És mi a különbség az életközösség átmeneti megszakadása és a vagyonközösség megszűnése között a Polgári Törvénykönyv negyedik könyvének harmincötödik paragrafusának második bekezdése alapján?
+
+<break time="5s"/>
+
+Értem! Most térjünk a közös vagyon alapelvére! Milyen jogi alapja van a közös vagyon alapelvének, és hogyan kapcsolódik ez a Polgári Törvénykönyv negyedik könyvének harminchetedik paragrafusának első bekezdéséhez?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a házastársak által együtt szerzett és külön szerzett vagyontárgyak között a közös vagyonhoz tartozás szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a közös vagyonba tartoznak az aktívák és a passzívák is?
+
+<break time="5s"/>
+
+Világos! És mi a különbség az egyenlő arány elve és az arányos megosztás között a házastársi közös vagyon tekintetében?
+
+<break time="5s"/>
+
+Értem! És milyen jogi alapja van annak, hogy a Polgári Törvénykönyv negyedik könyvének harminchetedik paragrafusának harmadik bekezdése szerint a közös vagyon a házastársakat osztatlanul, egyenlő arányban illeti meg?
+
+<break time="5s"/>
+
+Szuper! Most térjünk a különvagyonra! Mi a különbség a közös vagyonhoz tartozás és a különvagyonhoz tartozás között a vagyontárgyak jogi státusza szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen hat különvagyoni elemet tartalmaz a Polgári Törvénykönyv negyedik könyvének harmincnyolcadik paragrafusának első bekezdése, és mi a logikai alapjuk?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a vagyonközösség létrejöttekor meglévő vagyontárgy és a vagyonközösség fennállása alatt örökölt vagyontárgy között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a szellemi tulajdonhoz fűződő vagyoni jogok különvagyont képeznek, de a díjak közös vagyonhoz tartoznak?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a személyiségi jogi sérelem miatti kártérítés és a vagyoni kár miatti kártérítés között a vagyonjogi hovatartozás szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen jogi alapja van a szurrogációs elvnek a Polgári Törvénykönyv negyedik könyvének harmincnyolcadik paragrafusának első bekezdésének f pontjában?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a különvagyon haszna és a különvagyon értéke között a Polgári Törvénykönyv negyedik könyvének harmincnyolcadik paragrafusának második bekezdése alapján?
+
+<break time="5s"/>
+
+Szuper! És milyen jogi következménye van annak, hogy a háztartási felszerelés ötévi házassági életközösség után közös vagyonná válik?
+
+<break time="5s"/>
+
+Értem! És mi a különbség a házassági életközösség megkezdése előtt keletkezett tartozás és az életközösség fennállása alatt keletkezett tartozás között?
+
+<break time="5s"/>
+
+Világos! És milyen jogi következménye van a Polgári Törvénykönyv negyedik könyvének negyvenedik paragrafusának első bekezdése szerint megállapított közös vagyonhoz tartozás vélelmének?
+
+<break time="5s"/>
+
+Értem! És mi a különbség a közös vagyonhoz tartozás vélelme és a teljesítésre vonatkozó vélelem között a Polgári Törvénykönyv negyedik könyvének negyvenedik paragrafusa alapján?
+
+<break time="5s"/>
+
+Világos! És milyen bizonyítási terhe van annak, aki azt állítja, hogy egy vagyontárgy különvagyon?
+
+<break time="5s"/>
+
+Értem! Most térjünk a rendelkezésre! Mi a különbség a közös vagyonnal való rendelkezés főszabálya és a hozzájárulási vélelem között?
+
+<break time="5s"/>
+
+Világos! És milyen jogi védelmet biztosít a Polgári Törvénykönyv negyedik könyvének negyvenhatos paragrafusának első bekezdése szerinti hozzájárulási vélelem a jóhiszemű harmadik személyek számára?
+
+<break time="5s"/>
+
+Szuper! És mi a különbség a mindennapi élet szokásos szükségleteinek fedezése körében kötött szerződés és más szerződés között a hozzájárulási vélelem szempontjából?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a Polgári Törvénykönyv negyedik könyvének negyvennyolcadik paragrafusa szerint a közös lakásra és a társasági vagyoni hozzájárulásra a hozzájárulást nem lehet vélelmezni?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a vagyonközösség fennállása alatt való rendelkezés és a vagyonközösség megszűnése és megosztása közötti időben való rendelkezés között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha a harmadik személy tudott vagy tudnia kellett a hozzájárulás hiányáról?
+
+<break time="5s"/>
+
+Világos! Most térjünk a vagyonközösség megszűnésére! Mi a különbség a vagyonközösség megszűnésének három esete között a Polgári Törvénykönyv negyedik könyvének ötvenhárom paragrafusa alapján?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy a vagyonközösség megszűnése után bármelyik házastárs igényelheti a közös vagyon megosztását?
+
+<break time="5s"/>
+
+Világos! És mi a különbség az egyenlő megosztás elve és a méltányossági megosztás között a közös vagyon megosztása tekintetében?
+
+<break time="5s"/>
+
+Értem! Most térjünk a házassági vagyonjogi szerződésre! Milyen jogi alapja van a házassági vagyonjogi szerződés szabadságának a Polgári Törvénykönyv negyedik könyvének hatvanhárom paragrafusa szerint?
+
+<break time="5s"/>
+
+Világos! Most térjünk a lakáshasználatra! Mi a különbség az előzetes szerződéses rendezés és az utólagos megállapodás között a lakáshasználat tekintetében?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, hogy az előzetes szerződés szigorú alakhoz kötött, míg az utólagos megállapodás alakszerűség nélkül is érvényes?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a felek megállapodása és a bírósági döntés között a lakáshasználat rendezésében?
+
+<break time="5s"/>
+
+Értem! És milyen szempontokat mérlegel a bíróság a lakáshasználat rendezése során?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a lakás használatának megosztása és az egyik házastárs kizárólagos használatra való feljogosítása között?
+
+<break time="5s"/>
+
+Értem! És milyen jogi következménye van annak, ha a lakás adottságai alapján a megosztás nem lehetséges?
+
+<break time="5s"/>
+
+Világos! És mi a különbség a közös jogcímen lakott lakás és a kizárólagos jogcímen lakott lakás között a bírósági döntés szempontjából?
+
+<break time="5s"/>
+
+Szuper! És milyen jogi védelmet biztosít a Polgári Törvénykönyv negyedik könyvének nyolcvanhárom paragrafusának harmadik bekezdése a kiskorú gyermek lakhatásának szempontjából?
+
+<break time="5s"/>
+
+Értem! És mi a különbség a lakáshasználati jog ellenértékének megtérítése és a vagyonmegosztás között?
+
+<break time="5s"/>
+
+Világos! És milyen jogi következménye van annak, ha a gyermek érdeke felülírhatja a felek megállapodását is a lakáshasználat rendezésében?
+
+<break time="5s"/>
+
+Értem! És mi a különbség az egyenlő megosztás elvének alkalmazása a vagyonközösségben és a lakáshasználat rendezésében?
+
+<break time="5s"/>
+
+És végül, hogyan szolgálják a házassági vagyonjog szabályai és a lakáshasználat rendezése a házasság vagyoni terheinek méltányos elosztását és a felek, különösen a gyermekek lakhatási biztonságának megteremtését?
+
+<break time="5s"/>
+
+Remek! Akkor most már átlátjuk a házassági vagyonjog és a lakáshasználat összetett rendszerét! Köszönöm szépen ezt a részletes áttekintést!
+
+<break time="5s"/>
+
+

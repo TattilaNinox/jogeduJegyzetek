@@ -1,0 +1,52 @@
+================================================================================
+⚠️ KRITIKUS SZABÁLYOK - MINDEN GENERÁLÁS ELŐTT EZT OLVASD EL! ⚠️
+================================================================================
+
+1. LOGIKUS CSELEKMÉNYEK:
+   ✅ JÓ: "lámpa kigyullad", "golyó gurul", "fénysugár lövell lámpából"
+   ❌ ROSSZ: "deszka pulzál", "fémlemezből golyó gurul", "pecsét pulzál"
+   → Kérdezd meg: "Ez logikus? Lehetséges a valóságban?"
+
+2. VALÓS TÁRGYAK:
+   ✅ JÓ: "fogaskerék", "mérleg", "lámpa", "deszka", "kocka", "golyó"
+   ❌ ROSSZ: "tükör", "kristály", "üveg", "gömb", "mechanizmus", "szerkezet"
+   → Kérdezd meg: "Ez valós tárgy? Konkrét? Nem absztrakt?"
+
+3. TÖMÖR LEÍRÁS:
+   ✅ JÓ: "tolmácsgép", "mérleg", "lámpa" (max 2-3 szó)
+   ❌ ROSSZ: "fekete fémből készült, precíziós tolmácsgép"
+   → Kérdezd meg: "Maximum 2-3 szó? Nincs túlmagyarázás?"
+
+4. TULAJDONSÁGOK SZABÁLYA:
+   ✅ JÓ: "két szintből álló piramis" (ha a tananyagban van "két szint")
+   ❌ ROSSZ: "fekete tolmácsgép" (ha nincs "fekete" a tananyagban)
+   → Kérdezd meg: "Ez a tulajdonság kapcsolódik a tananyaghoz?"
+
+5. FOLYAMATOS OK-OKOZATI LÁNC:
+   ✅ JÓ: "golyó eléri a kockát, és amikor eléri, a rugó összenyomódik"
+   ❌ ROSSZ: "golyó eléri a kockát." [új bekezdés] "Ez a korrekciós funkció?"
+   → Kérdezd meg: "Az esemény folytatódik? Nem szakad meg?"
+
+================================================================================
+6. TTS OPTIMALIZÁLÁS (HALÁLOS BŰN!):
+   ✅ JÓ: "Polgári Törvénykönyv", "például", "és a többi", "bekezdés"
+   ❌ ROSSZ: "Ptk.", "pl.", "stb.", "bek."
+   → Kérdezd meg: "Van benne rövidítés? Kiírtam mindent teljesen?"
+
+================================================================================
+MINDEN MONDATNÁL KÉRDEZD MEG:
+================================================================================
+
+1. "Ez logikus? Lehetséges a valóságban?"
+2. "Ez a tárgy valós? Konkrét? Nem absztrakt?"
+3. "Ez a cselekmény lehetséges? Ez a tárgy ezt tudja csinálni?"
+4. "Van benne tilos tárgy (tükör, kristály, üveg, gömb)?"
+5. "A tárgy tulajdonságai kapcsolódnak a tananyaghoz?"
+6. "A leírás tömör? Maximum 2-3 szó?"
+7. "Az ok-okozati lánc folyamatos? Nem szakad meg?"
+8. "Van benne rövidítés (Ptk, stb)? Vannak számjegyek?"
+
+HA BÁRMELYIK KÉRDÉSRE "NEM" (vagy rövidítésnél IGEN) → JAVÍTSD KI AZONNAL!
+
+================================================================================
+

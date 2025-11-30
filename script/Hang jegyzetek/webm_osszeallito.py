@@ -12,6 +12,8 @@ import subprocess
 import sys
 import glob
 import re
+import time
+import threading
 from pathlib import Path
 
 # Maximum fájlméret: 7 MB
@@ -242,15 +244,32 @@ def detect_silence(input_file):
         # Ha van kezdeti szünet és az hosszabb mint a küszöbérték
         if silence_starts:
             first_silence_start = float(silence_starts[0])
-            # Ha a szünet a fájl elején van (0-hoz közel)
-            if first_silence_start < SILENCE_THRESHOLD + 1:
+            # Ha a szünet a fájl elején van (0-hoz közel, legfeljebb 5 másodperc)
+            # Fontos: még akkor is kezeljük, ha pontosan 0-tól kezdődik
+            if first_silence_start <= SILENCE_THRESHOLD + 1:
                 # Keressük meg a hozzá tartozó silence_end-et
                 for silence_end in silence_ends:
-                    if float(silence_end) > first_silence_start:
-                        end_of_first_silence = float(silence_end)
-                        if end_of_first_silence - first_silence_start >= SILENCE_THRESHOLD:
+                    end_val = float(silence_end)
+                    if end_val > first_silence_start:
+                        end_of_first_silence = end_val
+                        silence_duration = end_of_first_silence - first_silence_start
+                        # Ha a szünet hosszabb mint a küszöbérték, távolítsuk el
+                        if silence_duration >= SILENCE_THRESHOLD:
                             start_time = end_of_first_silence
+                            print(f"  Eleji szunet detektalva: {first_silence_start:.2f}s - {end_of_first_silence:.2f}s ({silence_duration:.2f}s)")
+                            sys.stdout.flush()
                         break
+                # Ha nem találtunk megfelelő silence_end-et, de a szünet a fájl elején van,
+                # akkor is próbáljuk meg eltávolítani, ha a szünet hosszabb mint a küszöbérték
+                if start_time == 0.0 and first_silence_start <= 0.5:
+                    # Ha a szünet pontosan a fájl elején van, és nincs silence_end,
+                    # akkor próbáljuk meg a következő silence_start-et használni
+                    if len(silence_starts) > 1:
+                        next_silence_start = float(silence_starts[1])
+                        if next_silence_start - first_silence_start >= SILENCE_THRESHOLD:
+                            start_time = next_silence_start
+                            print(f"  Eleji szunet detektalva (alternativ modszer): {first_silence_start:.2f}s - {next_silence_start:.2f}s")
+                            sys.stdout.flush()
         
         # Ha van végső szünet
         if silence_ends:
@@ -276,6 +295,87 @@ def detect_silence(input_file):
         print(f"  Figyelmeztetes: Nem sikerult detektalni a szuneteket: {str(e)[:100]}")
         sys.stdout.flush()
         return (None, None)
+
+def remove_silence_with_filter(input_file, output_file, timeout_seconds):
+    """
+    Eltávolítja az eleji és végső szüneteket silenceremove filterrel
+    (gyorsabb mint teljes újraencodeolás)
+    """
+    temp_reversed = output_file.parent / f"temp_reversed_{output_file.name}"
+    try:
+        # Silenceremove filter: először az eleji szüneteket távolítjuk el,
+        # aztán megfordítjuk, eltávolítjuk a végső szüneteket, majd visszafordítjuk
+        
+        # Először az eleji szüneteket távolítjuk el
+        print("  Eleji szunetek eltavolitasa...")
+        sys.stdout.flush()
+        cmd1 = [
+            'ffmpeg',
+            '-i', str(input_file),
+            '-af', f'silenceremove=start_periods=1:start_duration={SILENCE_THRESHOLD}:start_threshold=-50dB:detection=peak',
+            '-c:a', 'copy',  # Copy codec ha lehet (gyorsabb)
+            '-y',
+            str(temp_reversed)
+        ]
+        
+        try:
+            result1 = subprocess.run(cmd1,
+                                  capture_output=True,
+                                  check=True,
+                                  encoding='utf-8',
+                                  errors='ignore',
+                                  timeout=timeout_seconds)
+        except:
+            # Ha copy codec nem működik, újraencodeoljuk
+            cmd1 = [
+                'ffmpeg',
+                '-i', str(input_file),
+                '-af', f'silenceremove=start_periods=1:start_duration={SILENCE_THRESHOLD}:start_threshold=-50dB:detection=peak',
+                '-c:a', 'libopus',
+                '-b:a', '128k',
+                '-y',
+                str(temp_reversed)
+            ]
+            result1 = subprocess.run(cmd1,
+                                  capture_output=True,
+                                  check=True,
+                                  encoding='utf-8',
+                                  errors='ignore',
+                                  timeout=timeout_seconds)
+        
+        # Most megfordítjuk, eltávolítjuk a végső szüneteket (amik most az elején vannak), majd visszafordítjuk
+        print("  Vegso szunetek eltavolitasa...")
+        sys.stdout.flush()
+        cmd2 = [
+            'ffmpeg',
+            '-i', str(temp_reversed),
+            '-af', f'areverse,silenceremove=start_periods=1:start_duration={SILENCE_THRESHOLD}:start_threshold=-50dB:detection=peak,areverse',
+            '-c:a', 'libopus',
+            '-b:a', '128k',
+            '-y',
+            str(output_file)
+        ]
+        
+        result2 = subprocess.run(cmd2,
+                               capture_output=True,
+                               check=True,
+                               encoding='utf-8',
+                               errors='ignore',
+                               timeout=timeout_seconds)
+        
+        # Töröljük az ideiglenes fájlt
+        if temp_reversed.exists():
+            temp_reversed.unlink()
+        
+        print("  Szunetek eltavolitva (silenceremove filterrel)!")
+        sys.stdout.flush()
+        return True
+    except Exception as e:
+        if temp_reversed.exists():
+            temp_reversed.unlink()
+        print(f"  Hiba a silenceremove filterrel: {str(e)[:100]}")
+        sys.stdout.flush()
+        return False
 
 def remove_silence_from_file(input_file, output_file):
     """
@@ -317,581 +417,12 @@ def remove_silence_from_file(input_file, output_file):
     
     timeout_seconds = max(300, int(file_duration * 2))
     
-    # Detektáljuk az összes szünetet és vágjuk ki őket
-    print("  Osszes szunet detektalasa (4 mp-nel hosszabb)...")
+    # Mivel szünet mindig van, közvetlenül a silenceremove filtert használjuk
+    # (gyorsabb mint a detektálás + vágás kombinációja)
+    print("  Eleji es vegso szunetek eltavolitasa silenceremove filterrel...")
     sys.stdout.flush()
     
-    # Detektáljuk az összes szünetet
-    all_silences = detect_all_silences(input_file)
-    
-    if all_silences and len(all_silences) > 0:
-        print(f"  {len(all_silences)} szunet talalva")
-        sys.stdout.flush()
-        
-        # Számoljuk ki a fájl hosszát
-        cmd_duration = [
-            'ffprobe',
-            '-v', 'error',
-            '-show_entries', 'format=duration',
-            '-of', 'default=noprint_wrappers=1:nokey=1',
-            str(input_file)
-        ]
-        result_dur = subprocess.run(cmd_duration, 
-                                  capture_output=True, 
-                                  check=True,
-                                  text=True,
-                                  encoding='utf-8',
-                                  errors='ignore',
-                                  timeout=30)
-        total_duration = float(result_dur.stdout.strip())
-        
-        # Számoljuk ki a szegmenseket (a szünetek között)
-        segments = []
-        current_start = 0.0
-        MIN_SEGMENT_DURATION = 0.5  # Minimum 0.5 másodperc szegmens hosszúság
-        
-        for silence_start, silence_end in sorted(all_silences):
-            # Ha van hanganyag a jelenlegi pozíció és a szünet között
-            if current_start < silence_start:
-                seg_duration = silence_start - current_start
-                # Csak akkor adjuk hozzá, ha elég hosszú (nem csak zaj)
-                if seg_duration >= MIN_SEGMENT_DURATION:
-                    segments.append((current_start, silence_start))
-                else:
-                    print(f"  Figyelmeztetes: Tul rovid szegmens kihagyva: {current_start:.2f}s - {silence_start:.2f}s ({seg_duration:.2f}s)")
-                    sys.stdout.flush()
-            current_start = silence_end
-        
-        # Utolsó szegmens (az utolsó szünet után)
-        if current_start < total_duration:
-            seg_duration = total_duration - current_start
-            # Csak akkor adjuk hozzá, ha elég hosszú
-            if seg_duration >= MIN_SEGMENT_DURATION:
-                segments.append((current_start, total_duration))
-            else:
-                print(f"  Figyelmeztetes: Tul rovid vegso szegmens kihagyva: {current_start:.2f}s - {total_duration:.2f}s ({seg_duration:.2f}s)")
-                sys.stdout.flush()
-        
-        if len(segments) == 0:
-            print("  Figyelmeztetes: Nincs eleg hosszu hanganyag szegmens a szunetek utan")
-            sys.stdout.flush()
-            return False
-        
-        print(f"  {len(segments)} szegmens lesz osszefuzve")
-        sys.stdout.flush()
-        
-        # Vágjuk ki a szegmenseket és fűzzük össze
-        temp_dir = output_file.parent / 'temp_segments'
-        temp_dir.mkdir(exist_ok=True)
-        
-        segment_files = []
-        for i, (seg_start, seg_end) in enumerate(segments):
-            seg_duration = seg_end - seg_start
-            if seg_duration <= 0:
-                continue
-                
-            seg_file = temp_dir / f"segment_{i:03d}.webm"
-            print(f"  Szegmens {i+1}/{len(segments)}: {seg_start:.2f}s - {seg_end:.2f}s ({seg_duration:.2f}s)")
-            sys.stdout.flush()
-            
-            # Vágjuk ki a szegmenst
-            print(f"    Vagas folyamatban...")
-            sys.stdout.flush()
-            
-            # Próbáljuk meg copy codec-cel, de csak audio stream-et másolunk
-            cmd = [
-                'ffmpeg',
-                '-ss', str(seg_start),
-                '-i', str(input_file),
-                '-t', str(seg_duration),
-                '-map', '0:a',  # Csak audio stream
-                '-c:a', 'copy',  # Copy audio codec
-                '-vn',  # Nincs video
-                '-y',
-                str(seg_file)
-            ]
-            
-            try:
-                result = subprocess.run(cmd,
-                                     capture_output=True,
-                                     check=True,
-                                     encoding='utf-8',
-                                     errors='ignore',
-                                     timeout=30)
-                print(f"    Szegmens {i+1} kesz (copy codec)")
-                sys.stdout.flush()
-                segment_files.append(seg_file)
-                continue  # Sikeres, folytassuk a következővel
-            except Exception as e:
-                # Ha copy codec nem működik, próbáljuk meg MKV formátumban
-                temp_mkv = seg_file.with_suffix('.mkv')
-                try:
-                    cmd_mkv = [
-                        'ffmpeg',
-                        '-ss', str(seg_start),
-                        '-i', str(input_file),
-                        '-t', str(seg_duration),
-                        '-c', 'copy',
-                        '-y',
-                        str(temp_mkv)
-                    ]
-                    subprocess.run(cmd_mkv,
-                                 capture_output=True,
-                                 check=True,
-                                 encoding='utf-8',
-                                 errors='ignore',
-                                 timeout=30)
-                    # Ha MKV-ben sikerült, konvertáljuk WebM-re
-                    if temp_mkv.exists():
-                        cmd_convert = [
-                            'ffmpeg',
-                            '-i', str(temp_mkv),
-                            '-c', 'copy',
-                            '-y',
-                            str(seg_file)
-                        ]
-                        subprocess.run(cmd_convert,
-                                     capture_output=True,
-                                     check=True,
-                                     encoding='utf-8',
-                                     errors='ignore',
-                                     timeout=30)
-                        temp_mkv.unlink()
-                        print(f"    Szegmens {i+1} kesz (MKV copy)")
-                        sys.stdout.flush()
-                        segment_files.append(seg_file)
-                        continue  # Sikeres, folytassuk
-                except:
-                    if temp_mkv.exists():
-                        temp_mkv.unlink()
-                    pass  # Folytassuk az újraencodeolással
-                # Ha copy codec nem működik, újraencodeoljuk
-                print(f"    Copy codec nem mukodott, ujraencodeolas...")
-                sys.stdout.flush()
-                
-                import threading
-                import time
-                
-                cmd = [
-                    'ffmpeg',
-                    '-ss', str(seg_start),
-                    '-i', str(input_file),
-                    '-t', str(seg_duration),
-                    '-c:a', 'libopus',
-                    '-b:a', '128k',
-                    '-y',
-                    str(seg_file)
-                ]
-                
-                # Időzített visszajelzés újraencodeoláshoz
-                process = subprocess.Popen(cmd,
-                                         stdout=subprocess.PIPE,
-                                         stderr=subprocess.PIPE,
-                                         encoding='utf-8',
-                                         errors='ignore')
-                
-                start_time = time.time()
-                progress_printed = False
-                
-                def print_progress():
-                    nonlocal progress_printed
-                    elapsed = 0
-                    while process.poll() is None:
-                        time.sleep(5)  # Minden 5 másodpercben
-                        elapsed = int(time.time() - start_time)
-                        if elapsed > 0:
-                            print(f"    Még fut... ({elapsed}s)")
-                            sys.stdout.flush()
-                            progress_printed = True
-                
-                progress_thread = threading.Thread(target=print_progress, daemon=True)
-                progress_thread.start()
-                
-                try:
-                    stdout, stderr = process.communicate(timeout=timeout_seconds)
-                    if process.returncode == 0:
-                        if progress_printed:
-                            elapsed = int(time.time() - start_time)
-                            print(f"    Szegmens {i+1} kesz ({elapsed}s)")
-                        else:
-                            print(f"    Szegmens {i+1} kesz")
-                        sys.stdout.flush()
-                        segment_files.append(seg_file)
-                    else:
-                        raise subprocess.CalledProcessError(process.returncode, cmd, stderr=stderr)
-                except subprocess.TimeoutExpired:
-                    process.kill()
-                    process.wait()
-                    print(f"    Hiba: Szegmens {i+1} vagasa timeout")
-                    sys.stdout.flush()
-                    raise
-        
-        if len(segment_files) == 0:
-            print("  Hiba: Nem sikerult szegmenseket letrehozni")
-            sys.stdout.flush()
-            import shutil
-            if temp_dir.exists():
-                shutil.rmtree(temp_dir)
-            return False
-        
-        # Összefűzzük a szegmenseket
-        print("  Szegmensek osszefuzese...")
-        sys.stdout.flush()
-        
-        # Létrehozzuk a fájllistát
-        filelist_path = temp_dir / 'filelist.txt'
-        with open(filelist_path, 'w', encoding='utf-8') as f:
-            for seg_file in segment_files:
-                abs_path = Path(seg_file).resolve()
-                f.write(f"file '{abs_path}'\n")
-        
-        # Összefűzés
-        cmd_concat = [
-            'ffmpeg',
-            '-f', 'concat',
-            '-safe', '0',
-            '-i', str(filelist_path),
-            '-c', 'copy',
-            '-y',
-            str(output_file)
-        ]
-        
-        try:
-            subprocess.run(cmd_concat,
-                         capture_output=True,
-                         check=True,
-                         encoding='utf-8',
-                         errors='ignore',
-                         timeout=timeout_seconds)
-        except:
-            # Ha copy codec nem működik, újraencodeoljuk
-            cmd_concat = [
-                'ffmpeg',
-                '-f', 'concat',
-                '-safe', '0',
-                '-i', str(filelist_path),
-                '-c:a', 'libopus',
-                '-b:a', '128k',
-                '-y',
-                str(output_file)
-            ]
-            subprocess.run(cmd_concat,
-                         capture_output=True,
-                         check=True,
-                         encoding='utf-8',
-                         errors='ignore',
-                         timeout=timeout_seconds)
-        
-        # Töröljük az ideiglenes fájlokat
-        import shutil
-        if temp_dir.exists():
-            shutil.rmtree(temp_dir)
-        
-        print("  Szunetek kivagva es szegmensek osszefuzve!")
-        sys.stdout.flush()
-        return True
-    
-    # Ha nem találtunk szüneteket, próbáljuk meg a régi módszert
-    print("  Nem talalhato szunet, regi modszer probalasa...")
-    sys.stdout.flush()
-    
-    # Detektáljuk a szüneteket (csak eleji és végső)
-    start_time, end_time = detect_silence(input_file)
-    
-    if start_time is not None and end_time is not None and start_time < end_time:
-        # Ha sikerült detektálni, vágjuk pontosan
-        duration = end_time - start_time
-        if duration > 0 and duration < file_duration:
-            print(f"  Szunetek detektalva: kezdet {start_time:.2f}s, veg {end_time:.2f}s")
-            print(f"  Vagas: {start_time:.2f}s - {end_time:.2f}s ({duration:.2f}s)")
-            sys.stdout.flush()
-            
-            # Próbáljuk meg copy codec-cel először (ha csak audio van)
-            cmd = [
-                'ffmpeg',
-                '-ss', str(start_time),
-                '-i', str(input_file),
-                '-t', str(duration),
-                '-map', '0:a',  # Csak audio
-                '-c:a', 'copy',  # Copy codec
-                '-vn',
-                '-y',
-                str(output_file)
-            ]
-            
-            try:
-                result = subprocess.run(cmd,
-                                      capture_output=True,
-                                      check=True,
-                                      encoding='utf-8',
-                                      errors='ignore',
-                                      timeout=30)
-                print("  Szunetek eltavolitva (copy codec, pontos vagas)!")
-                sys.stdout.flush()
-                return True
-            except:
-                # Ha copy codec nem működik, újraencodeoljuk
-                pass
-            
-            # Újraencodeolás gyors codec-cel
-            print("  Copy codec nem mukodott, ujraencodeolas gyors codec-cel...")
-            sys.stdout.flush()
-            
-            cmd = [
-                'ffmpeg',
-                '-ss', str(start_time),
-                '-i', str(input_file),
-                '-t', str(duration),
-                '-c:a', 'libopus',
-                '-b:a', '128k',
-                '-y',
-                str(output_file)
-            ]
-            
-            try:
-                result = subprocess.run(cmd,
-                                      capture_output=True,
-                                      check=True,
-                                      encoding='utf-8',
-                                      errors='ignore',
-                                      timeout=timeout_seconds)
-                print("  Szunetek eltavolitva (ujraencodeolas, pontos vagas)!")
-                sys.stdout.flush()
-                return True
-            except Exception as e:
-                print(f"  Vagas sikertelen: {str(e)[:100]}")
-                sys.stdout.flush()
-                start_time = None
-        else:
-            # Ha nincs szünet vagy rossz értékek, próbáljuk meg a silenceremove filtert
-            start_time = None
-    else:
-        # Ha nem sikerült detektálni, próbáljuk meg a silenceremove filtert (egyszerűbb paraméterekkel)
-        start_time = None
-    
-    if start_time is None:
-        # Ha nem sikerült detektálni vagy vágni, próbáljuk meg a silenceremove filtert
-        print("  Szunet detektalas nem sikerult, silenceremove filter probalasa...")
-        sys.stdout.flush()
-        
-        # Silenceremove filter: először az eleji szüneteket távolítjuk el,
-        # aztán megfordítjuk, eltávolítjuk a végső szüneteket, majd visszafordítjuk
-        # Ez biztosítja, hogy mindkét oldalról eltávolítjuk a szüneteket
-        temp_reversed = output_file.parent / f"temp_reversed_{output_file.name}"
-        
-        try:
-            # Először az eleji szüneteket távolítjuk el
-            print("  Eleji szunetek eltavolitasa...")
-            sys.stdout.flush()
-            cmd1 = [
-                'ffmpeg',
-                '-i', str(input_file),
-                '-af', f'silenceremove=start_periods=1:start_duration={SILENCE_THRESHOLD}:start_threshold=-50dB:detection=peak',
-                '-c:a', 'libopus',
-                '-b:a', '128k',
-                '-y',
-                str(temp_reversed)
-            ]
-            
-            result1 = subprocess.run(cmd1,
-                                   capture_output=True,
-                                   check=True,
-                                   encoding='utf-8',
-                                   errors='ignore',
-                                   timeout=timeout_seconds)
-            
-            # Most megfordítjuk, eltávolítjuk a végső szüneteket (amik most az elején vannak), majd visszafordítjuk
-            print("  Vegso szunetek eltavolitasa...")
-            sys.stdout.flush()
-            cmd = [
-                'ffmpeg',
-                '-i', str(temp_reversed),
-                '-af', f'areverse,silenceremove=start_periods=1:start_duration={SILENCE_THRESHOLD}:start_threshold=-50dB:detection=peak,areverse',
-                '-c:a', 'libopus',
-                '-b:a', '128k',
-                '-y',
-                str(output_file)
-            ]
-            
-            # Futtatjuk a második lépést
-            result2 = subprocess.run(cmd,
-                                   capture_output=True,
-                                   check=True,
-                                   encoding='utf-8',
-                                   errors='ignore',
-                                   timeout=timeout_seconds)
-            
-            # Töröljük az ideiglenes fájlt
-            if temp_reversed.exists():
-                temp_reversed.unlink()
-            
-            print("  Szunetek eltavolitva (silenceremove filterrel, mindket oldalrol)!")
-            sys.stdout.flush()
-            return True
-                
-        except Exception as e:
-            # Ha a fordított módszer nem működik, próbáljuk meg csak az eleji szüneteket eltávolítani
-            if temp_reversed.exists():
-                temp_reversed.unlink()
-            
-            print("  Egyszeru silenceremove probalasa (csak eleji szunetek)...")
-            sys.stdout.flush()
-            
-            # Egyszerűbb silenceremove paraméterek (kompatibilis az ffmpeg verzióval)
-            cmd = [
-                'ffmpeg',
-                '-i', str(input_file),
-                '-af', f'silenceremove=start_periods=1:start_duration={SILENCE_THRESHOLD}:start_threshold=-50dB:detection=peak',
-                '-c:a', 'libopus',  # Gyors codec webm-hez
-                '-b:a', '128k',  # Alacsony bitrate gyorsabb feldolgozásért
-                '-y',
-                str(output_file)
-            ]
-    
-    try:
-        result = subprocess.run(cmd,
-                              capture_output=True,
-                              check=True,
-                              encoding='utf-8',
-                              errors='ignore',
-                              timeout=timeout_seconds)
-        print("  Szunetek eltavolitva (silenceremove filterrel)!")
-        sys.stdout.flush()
-        return True
-    except subprocess.TimeoutExpired:
-        print("  Silenceremove filter tul lassu, masik modszert hasznalunk...")
-        sys.stdout.flush()
-    except subprocess.CalledProcessError as e:
-        # Kiírjuk a pontos hibát debug céljából
-        error_msg = ''
-        if e.stderr:
-            if isinstance(e.stderr, bytes):
-                error_msg = e.stderr.decode('utf-8', errors='ignore')
-            else:
-                error_msg = str(e.stderr)
-        
-        # Keresünk a hibaüzenetben releváns információkat
-        error_lines = error_msg.split('\n')[-10:] if error_msg else []
-        relevant_error = [line for line in error_lines if any(keyword in line.lower() for keyword in ['error', 'invalid', 'cannot', 'not supported', 'codec'])]
-        if relevant_error:
-            print(f"  Silenceremove hiba: {relevant_error[0][:100]}")
-            sys.stdout.flush()
-        
-        # Ha a silenceremove nem működik, próbáljuk meg másik codec-cel vagy beállításokkal
-        print("  Silenceremove filter nem mukodott, alternativ modszert probalunk...")
-        sys.stdout.flush()
-        
-        # Próbáljuk meg másik codec-cel vagy beállításokkal
-        try:
-            print("  Alternativ silenceremove probalasa (masik codec)...")
-            sys.stdout.flush()
-            
-            # Próbáljuk meg másik codec-cel
-            cmd = [
-                'ffmpeg',
-                '-i', str(input_file),
-                '-af', f'silenceremove=start_periods=1:start_duration={SILENCE_THRESHOLD}:start_threshold=-50dB:detection=peak:end_periods=1:end_duration={SILENCE_THRESHOLD}:end_threshold=-50dB',
-                '-c:a', 'libvorbis',  # Alternatív codec
-                '-b:a', '128k',
-                '-y',
-                str(output_file)
-            ]
-            
-            result = subprocess.run(cmd,
-                                  capture_output=True,
-                                  check=True,
-                                  encoding='utf-8',
-                                  errors='ignore',
-                                  timeout=timeout_seconds)
-            print("  Szunetek eltavolitva (alternativ codec-cel)!")
-            sys.stdout.flush()
-            return True
-        except:
-            # Ha semmi sem működik, csak újraencodeoljuk anélkül, hogy vágunk
-            print("  Fallback: teljes fajl ujraencodeolasa szunetek nelkul...")
-            print("  Figyelmeztetes: Ez nem fogja eltavolitani a szuneteket, csak ujraencodeolja a fajlt.")
-            sys.stdout.flush()
-            
-            try:
-                cmd = [
-                    'ffmpeg',
-                    '-i', str(input_file),
-                    '-c:a', 'libopus',
-                    '-b:a', '128k',
-                    '-y',
-                    str(output_file)
-                ]
-                
-                import threading
-                import time
-                
-                # Indítjuk az ffmpeg-et
-                process = subprocess.Popen(cmd,
-                                         stdout=subprocess.PIPE,
-                                         stderr=subprocess.PIPE,
-                                         encoding='utf-8',
-                                         errors='ignore')
-                
-                # Időzített visszajelzés
-                start_time = time.time()
-                progress_printed = False
-                
-                def print_progress():
-                    nonlocal progress_printed
-                    elapsed = 0
-                    while process.poll() is None:
-                        time.sleep(10)  # Minden 10 másodpercben
-                        elapsed = int(time.time() - start_time)
-                        if elapsed > 0:
-                            print(f"  Még fut... ({elapsed} masodperc eltelt)")
-                            sys.stdout.flush()
-                            progress_printed = True
-                
-                progress_thread = threading.Thread(target=print_progress, daemon=True)
-                progress_thread.start()
-                
-                # Várjuk meg a folyamat befejeződését
-                stdout, stderr = process.communicate(timeout=timeout_seconds)
-                
-                if process.returncode == 0:
-                    if progress_printed:
-                        elapsed = int(time.time() - start_time)
-                        print(f"  Befejezve! ({elapsed} masodperc alatt)")
-                    print("  Fajl ujraencodeolva (szunetek nelkul)!")
-                    sys.stdout.flush()
-                    return True
-                else:
-                    # Hiba esetén kiírjuk az utolsó sorokat
-                    stderr_lines = stderr.split('\n') if stderr else []
-                    error_output = '\n'.join(stderr_lines[-10:])
-                    raise subprocess.CalledProcessError(process.returncode, cmd, stderr=error_output)
-                    
-            except subprocess.TimeoutExpired:
-                print("  Hiba: Az ujraencodeolas tul lassu volt (timeout)")
-                print(f"  A timeout {timeout_seconds} masodperc volt, de a feldolgozas nem fejezodott be.")
-                sys.stdout.flush()
-                return False
-            except subprocess.CalledProcessError as fallback_error:
-                error_str = ''
-                if fallback_error.stderr:
-                    if isinstance(fallback_error.stderr, bytes):
-                        error_str = fallback_error.stderr.decode('utf-8', errors='ignore')
-                    else:
-                        error_str = str(fallback_error.stderr)
-                elif fallback_error.stdout:
-                    if isinstance(fallback_error.stdout, bytes):
-                        error_str = fallback_error.stdout.decode('utf-8', errors='ignore')
-                    else:
-                        error_str = str(fallback_error.stdout)
-                else:
-                    error_str = str(fallback_error)
-                print(f"  Fallback is sikertelen: {error_str[:300]}")
-                sys.stdout.flush()
-                return False
-        
-        print(f"Hiba a szunet eltavolitasa soran: {error_msg[:500]}")
-        sys.stdout.flush()
-        return False
+    return remove_silence_with_filter(input_file, output_file, timeout_seconds)
 
 def concatenate_files(file_list, output_file):
     """
@@ -1150,9 +681,7 @@ def main():
         input_files.append(file2)
         print(f"[OK] Megtalalva: {file2.name}")
     else:
-        print(f"[HIBA] A {file2.name} fajl nem talalhato!")
-        sys.stdout.flush()
-        sys.exit(1)
+        print(f"[INFO] A {file2.name} fajl nem talalhato, csak 1 fajlt fogunk feldolgozni.")
     
     if file3.exists():
         input_files.append(file3)
@@ -1219,40 +748,11 @@ def main():
             shutil.rmtree(temp_dir)
         sys.exit(1)
     
-    # Lépés 3: Végleges szünet eltávolítása a végéről (ha van)
+    # Lépés 3: MP3-re konvertálás méretkorláttal
+    final_webm = concatenated_file
+    
     print(f"\n{'='*60}")
-    print("Lepes 3: Vegso szunet ellenorzese...")
-    print(f"{'='*60}")
-    sys.stdout.flush()
-    
-    final_webm = temp_dir / 'final.webm'
-    
-    # Ellenőrizzük, van-e szünet a végén
-    all_silences = detect_all_silences(concatenated_file)
-    
-    if all_silences and len(all_silences) > 0:
-        # Van szünet, próbáljuk meg eltávolítani
-        print("  Szunetek talalhatok, eltavolitas...")
-        sys.stdout.flush()
-        if remove_silence_from_file(concatenated_file, final_webm):
-            print("[OK] Vegso szunet eltavolitva!")
-            sys.stdout.flush()
-        else:
-            print("[FIGYELMEZTETES] Nem sikerult eltavolitani a vegso szuneteket, folytatjuk...")
-            sys.stdout.flush()
-            final_webm = concatenated_file
-    else:
-        # Nincs szünet, csak másoljuk a fájlt
-        print("  Nincs szunet a vegere, fajl masolasa...")
-        sys.stdout.flush()
-        import shutil
-        shutil.copy2(concatenated_file, final_webm)
-        print("[OK] Fajl masolva (nincs szunet a vegere)")
-        sys.stdout.flush()
-    
-    # Lépés 4: MP3-re konvertálás méretkorláttal
-    print(f"\n{'='*60}")
-    print("Lepes 4: MP3 konverzio (max {MAX_FILE_SIZE_MB} MB)...")
+    print("Lepes 3: MP3 konverzio (max {MAX_FILE_SIZE_MB} MB)...")
     print(f"{'='*60}")
     sys.stdout.flush()
     

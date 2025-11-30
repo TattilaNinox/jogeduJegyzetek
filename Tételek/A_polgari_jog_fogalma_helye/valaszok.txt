@@ -1,0 +1,119 @@
+1. A polgári jog a magánjog központi jogága, amely a személyek alapvető vagyoni és személyi viszonyait szabályozza, míg a magánjog tágabb fogalom, amely több részterületre oszlik (polgári jog, családjog, munkajog, kereskedelmi jog, gazdasági jog, nemzetközi magánjog, polgári eljárásjog).
+
+2. Ha a törvény a mellérendeltség és egyenjogúság elve szerint szabályozza a viszonyokat, akkor a felek horizontális viszonyban állnak, nincs alá-fölérendeltség, egyenlő jogokkal és kötelezettségekkel rendelkeznek, így biztosítva a felek autonómiáját és egyenjogúságát.
+
+3. A vagyoni viszonyok vagyoni értékkel bíró javakra vonatkoznak, gazdasági jellegűek (tulajdon, szerződések, öröklés, vállalkozás), míg a személyi viszonyok az ember személyiségéhez, emberi méltóságához, családi kapcsolataihoz fűződnek, nem elsősorban vagyoni jellegűek (személyiségi jogok, családi viszonyok, személyi állapot).
+
+4. A vagyoni viszonyok négy tárgyköre: tulajdoni viszonyok (dologi jog), ki a tulajdonosa, milyen jogai vannak; szerződéses viszonyok (kötelmi jog), adás-vétel, bérlet, kölcsön; öröklési viszonyok (öröklési jog), vagyon átszállása halál esetén; vállalkozási viszonyok (társasági jog), gazdasági társaságok, egyéni vállalkozók.
+
+5. A személyiségi jogok az ember személyiségéhez fűződő jogok (névhez való jog, becsülethez való jog, magánélethez való jog, képmáshoz való jog), védik az ember szellemi és fizikai integritását, míg a családi viszonyok a családi kapcsolatokhoz fűződnek (házasság, szülő-gyermek viszony, gyámság), kapcsolati jellegűek.
+
+6. Ha a mellérendeltség elvének következménye, hogy nincs alá-fölérendeltségi viszony, akkor a felek egyenrangúak, egyiküknek sincs többletjoga vagy hatalma a másik felett pusztán jogi pozíciója alapján, így biztosítva a felek autonómiáját, szabad akaratát, önrendelkezését.
+
+7. A mellérendeltség (horizontális viszony) azt jelenti, hogy a felek egyenrangúak, nincs közöttük hierarchia, egyikük sem áll fölötte a másiknak, míg az alá-fölérendeltség (vertikális viszony) azt jelenti, hogy az egyik fél (állam, hatóság) fölötte áll a másik félnek (állampolgár, ügyfél), hierarchikus viszony.
+
+8. Az egyenjogúság elve biztosítja, hogy a polgári jogi viszonyokban a felek egyenlő jogokkal és kötelezettségekkel rendelkeznek, nincs olyan fél, akinek "több joga" vagy "kevesebb kötelezettsége" lenne jogállásából eredően, így védve a felek egyenlőségét és méltóságát.
+
+9. A jogi egyenjogúság azt jelenti, hogy jogilag a felek egyenlő jogokkal és kötelezettségekkel rendelkeznek, a jog egyenlőként kezeli őket, míg a tényleges egyenlőség azt jelenti, hogy ténylegesen egyenlő helyzetben vannak (például vagyonban, tudásban, alkupozícióban), ami nem mindig áll fenn.
+
+10. A Ptk. nyolc könyvre tagolódik: Bevezető rendelkezések (alapelvek), Az ember mint jogalany (jogképesség, cselekvőképesség, személyiségi jogok), A jogi személy (jogi személyek általános szabályai, egyesület, alapítvány, gazdasági társaságok), Családjog (házasság, szülő-gyermek viszony, gyámság), Dologi jog (tulajdonjog, birtokvédelem, zálogjog), Kötelmi jog (szerződések, kártérítés), Öröklési jog (törvényes és végrendeleti öröklés), Záró rendelkezések (hatálybalépés, átmeneti rendelkezések), és a pandekta-rendszert követi.
+
+11. A pandekta-rendszer elkülöníti az általános részt (személyek joga) és a különös részt (dologi jog, kötelmi jog, öröklési jog), rendszerező, dogmatikus, míg más rendszerek (például kazuisztikus rendszer) esetjogi alapúak, vagy intézményrendszerek (például római jog rendszere: személy, dolog, kereset), így a pandekta-rendszer absztrakt, rendszerező.
+
+12. Ha a Ptk. elkülöníti az általános részt és a különös részt, akkor az általános rész minden különös részre alkalmazandó (például jogképesség, cselekvőképesség, személyiségi jogok, jogi személy fogalma), míg a különös rész speciális szabályokat tartalmaz (dologi jog, kötelmi jog, öröklési jog), így rendszerezett, átlátható szabályozást biztosítva.
+
+13. A közjog a közérdeket szolgálja, az állam, a közhatalom, a társadalom egészének érdekeit védik, míg a magánjog a magánérdeket (egyéni érdeket) szolgálja, az egyének, magánszemélyek érdekeit, így különbség van a védett érdek jellegében, a közjog kollektív, a magánjog individuális.
+
+14. Az érdek-elmélet szerint a közjog a közérdeket, a magánjog a magánérdeket szolgálja, az alá-fölérendeltségi elmélet szerint a közjogi jogviszonyokban alá-fölérendeltség van, a magánjogi jogviszonyokban mellérendeltség, a jogviszony-tárgya elmélet szerint a közjog a közhatalmi jogosítványokat, a magánjog a vagyoni és személyi viszonyokat szabályozza, így három különböző szempontú elhatárolás.
+
+15. A vertikális (alá-fölérendeltségi) viszony a közjogi jogviszonyokban azt jelenti, hogy az egyik fél (állam, hatóság) fölötte áll a másik félnek (állampolgár, ügyfél), hierarchikus, a horizontális (mellérendelt) viszony a magánjogi jogviszonyokban azt jelenti, hogy a felek egyenrangúak, nincs hierarchia, így különbség van a felek pozíciójában.
+
+16. Ha a közjogi szabályok imperatív (kógens) jellegűek, akkor tiltó vagy parancsoló jellegűek, nem lehet eltérni tőlük, kötelezően alkalmazandók, míg a magánjogi szabályok javarészt diszpozitívek, eltérést engedőek, a felek megállapodhatnak másban, így a közjogi szabályok szigorúak, a magánjogi szabályok rugalmasak.
+
+17. Az állam vagy állami szerv mint alany a közjogi jogviszonyokban felettes, közhatalommal rendelkezik, többletjogok illetik meg, míg a magánszemélyek, jogi személyek mint alanyok a magánjogi jogviszonyokban egyenrangúak, nincs többletjoguk, így különbség van a jogi pozícióban.
+
+18. Ha a közjogi jogok közvetlen kényszer útján érvényesülnek, akkor hatósági határozattal, közvetlen kikényszerítéssel, nem kell bírósági per, míg a magánjogi jogok bírói úton érvényesülnek, polgári perben, ítélettel, végrehajtással, így különbség van az érvényesítés módjában.
+
+19. A polgári jog mint a magánjog általános, anyajoga olyan szabályokat tartalmaz, amelyek alapvetőek, általánosak, minden magánjogi jogviszonyra alkalmazhatók, szubszidiárisan alkalmazandók, míg a speciális magánjogi jogágak (munkajog, kereskedelmi jog) speciális szabályokat tartalmaznak, csak meghatározott jogviszonyokra vonatkoznak, így a polgári jog általános, a speciális jogágak különös.
+
+20. A polgári jog szubszidiárius jellegének az a következménye, hogy ha egy speciális magánjogi jogág (például munkajog, kereskedelmi jog) nem szabályoz egy kérdést, a polgári jog általános szabályai alkalmazandók, így a polgári jog háttérjogszabály, kiegészítő jellegű, biztosítva a teljes körű szabályozást.
+
+21. A polgári jog mint "jogászok anyajoga" azt jelenti, hogy alakította ki azokat az alapfogalmakat (jogalany, jogképesség, cselekvőképesség, jogviszony, jognyilatkozat, szerződés, felelősség), amelyeket más jogágak is használnak, és a polgári jogi gondolkodásmód (analitikus, rendszerező, dogmatikus) alapozza meg a jogi gondolkodást, míg más jogágak ezekre építenek.
+
+22. Az Alaptörvény XIII. cikkében foglalt tulajdonhoz való jog ("Mindenkinek joga van a tulajdonhoz és az örökléshez. A tulajdon társadalmi felelősséggel jár.") alapozza meg a polgári jog dologi jogi és öröklési jogi szabályait, alkotmányos garancia, amely korlátozza a jogalkotót és jogalkalmazót, így alapjog és törvényi szabályozás kapcsolata.
+
+23. A tulajdonhoz való jog alkotmányos védelme azt jelenti, hogy alapvető jog, az Alaptörvény védi, csak törvényben, arányosan korlátozható, míg a polgári jogi tulajdonjog védelme azt jelenti, hogy a Ptk. 5:35-5:37. §-ai konkrét eszközöket biztosítanak (tulajdoni per, birtokvédelem, ingatlan-nyilvántartás), így az alkotmányos védelem általános, alapjogi, a polgári jogi védelem konkrét, eszközökkel.
+
+24. Ha a szerződési szabadság az Alaptörvényből következik (általános cselekvési szabadság, vállalkozáshoz való jog), akkor alkotmányos alapja van, alapvető jog, amely biztosítja a szerződéskötés szabadságát, és a Ptk. kötelmi jogi szabályai ezt konkretizálják, részletezik, így az alkotmányos alap biztosítja a szabályozás legitimációját.
+
+25. A szerződési szabadság négy aspektusa: kötési szabadság (köt-e szerződést), döntés a szerződéskötésről; partnerválasztási szabadság (kivel köt), döntés a szerződő fél személyéről; típusválasztási szabadság (milyen típusú szerződést köt), döntés a szerződés fajtájáról; tartalmi szabadság (milyen tartalommal köt), döntés a szerződés tartalmáról, így négy különböző döntési szabadság, együttesen alkotják a szerződési szabadságot.
+
+26. A Ptk. 1:2. § (1) bekezdése szerint ha a törvény rendelkezéseit Magyarország alkotmányos rendjével összhangban kell értelmezni, akkor a Ptk. nem értelmezhető az Alaptörvénnyel ellentétesen, az alkotmányos értékeknek át kell hatniuk a Ptk. alkalmazását, így biztosítva az alkotmánykonformitást, védve az alapjogokat.
+
+27. A családjog mint önálló jogág a régebbi felfogás szerint elválasztva volt a polgári jogtól, mert személyes, nem vagyoni jellege megkülönböztette, míg a családjog mint a Ptk. Negyedik Könyve a 2013. évi Ptk. szerint a polgári jog része, beépítették a Ptk.-ba, de sajátos jellegét megőrizte.
+
+28. A családjog sajátosságai: személyes jellege, a családi jogviszonyok elsősorban személyes, nem vagyoni természetűek (bár vagyoni vonzataik vannak); kógens (imperatív) szabályok, javarészt kógensek, nem lehet tőlük eltérni; közrend védelme, érintheti a közrendet (gyermekvédelem), nagyobb állami kontroll alatt állnak, így eltér a polgári jog általános jellemzőitől.
+
+29. A munkajog és a polgári jog viszonya abban áll, hogy a munkajog speciális jogág, speciális szabályokat alkalmaz a munkaviszonyokra, amelyek eltérnek a polgári jog általános szabályaitól, szubszidiárisan a polgári jog szabályai alkalmazandók, ahol a munkajog nem szabályoz, így a munkajog különös, a polgári jog általános.
+
+30. A munkajog munkavállalót védő jellege azt jelenti, hogy a munkajog szabályai kógensek, a gyengébb fél (munkavállaló) védelmét szolgálják, védelmi szabályok (felmondási védelem, munkaidő-korlát, minimálbér), így eltér a polgári jog mellérendeltségi elvétől, amely egyenjogúságot feltételez, a munkajogban a munkavállaló gyengébb fél, védelem szükséges.
+
+31. A megbízási szerződés esetében a felek mellérendeltek, a megbízott önállóan jár el, nincs alárendeltség, saját eszközeivel dolgozik, a vállalkozási szerződés esetében a vállalkozó önállóan, saját kockázatára végzi a munkát, nincs irányítás, a munkaszerződés esetében a munkavállaló alárendelten, munkáltatói irányítás alatt végzi a munkát, munkáltatói eszközökkel, így különbség van az önállóság és alárendeltség mértékében.
+
+32. A szubszidiaritás a munkajog és a polgári jog viszonyában azt jelenti, hogy ahol a munkajog nem szabályoz valamit (például szerződés értelmezése, jóhiszeműség és tisztesség elve), a polgári jog általános szabályai alkalmazandók, így a polgári jog háttérjogszabály, kiegészítő jellegű.
+
+33. A társasági jog mint a polgári jog része azt jelenti, hogy a Ptk. Harmadik Könyve tartalmazza a jogi személyekre és gazdasági társaságokra vonatkozó szabályokat, beépítve a Ptk.-ba, míg a társasági jog mint önálló jogág a régebbi felfogás szerint külön törvényben volt szabályozva (Gt.), így a 2013. évi Ptk. beépítette.
+
+34. Annak, hogy a Ptk. Harmadik Könyve tartalmazza a jogi személyekre vonatkozó általános szabályokat, az az alapja, hogy ezek az alapvető, minden jogi személyre vonatkozó szabályok (jogképesség, létrejöttés, szervezet, megszűnés), amelyek alapul szolgálnak a gazdasági társaságok működéséhez, így rendszerezett, egységes szabályozást biztosítva.
+
+35. A polgári eljárásjog mint kiszolgáló jogág azt jelenti, hogy biztosítja az anyagi polgári jogi igények állami úton történő kikényszeríthetőségét, nem teremti a jogokat, hanem érvényesíti őket, míg az anyagi polgári jog maga a jogokat és kötelezettségeket teremti (tulajdonjog, szerződési jog, kártérítési jog), így az eljárásjog eszköz, az anyagi jog tartalom.
+
+36. A Ptk. 1:6. § szerint ha az e törvényben biztosított jogok érvényesítése bírói útra tartozik, akkor a polgári jogi jogok érvényesítése bírósági úton történik (nem közigazgatási úton), polgári perben, ítélettel, végrehajtással, így biztosítva a független bírói kontroll lehetőségét.
+
+37. A bírói út azt jelenti, hogy polgári bíróság jár el, polgári perrendtartás szabályai szerint, független bírói döntés, ítélet, míg a közigazgatási út azt jelenti, hogy közigazgatási hatóság jár el, közigazgatási eljárási szabályok szerint, hatósági határozat, így különbség van az eljáró szervben és az eljárási szabályokban.
+
+38. A közigazgatási jog és a polgári jog kapcsolódási pontjai: az ingatlan-nyilvántartás hatósági vezetése (földhivatal), amely a dologi jogi jogviszonyokhoz kapcsolódik; az anyakönyvezés (születés, házasság, halál), amely a jogképesség kezdetéhez, házasság létrejöttéhez, öröklés megnyílásához kapcsolódik; hatósági engedélyek (építési engedély, használatbavételi engedély), amelyek befolyásolják a tulajdonjog gyakorlását, így többféle kapcsolódási pont.
+
+39. Az ingatlan-nyilvántartás közhiteles jellege azt jelenti, hogy a bejegyzett adatok helyességét vélelmezni kell, az ellenkező bizonyításáig helyesek, védi a jóhiszemű szerzőt, különleges jogi védelem, míg más nyilvántartások (például cégnyilvántartás, gépjármű-nyilvántartás) is közhitelesek lehetnek, de nem mindegyik, így a közhitelesség különleges védelmet biztosít.
+
+40. Ha a bűncselekménnyel okozott kár megtérítése egyszerre büntetőjogi és polgári jogi kérdés, akkor büntetőjogi felelősség (büntetés, szabadságvesztés, pénzbüntetés) és polgári jogi kártérítési kötelezettség (kár megtérítése) is fennáll, így párhuzamos felelősség, különböző jogági megítélés.
+
+41. Az adhéziós eljárás azt jelenti, hogy a büntetőbíróság a büntetőeljárásban polgári jogi igényt (kártérítést) is elbírálhat, egy eljárásban, gyorsabb, míg a külön polgári per azt jelenti, hogy külön polgári bíróság előtt kell pert indítani a kártérítés iránt, két eljárás, lassabb, így az adhézió egyszerűbb, gyorsabb.
+
+42. A privát autonómia elvének jogi alapja az, hogy a személyek önállóan, saját akaratukból alakítják jogviszonyaikat, a jog tiszteletben tartja ezt az önrendelkezést, az emberi méltóság és szabadság következménye, biztosítva az önrendelkezési jogot, az egyéni akaratot.
+
+43. A privát autonómia megnyilvánulásai: szerződési szabadság (szabadon dönthetnek a szerződéskötésről), vagyoni döntés; végrendeleti szabadság (szabadon rendelkezhetnek vagyonukról haláluk esetére), öröklési döntés; tulajdonhoz való jog (szabadon használhatják, hasznosíthatják, átruházhatják vagyonukat), vagyonkezelési döntés; egyesülési szabadság (szabadon alapíthatnak jogi személyeket), szervezeti döntés, így különböző területeken megnyilvánul az autonómia.
+
+44. A privát autonómia korlátai: jogszabályi korlátok (törvény tilthatja vagy korlátozhatja), jóerkölcs (erkölcsileg elfogadhatatlan jogügyletek semmisek), közrend (közrendet sértő jogügyletek semmisek), joggal való visszaélés tilalma (visszaélésszerű joggyakorlás nem védett), így négy fő korlát, védve a közérdeket és az erkölcsöt.
+
+45. A privát autonómia mint főszabály azt jelenti, hogy a személyek szabadon alakítják jogviszonyaikat, ez az alapelv, általános, minden esetben érvényesül, kivéve ha korlátozva van, míg a korlátok mint kivételek csak bizonyos esetekben érvényesülnek, kivételesek, nem általánosak, így az autonómia a szabály, a korlátok a kivétel.
+
+46. A polgári jog jelentősége a modern piacgazdaság működése szempontjából alapvető, mert a tulajdonjog védelme biztosítja a magántulajdonon alapuló gazdaságot, a szerződési szabadság lehetővé teszi a gazdasági tranzakciókat, a jogi személyek lehetővé teszik a vállalkozások szervezett működését, a kártérítési felelősség védi a gazdasági szereplőket, így a piacgazdaság jogi alapja.
+
+47. A tulajdonjog védelme biztosítja a magántulajdon stabilitását, védelmét, a tulajdonosok biztonságát, statikus elem, míg a szerződési szabadság lehetővé teszi a gazdasági tranzakciókat, a piaci cseréket, a forgalmat, dinamikus elem, így a tulajdonjog védeli a meglévő vagyont, a szerződési szabadság lehetővé teszi a vagyonmozgást.
+
+48. Ha a jogi személyek lehetővé teszik a vállalkozások szervezett működését, akkor a Ptk. 3:1. § szerint önálló jogalanyként működhetnek, elkülönített vagyonnal, korlátolt felelősséggel, szervezett irányítással, így lehetővé téve a gazdasági tevékenységek hatékony szervezését, a tőke összegyűjtését, a kockázat megosztását.
+
+49. A hatáskör meghatározása azt jelenti, hogy melyik szerv (bíróság, hatóság) jogosult eljárni, közjogi ügyekben közigazgatási hatóság vagy büntetőbíróság, magánjogi ügyekben polgári bíróság, míg az illetékesség meghatározása azt jelenti, hogy melyik konkrét szerv (melyik bíróság, melyik hatóság) jogosult, területi vagy tárgyi illetékesség, így különbség van a hatáskör és illetékesség között.
+
+50. A polgári jog fogalma meghatározza, hogy a személyek alapvető vagyoni és személyi viszonyait szabályozza a mellérendeltség és egyenjogúság elve szerint, a helye a jogrendszerben azt mutatja, hogy a magánjog központi jogága, anyajoga, az összefüggései más jogágakkal azt mutatják, hogy kapcsolódik az alkotmányjoghoz, családjoghoz, munkajoghoz, társasági joghoz, eljárásjoghoz, közigazgatási joghoz, büntetőjoghoz, a privát autonómia elve pedig biztosítja az önrendelkezést, a szerződési szabadságot, a tulajdonhoz való jogot, így együtt alkotnak egy koherens rendszert, amely biztosítja a modern piacgazdaság (tulajdonjog védelme, szerződési szabadság, jogi személyek, kártérítési felelősség) és a civil társadalom (egyének és szervezetek önrendelkezése, vagyoni biztonság, jogok védelme) jogi alapját.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

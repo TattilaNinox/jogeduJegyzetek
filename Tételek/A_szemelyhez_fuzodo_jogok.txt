@@ -1,0 +1,355 @@
+A SZEMÉLYHEZ FŰZŐDŐ JOGOK ÉS A MEGSÉRTÉSÜK ESETÉN ALKALMAZHATÓ JOGKÖVETKEZMÉNYEK
+
+I. Bevezetés: A Személyiségi Jogok Általános Védelme
+
+A **személyhez fűződő jogok** (más terminológiával **személyiségi jogok**) az **emberi méltóságból eredő**, a személy **fizikai, szellemi és morális integritását** védő jogok összessége. A személyiségi jogok az ember **személyiségének** – mint egyedi, megismételhetetlen, pótolhatatlan értéknek – a jogi védelmét biztosítják.
+
+A **2013. évi V. törvény (Polgári Törvénykönyv) 2:42. §-a** tartalmazza a személyiségi jogok **általános védelmi klauzuláját** (generálklauzulát):
+
+"(1) Mindenkinek joga van ahhoz, hogy törvény és mások jogainak korlátai között személyiségét, így különösen a magán- és családi élet, az otthon, a másokkal való – bármilyen módon, illetve eszközzel történő – kapcsolattartás és a jóhírnév tiszteletben tartásához való jogát szabadon érvényesíthesse, és hogy abban őt senki ne gátolja.
+(2) Az emberi méltóságot és az abból fakadó személyiségi jogokat mindenki köteles tiszteletben tartani. A személyiségi jogok e törvény védelme alatt állnak.
+(3) Nem sért személyiségi jogot az a magatartás, amelyhez az érintett hozzájárult."
+
+Ez a rendelkezés kifejezi a személyiségi jogok **alapvető jellemzőit**:
+
+**1. Emberi méltóságból való eredés**
+
+A személyiségi jogok az **emberi méltóságból** fakadnak (Ptk. 2:42. § (2) bekezdés). Az emberi méltóság az Alaptörvényben is védett alapvető érték (Alaptörvény II. cikk: "Az emberi méltóság sérthetetlen."). A személyiségi jogok tehát **alkotmányos gyökerűek**, és minden embert **emberségéből eredően** megilletnek.
+
+**2. Abszolút szerkezet**
+
+A személyiségi jogok **abszolút szerkezetű jogviszonyokat** képeznek: a jogosult **ismert** (a személy, akit a személyiségi jog megillet), vele szemben pedig **mindenki kötelezett** arra, hogy **tiszteletben tartsa** a személyiségi jogokat, **tartózkodjon** azok megsértésétől.
+
+Ez **erga omnes hatály**: a személyiségi jogok mindenkivel szemben védettek, nem csak meghatározott személyekkel szemben.
+
+**3. Generálklauzula (általános védelem)**
+
+A **Ptk. 2:42. § (1) bekezdése** **generálklauzula**: általános védelmet biztosít **minden** személyiségi jognak, **még a törvényben kifejezetten nem nevesítetteknek is**. Ez azt jelenti, hogy **nem numerus clausus** (zárt szám) rendszer van: a bíróság **új személyiségi jogokat** is elismerhet, ha azok az emberi méltóságból fakadnak és védelmet igényelnek.
+
+Példák a Ptk.-ban nem kifejezetten nevesített, de a bírói gyakorlat által elismert személyiségi jogokra:
+- a gyermekhez való jog;
+- a meddőséghez való jog (nem nyilvános, hogy valaki meddő);
+- a személyes sírhoz való jog;
+- a személyes identitáshoz való jog.
+
+**4. Hozzájárulás (Ptk. 2:42. § (3) bekezdés)**
+
+"(3) Nem sért személyiségi jogot az a magatartás, amelyhez az érintett hozzájárult."
+
+Ez a **volenti non fit iniuria** (aki beleegyezik, annak nem történik jogsérelem) elve: ha az érintett **beleegyezett** a személyiségi jog korlátozott gyakorlásába, az **nem jogsértés**.
+
+Példák:
+- hozzájárulás a képmás felhasználásához (pl. reklámban);
+- hozzájárulás az orvosi beavatkozáshoz;
+- hozzájárulás a személyes adatok kezeléséhez.
+
+A hozzájárulás azonban **korlátozott**: nem lehet hozzájárulni olyan magatartáshoz, amely az **emberi méltóságot** sérti, vagy amely **életveszélyes**.
+
+
+II. A Ptk. Által Nevesített Személyiségi Jogok
+
+A **Ptk. 2:43. §-a** **példálózó jelleggel** felsorolja a legfontosabb személyiségi jogokat:
+
+"A személyiségi jogok sérelmét jelenti különösen
+a) az élet, a testi épség és az egészség megsértése;
+b) a személyes szabadság, a magánélet, a magánlakás megsértése;
+c) a személy hátrányos megkülönböztetése;
+d) a becsület és a jóhírnév megsértése;
+e) a magántitokhoz és a személyes adatok védelméhez való jog megsértése;
+f) a névviseléshez való jog megsértése;
+g) a képmáshoz és a hangfelvételhez való jog megsértése."
+
+Ez **nem kimerítő felsorolás** (a "különösen" szó jelzi), hanem példák a legfontosabb személyiségi jogokra.
+
+**1. Az élet, a testi épség és az egészség (Ptk. 2:43. § a) pont)**
+
+Ez a **legfontosabb személyiségi jog**: az **élethez való jog**, a **testi épség** és az **egészség** védelme.
+
+Jogsértő magatartások:
+- **Életellenes magatartás**: emberölés, emberölési kísérlet;
+- **Testi épség megsértése**: testi sértés, bántalmazás;
+- **Egészség megsértése**: betegség okozása, egészségkárosítás (pl. fertőzés, mérgezés).
+
+Gyakorlati példa: Ha valaki balesettel testi sérülést okoz, az egyben **személyiségi jog megsértése** (testi épség) és **károkozás** is. A sértett követelheti a **sérelemdíjat** (nem vagyoni kár) és a **kártérítést** (vagyoni kár: gyógykezelési költségek, jövedelemkiesés stb.).
+
+**2. A személyes szabadság, a magánélet, a magánlakás (Ptk. 2:43. § b) pont)**
+
+Ez három, egymással összefüggő személyiségi jogot tartalmaz:
+
+**- Személyes szabadság**: A személy jogosult szabadon mozogni, tartózkodni, tevékenykedni. Jogsértés: jogellenes fogvatartás, szabadságelvonás, mozgás korlátozása.
+
+**- Magánélet (privacy)**: A személy jogosult magánéletét (intim szférát, magánügyeit) **magánügynek** tekinteni, és mások **beavatkozását kizárni**. Jogsértés: magánéletbe való illetéktelen beavatkozás (pl. lehallgatás, megfigyelés, magánéletre vonatkozó információk nyilvánosságra hozatala).
+
+**- Magánlakás**: Az otthon sérthetetlensége. Jogsértés: jogosulatlan behatolás, házkutatás (hatósági engedély nélkül).
+
+Gyakorlati példa: Ha valaki **lehallgatja** más telefonbeszélgetését, vagy **titokban fényképeket** készít más magánéletéről, az **magánélet megsértése**.
+
+**3. A személy hátrányos megkülönböztetése (Ptk. 2:43. § c) pont)**
+
+A **diszkrimináció tilalma**: senkit sem lehet **hátrányosan megkülönböztetni** faj, szín, nem, fogyatékosság, nyelv, vallás, politikai vagy más vélemény, nemzeti vagy társadalmi származás, vagyoni, születési vagy egyéb helyzet miatt.
+
+Jogsértés: ha valakit egy jogviszonyban (pl. szerződéskötés, munkaviszony) hátrányosan kezelnek valamelyik védett tulajdonsága miatt.
+
+**4. A becsület és a jóhírnév (Ptk. 2:43. § d) pont, Ptk. 2:45. §)**
+
+Ez a **morális integritás** védelme. A **Ptk. 2:45. §-a** részletezi:
+
+"(1) A becsület megsértését jelenti különösen a más személy társadalmi megítélésének hátrányos befolyásolására alkalmas, kifejezésmódjában indokolatlanul bántó véleménynyilvánítás.
+(2) A jóhírnév megsértését jelenti különösen, ha valaki más személyre vonatkozó és e személyt sértő, valótlan tényt állít vagy híresztel, vagy valós tényt hamis színben tüntet fel."
+
+Fontos megkülönböztetni a **becsületet** és a **jóhírnevet**:
+
+**- Becsület (honor)**: **Értékítéletekkel** kapcsolatos. A becsület megsértése: **véleménynyilvánítás**, amely kifejezésmódjában **indokolatlanul bántó**, megalázó. Az értékítélet önmagában nem jogsértő (mindenki véleményezhet), csak ha a **kifejezésmód** túlzottan bántó.
+
+Példa: Ha valaki azt mondja, hogy "X rossz ügyvéd" (értékítélet), az önmagában nem jogsértő, de ha azt mondja, hogy "X egy alkalmatlan, ostoba, hozzá nem értő fráter", az kifejezésmódjában indokolatlanul bántó, becsületsértő lehet.
+
+**- Jóhírnév (reputatio)**: **Tényállításokkal** kapcsolatos. A jóhírnév megsértése: **valótlan tény** állítása vagy híresztelése, vagy **valós tény hamis színben** való feltüntetése.
+
+Példa: Ha valaki azt állítja, hogy "X meglopta az ügyfelet" (tényállítás), és ez **nem igaz**, az **rágalmazás**, jóhírnév megsértése. Ha az állítás **igaz**, akkor nem jogsértő (igazság bizonyítása mentesít).
+
+**5. A magántitokhoz és a személyes adatok védelméhez való jog (Ptk. 2:43. § e) pont, Ptk. 2:46. §)**
+
+A **Ptk. 2:46. §-a** szerint:
+
+"(1) A magántitok védelme kiterjed különösen a levéltitok és hivatásbeli titok oltalmára.
+(2) A magántitok megsértését jelenti különösen a magántitok jogosulatlan megszerzése és felhasználása, nyilvánosságra hozatala vagy illetéktelen személlyel való közlése."
+
+A **magántitok** a személy intim, magánjellegű információi, amelyeket csak ő vagy szűk köre ismer, és amelyeket **nem kíván nyilvánosságra hozni**.
+
+Jogsértés: a magántitok **jogosulatlan megszerzése** (pl. napló elolvasása, levelek felbontása), **felhasználása**, **nyilvánosságra hozatala** (pl. újságban való közlése), **illetéktelen személlyel való közlése**.
+
+A **személyes adatok védelme** az EU GDPR rendelet és a magyar adatvédelmi törvény alapján is védett.
+
+**6. A névviseléshez való jog (Ptk. 2:43. § f) pont, Ptk. 2:49. §)**
+
+Mindenkit **megillet a jog a saját nevéhez**: hogy a nevét használja, hogy mások ne használják jogosulatlanul, hogy ne tévesszék össze mások nevével.
+
+A **Ptk. 2:49. § (1) bekezdése** szerint:
+
+"(1) Irodalmi, művészeti, tudományos vagy közéleti szerepléssel járó tevékenységet felvett névvel is lehet folytatni, ha ez nem jár mások lényeges jogi érdekének sérelmével."
+
+Ez a **művésznév, álnév** használatának joga.
+
+**7. A képmáshoz és a hangfelvételhez való jog (Ptk. 2:43. § g) pont, Ptk. 2:48. §)**
+
+A **Ptk. 2:48. §-a** szerint:
+
+"(1) Képmás vagy hangfelvétel elkészítéséhez és felhasználásához az érintett személy hozzájárulása szükséges.
+(2) Nincs szükség az érintett hozzájárulására a felvétel elkészítéséhez és az elkészített felvétel felhasználásához tömegfelvétel és nyilvános közéleti szereplésről készült felvétel esetén."
+
+Ez védi a személy **külső megjelenését** (képmás) és **hangját** (hangfelvétel). Főszabály szerint **hozzájárulás** szükséges a képmás vagy hangfelvétel elkészítéséhez és felhasználásához.
+
+Kivétel: **tömegfelvétel** (pl. utcai felvétel, stadionban készült felvétel) és **nyilvános közéleti szereplésről** készült felvétel esetén nincs szükség hozzájárulásra.
+
+Gyakorlati példa: Ha valaki engedély nélkül **fényképet** készít másról az utcán, és azt **közzéteszi** (pl. interneten, újságban), az **képmáshoz való jog megsértése**, kivéve, ha tömegfelvételről van szó.
+
+**8. A jogi személyek személyiségi jogai**
+
+A **Ptk. 3:1. § (3) bekezdése** szerint:
+
+"(3) A jogi személy személyhez fűződő jogaira a személyiségi jogokra vonatkozó szabályokat kell alkalmazni, kivéve, ha a védelem jellegénél fogva csupán az embert illetheti meg."
+
+A jogi személyek **bizonyos személyiségi jogokkal rendelkeznek**, amelyek jellegénél fogva nem csak az embert illethetik meg:
+- **Jóhírnév** (üzleti hírnév);
+- **Névhez való jog** (cégnév védelme);
+- **Üzleti titok** védelme.
+
+A jogi személyeket **nem illetik meg** azok a személyiségi jogok, amelyek jellegénél fogva csak embert illethetnek (pl. élethez való jog, testi épség, magánélet).
+
+
+III. A Személyiségi Jogok Megsértésének Jogkövetkezményei (Szankciók)
+
+A személyiségi jogok megsértése **jogkövetkezményeket** (szankciókat) von maga után. A Ptk. **két csoportra** osztja a szankciókat: **felróhatóságtól független (objektív)** és **felróhatósághoz kötött (szubjektív)** szankciók.
+
+**1. Objektív szankciók (felróhatóságtól függetlenül alkalmazandók)**
+
+A **Ptk. 2:51. § (1) bekezdése** sorolja fel a **felróhatóságtól független szankciókat**:
+
+"(1) Akit személyiségi jogában megsértenek, a jogsértés ténye alapján – az elévülési időn belül – az eset körülményeihez képest követelheti
+a) a jogsértés megtörténtének bírósági megállapítását;
+b) a jogsértés abbahagyását és a jogsértő eltiltását a további jogsértéstől;
+c) azt, hogy a jogsértő adjon megfelelő elégtételt, és ennek biztosítson saját költségén megfelelő nyilvánosságot;
+d) a sérelmes helyzet megszüntetését, a jogsértést megelőző állapot helyreállítását és a jogsértéssel előállított dolog megsemmisítését vagy jogsértő mivoltától való megfosztását;
+e) azt, hogy a jogsértő vagy jogutódja a jogsértéssel elért vagyoni előnyt engedje át javára a jogalap nélküli gazdagodás szabályai szerint."
+
+Ezek a szankciók **a jogsértés ténye alapján** (tehát **felróhatóság nélkül**) alkalmazandók. Ez azt jelenti, hogy a sértettnek **csak a jogsértés tényét** kell bizonyítania, **nem kell bizonyítania**, hogy a jogsértő felróhatóan (szándékosan vagy gondatlanul) járt el.
+
+**a) A jogsértés megtörténtének bírósági megállapítása**
+
+A bíróság **megállapítja**, hogy személyiségi jogsértés történt. Ez **deklaratív jellegű** szankció: nem szüntet meg, nem változtat, csak **kijelenti** a jogsértés tényét.
+
+Jelentősége: **erkölcsi elégtétel**, **hivatalos elismerése** annak, hogy jogsértés történt. Gyakran ez önmagában is elégséges a sértett számára.
+
+**b) A jogsértés abbahagyása és a jogsértő eltiltása a további jogsértéstől**
+
+Ha a jogsértés **folyamatos** vagy **ismétlődő**, a bíróság **kötelezheti** a jogsértőt a jogsértés **abbahagyására**, és **eltilthatja** a további jogsértéstől.
+
+Példa: Ha valaki folyamatosan **zaklat** mást (pl. állandó telefonálás, követés), a bíróság **eltilthatja** a zaklatástól.
+
+**c) Elégtételadás megfelelő nyilvánossággal**
+
+A jogsértő **köteles elégtételt adni** (pl. bocsánatot kérni, helyreigazító nyilatkozatot tenni), és ezt **megfelelő nyilvánosság** előtt (pl. újságban, honlapon, ahol a jogsértés történt).
+
+Példa: Ha valaki **újságban** rágalmazott valakit, köteles lehet újságban **helyreigazító nyilatkozatot** közzétenni, saját költségén, megfelelő méretben és helyen.
+
+**d) A sérelmes helyzet megszüntetése, az eredeti állapot helyreállítása**
+
+A bíróság **kötelezheti** a jogsértőt a sérelmes helyzet **megszüntetésére**, a jogsértést **megelőző állapot helyreállítására**, és a jogsértéssel előállított dolog **megsemmisítésére** vagy jogsértő mivoltától való **megfosztására**.
+
+Példa: Ha valaki **jogosulatlanul** használja más képmását reklámban, a bíróság **kötelezi** a reklám **eltávolítására**, a képmást tartalmazó anyagok **megsemmisítésére**.
+
+**e) A jogsértéssel elért vagyoni előny átengedése**
+
+Ha a jogsértő a jogsértéssel **vagyoni előnyt** szerzett (pl. jogosulatlanul használta más képmását, és ezzel profitot szerzett), **köteles** ezt az előnyt **átengedni** a jogalap nélküli gazdagodás szabályai szerint.
+
+Ez a **profit-elvonás**: a jogsértő **ne profitálhasson** a jogsértésből.
+
+**2. Szubjektív szankciók (felróhatóság esetén alkalmazandók)**
+
+A **felróhatósághoz kötött szankciók** csak akkor alkalmazandók, ha a jogsértő **felróhatóan** (szándékosan vagy gondatlanul) járt el.
+
+**a) Sérelemdíj (Ptk. 2:52. §)**
+
+A **sérelemdíj** a személyiségi jogok megsértésének **nem vagyoni káráért** járó **pénzbeli kompenzáció**. A **Ptk. 2:52. §-a** szabályozza:
+
+"(1) Akit személyiségi jogában megsértenek, sérelemdíjat követelhet az őt ért nem vagyoni sérelemért.
+(2) A sérelemdíj fizetésére kötelezés feltételeire – különösen a sérelemdíjra köteles személy meghatározására és a kimentés módjára – a kártérítési felelősség szabályait kell alkalmazni, azzal, hogy a sérelemdíjra való jogosultsághoz a jogsértés tényén kívül további hátrány bekövetkeztének bizonyítása nem szükséges.
+(3) A sérelemdíj mértékét a bíróság az eset körülményeire – különösen a jogsértés súlyára, ismétlődő jellegére, a felróhatóság mértékére, a jogsértésnek a sértettre és környezetére gyakorolt hatására – tekintettel, egy összegben határozza meg."
+
+A sérelemdíj **jellemzői**:
+
+**i) Nem vagyoni sérelemért jár**: A sérelemdíj a **lelki szenvedés, fájdalom, megaláztatás, félelem** kompenzációja (nem a vagyoni kár, amely külön kártérítéssel téríthető).
+
+**ii) Felróhatósághoz kötött**: A sérelemdíjra a **kártérítési felelősség szabályai** vonatkoznak (Ptk. 2:52. § (2) bekezdés), ami azt jelenti, hogy **felróhatóság** szükséges. A jogsértő azonban **csak akkor mentesül**, ha bizonyítja, hogy magatartása nem volt felróható.
+
+**iii) A jogsértés ténye elegendő**: A sérelemdíjra való jogosultsághoz **a jogsértés tényén kívül további hátrány bekövetkeztének bizonyítása nem szükséges** (Ptk. 2:52. § (2) bekezdés). Ez azt jelenti, hogy nem kell bizonyítani, hogy a sértett **ténylegesen szenvedett** (lelkileg megtört, depresszióba esett stb.) – a jogsértés ténye **vélelmezheti** a nem vagyoni sérelmet.
+
+**iv) Mértéke**: A bíróság **mérlegelési jogkörben**, **egy összegben** határozza meg a sérelemdíj mértékét, figyelembe véve:
+- a jogsértés **súlyát** (mennyire súlyos a jogsértés);
+- az **ismétlődő jelleget** (egyszeri vagy visszatérő jogsértés);
+- a **felróhatóság mértékét** (szándékos vagy gondatlan);
+- a jogsértés **hatását** a sértettre és környezetére (mennyire érintette a sértettet).
+
+A sérelemdíj **funkciói**:
+
+- **Kompenzáció**: a nem vagyoni sérelem pénzbeli ellentételezése;
+- **Elégtétel**: erkölcsi jóvátétel a sértett számára;
+- **Prevenció**: elrettenti a jogsértőt és másokat a jogsértéstől (általános és speciális prevenció).
+
+**b) Kártérítés (Ptk. 2:53. §)**
+
+A **Ptk. 2:53. §-a** szerint:
+
+"Aki személyiségi jogainak megsértéséből eredően kárt szenved, a jogellenesen okozott károkért való felelősség szabályai szerint követelheti a jogsértőtől kárának megtérítését."
+
+A **kártérítés** a személyiségi jogok megsértéséből eredő **vagyoni károkért** jár (nem a nem vagyoni sérelemért, amely a sérelemdíj tárgya).
+
+Vagyoni károk pl.:
+- **gyógykezelési költségek** (ha testi sérülést okoztak);
+- **jövedelemkiesés** (ha munkaképtelenné vált);
+- **helyreállítási költségek** (pl. ügyvédi költség a jóhírnév helyreállításához);
+- **elmaradt haszon** (pl. üzleti lehetőség elvesztése a jóhírnév csorbulása miatt).
+
+A kártérítésre a **Ptk. Hatodik Könyvének** kártérítési szabályai (Ptk. 6:519-6:534. §) vonatkoznak.
+
+**Fontos megkülönböztetés:**
+
+- **Sérelemdíj**: nem vagyoni sérelemért, felróhatósághoz kötött, a jogsértés ténye elegendő;
+- **Kártérítés**: vagyoni kárért, felróhatósághoz kötött, a kárt bizonyítani kell.
+
+A kettő **együtt** is érvényesíthető: a sértett követelheti **mind a sérelemdíjat** (nem vagyoni sérelem), **mind a kártérítést** (vagyoni kár).
+
+
+IV. Gyakorlati Jelentőség: Komplex Példa
+
+**Sajtó-helyreigazítási per példája:**
+
+**Tényállás**: Egy újság **cikket ír** **X**-ről, amelyben **valótlan tényeket állítanak** (pl. hogy X korrupt üzletember, aki megcsalta ügyfeleit). **X** nem korrupt, az állítások **hamisak**.
+
+**Jogsértés**: A jóhírnév megsértése (Ptk. 2:43. § d) pont, 2:45. § (2) bekezdés) – valótlan tény állítása.
+
+**Alkalmazható szankciók:**
+
+**1. Objektív szankciók** (Ptk. 2:51. § (1) bekezdés):
+
+**a) A jogsértés megtörténtének bírósági megállapítása**: A bíróság ítéletben megállapítja, hogy az újság megsértette X jóhírnévhez való jogát.
+
+**b) A jogsértő nyilatkozat helyreigazítása**: A bíróság **kötelezheti az újságot**, hogy tegyen közzé **helyreigazító nyilatkozatot**, amelyben **helyesbítik** a valótlan tényállításokat, és **elégtételt adnak** X-nek. A nyilatkozatot **megfelelő nyilvánossággal** (ugyanabban az újságban, hasonló méretben és helyen, mint az eredeti cikk) kell közzétenni, **saját költségen**.
+
+**c) A sérelmes helyzet megszüntetése**: Az újság köteles **eltávolítani** a cikket az online felületéről, **megsemmisíteni** a raktárkészletben lévő lapszámokat (ha indokolt).
+
+**d) A vagyoni előny átengedése**: Ha az újság a jogsértő cikkel **profitot szerzett** (pl. megnövekedett példányszám), köteles azt **átengedni** X-nek.
+
+**2. Szubjektív szankciók** (felróhatósághoz kötöttek):
+
+**a) Sérelemdíj** (Ptk. 2:52. §): X **sérelemdíjat** követelhet az őt ért **nem vagyoni sérelemért** (megaláztatás, lelki szenvedés, jóhírnév csorbulása). A bíróság **meghatározza a sérelemdíj összegét**, figyelembe véve a jogsértés súlyát, az újság felróhatóságát (szándékos vagy gondatlan volt-e), a jogsértés hatását X-re és környezetére.
+
+**b) Kártérítés** (Ptk. 2:53. §): Ha X-nek **vagyoni kára** is keletkezett a jogsértésből (pl. elmaradt üzleti lehetőségek, ügyvédi költségek, PR költségek a hírnév helyreállításához), azt **kártérítés** címén követelheti.
+
+**Hozzájáruló nyilatkozat és közérdek szerepe:**
+
+- Ha X **hozzájárult** volna a közléshez, az **nem lenne jogsértés** (Ptk. 2:42. § (3) bekezdés) – de X nyilvánvalóan nem járult hozzá valótlan tények közléséhez.
+
+- Ha X **közéleti szereplő**, és a közlés **közügy** (Ptk. 2:44. §), a védelme **korlátozottabb** (a közügyek szabad vitatása korlátozhatja a személyiségi jogok védelmét), de az **emberi méltóság sérelme nélkül**.
+
+- A **véleménynyilvánítás szabadsága** (Alaptörvény IX. cikk) **korlátozza** a személyiségi jogok védelmét: nem jogsértő a **kritika, véleménynyilvánítás**, még ha **sértő** is, de jogsértő a **valótlan tényállítás** vagy az **indokolatlanul bántó kifejezésmód**.
+
+
+V. Összegzés
+
+A **személyiségi jogok védelme** a magyar polgári jogban **kétszintű rendszert** alkot:
+
+**1. Általános védelem (generálklauzula)**: A **Ptk. 2:42. §-a** általános védelmet biztosít **minden** személyiségi jognak, még a törvényben kifejezetten nem nevesítetteknek is. Ez **nyitott rendszer**: a bíróság új személyiségi jogokat is elismerhet.
+
+**2. Nevesített jogok**: A **Ptk. 2:43. §-a** példálózó jelleggel felsorolja a legfontosabb személyiségi jogokat:
+- Élet, testi épség, egészség
+- Személyes szabadság, magánélet, magánlakás
+- Hátrányos megkülönböztetés tilalma
+- Becsület és jóhírnév (értékítélet vs. tényállítás)
+- Magántitok és személyes adatok védelme
+- Névviseléshez való jog
+- Képmáshoz és hangfelvételhez való jog
+
+**A szankciórendszer komplexitása:**
+
+**Objektív szankciók** (felróhatóságtól függetlenül) (Ptk. 2:51. §):
+- A jogsértés bírósági megállapítása
+- A jogsértés abbahagyása és eltiltás
+- Elégtételadás megfelelő nyilvánossággal
+- A sérelmes helyzet megszüntetése, eredeti állapot helyreállítása
+- A jogsértéssel elért vagyoni előny átengedése
+
+**Szubjektív szankciók** (felróhatósághoz kötöttek):
+- **Sérelemdíj** (Ptk. 2:52. §): nem vagyoni sérelemért, a jogsértés ténye elegendő, bírósági mérlegelés
+- **Kártérítés** (Ptk. 2:53. §): vagyoni kárért, a kárt bizonyítani kell
+
+A szankciórendszer egyszerre irányul:
+- a **jogsértés orvoslására** (helyreállítás, elégtétel);
+- a **prevencióra** (megakadályozza a további jogsértést, elrettent);
+- a **kompenzációra** (sérelemdíj, kártérítés).
+
+A személyiségi jogok védelme így **átfogó, differenciált és hatékony** rendszert alkot, amely biztosítja az **emberi méltóság**, a **személyiség** és az **egyéni autonómia** jogi védelmét a modern társadalomban.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

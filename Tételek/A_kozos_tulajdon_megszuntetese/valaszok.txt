@@ -1,0 +1,119 @@
+1. A közös tulajdonban a jog megosztása azt jelenti, hogy a tulajdonjog eszmei hányadokra oszlik, a dolog fizikailag osztatlan marad, míg a dolog fizikai megosztása azt jelenti, hogy a dolgot feldarabolják, mindenkinek külön része lesz, így különbség van a jogi és fizikai megosztás között.
+
+2. Ha a dolgon fennálló tulajdonjog meghatározott hányadok szerint több személyt is megillethet, akkor a tulajdonjog van megosztva, nem a dolog, minden tulajdonostárs az egész dolgon rendelkezik tulajdoni hányadával, így osztatlanság és eszmei hányadok jellemzik.
+
+3. Az osztatlanság elve azt jelenti, hogy a közös tulajdonban álló dolog fizikailag osztatlan marad, minden tulajdonostárs az egész dolgot birtokolja és használja, míg a fizikai megosztás azt jelenti, hogy a dolgot feldarabolják, mindenkinek külön része van, így az osztatlanság megőrzi a dolog egységét.
+
+4. Az eszmei (ideális) hányadok azt fejezik ki, hogy milyen arányban illeti meg a tulajdonostársakat a tulajdonjog (például 1/2, 1/3, 2/5), nem fizikai részt jelent, hanem jogok és kötelezettségek arányát, így meghatározza a hasznokat, költségeket, szavazati jogot, megszüntetéskor járó értéket.
+
+5. A fizikai rész azt jelenti, hogy a dolog egy konkrét, fizikai része (például ennek a szobának a falai, az épület ezen szintje), míg a jogi hányad azt jelenti, hogy a tulajdonjog meghatározott aránya (például 1/2, 1/3), amely az egész dolgra vonatkozik, így a fizikai rész konkrét, térbeli, a jogi hányad elvont, arányos.
+
+6. A Ptk. 5:73. § (2) bekezdése szerint ha a tulajdoni hányadok aránya nem bizonyított, akkor egyenlő hányadokat kell vélelmezni, ez megdönthető vélelem, aki azt állítja, hogy nem egyenlőek, annak kell bizonyítania, így védelmet biztosítva a bizonytalanság esetén.
+
+7. A bizonyított tulajdoni hányad az, amelyet a felek megállapodása, bírósági határozat vagy más okirat bizonyít (például 60%-40%), konkrét, megállapított, míg a vélelmezett egyenlő hányad az, amelyet a Ptk. 5:73. § (2) bekezdése vélelmez, ha nincs bizonyíték (50%-50%), alapértelmezett, megdönthető.
+
+8. A tulajdoni hányad meghatározza a hasznok szedésének arányát (bérleti díj, termés megosztása), a költségviselés arányát (javítás, fenntartás, adók viselése), a szavazati jog mértékét (határozathozatalnál), és a megszüntetéskor járó érték arányát (vételár vagy ellenérték felosztása), így négy területen.
+
+9. A birtoklás azt jelenti, hogy a tulajdonostárs a dolgot hatalmában tartja, fizikai uralom a dolog felett, míg a használat azt jelenti, hogy a dolgot rendeltetésszerűen használja, élvezi, hasznosítja, így a birtoklás a hatalom, a használat a hasznosítás.
+
+10. Ha minden tulajdonostárs jogosult a dolog birtoklására és használatára, akkor a Ptk. 5:74. § szerint minden tulajdonostárs az egész dolgot birtokolhatja és használhatja, nem csak a tulajdoni hányadának megfelelő részét, így biztosítva az osztatlanság elvének következetes érvényesülését.
+
+11. A jogosultság azt jelenti, hogy a Ptk. 5:74. § szerint minden tulajdonostárs jogosult a dolog birtoklására és használatára, pozitív jog, míg a korlátozás azt jelenti, hogy e jogot egyik sem gyakorolhatja a többiek jogának és jogi érdekeinek sérelmére, negatív korlát, így a jogosultság széles, de korlátozott.
+
+12. A többiek jogainak és a dologhoz fűződő lényeges jogi érdekeinek sérelme tilalma biztosítja, hogy a tulajdonostárs nem kizárólagosíthatja a dolog használatát, nem akadályozhatja a többi tulajdonostársat, nem károsíthatja a dolgot, tekintettel kell lennie a többiek jogaira, így védve a közösségi érdekeket.
+
+13. A kizárólagosítás tilalma azt jelenti, hogy egyik tulajdonostárs sem mondhatja, hogy csak én használom, nem zárhatja ki a többieket, míg az együttes birtoklás és használat azt jelenti, hogy minden tulajdonostárs együttesen birtokolja és használja az egész dolgot, így a kizárólagosítás tilos, az együttes birtoklás kötelező.
+
+14. Ha a tulajdonostársak között vita van a birtoklás vagy használat módjáról, akkor a Ptk. 5:79. § (3) bekezdése szerint a bíróság bármelyik tulajdonostárs kérelmére szabályozhatja a birtoklást és használatot, mérlegelési jogkörben, figyelembe véve a tulajdoni hányadokat, jogokat, érdekeket, okszerű gazdálkodást.
+
+15. A saját tulajdoni hányadnyal való rendelkezés azt jelenti, hogy a tulajdonostárs szabadon eladhatja, elzálogosíthatja, elajándékozhatja a saját hányadát, nem kell hozzájárulás, míg az egész közös tulajdonú dologgal való rendelkezés azt jelenti, hogy az egész dolgot eladják, elzálogosítják, ehhez egyhangú határozat kell.
+
+16. A Ptk. 5:80. § szerint saját tulajdoni hányadával a tulajdonostárs jogosult rendelkezni, mert ez a tulajdonjog alapvető tartalma, a tulajdonos rendelkezhet a tulajdonával, szabadon átruházhatja, megterhelhet, így biztosítva a tulajdonosi autonómiát és szabadságot.
+
+17. A többi tulajdonostárs hozzájárulásának szükségessége azt jelenti, hogy a rendelkezéshez mások egyetértése kell (egyhangú határozat az egész dolgot érintő rendelkezéshez), míg a hiánya azt jelenti, hogy nem kell hozzájárulás (saját hányadnyal való rendelkezés), így különbség van a függőség és az önállóság között.
+
+18. Ha a tulajdoni hányad átruházásával a jogszerző belép a közös tulajdonba, akkor tulajdonostárssá válik, őt illetik meg a tulajdonostársi jogok (birtoklás, használat, hasznok szedése, szavazati jog) és terhelik a kötelezettségek (költségviselés, kárviselés), így jogutódlás a közös tulajdonban.
+
+19. A szótöbbségi döntés a Ptk. 5:78. § (1) bekezdése szerint azt jelenti, hogy a közös tulajdont érintő kérdésekben a tulajdonostársak szótöbbséggel határoznak, tulajdoni hányad arányában szavazva, míg az egyhangú határozat a (2) bekezdés szerint azt jelenti, hogy minden tulajdonostárs egyetértése szükséges bizonyos kérdésekben.
+
+20. A Ptk. 5:78. § kétszintű döntéshozatali rendszert teremt: szótöbbségi döntés a főszabály (általános kérdésekben), egyhangú határozat kivétel (rendes gazdálkodás körét meghaladó kiadások, egész dolog feletti rendelkezés). A logikai alapja, hogy a szokásos kérdésekben elég a többség, de a különösen fontos kérdésekben minden tulajdonostárs egyetértése szükséges.
+
+21. A rendes gazdálkodás körét meghaladó kiadások jelentős, rendkívüli kiadások (nagy felújítás, átalakítás), amelyek meghaladják a szokásos költségeket, míg a szokásos kiadások a mindennapi, rendszeres költségek (javítás, fenntartás, közüzemi díjak), így különbség van a nagyságrendben és rendkívüliségben.
+
+22. Ha az egész dolog feletti tulajdonjog átruházásához egyhangú határozat szükséges, akkor a Ptk. 5:78. § (2) b) pontja szerint minden tulajdonostárs egyetértése kell, egy tulajdonostárs is megakadályozhatja az átruházást, így védve a kisebbséget, biztosítva a tulajdonosi autonómiát.
+
+23. A tulajdoni hányad arányában való szavazati jog azt jelenti, hogy aki nagyobb hányadú, annak nagyobb a szavazata (például 60% hányadú tulajdonostársnak 60% szavazata van), míg az egy személy egy szavazat elve azt jelenti, hogy mindenkinek egyenlő szavazata van, függetlenül a hányadtól, így a Ptk. az arányos szavazást követi.
+
+24. A Ptk. 5:79. § (1) bekezdése szerint ha a határozat az okszerű gazdálkodást sérti vagy a kisebbség jogi érdekeinek lényeges sérelmével jár, a kisebbség a határozatot a bíróságnál megtámadhatja, így védve a kisebbséget a többség önkényes vagy káros döntéseivel szemben.
+
+25. A határozat okszerű gazdálkodást sértő jellege azt jelenti, hogy a határozat gazdaságilag ésszerűtlen, káros a dolog értékére, hasznosítására, míg a kisebbség jogi érdekeinek lényeges sérelme azt jelenti, hogy a határozat súlyosan sérti a kisebbség jogait, érdekeit, így különbség van az objektív gazdasági és szubjektív jogi sérelem között.
+
+26. A törvényen alapuló elővásárlási jog a Ptk. 5:81. § szerint azt jelenti, hogy ha az egyik tulajdonostárs el akarja adni a hányadát, a többi tulajdonostársnak elsőbbségi joga van arra, hogy ugyanolyan feltételekkel megszerezzék, törvény alapján jár, nem szerződéses, így automatikus védelem a tulajdonostársak számára.
+
+27. A szerződéses elővásárlási jog a felek megállapodásán alapul, szerződésben kötik ki, jogcíme a szerződés, míg a törvényen alapuló elővásárlási jog a Ptk. 5:81. § szerint a törvény alapján jár, automatikusan megilleti a tulajdonostársakat, jogcíme a törvény, így különbség van a jogcímben.
+
+28. Az elővásárlási jog három célt szolgál: megakadályozza, hogy nemkívánatos harmadik személy kerüljön a közös tulajdonba, lehetővé teszi a tulajdonostársak számára, hogy növeljék tulajdoni hányadukat, és előmozdítja a közös tulajdon megszüntetését (ha megvásárolják a többi hányadot, egyedüli tulajdonossá válnak).
+
+29. A hasznok szedése a Ptk. 5:75. § szerint azt jelenti, hogy a dolog hasznait (bérleti díj, termés, hozadék) a tulajdonostársak tulajdoni hányaduk arányában megkapják, pozitív, jövedelem, míg a költségek viselése azt jelenti, hogy a dologgal kapcsolatos kiadásokat (javítás, fenntartás, adók) tulajdoni hányaduk arányában viselik, negatív, kiadás.
+
+30. Ha a hasznok és költségek tulajdoni hányad arányában oszlanak meg, akkor a Ptk. 5:75. § szerint a tulajdoni hányad arányosságának elve érvényesül, minden előny és hátrány arányosan oszlik meg, így biztosítva az igazságosságot és az arányosságot, aki nagyobb hányadú, több hasznot kap és több költséget visel.
+
+31. Az állag megóvásához feltétlenül szükséges munkálatok a Ptk. 5:76. § szerint sürgős, halaszthatatlan munkálatok (tető javítása, esőcső cseréje, fűtés javítása), amelyek az állag megőrzéséhez szükségesek, míg a rendes gazdálkodás körét meghaladó kiadások a Ptk. 5:78. § (2) a) pontja szerint jelentős, rendkívüli kiadások, nem sürgős.
+
+32. A Ptk. 5:76. § azzal, hogy bármelyik tulajdonostárs jogosult az állag megóvására, biztosítja, hogy sürgős munkálatok esetén ne kelljen megvárni a többiek hozzájárulását, azonnali intézkedés lehetséges, így védve a dolog értékét, megakadályozva a kárt, a költséget azonban mind viselik.
+
+33. A megszüntetés iránti alanyi jog különbözik más alanyi jogoktól abban, hogy a Ptk. 5:83. § (1) bekezdése szerint az e jogról való lemondás semmis, míg más alanyi jogokról lemondani lehet szerződéssel, így a megszüntetési jog lemondás-tilalommal védett.
+
+34. A Ptk. 5:83. § (1) bekezdése azzal, hogy az e jogról való lemondás semmis, biztosítja, hogy a tulajdonostársak ne kényszeríthessék egymást a lemondásra, ne köthessék el magukat örökre a közös tulajdonban maradásra, így védve a tulajdonosi szabadságot és autonómiát.
+
+35. Az alkalmatlan idő azt jelenti, hogy a megszüntetés különösen hátrányos lenne (szüret előtt a szőlő, nyaralás idején a nyaraló, súlyos betegség), míg az alkalmas idő azt jelenti, hogy a megszüntetés nem jár különös hátránnyal, normális körülmények, így különbség van az időzítés kedvezőségében.
+
+36. Ha a közös tulajdon megszüntetése alkalmatlan időre esik, akkor a Ptk. 5:83. § (2) bekezdése szerint a bíróság nem rendelheti el, elhalasztja a megszüntetést, de csak átmenetileg, később, alkalmas időben el kell rendelje, így védve a tulajdonostársakat a különös hátrányoktól.
+
+37. A természetbeni megosztás a dolgot fizikailag felosztják, mindenkinek külön rész jut kizárólagos tulajdonba, a megváltás egy vagy több tulajdonostárs tulajdonába adják megfelelő ellenérték fejében, az árverési értékesítés nyilvános árverésen értékesítik és a vételárat osztják fel, így különbség van a dolog sorsában.
+
+38. A Ptk. 5:84. § hierarchikus sorrendet követ: elsősorban természetbeni megosztás (ha lehetséges), másodsorban megváltás (ha természetbeni megosztás nem lehetséges vagy értékcsökkenéssel járna), végül árverési értékesítés (ha más módon nem szüntethető meg), így preferált sorrend.
+
+39. A fizikailag osztható dolog megosztható értékvesztés nélkül (földterület, értékpapírcsomag), míg a fizikailag oszthatatlan dolog nem osztható meg értékvesztés nélkül (gépkocsi, műtárgy), így a természetbeni megosztás csak osztható dolognál alkalmazható.
+
+40. A természetbeni megosztás akkor alkalmazható, ha a dolog fizikailag osztható, jogilag osztható (műemléképület nem), a megosztás nem jár jelentős értékcsökkenéssel, és nem gátolja a rendeltetésszerű használatot, így négy feltételnek kell teljesülnie.
+
+41. A megfelelő ellenérték fejében való megváltás a Ptk. 5:84. § (1) bekezdése szerint egy vagy több tulajdonostárs tulajdonába adják a dolgot, ellenértéket fizetnek, míg az árverési értékesítés a (2) bekezdés szerint nyilvános árverésen értékesítik, vételárat fizetnek, így a megváltás belső (tulajdonostársak között), az árverés külső (harmadik személyek felé).
+
+42. Ha a megváltáshoz főszabály szerint a megváltó beleegyezése szükséges, akkor a Ptk. 5:84. § (1) bekezdése szerint senkit nem lehet arra kényszeríteni, hogy magához váltsa a dolgot, védelmet biztosítva, kivéve a benne lakó tulajdonostárs esetét, így a beleegyezés védi a tulajdonost a kényszerítéstől.
+
+43. A benne lakó tulajdonostárs védelme a Ptk. 5:84. § (1) és (4) bekezdései szerint azt jelenti, hogy beleegyezés nélkül is magához váltható a lakás, vagy használati jogot kap, míg más tulajdonostársak esetében beleegyezés kell a megváltáshoz, így különbség van a védelem mértékében, a lakáshoz való jog védelme erősebb.
+
+44. A Ptk. 5:84. § (4) bekezdése biztosítja, hogy ha az ingatlan elhagyására kötelezés a benne lakó tulajdonostárs méltányos érdekét sérti (nincs más lakása, idős, beteg), a bíróság részére használati jogot alapít a tulajdoni hányadával arányos mértékben, így védve a lakáshoz való jogot.
+
+45. A használati jog alapítása azt jelenti, hogy a bíróság részére használati jogot alapít, a tulajdonostárs az ingatlanban maradhat, használhatja, míg az ingatlan elhagyására kötelezés azt jelenti, hogy ki kell költöznie, el kell hagynia az ingatlant, így a használati jog védi, az elhagyásra kötelezés nem.
+
+46. Ha az árverési értékesítés a végső, szubszidiárius megszüntetési mód, akkor a Ptk. 5:84. § (2) bekezdése szerint csak akkor alkalmazandó, ha sem a természetbeni megosztás, sem a megváltás nem lehetséges, vagy a természetbeni megosztás jelentős értékcsökkenéssel járna, így ultima ratio jellegű.
+
+47. A tulajdonostársakat megillető elővásárlási jog a Ptk. 5:84. § (2) bekezdése szerint azt jelenti, hogy az árverésen is gyakorolhatják, maguk is licitálhatnak, elsőbbségük van, míg más vásárlók csak akkor vásárolhatnak, ha a tulajdonostársak nem élnek az elővásárlási joggal, így védelem a tulajdonostársak számára.
+
+48. A Ptk. 5:84. § (6) bekezdése biztosítja, hogy a bíróság nem alkalmazhatja azt a megszüntetési módot, amely ellen valamennyi tulajdonostárs tiltakozik, így tiszteletben tartva a tulajdonostársak autonómiáját, nem kényszeríthet olyan módot, amit mindannyian elutasítanak.
+
+49. A társasházzá alakítás a Ptk. 5:84. § (5) bekezdése szerint ingatlanok esetén alkalmazható, különösen lakóépületeknél, a lakások külön tulajdonba, a közös részek közös tulajdonba kerülnek, míg más megszüntetési módok (természetbeni megosztás, megváltás, árverés) minden dologra alkalmazhatók.
+
+50. A közös tulajdon szabályozása egyensúlyt teremt a tulajdonostársak egyéni érdekei (saját hányadnyal való szabad rendelkezés a Ptk. 5:80. § szerint, megszüntetés iránti alanyi jog a Ptk. 5:83. § szerint, elővásárlási jog a Ptk. 5:81. § szerint) és közösségi érdekei (egész dologgal kapcsolatos döntések közössége a Ptk. 5:78. § szerint, költségviselés és hasznok szedése arányosan a Ptk. 5:75. § szerint, állag megóvása a Ptk. 5:76. § szerint) között, így koherens rendszert alkotva, amely biztosítja az egyéni szabadságot, a közösségi érdekek védelmét és a méltányosság érvényesülését.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
