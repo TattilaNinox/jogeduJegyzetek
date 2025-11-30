@@ -1,0 +1,131 @@
+================================================================================
+PROMPT SABLON AZ AI GENERÁLÁSHOZ
+================================================================================
+
+Ezt a szöveget másold be az AI prompt mezőbe, majd add hozzá a konkrét tételt!
+
+================================================================================
+
+@VEGLEGES_PROFESSZIONALIS_PROMPT_2.0.txt
+
+Olvasd el a fenti fájlt, majd generáld le a memóriapalota leírást és podcast scriptet a következő tételhez:
+
+/Users/tolgyesiattila/Desktop/POLGÁRI JOG/Tételek/Az_idegen_dologbeli_jogok.txt
+
+⚠️⚠️⚠️ KRITIKUS PARANCS: AUTOMATIKUSAN ELLENŐRIZD ÉS JAVÍTSD! ⚠️⚠️⚠️
+
+MINDEN mondat generálása ELŐTT és UTÁN automatikusan ellenőrizned kell a kritikus szabályokat!
+NE küldj el egyetlen mondatot sem, amíg NEM ellenőrizted és javítottad!
+A generált szövegnek MÁR HIBAMENTES ÁLLAPOTBAN kell megjelennie!
+
+================================================================================
+⚠️ KRITIKUS SZABÁLYOK - AUTOMATIKUSAN BETARTANDÓ! ⚠️
+================================================================================
+
+FONTOS: MINDEN mondat generálása ELŐTT AUTOMATIKUSAN végig kell menned ezen a checklisten!
+NE generálj egyetlen mondatot sem, amíg NEM ellenőrizted le ezeket a pontokat!
+
+MINDEN generált mondatnál AUTOMATIKUSAN kérdezd meg magadtól:
+
+1. "Ez logikus? Lehetséges a valóságban?"
+   ✅ JÓ: "lámpa kigyullad", "golyó gurul", "fénysugár lövell lámpából"
+   ❌ ROSSZ: "deszka pulzál", "fémlemezből golyó gurul", "pecsét pulzál"
+
+2. "Ez a tárgy valós? Konkrét? Nem absztrakt?"
+   ✅ JÓ: "fogaskerék", "mérleg", "lámpa", "deszka", "kocka", "golyó"
+   ❌ ROSSZ: "tükör", "kristály", "üveg", "gömb", "mechanizmus", "szerkezet"
+
+3. "Ez a cselekmény lehetséges? Ez a tárgy ezt tudja csinálni?"
+   ✅ JÓ: "lámpa kigyullad", "golyó gurul", "fénysugár lövell lámpából"
+   ❌ ROSSZ: "deszka pulzál", "pecsét pulzál", "fémlemezből golyó gurul"
+
+4. "Van benne tilos tárgy (tükör, kristály, üveg, gömb)?"
+   Ha igen → cseréld ki: "lámpa", "fémlemez", "fémtábla", "deszka", "kocka", "golyó"
+
+5. "A tárgy tulajdonságai kapcsolódnak a tananyaghoz?"
+   ✅ JÓ: "két szintből álló piramis" (ha a tananyagban van "két szint")
+   ❌ ROSSZ: "fekete tolmácsgép" (ha nincs "fekete" a tananyagban)
+   → Ha nincs kapcsolódó tananyag, csak a tárgy neve: "tolmácsgép"
+
+6. "A leírás tömör? Maximum 2-3 szó?"
+   ✅ JÓ: "tolmácsgép", "mérleg", "lámpa"
+   ❌ ROSSZ: "fekete fémből készült, precíziós tolmácsgép"
+
+7. "Az ok-okozati lánc folyamatos? Nem szakad meg?"
+   ✅ JÓ: "golyó eléri a kockát, és amikor eléri, a rugó összenyomódik"
+   ❌ ROSSZ: "golyó eléri a kockát." [új bekezdés] "Ez a korrekciós funkció?"
+
+8. "A dialógusban a tanuló csak azt mondja, amit már látott vagy hallott?"
+   ✅ JÓ: Mentor: "Itt egy ketrec látható, ahol egy oroszlán ül." Tanuló: "Látom, az oroszlán a ketrecben."
+   ✅ JÓ: Mentor: "Most megyünk be az állatkertbe." Tanuló: "Érdekes, akkor most megyünk be."
+   ❌ ROSSZ: Mentor: "Most megyünk be az állatkertbe." Tanuló: "Szóval az állatkertben lévő ketrecek reprezentálják..." (MÉG NEM LÁTTA!)
+   ❌ ROSSZ: Mentor: "Lépjünk be a kapun." Tanuló: "Látom, a ketrecben egy elefánt van." (MÉG NEM LÉPTÜNK BE!)
+   → A tanuló NEM mondhat olyat, amit még nem látott vagy nem hallott! Csak akkor reagálhat, ha már bemutattuk a tárgyat, helyszínt, eseményt!
+
+9. "A tárgyak, képek, szimbólumok a megadott helyszínre jellemzőek?"
+   ✅ JÓ: Ha állatkert → ketrec, állat, etető, ivó, játszótér
+   ✅ JÓ: Ha kúria → bírói pecsét, mérleg, dokumentum, pad
+   ✅ JÓ: Ha raktár → doboz, futószalag, polc, kocka
+   ❌ ROSSZ: Állatkertben "fogaskerék" vagy "mérleg" (ha nincs kapcsolat a tananyaggal)
+   ❌ ROSSZ: Kúriában "ketrec" vagy "állat" (ha nincs kapcsolat a tananyaggal)
+   → MINDIG a helyszínre jellemző tárgyakat használj! Ha állatkert, akkor állatok, ketrecek, etetők, ivók, játszóterek! Ha kúria, akkor bírói tárgyak, dokumentumok, pecsétek! Ha raktár, akkor dobozok, polcok, futószalagok!
+
+================================================================================
+TILOS LEHETETLEN CSELEKMÉNYEK (MINDIG ELLENŐRIZD!):
+================================================================================
+
+❌ TILOS: "deszka pulzál" → ✅ JÓ: "deszka mellett lámpák vannak, amelyek pulzálnak"
+❌ TILOS: "pálca pulzál" → ✅ JÓ: "pálca mellett lámpák vannak, amelyek pulzálnak"
+❌ TILOS: "pecsét pulzál" → ✅ JÓ: "pecsét mellett lámpák vannak, amelyek pulzálnak"
+❌ TILOS: "fémlemezből golyó gurul" → ✅ JÓ: "golyó kiesik a dobozból"
+❌ TILOS: "fémlemezből fénysugár lövell" → ✅ JÓ: "lámpából fénysugár lövell"
+❌ TILOS: "törött fémlemez" → ✅ JÓ: "lehajlított fémlemez" vagy "törött deszka"
+❌ TILOS: "mérleg aljáról golyó gurul" → ✅ JÓ: "golyó kiesik a mérleg serpenyőjéből"
+❌ TILOS: "etikátlan fémtábla" → ✅ JÓ: "etikátlan kép a táblán"
+
+KRITIKUS DIALÓGUS HIBÁK:
+❌ TILOS: A tanuló olyan dolgokat mondjon, amit a mentor még nem mutatott be!
+   ✅ JÓ: Mentor: "Itt egy ketrec látható, ahol egy oroszlán ül." Tanuló: "Látom, az oroszlán a ketrecben."
+   ❌ ROSSZ: Mentor: "Most megyünk be az állatkertbe." Tanuló: "Szóval az állatkertben lévő ketrecek reprezentálják..." (MÉG NEM LÁTTA!)
+   ❌ ROSSZ: Mentor: "Lépjünk be a kapun." Tanuló: "Látom, a ketrecben egy elefánt van." (MÉG NEM LÉPTÜNK BE!)
+   → A tanuló NEM mondhat olyat, amit még nem látott vagy nem hallott! Csak akkor reagálhat, ha már bemutattuk!
+
+FONTOS: Csak lámpák, fények tudnak pulzálni! Deszka, pálca, pecsét, tábla stb. NEM tud pulzálni!
+
+================================================================================
+AUTOMATIKUS ELLENŐRZÉSI MECHANIZMUS:
+================================================================================
+
+MINDEN mondat generálása UTÁN automatikusan végezd el ezt az ellenőrzést:
+
+1. Keresd meg: "pulzál", "pulzálnak" → Ha deszka, pálca, pecsét, tábla mellett van → AUTOMATIKUSAN JAVÍTSD!
+2. Keresd meg: "tükör", "kristály", "üveg", "gömb" → Ha van → AUTOMATIKUSAN JAVÍTSD!
+3. Keresd meg: "fémlemezből" → Ha golyó gurul vagy fénysugár lövell → AUTOMATIKUSAN JAVÍTSD!
+4. Keresd meg: "törött fémlemez" → Ha van → AUTOMATIKUSAN JAVÍTSD!
+5. Minden tárgy leírásnál: maximum 2-3 szó? → Ha több → AUTOMATIKUSAN JAVÍTSD!
+6. Minden ok-okozati láncnál: folytatódik-e? → Ha nem → AUTOMATIKUSAN JAVÍTSD!
+7. A dialógusban: a tanuló csak azt mondja, amit már látott vagy hallott? → Ha nem → AUTOMATIKUSAN JAVÍTSD!
+   → Ellenőrizd: A tanuló nem mondhat olyat, amit a mentor még nem mutatott be! Csak akkor reagálhat, ha már bemutattuk!
+8. Minden tárgynál: a helyszínre jellemző? → Ha nem → AUTOMATIKUSAN JAVÍTSD!
+   → Állatkert: ketrec, állat, etető, ivó, játszótér
+   → Kúria: bírói pecsét, mérleg, dokumentum, pad
+   → Raktár: doboz, futószalag, polc, kocka
+
+FONTOS: NE küldd el a választ, amíg NEM végezted el ezt az automatikus ellenőrzést és javítást!
+A generált szövegnek MÁR JAVÍTOTT ÁLLAPOTBAN kell megjelennie!
+
+================================================================================
+MUNKAFOLYAMAT (AUTOMATIKUSAN KÖVETENDŐ):
+================================================================================
+
+1. Olvasd el: @VEGLEGES_PROFESSZIONALIS_PROMPT_2.0.txt
+2. Generáld le a memóriapalota leírást és podcast scriptet
+3. MINDEN mondat generálása ELŐTT: végig kell menned a 9 kérdésen
+4. MINDEN mondat generálása UTÁN: automatikusan ellenőrizd és javítsd a fenti 8 pont szerint
+5. NE küldd el a választ, amíg MINDEN mondat ellenőrizve és javítva nincs!
+
+FONTOS: A generált szövegnek MÁR JAVÍTOTT, HIBAMENTES ÁLLAPOTBAN kell megjelennie!
+NE küldj el hibás szöveget, amit utólag kell javítani!
+
+================================================================================
+

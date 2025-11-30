@@ -8,6 +8,9 @@ DÁTUM: 2025
 CÉLKÖZÖNSÉG: Joghallgatók (szigorlat, szakvizsga)
 KÍVÁNT MINŐSÉG: Professzionális, vizsgára készítő, magas szintű oktatási anyag
 
+⚠️⚠️⚠️ FONTOS: MINDEN GENERÁLÁS ELŐTT OLVASD EL A "KRITIKUS_SZABALYOK_ROVID.txt" FÁJLT! ⚠️⚠️⚠️
+Ez a fájl tartalmazza a legfontosabb szabályokat röviden, amit MINDEN generálás előtt ellenőrizni kell!
+
 ⚠️ KRITIKUS FIGYELMEZTETÉS - ABSZOLÚT TILOS ⚠️
 TILOS használni absztrakt kifejezéseket, mint: "mechanizmus", "szerkezet", 
 "csatlakozóelem", "komponens", "elem", "platform", "terület", "zóna", 
@@ -30,12 +33,25 @@ TILOS LEHETETLEN CSELEKMÉNYEK:
 - TILOS: "törött fémlemez" - fémlemez nem törik, csak hajlítódik! HASZNÁLJ: "lehajlított fémlemez" vagy "törött deszka", "törött tábla"
 - TILOS: "mérleg aljáról golyó gurul" - lehetetlen! HASZNÁLJ: "golyó kiesik a mérleg serpenyőjéből"
 - TILOS: "etikátlan fémtábla" - lehetetlen! Egy tárgy nem lehet etikátlan, csak a kép rajta. HASZNÁLJ: "etikátlan kép a táblán"
+- TILOS: "deszka pulzál" vagy "deszka pulzálnak" - lehetetlen! Deszka nem tud pulzálni! HASZNÁLJ: "deszka mellett lámpák vannak, amelyek pulzálnak" vagy "deszka villog"
+- TILOS: "bírói pálca pulzál" vagy "pecsét pulzál" - lehetetlen! Ezek nem tudnak pulzálni! HASZNÁLJ: "pálca és pecsét mellett lámpák vannak, amelyek pulzálnak" vagy "pálca és pecsét villog"
+
+KRITIKUS DIALÓGUS HIBÁK:
+- TILOS: A tanuló olyan dolgokat mondjon, amit a mentor még nem mutatott be!
+  ✅ JÓ: Mentor: "Itt egy ketrec látható, ahol egy oroszlán ül." Tanuló: "Látom, az oroszlán a ketrecben."
+  ✅ JÓ: Mentor: "Most megyünk be az állatkertbe." Tanuló: "Érdekes, akkor most megyünk be."
+  ❌ TILOS: Mentor: "Most megyünk be az állatkertbe." Tanuló: "Szóval az állatkertben lévő ketrecek reprezentálják..." (MÉG NEM LÁTTA!)
+  ❌ TILOS: Mentor: "Lépjünk be a kapun." Tanuló: "Látom, a ketrecben egy elefánt van." (MÉG NEM LÉPTÜNK BE!)
+  ❌ TILOS: Mentor: "Most lépjünk be." Tanuló: "Látom, itt egy mérleg áll." (MÉG NEM LÉPTÜNK BE, NEM LÁTHATJA!)
+  → A tanuló NEM mondhat olyat, amit még nem látott vagy nem hallott! Csak akkor reagálhat, ha a mentor már bemutatta!
 
 MINDEN cselekménynek LOGIKUSNAK kell lennie:
 - Golyó gurul, kiesik, leesik - ezek logikusak
 - Fénysugár lövell lámpákból, fényekből - ez logikus
 - Tárgyak leesnek, elérnek más tárgyakat - ez logikus
+- Lámpák pulzálnak, villognak - ez logikus
 - De: fémlemezből nem tud semmi kigurulni vagy kilövellni!
+- De: deszka, pálca, pecsét, tábla stb. nem tud pulzálni! Csak lámpák, fények tudnak pulzálni!
 
 ================================================================================
 I. SZEREP ÉS KONTEXTUS
@@ -130,6 +146,18 @@ KÖVETELMÉNYEK:
   alakú, gömb = gömb alakú (ne keverd össze!)
 - Kerüld a misztikus tárgyakat, de törekedj az erős képi hatásra
 
+KRITIKUS SZABÁLY - HELYSZÍN-SPECIFIKUS TÁRGYAK:
+- ABSZOLÚT KÖVETELMÉNY: MINDEN tárgy, kép, szimbólum a megadott helyszínre jellemző kell legyen!
+- Ha állatkert → HASZNÁLJ: ketrec, állat (oroszlán, elefánt, tigris, stb.), etető, ivó, játszótér, állatkert útvonalak
+- Ha kúria → HASZNÁLJ: bírói pecsét, bírói pálca, mérleg, dokumentum, pad, bírói terem, folyosó
+- Ha raktár → HASZNÁLJ: doboz, futószalag, polc, kocka, raktár terület, osztályozó zóna
+- Ha modern irodaház → HASZNÁLJ: iroda, asztal, szék, dokumentum, számítógép, folyosó
+- Ha parlamenti folyosó → HASZNÁLJ: folyosó, terem, pad, dokumentum, pecsét, tábla
+- TILOS: Állatkertben "fogaskerék" vagy "mérleg" (ha nincs kapcsolat a tananyaggal) → HASZNÁLJ helyette: ketrec, állat, etető
+- TILOS: Kúriában "ketrec" vagy "állat" (ha nincs kapcsolat a tananyaggal) → HASZNÁLJ helyette: bírói pecsét, dokumentum, pad
+- TILOS: Raktárban "bírói pecsét" (ha nincs kapcsolat a tananyaggal) → HASZNÁLJ helyette: doboz, polc, futószalag
+- MINDEN tárgynak a helyszínre jellemzőnek kell lennie! Ne használj generikus tárgyakat, amik nem illenek a helyszínhez!
+
 KRITIKUS SZABÁLY - TÖMÖR LEÍRÁS ÉS TULAJDONSÁGOK:
 - A tárgyak leírása legyen TÖMÖR, EGYSZERŰ, RÖVID
 - TILOS túlmagyarázni a tárgyakat! Ne legyen több információ a tárgyról, mint a 
@@ -162,6 +190,11 @@ TILOS:
   tanulnivalóról! A tárgy leírása legyen tömör, maximum 2-3 szó!
 - ABSZOLÚT SZABÁLY: A tárgy tulajdonságai CSAK akkor lehetnek, ha a tananyaghoz 
   kapcsolódnak! Ha nincs kapcsolódó tananyag, akkor csak a tárgy neve!
+- ABSZOLÚT TILOS: A helyszínre nem jellemző tárgyak használata!
+  ❌ TILOS: Állatkertben "fogaskerék", "mérleg" (ha nincs kapcsolat a tananyaggal)
+  ❌ TILOS: Kúriában "ketrec", "állat" (ha nincs kapcsolat a tananyaggal)
+  ❌ TILOS: Raktárban "bírói pecsét" (ha nincs kapcsolat a tananyaggal)
+  ✅ MINDIG a helyszínre jellemző tárgyakat használj!
 
 PÉLDÁK JÓ SZIMBÓLUMOKRA (VALÓS TÁRGYAK):
 - "Jogvesztő határidő" = homokóra, ami éppen darabokra törik a padlón
@@ -192,6 +225,8 @@ ROSSZ PÉLDÁK (TILOS HASZNÁLNI):
 - "mérleg aljáról golyó gurul" → helyette: "golyó kiesik a mérleg serpenyőjéből"
 - "etikátlan fémtábla" → helyette: "etikátlan kép a táblán" (a tárgy nem lehet etikátlan, csak a kép rajta)
 - "festék szivárog a fémlemezből" → helyette: "fémlemez leesik" vagy "festék szivárog a törött dobozból"
+- "deszka pulzál" vagy "deszka pulzálnak" → helyette: "deszka mellett lámpák vannak, amelyek pulzálnak" vagy "deszka villog"
+- "bírói pálca pulzál" vagy "pecsét pulzál" → helyette: "pálca és pecsét mellett lámpák vannak, amelyek pulzálnak" vagy "pálca és pecsét villog"
 - "fekete fémből készült tolmácsgép" → helyette: "fekete tolmácsgép" (CSAK ha a "fekete" színhez van kapcsolódó tananyag!) vagy csak "tolmácsgép" (ha nincs)
 - "bronzból készült, precíziós bírói mérleg" → helyette: "bronz mérleg" (CSAK ha a "bronz" anyaghoz van kapcsolódó tananyag!) vagy csak "mérleg" (ha nincs)
 - "kristályos, szivárványos fényt szóró lámpa" → helyette: "lámpa" (TILOS színt, anyagot említeni, ha nincs kapcsolódó tananyag!)
@@ -207,6 +242,19 @@ KÖVETELMÉNYEK:
 - Példák: folyékony anyag lefolyik → eléri a következő tárgyat → az aktiválódik
 - Fény, festék, golyó, gáz stb. folyik, gurul, csapódik → eléri a következő tárgyat
 - A dolgok csatlakozzanak egymáshoz, ne csak egymás mellett legyenek
+
+KRITIKUS SZABÁLY - FOLYAMATOS OK-OKOZATI LÁNC:
+- ABSZOLÚT TILOS megszakítani az ok-okozati láncokat blokkok között!
+- Ha egy esemény elkezdődik (pl. "golyó eléri a következő kockát"), akkor AZONNAL 
+  folytatódnia kell, hogy mi történik, amikor eléri!
+- TILOS: "golyó eléri a következő kockát" → majd a következő bekezdésben másról beszélni!
+- HASZNÁLJ: "golyó eléri a következő kockát, és amikor eléri, a kockában lévő rugó 
+  összenyomódik" → így folyamatosan folytatódik!
+- Az eseményeknek FOLYAMATOSAN kell következniük egymásból, ne legyen megszakítás!
+- Példa ROSSZ: "golyó eléri a második táblát." [új bekezdés] "Ez az aránytalanság." 
+  → TILOS! A golyó eléri a táblát, de nem mondjuk el, hogy mi történik!
+- Példa JÓ: "golyó eléri a második táblát, és amikor eléri, a tábla leesik, és 
+  amikor leesik, eléri a harmadik táblát." → így folyamatosan folytatódik!
 
 PÉLDÁK OK-OKOZATI KAPCSOLATOKRA:
 - Törött tükör → festék szivárog → eléri a fogaskereket → az elkezd forogni → 
@@ -278,6 +326,16 @@ DIALÓGUS JELLEMZŐI:
 - Természetes megszakítások, mondatbefejezések megengedettek
 - Használhatók természetes töltőszavak ("hmm", "várj", "ah, értem"), de ne 
   túlzásba
+
+KRITIKUS SZABÁLY - DIALÓGUS LOGIKA:
+- ABSZOLÚT TILOS: A tanuló olyan dolgokat mondjon, amit még nem látott vagy nem hallott!
+- A tanuló csak akkor reagálhat, ha a mentor már bemutatta a tárgyat, helyszínt, eseményt!
+- ✅ JÓ: Mentor: "Itt egy ketrec látható, ahol egy oroszlán ül." Tanuló: "Látom, az oroszlán a ketrecben."
+- ✅ JÓ: Mentor: "Most megyünk be az állatkertbe." Tanuló: "Érdekes, akkor most megyünk be."
+- ❌ TILOS: Mentor: "Most megyünk be az állatkertbe." Tanuló: "Szóval az állatkertben lévő ketrecek reprezentálják..." (MÉG NEM LÁTTA!)
+- ❌ TILOS: Mentor: "Lépjünk be a kapun." Tanuló: "Látom, a ketrecben egy elefánt van." (MÉG NEM LÉPTÜNK BE!)
+- ❌ TILOS: Mentor: "Most lépjünk be." Tanuló: "Látom, itt egy mérleg áll." (MÉG NEM LÉPTÜNK BE, NEM LÁTHATJA!)
+- A tanuló csak azt mondhatja, amit a mentor már bemutatott vagy amit már láthat!
 
 4.2 VISSZAIGAZOLÓ FORDULATOK VÁLTOZATOSSÁGA
 
@@ -530,6 +588,7 @@ VIII. MUNKAVÉGZÉSI FOLYAMAT ÉS ELLENŐRZÉSI LISTA
    - Természetes dialógus
    - MENTOR és TANULÓ címkékkel (név nélkül!)
    - Változatos visszaigazoló fordulatok
+   - DIALÓGUS LOGIKA: A tanuló csak azt mondja, amit már látott vagy hallott! TILOS olyan dolgokat mondania, amit még nem mutattunk be!
    - Minden jogszabály szó szerinti idézése
    - Csak VALÓS tárgyakat említsünk, ne absztrakt kifejezéseket
 
@@ -541,6 +600,14 @@ VIII. MUNKAVÉGZÉSI FOLYAMAT ÉS ELLENŐRZÉSI LISTA
 
 8.2 ELLENŐRZÉSI LISTA MINDEN FÁJL ELŐTT
 
+KRITIKUS DIALÓGUS HIBÁK - MINDIG ELLENŐRIZD:
+☐ A tanuló csak azt mondja, amit már látott vagy hallott
+☐ TILOS: A tanuló olyan dolgokat mondjon, amit a mentor még nem mutatott be
+☐ TILOS: A tanuló olyan következtetéseket vonjon le, amikhez még nincs információ
+☐ Példa ROSSZ: Mentor: "Most megyünk be." Tanuló: "Látom, itt egy mérleg áll." (MÉG NEM LÉPTÜNK BE!)
+☐ Példa ROSSZ: Mentor: "Most megyünk be az állatkertbe." Tanuló: "Szóval az állatkertben lévő ketrecek reprezentálják..." (MÉG NEM LÁTTA!)
+☐ Példa JÓ: Mentor: "Itt egy ketrec látható, ahol egy oroszlán ül." Tanuló: "Látom, az oroszlán a ketrecben."
+
 MEMÓRIAPALOTA LEÍRÁS:
 ☐ Egyedi helyszín, nem ismétlődik az előzőekkel
 ☐ Logikus útvonal, bejárható struktúra
@@ -548,11 +615,13 @@ MEMÓRIAPALOTA LEÍRÁS:
 ☐ MINDEN szimbólum VALÓS tárgy (nem absztrakt: mechanizmus, szerkezet, platform, terület, zóna, stb.)
 ☐ MINDEN tárgy LOGIKUS alakú (fogaskerék = kör alakú, kocka = kocka alakú, gömb = gömb alakú)
 ☐ TILOS tárgyak: tükör, kristály, üveg, gömb - használj: lámpa, fémlemez, fémtábla, deszka, kocka, golyó
-☐ MINDEN cselekmény LOGIKUS (TILOS: fémlemezből golyó gurul, fémlemezből fénysugár lövell, törött fémlemez, mérleg aljáról golyó gurul, etikátlan fémtábla)
+☐ MINDEN cselekmény LOGIKUS (TILOS: fémlemezből golyó gurul, fémlemezből fénysugár lövell, törött fémlemez, mérleg aljáról golyó gurul, etikátlan fémtábla, deszka pulzál, pálca pulzál, pecsét pulzál - ezek nem tudnak pulzálni! Csak lámpák tudnak pulzálni!)
 ☐ TÖMÖR LEÍRÁS: TILOS túlmagyarázni! Maximum 2-3 szó a tárgyra: "tolmácsgép", "mérleg", "lámpa" (nem: "fekete fémből készült tolmácsgép")
 ☐ TULAJDONSÁGOK SZABÁLYA: A tárgy tulajdonságai CSAK akkor lehetnek, ha a tananyaghoz kapcsolódnak! Ha nincs kapcsolódó tananyag, akkor csak a tárgy neve!
+☐ HELYSZÍN-SPECIFIKUS TÁRGYAK: MINDEN tárgy a helyszínre jellemző! Állatkert → ketrec, állat, etető, ivó, játszótér. Kúria → bírói pecsét, mérleg, dokumentum, pad. Raktár → doboz, polc, futószalag. TILOS generikus tárgyak használata, amik nem illenek a helyszínhez!
 ☐ A fókusz a tanulnivalón legyen, nem a tárgy leírásán!
 ☐ Ok-okozati kapcsolatok: tárgyak egymásból következnek
+☐ FOLYAMATOS OK-OKOZATI LÁNC: TILOS megszakítani az eseményeket blokkok között! Ha egy esemény elkezdődik (pl. "golyó eléri a következő kockát"), akkor AZONNAL folytatódnia kell, hogy mi történik, amikor eléri!
 ☐ Fizikai jelenlét érzékelése (instrukciók a térben való mozgásra)
 ☐ Minden jogszabály szó szerinti idézése
 ☐ Forrásmegjelölés minden jogszabálynál
@@ -566,12 +635,15 @@ PODCAST SCRIPTEK:
 ☐ MENTOR és TANULÓ címkékkel (név nélkül, NEM Márk vagy más név!)
 ☐ Változatos visszaigazoló fordulatok (nem egysíkú, nem papagály módjára)
 ☐ Tanuló aktív részvétel, kérdések
+☐ DIALÓGUS LOGIKA: A tanuló csak azt mondja, amit már látott vagy hallott! TILOS olyan dolgokat mondania, amit még nem mutattunk be!
 ☐ Csak VALÓS tárgyakat említünk, ne absztrakt kifejezéseket
 ☐ TILOS tárgyak: tükör, kristály, üveg, gömb - használj: lámpa, fémlemez, fémtábla, deszka, kocka, golyó
-☐ MINDEN cselekmény LOGIKUS (TILOS: fémlemezből golyó gurul, fémlemezből fénysugár lövell, törött fémlemez, mérleg aljáról golyó gurul, etikátlan fémtábla)
+☐ MINDEN cselekmény LOGIKUS (TILOS: fémlemezből golyó gurul, fémlemezből fénysugár lövell, törött fémlemez, mérleg aljáról golyó gurul, etikátlan fémtábla, deszka pulzál, pálca pulzál, pecsét pulzál - ezek nem tudnak pulzálni! Csak lámpák tudnak pulzálni!)
 ☐ TÖMÖR LEÍRÁS: TILOS túlmagyarázni! Maximum 2-3 szó a tárgyra: "tolmácsgép", "mérleg", "lámpa" (nem: "fekete fémből készült tolmácsgép")
 ☐ TULAJDONSÁGOK SZABÁLYA: A tárgy tulajdonságai CSAK akkor lehetnek, ha a tananyaghoz kapcsolódnak! Ha nincs kapcsolódó tananyag, akkor csak a tárgy neve!
+☐ HELYSZÍN-SPECIFIKUS TÁRGYAK: MINDEN tárgy a helyszínre jellemző! Állatkert → ketrec, állat, etető, ivó, játszótér. Kúria → bírói pecsét, mérleg, dokumentum, pad. Raktár → doboz, polc, futószalag. TILOS generikus tárgyak használata, amik nem illenek a helyszínhez!
 ☐ A fókusz a tanulnivalón legyen, nem a tárgy leírásán!
+☐ FOLYAMATOS OK-OKOZATI LÁNC: TILOS megszakítani az eseményeket blokkok között! Ha egy esemény elkezdődik (pl. "golyó eléri a következő kockát"), akkor AZONNAL folytatódnia kell, hogy mi történik, amikor eléri!
 ☐ Minden jogszabály szó szerinti idézése
 ☐ Forrásmegjelölés minden jogszabálynál
 ☐ Számok betűvel írva
@@ -627,6 +699,22 @@ IX. PÉLDÁK ÉS REFERENCIA ANYAGOK
   lila fény kigyullad
 - Festék ráfolyik a táblára → tábla megváltozik → fekete fény kiszabadul → 
   eléri a következő táblát
+
+FOLYAMATOS OK-OKOZATI LÁNC PÉLDÁK:
+
+JÓ PÉLDA (folyamatosan folytatódik):
+"Egy golyó kiesik a mérleg egyik serpenyőjéből, és eléri a következő kockát. 
+A golyó eléri a negyedik kockát, és amikor eléri, a kockában lévő rugó 
+összenyomódik, majd visszapattan, és amikor visszapattan, egy fényt bocsát ki, 
+amely eléri a kocka tetején lévő lámpát, és az elkezd ragyogni."
+
+ROSSZ PÉLDA (megszakad a lánc):
+"Egy golyó kiesik a mérleg egyik serpenyőjéből, és eléri a következő kockát."
+[új bekezdés]
+"Ez a korrekciós funkció?"
+[új bekezdés]
+"A negyedik kockában egy rugó van..."
+→ TILOS! A golyó eléri a kockát, de nem mondjuk el, hogy mi történik, amikor eléri!
 
 9.5 JÓ PÉLDÁK DIALÓGUSRA
 
@@ -694,6 +782,9 @@ MINDENKOR TISZTELNI KELL:
    - TILOS: "mérleg aljáról golyó gurul" → helyette: "golyó kiesik a mérleg serpenyőjéből"
    - TILOS: "etikátlan fémtábla" → helyette: "etikátlan kép a táblán"
    - TILOS: "festék szivárog a fémlemezből" → helyette: "fémlemez leesik" vagy "festék szivárog a törött dobozból"
+   - TILOS: "deszka pulzál" vagy "deszka pulzálnak" → helyette: "deszka mellett lámpák vannak, amelyek pulzálnak" vagy "deszka villog"
+   - TILOS: "bírói pálca pulzál" vagy "pecsét pulzál" → helyette: "pálca és pecsét mellett lámpák vannak, amelyek pulzálnak" vagy "pálca és pecsét villog"
+   - FONTOS: Csak lámpák, fények tudnak pulzálni! Deszka, pálca, pecsét, tábla stb. nem tud pulzálni!
 
 3. TÖMÖR LEÍRÁS ÉS TULAJDONSÁGOK SZABÁLYA: TILOS túlmagyarázni a tárgyakat!
    - ABSZOLÚT SZABÁLY: A tárgy tulajdonságai CSAK akkor lehetnek, ha a tananyaghoz 
@@ -711,6 +802,13 @@ MINDENKOR TISZTELNI KELL:
 
 4. OK-OKOZATI KAPCSOLATOK: A tárgyak egymásból következzenek, ne csak egymás 
    mellett legyenek
+   - FOLYAMATOS OK-OKOZATI LÁNC: ABSZOLÚT TILOS megszakítani az eseményeket blokkok 
+     között! Ha egy esemény elkezdődik (pl. "golyó eléri a következő kockát"), 
+     akkor AZONNAL folytatódnia kell, hogy mi történik, amikor eléri!
+   - Példa ROSSZ: "golyó eléri a második táblát." [új bekezdés] "Ez az aránytalanság." 
+     → TILOS! A golyó eléri a táblát, de nem mondjuk el, hogy mi történik!
+   - Példa JÓ: "golyó eléri a második táblát, és amikor eléri, a tábla leesik, és 
+     amikor leesik, eléri a harmadik táblát." → így folyamatosan folytatódik!
 
 5. NÉV NÉLKÜLI KARAKTEREK: MENTOR és TANULÓ, de NEM Márk vagy más név
 
@@ -721,6 +819,14 @@ MINDENKOR TISZTELNI KELL:
 8. TTS OPTIMALIZÁLÁS: Számok betűvel, nincs rövidítés, nincs speciális karakter
 
 9. EGYEDI KONCEPCIÓ: Minden memóriapalota egyedi, nem sablonos
+
+10. HELYSZÍN-SPECIFIKUS TÁRGYAK: MINDEN tárgy, kép, szimbólum a megadott helyszínre jellemző kell legyen!
+    - Állatkert → ketrec, állat, etető, ivó, játszótér, állatkert útvonalak
+    - Kúria → bírói pecsét, bírói pálca, mérleg, dokumentum, pad, bírói terem
+    - Raktár → doboz, futószalag, polc, kocka, raktár terület
+    - Modern irodaház → iroda, asztal, szék, dokumentum, számítógép
+    - Parlamenti folyosó → folyosó, terem, pad, dokumentum, pecsét
+    - TILOS generikus tárgyak használata, amik nem illenek a helyszínhez!
 
 ================================================================================
 VÉGE
