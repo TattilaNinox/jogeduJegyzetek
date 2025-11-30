@@ -1,83 +1,100 @@
 MENTOR
-Üdvözöllek! Ma a polgári jog alapköveit, az alapelveket fogjuk megvizsgálni, különös tekintettel a joggal való visszaélés tilalmára. Hogy ezeket az elvont szabályokat kézzelfoghatóvá tegyük, egy különleges helyszínre látogatunk: egy hatalmas, régi vasúti pályaudvarra. Képzeld el a gőzmozdonyok füstjét, a fémek csikorgását és a visszhangzó csarnokot.
+Üdvözöllek! Ma a polgári jog alapköveit, az alapelveket fogjuk megvizsgálni, különös tekintettel a joggal való visszaélés tilalmára. Nem csak felsoroljuk őket, hanem megnézzük a mélyebb összefüggéseiket is: hogyan töltenek ki joghézagokat, hogyan korrigálják a merev szabályokat, és mi a különbség a jóhiszeműség és a tisztesség között. Hogy ezeket az elvont szabályokat kézzelfoghatóvá tegyük, egy különleges helyszínre látogatunk: egy hatalmas, régi vasúti pályaudvarra.
 
 TANULÓ
 Izgalmasan hangzik! A vasútállomás rendszere és szabályai biztosan segítenek megérteni a jogi struktúrát. Induljunk!
 
 MENTOR
-Lépjünk be a főbejáraton az Indulási Csarnokba. Nézz fel! A fejünk felett egy óriási, kattogó Menetrendi Tábla kattog, rajta a vágányok számai és az indulási idők. Ez a tábla jelképezi az alapelveket: ezek határozzák meg az egész forgalom, vagyis a polgári jogi viszonyok kereteit. A tábla mellett egy hatalmas Mérőszalag lóg a mennyezetről.
+Lépjünk be a főbejáraton az Indulási Csarnokba. Nézz fel! A fejünk felett egy óriási, kattogó Menetrendi Tábla kattog, rajta a vágányok számai és az indulási idők. Ez a tábla jelképezi az alapelveket mint általános normákat: ezek határozzák meg az egész forgalom kereteit. A tábla mellett egy hatalmas Mérőszalag lóg a mennyezetről.
 
 TANULÓ
-Értem, tehát ez a Mérőszalag a zsinórmérték, amihez minden mást igazítani kell a jogalkalmazás során.
+Gondolom, ez a jogértelmezési funkció: az alapelvek a zsinórmérték, amihez minden mást igazítani kell.
 
 MENTOR
-Pontosan. És nézd csak a padlót! Egy helyen hiányzik a burkolat, egy nagy repedés tátong, amit egy munkás éppen friss betonnal tölt ki. Ez a joghézagkitöltő funkció: ahol a törvény szövege lyukas, ott az alapelvek, mint a beton, kitöltik a hézagot. Most pedig menjünk ki a peronokhoz. Az egyes vágánynál két fényes sínpárt látsz a földön.
+Pontosan. De nézd csak a padlót! Egy helyen hiányzik a burkolat, egy nagy repedés tátong, amit egy munkás éppen friss betonnal tölt ki. Ez a joghézagkitöltő funkció: ahol a törvény szövege lyukas, ott az alapelvek, mint a beton, kitöltik a hézagot, biztosítva a jogrendszer teljességét. És figyeld meg, mi van a munkás kezében! Egy Állítható Csavarkulcs. Éppen egy berozsdásodott, túl szoros csavart lazít meg vele.
 
 TANULÓ
-Látom a síneket. Párhuzamosan futnak egymás mellett, soha nem keresztezik egymást, és egyik sincs magasabban a másiknál.
+Ez mit jelképez?
 
 MENTOR
-Így van. Ez a kép a mellérendeltség és egyenjogúság elvét rögzíti. A felek, mint a sínpár két szála, egyenrangúak. A Polgári Törvénykönyv első könyvének első paragrafusa szerint: E törvény a mellérendeltség és egyenjogúság elve szerint szabályozza a személyek alapvető vagyoni és személyi viszonyait.
+Ez a korrekciós funkció. A bíró az alapelvek segítségével "meglazíthatja", korrigálhatja a merev tételes szabályokat, ha azok alkalmazása az adott esetben igazságtalan lenne. Ez adja a rendszer rugalmasságát. Most pedig menjünk ki a peronokhoz. Az egyes vágánynál két fényes sínpárt látsz a földön.
 
 TANULÓ
-Tehát a mellérendeltség és egyenjogúság elve szerint. Ez világos.
+Látom a síneket. Párhuzamosan futnak egymás mellett, soha nem keresztezik egymást.
 
 MENTOR
-Most emeld a tekinteted a sínek melletti magas építményre. Egy Jelzőtornyot látsz. A tetején egy hatalmas Főjelző karja áll, alatta pedig egy kisebb Jelzőlámpa világít. A kettőt egy vastag drótkötél köti össze. Ha a fenti Főjelző, ami az Alaptörvényt jelképezi, elmozdul, a lenti Jelzőlámpa, a Polgári Törvénykönyv, kénytelen követni a mozgását.
+Így van. Ez a kép a mellérendeltség és egyenjogúság elvét rögzíti. A felek, mint a sínpár két szála, egyenrangúak, horizontális viszonyban vannak. Hogy lásd a különbséget, nézz a távolba! Ott egy magas Őrtorony áll, ahol a parancsnok fentről kiabál le a beosztottjainak. Az a közjog világa, a vertikális, alá-fölérendeltségi viszony. A polgári jogban viszont sínek vannak, nem tornyok.
+A Polgári Törvénykönyv első könyvének első paragrafusa szerint: E törvény a mellérendeltség és egyenjogúság elve szerint szabályozza a személyek alapvető vagyoni és személyi viszonyait.
 
 TANULÓ
-Ez nagyon szemléletes! Szóval a drótkötél mutatja a hierarchikus viszonyt és az összhangot a két szint között.
+Ez nagyon tiszta különbségtétel. Vízszintes sínek kontra magas torony.
+
+MENTOR
+Most emeld a tekinteted a sínek melletti magas építményre. Egy Jelzőtornyot látsz. A tetején egy hatalmas Főjelző Karja áll, alatta pedig egy kisebb Alsó Kar. A kettőt egy vastag drótkötél köti össze. Ha a fenti Főjelző, ami az Alaptörvényt jelképezi, elmozdul, a lenti Alsó Kar, a Polgári Törvénykönyv, mechanikusan kénytelen követni a mozgását. A torony legtetején pedig egy kis Nemzetközi Zászló lobog.
+
+TANULÓ
+Ez a hierarchikus értelmezés elve. A Polgári Törvénykönyvnek követnie kell az Alaptörvényt, és figyelembe kell venni a nemzetközi kötelezettségeket is.
 
 MENTOR
 Igen. A Polgári Törvénykönyv első könyvének második paragrafusának első és második bekezdése szerint: E törvény rendelkezéseit Magyarország alkotmányos rendjével összhangban kell értelmezni. A polgári jogi viszonyokra vonatkozó jogszabályokat e törvénnyel összhangban kell értelmezni.
 
 TANULÓ
-Értem. Tehát Magyarország alkotmányos rendjével és e törvénnyel összhangban. Menjünk tovább!
+Értem. Alkotmány, Polgári Törvénykönyv, egyéb jogszabályok. Menjünk tovább!
 
 MENTOR
-Lépjünk be a Jegyirodába. Az ablaknál egy utast látsz, aki szorongat egy érvényes Menetjegyet. Ő a jóhiszeműség, a bona fides megtestesítője: joggal bízik abban, hogy a jegye érvényes. A pult túloldalán a kalauz áll, nyakában egy fényes Síppal. Ő a tisztességet képviseli: kötelessége tájékoztatni és korrektül eljárni.
+Lépjünk be a Jegyirodába. Itt a Jóhiszeműség és Tisztesség elvét kell szétszednünk, mert a kettő nem ugyanaz. Az ablaknál egy utast látsz, aki nyugodtan szorongat egy Menetjegyet. Ő a szubjektív jóhiszeműség, a "bona fides". Ő nem tudja, hogy a jegy esetleg érvénytelen, ő menthető tévedésben van, "hiszi", hogy minden rendben.
 
 TANULÓ
-Látom őket. A jegy a jóhiszemű bizalom, a síp pedig a tisztességes eljárás jele. De mi az ott a kijáratnál?
+Tehát a jóhiszeműség egy tudati állapot.
 
 MENTOR
-Az egy Forgókapu. Figyeld meg! Zöld jelzést mutat, hívogatóan nyitva áll, de amint az utas belépne, hirtelen rácsapódik és pirosra vált. Ez a "venire contra factum proprium", vagyis a saját korábbi magatartással való szembemenetel tilalma. Nem ígérhetsz zöldet, hogy aztán pirosat adj. A Polgári Törvénykönyv első könyvének harmadik paragrafusának első és második bekezdése szerint: A jogok gyakorlása és a kötelezettségek teljesítése során a felek a jóhiszeműség és tisztesség követelményének megfelelően kötelesek eljárni. A jóhiszeműség és tisztesség követelményét sérti az is, akinek joggyakorlása szemben áll olyan korábbi magatartásával, amelyben a másik fél okkal bízhatott.
+Pontosan. Ezzel szemben nézd a kalauzt a pult mögött! Ő makulátlan Egyenruhában van. Ő az objektív tisztesség. Tőle nem azt várjuk, hogy mit "hisz", hanem hogy úgy járjon el, ahogy az a forgalomban elvárható: korrekten, etikusan. A háta mögött egy nagy Információs Tábla is lóg "Együttműködés" felirattal – mert a tisztesség része a tájékoztatás és az együttműködés is.
 
 TANULÓ
-Szóval a jóhiszeműség és tisztesség követelménye. És a forgókapu remekül mutatja azt a helyzetet, amikor valaki szembe megy a korábbi ígéretével.
+Értem a különbséget. A jegy a belső hit, az egyenruha és a tábla a külső, elvárható magatartás. De mi az ott a kijáratnál?
 
 MENTOR
-Továbbhaladunk a Váróterembe. A padlón egy széles Sárga Biztonsági Sáv húzódik. Az utasok többsége fegyelmezetten e mögött várakozik. Ez az "elvárható magatartás" határa, az általános mérce. De nézd azt a férfit! Átugorja a lezárt Korlátot, megbotlik és elesik. Most pedig dühösen kiabál a kártérítésért.
+Az egy Forgókapu. Figyeld meg! Zöld jelzést mutat, hívogatóan kinyílik, de amint az utas belépne, hirtelen rácsapódik és pirosra vált. Ez a "venire contra factum proprium", vagyis a saját korábbi magatartással való szembemenetel tilalma. Nem ígérhetsz zöldet, hogy aztán pirosat adj, ha a másik már bízott az ígéretedben.
+A Polgári Törvénykönyv első könyvének harmadik paragrafusának első és második bekezdése szerint: A jogok gyakorlása és a kötelezettségek teljesítése során a felek a jóhiszeműség és tisztesség követelményének megfelelően kötelesek eljárni. A jóhiszeműség és tisztesség követelményét sérti az is, akinek joggyakorlása szemben áll olyan korábbi magatartásával, amelyben a másik fél okkal bízhatott.
 
 TANULÓ
-De hiszen ő ugrott át! Ez a saját hibája.
+Ez nagyon szemléletes. A forgókapu becsapja az utast.
 
 MENTOR
-Pontosan. Ez a "nemo turpitudinem suam allegans auditur" elve: saját felróható magatartására előnyök szerzése végett senki nem hivatkozhat. Nézd meg a sarokban azt a két összetört Csomagkocsit is! Mindkét hordár figyelmetlen volt, és most egymásra mutogatnak. Itt mindkettő hibás, de ez nem akadálya annak, hogy hivatkozzanak a másik hibájára.
+Továbbhaladunk a Váróterembe. A padlón egy széles Sárga Biztonsági Sáv húzódik. Az utasok többsége fegyelmezetten e mögött várakozik. Ez az "elvárható magatartás" határa, az objektív mérce, a "reasonable man" vagyis az ésszerű ember zsinórmértéke. Nem a zsenit várjuk el, de nem is a hanyagot, hanem az átlagos, gondos ember szintjét.
 
 TANULÓ
-Értem, tehát ha én is hibás vagyok, attól még felhozhatom a te hibádat.
+És aki átlépi?
 
 MENTOR
-Így van. A Polgári Törvénykönyv első könyvének negyedik paragrafusának első, második és harmadik bekezdése szerint: Ha e törvény eltérő követelményt nem támaszt, a polgári jogi viszonyokban úgy kell eljárni, ahogy az az adott helyzetben általában elvárható. Felróható magatartására előnyök szerzése végett senki nem hivatkozhat. A másik fél felróható magatartására hivatkozhat az is, aki maga felróhatóan járt el.
+Nézd azt a férfit! Átugorja a lezárt Korlátot, megbotlik és elesik. Most pedig dühösen kiabál a kártérítésért. De a biztonsági őr csak a fejét rázza. Ez a "nemo turpitudinem suam allegans auditur" elve: saját felróható magatartására előnyök szerzése végett senki nem hivatkozhat. Aki átugorja a korlátot, ne kérjen kártérítést, ha elesik.
 
 TANULÓ
-Világos. Úgy kell eljárni, ahogy az adott helyzetben általában elvárható. Mi következik most?
+Logikus. És mi történik a peron közepén?
 
 MENTOR
-Elérkeztünk a legfontosabb helyszínre, a Forgalomirányító Központba. Itt a joggal való visszaélés tilalmáról lesz szó. A falon egy piros Vészfékkar látható. Egy alak odalép, és hangosan nevetve meghúzza, bár nincs semmi veszély, csak a vonatot akarja megállítani poénból. Ez a visszaélés klasszikus esete: van joga meghúzni, de a célja helytelen. A Polgári Törvénykönyv első könyvének ötödik paragrafusának első bekezdése szerint: A törvény tiltja a joggal való visszaélést.
+Ott két Csomagkocsi ütközött össze. Mindkét hordár figyelmetlen volt, mindkettő hibás. Most egymásra mutogatnak. Fontos: itt mindkettő hibás, de ez nem akadálya annak, hogy hivatkozzanak a másik hibájára. Ez a kármegosztás alapja.
+A Polgári Törvénykönyv első könyvének negyedik paragrafusának első, második és harmadik bekezdése szerint: Ha e törvény eltérő követelményt nem támaszt, a polgári jogi viszonyokban úgy kell eljárni, ahogy az az adott helyzetben általában elvárható. Felróható magatartására előnyök szerzése végett senki nem hivatkozhat. A másik fél felróható magatartására hivatkozhat az is, aki maga felróhatóan járt el.
 
 TANULÓ
-Tehát a vészfék indokolatlan használata a joggal való visszaélés szimbóluma. És mi történik a terem közepén?
+Világos. Menjünk a legfontosabb részhez!
 
 MENTOR
-Ott egy hatalmas Váltókart látsz. A váltókezelő, akinek a feladata lenne átállítani, keresztbe tett kézzel áll és dacosan rázza a fejét. Megtagadja a cselekvést, pedig kötelessége lenne. Emiatt a kint várakozó vonatok feltorlódnak, ami sérti a közérdeket. Ez a jognyilatkozat visszaélésszerű megtagadása.
+Elérkeztünk a Forgalomirányító Központba. Itt a joggal való visszaélés tilalmáról lesz szó. A falon egy piros Vészfékkar látható. Egy alak odalép, és hangosan nevetve meghúzza, bár nincs semmi veszély, csak a vonatot akarja megállítani poénból, hogy másokat bosszantson. Ez a "chicane", a visszaélés klasszikus esete: van joga meghúzni a kart (elvileg), de a célja kizárólag a károkozás.
+Nézz ki az ablakon is! Valaki egy indokolatlanul magas deszka Kerítést épített közvetlenül az ablak elé, ami teljesen eltakarja a kilátást. Ez az aránytalanság példája: neki alig van haszna belőle, de a forgalmistákat súlyosan zavarja.
+A Polgári Törvénykönyv első könyvének ötödik paragrafusának első bekezdése szerint: A törvény tiltja a joggal való visszaélést.
 
 TANULÓ
-És mit lehet tenni ilyenkor? Megáll az egész vasút?
+Tehát a vészfék a rosszhiszemű károkozás, a kerítés pedig az aránytalan érdekérvényesítés. És mi történik a terem közepén?
 
 MENTOR
-Nem. Nézd, ki lép be az ajtón! Az Állomásfőnök, aki a bírót jelképezi. A kezében egy nagy, csillogó Aranykulcs van. Félretolja a makacs váltókezelőt, beilleszti a kulcsot a zárba, és maga húzza át a váltókart. Ezzel pótolja a hiányzó nyilatkozatot.
+Ott egy hatalmas Váltókart látsz. Egy mentővonat közeledik, aminek szabad utat kellene adni – ez a közérdek. De a váltókezelő, akinek a feladata lenne átállítani, keresztbe tett kézzel áll és dacosan rázza a fejét. Megtagadja a cselekvést, pedig jogszabály és a helyzet is megkívánná. Ez a jognyilatkozat visszaélésszerű megtagadása.
+
+TANULÓ
+És mit lehet tenni ilyenkor? A mentővonat nem állhat meg!
+
+MENTOR
+Nem. Nézd, ki lép be az ajtón! Az Állomásfőnök, aki a bírót jelképezi. A kezében egy nagy, csillogó Aranykulcs van. Félretolja a makacs váltókezelőt, beilleszti a kulcsot a zárba, és maga húzza át a váltókart. Ezzel a bíróság ítélete pótolja a hiányzó nyilatkozatot, mert a közérdek sérelme másképp nem hárítható el.
 
 TANULÓ
 Aha! Szóval az Állomásfőnök kulcsa a bírósági ítélet, ami helyettesíti a megtagadott nyilatkozatot.
@@ -86,14 +103,7 @@ MENTOR
 Pontosan. A Polgári Törvénykönyv első könyvének ötödik paragrafusának második bekezdése szerint: Ha a joggal való visszaélés jogszabály által megkívánt nyilatkozat megtagadásában áll, és ez a magatartás nyomós közérdeket vagy különös méltánylást érdemlő magánérdeket sért, a bíróság a nyilatkozatot ítéletével pótolhatja, feltéve, hogy az érdeksérelem másképpen nem hárítható el.
 
 TANULÓ
-Ez egy nagyon fontos szabály. Nyomós közérdek vagy különös méltánylást érdemlő magánérdek esetén a bíróság ítéletével pótolhatja a nyilatkozatot.
+Így már sokkal teljesebb a kép. A betonozás, a csavarkulcs, a jegy és az egyenruha, a vészfék és a kerítés... mindegyik egy-egy fontos részletet világít meg.
 
 MENTOR
-Így van. Ezzel végigjártuk a Polgári Jog alapelveinek pályaudvarát. A menetrendtől a síneken és jelzőkön át eljutottunk a vészfékig és a váltóig. Ezek a képek segíteni fognak felidézni a paragrafusokat a vizsgán.
-
-TANULÓ
-Köszönöm! A párhuzamos sínek, a forgókapu és az állomásfőnök kulcsa biztosan megmarad. Viszlát!
-
-MENTOR
-Sikeres felkészülést! Viszlát!
-
+Örülök, hogy látod az összefüggéseket. Ezek a részletek teszik élővé a jogot. Sikeres felkészülést! Viszlát!

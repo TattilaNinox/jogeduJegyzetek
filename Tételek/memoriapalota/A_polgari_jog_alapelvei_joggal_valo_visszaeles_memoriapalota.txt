@@ -3,31 +3,32 @@ HELYSZÍN: RÉGI VASÚTI PÁLYAUDVAR
 
 Induljunk el a túránkon egy hatalmas, patinás régi vasúti pályaudvaron. A tér hatalmas, visszhangos, a levegőben olaj és fém szaga terjed.
 
-A főbejáraton belépve az **Indulási Csarnokban** találjuk magunkat. A fejünk felett egy óriási, kattogó **Menetrendi Tábla** (1) kattog, amely a polgári jogi alapelveket jelképezi. A tábla mellett egy óriási **Mérőszalag** (2) lóg a mennyezetről, ami a "zsinórmérték" szerepét mutatja: mindenhez ezt igazítják. A padlón egy **repedés** (3) tátong, amit egy munkás éppen **betonnal** tölt ki – ez a joghézagkitöltő funkció.
+A főbejáraton belépve az **Indulási Csarnokban** találjuk magunkat. A fejünk felett egy óriási, kattogó **Menetrendi Tábla** (1) kattog, amely a polgári jogi alapelveket jelképezi. A tábla mellett egy óriási **Mérőszalag** (2) lóg a mennyezetről, ami a "zsinórmérték" szerepét mutatja: mindenhez ezt igazítják (jogértelmezési funkció). A padlón egy **repedés** (3) tátong, amit egy munkás éppen **betonnal** tölt ki – ez a joghézagkitöltő funkció. A munkás kezében egy **Állítható Csavarkulcs** (4) van, amivel egy merev, beragadt csavart lazít meg: ez a korrekciós funkció, ami lehetővé teszi a bírói mérlegelést és a merev szabályok kiigazítását.
 
-Továbbhaladva a **Peronokhoz**, az 1-es vágánynál két fényes, **Párhuzamos Sínpárt** (4) látunk. A sínek tökéletesen egyformák, egymás mellett futnak, soha nem keresztezik egymást és egyik sincs magasabban a másiknál. Ez a mellérendeltség és egyenjogúság elve.
+Továbbhaladva a **Peronokhoz**, az 1-es vágánynál két fényes, **Párhuzamos Sínpárt** (5) látunk. A sínek tökéletesen egyformák, egymás mellett futnak, soha nem keresztezik egymást. Ez a mellérendeltség és egyenjogúság elve: a felek jogilag egyenrangúak. A távolban látunk egy magas **Őrtornyot** (6), ahol a parancsnok fentről kiabál le – ez a közjog vertikális, alá-fölérendeltségi viszonya, ami éles ellentétben áll a mi vízszintes síneinkkel.
 A Polgári Törvénykönyv első könyvének első paragrafusa szerint: "E törvény a mellérendeltség és egyenjogúság elve szerint szabályozza a személyek alapvető vagyoni és személyi viszonyait."
 
-A sínek mellett egy magas **Jelzőtoronyhoz** (5) érünk. A torony tetején egy hatalmas **Főjelző** (6) áll (Alaptörvény), alatta pedig egy kisebb **Jelzőlámpa** (7) (Polgári Törvénykönyv). A kettőt egy vastag **Drótkötél** (8) köti össze: ha a felső mozog, az alsónak követnie kell.
+A sínek mellett egy magas **Jelzőtoronyhoz** (7) érünk. A torony tetején egy hatalmas **Főjelző Kar** (8) áll (Alaptörvény), alatta pedig egy kisebb **Alsó Kar** (9) (Polgári Törvénykönyv). A kettőt egy vastag **Drótkötél** (10) köti össze: ha a felső kar elmozdul, az alsónak mechanikusan követnie kell a mozgását. A torony legtetején egy kis **Nemzetközi Zászló** (11) lobog, jelezve, hogy a nemzetközi kötelezettségek is hatnak az értelmezésre.
 A Polgári Törvénykönyv első könyvének második paragrafusának első és második bekezdése szerint: "(1) E törvény rendelkezéseit Magyarország alkotmányos rendjével összhangban kell értelmezni. (2) A polgári jogi viszonyokra vonatkozó jogszabályokat e törvénnyel összhangban kell értelmezni."
 
 Belépünk a **Jegyirodába**, ahol a **Jóhiszeműség és Tisztesség** elveivel találkozunk.
-Az ablaknál egy utas áll, kezében egy érvényes **Menetjeggyel** (9) – ő a jóhiszemű (bona fides), aki azt hiszi, minden rendben. A pult mögött a kalauz áll, nyakában egy fényes **Síppal** (10) – ő a tisztességet és az elvárható tájékoztatást jelképezi.
-Hirtelen a kijáratnál lévő **Forgókapu** (11) furcsán viselkedik: zöldet mutat, beenged, majd amikor az utas belép, hirtelen rácsapódik és pirosra vált. Ez a "venire contra factum proprium": a saját korábbi magatartással való szembemenetel tilalma.
+Az ablaknál egy utas áll, aki nyugodtan szorongat egy **Menetjegyet** (12). Ő a szubjektív jóhiszeműség (bona fides): nem tudja, hogy a jegy esetleg hamis, ő menthető tévedésben van.
+A pult mögött a kalauz áll, makulátlan **Egyenruhában** (13). Ő az objektív tisztesség: úgy jár el, ahogy az a forgalomban elvárható. A háta mögött egy nagy **Információs Tábla** (14) lóg, rajta a felirat: "Tájékoztatás és Együttműködés" – ez a tisztesség tartalma.
+Hirtelen a kijáratnál lévő **Forgókapu** (15) furcsán viselkedik: zöldet mutat, hívogatóan kinyílik, majd amikor az utas belép, hirtelen rácsapódik és pirosra vált. Ez a "venire contra factum proprium": a saját korábbi magatartással való szembemenetel tilalma.
 A Polgári Törvénykönyv első könyvének harmadik paragrafusának első és második bekezdése szerint: "(1) A jogok gyakorlása és a kötelezettségek teljesítése során a felek a jóhiszeműség és tisztesség követelményének megfelelően kötelesek eljárni. (2) A jóhiszeműség és tisztesség követelményét sérti az is, akinek joggyakorlása szemben áll olyan korábbi magatartásával, amelyben a másik fél okkal bízhatott."
 
-Továbbmegyünk a **Váróterembe**, ahol a padlón egy széles **Sárga Biztonsági Sáv** (12) húzódik. Minden utas gondosan e mögött áll – ez az "elvárható magatartás" határa.
-Egy türelmetlen utas átugorja a **Korlátot** (13), megbotlik és elesik. Mérgesen reklamál, de a biztonsági őr csak a fejét rázza: saját hibájára előnyök szerzése végett nem hivatkozhat (nemo turpitudinem).
-Kicsit arrébb két **Csomagkocsi** (14) ütközött össze. Mindkét hordár hibás volt, és mindkettő mutogat a másikra. Ez nem tilos: a másik fél felróható magatartására az is hivatkozhat, aki maga is hibás.
+Továbbmegyünk a **Váróterembe**, ahol a padlón egy széles **Sárga Biztonsági Sáv** (16) húzódik. Minden utas gondosan e mögött áll – ez az "elvárható magatartás" objektív mércéje, a "reasonable man" (ésszerű ember) határa.
+Egy türelmetlen utas átugorja a lezárt **Korlátot** (17), megbotlik és elesik. Mérgesen reklamál, de a biztonsági őr csak a fejét rázza: saját felróható magatartására előnyök szerzése végett nem hivatkozhat (nemo turpitudinem).
+Kicsit arrébb két **Csomagkocsi** (18) ütközött össze a peron közepén. Mindkét hordár figyelmetlen volt, és mindkettő mutogat a másikra. Ez nem tilos: a másik fél felróható magatartására az is hivatkozhat, aki maga is hibás (kármegosztás).
 A Polgári Törvénykönyv első könyvének negyedik paragrafusának első, második és harmadik bekezdése szerint: "(1) Ha e törvény eltérő követelményt nem támaszt, a polgári jogi viszonyokban úgy kell eljárni, ahogy az az adott helyzetben általában elvárható. (2) Felróható magatartására előnyök szerzése végett senki nem hivatkozhat. (3) A másik fél felróható magatartására hivatkozhat az is, aki maga felróhatóan járt el."
 
 Végül elérjük a **Forgalomirányító Központot**, a joggal való visszaélés helyszínét.
-A falon egy piros **Vészfékkar** (15) látható. Egy nevető alak ok nélkül meghúzza, csak azért, hogy bosszantsa a többieket – ez a "chicane", a visszaélés.
+A falon egy piros **Vészfékkar** (19) látható. Egy nevető alak ok nélkül meghúzza, csak azért, hogy bosszantsa a többieket és megállítsa a vonatot – ez a "chicane", a célzatos károkozás.
+Az ablak előtt egy indokolatlanul magas, deszkából épült **Kerítés** (20) áll, ami teljesen eltakarja a kilátást a forgalmisták elől. Ez az aránytalanság és a szükségtelen zavarás példája (szomszédjogi visszaélés).
 A Polgári Törvénykönyv első könyvének ötödik paragrafusának első bekezdése szerint: "(1) A törvény tiltja a joggal való visszaélést."
 
-A központ közepén egy hatalmas **Váltókar** (16) áll, ami egy fontos vágányt nyitna meg. A váltókezelő dacosan keresztbe teszi a karját és megtagadja a kar átállítását (jognyilatkozat megtagadása). Emiatt a vonatok feltorlódnak (közérdek sérelme).
-Ekkor belép az **Állomásfőnök** (Bíró), kezében egy nagy **Aranykulccsal** (17). Félretolja a váltókezelőt, beilleszti a kulcsot a zárba, és a kulccsal maga állítja át a kart – a bíróság pótolja a nyilatkozatot.
+A központ közepén egy hatalmas **Váltókar** (21) áll, ami egy fontos vágányt nyitna meg egy mentővonat előtt (közérdek). A váltókezelő dacosan keresztbe teszi a karját és megtagadja a kar átállítását.
+Ekkor belép az **Állomásfőnök** (Bíró), kezében egy nagy **Aranykulccsal** (22). Félretolja a váltókezelőt, beilleszti a kulcsot a zárba, és a kulccsal maga állítja át a kart – a bíróság pótolja a nyilatkozatot, mert másképp a vészhelyzet nem hárítható el.
 A Polgári Törvénykönyv első könyvének ötödik paragrafusának második bekezdése szerint: "(2) Ha a joggal való visszaélés jogszabály által megkívánt nyilatkozat megtagadásában áll, és ez a magatartás nyomós közérdeket vagy különös méltánylást érdemlő magánérdeket sért, a bíróság a nyilatkozatot ítéletével pótolhatja, feltéve, hogy az érdeksérelem másképpen nem hárítható el."
 
-Kilépünk a pályaudvarról a napfényre, magunk mögött hagyva a jogi alapelvek szigorú rendszerét. Viszontlátásra!
-
+Kilépünk a pályaudvarról a napfényre, magunk mögött hagyva a jogi alapelvek szigorú, de igazságos rendszerét. Viszontlátásra!

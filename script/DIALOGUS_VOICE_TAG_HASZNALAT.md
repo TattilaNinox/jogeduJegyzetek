@@ -72,3 +72,4 @@ python script/dialogus_voice_tag_hozzaado.py Tételek/podcast/dialogus.txt Téte
 - Ha a sor nem kezdődik `MENTOR:` vagy `TANULÓ:` címkével, akkor változatlanul marad
 - A script biztonságosan kezeli a hibákat és értesít, ha valami nem stimmel
 
+

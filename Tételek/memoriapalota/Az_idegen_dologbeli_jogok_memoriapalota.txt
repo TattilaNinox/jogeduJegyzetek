@@ -54,3 +54,4 @@ Ahogy kilépünk a terminálból, nézzünk vissza:
 
 Köszönöm, hogy velem tartottál ezen a reptéri sétán!
 
+
