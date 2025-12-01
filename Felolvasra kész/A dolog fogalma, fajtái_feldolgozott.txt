@@ -1,0 +1,126 @@
+A Dolog Fogalma, Fajtái, Csoportosítása.
+
+Bevezetés: A Dolog Szerepe a Dologi Jogban.
+
+A dolog a dologi jog, a vagyoni jog statikus részének központi tárgya. A dologi jog szabályozza a dolgokhoz fűződő jogokat, elsősorban a tulajdonjogot és az egyéb dologi jogokat, mint a haszonélvezet, zálogjog, szolgalmak és így tovább. Ezek a jogok mindig egy konkrét, individualizált dologra vonatkoznak: nem általában "dolgokra", hanem erre a meghatározott dologra, például ez az ingatlan, ez az autó, ez a festmény.
+
+A dolog fogalmának és osztályozásának ismerete elengedhetetlen a vagyoni jogviszonyok megértéséhez, mert a különböző dolog-kategóriákhoz eltérő jogi szabályok és jogkövetkezmények kapcsolódnak. Például az ingó és ingatlan dolgok tulajdonszerzése eltérő.
+
+A Dolog Polgári Jogi Fogalma.
+
+A kétezer-tizenhárom évi ötödik törvény, a Polgári Törvénykönyv ötödik könyvének tizennegyedik paragrafusának első bekezdése meghatározza a dolog fogalmát.
+Az első bekezdés szerint: A birtokba vehető testi tárgy tulajdonjog tárgya lehet.
+
+Ez a definíció két fogalmi elemet tartalmaz.
+Először, a testi tárgy, latinul korpusz.
+A dolog testi, anyagi, fizikai léttel rendelkező tárgy. Ez azt jelenti, hogy érzékszerveinkkel érzékelhető, térben elhelyezhető, mérhető, mint súly, méret, térfogat.
+Nem dolgok, mert nem testi tárgyak a következők:
+Jogok, például követelés, szellemi alkotásokhoz fűződő jogok, ezek immateriális javak.
+Energia, mint villamosság, hő, ha önmagában, nem testi tárgyban jelenik meg.
+Emberi test, testrészek, az ember nem lehet dolog az emberi méltóság miatt.
+Holttestek, amelyekre különleges szabályok vonatkoznak.
+
+Másodszor, a birtokba vehetőség.
+A dolognak birtokba vehetőnek kell lennie: az ember felette tényleges hatalmat tud gyakorolni, birtokába tudja venni, uralma alá tudja hajtani.
+Nem birtokba vehető, és így nem dolog:
+A Nap, Hold, csillagok, mert túl távol vannak.
+A végtelen légtér, mert nem határolható körül.
+A tengerek főszabály szerint, bár részei birtokba vehetők.
+
+Jogi fikció: dolognak tekintett javak. A Polgári Törvénykönyv ötödik könyvének tizennegyedik paragrafusának második bekezdése szerint: A dologra vonatkozó szabályokat megfelelően alkalmazni kell a pénzre és az értékpapírokra, valamint a dolog módjára hasznosítható természeti erőkre.
+A törvény kiterjeszti a dolgokra vonatkozó szabályokat bizonyos nem tipikus dolgokra.
+Pénz és értékpapírok: Bár ezek is testi tárgyak, speciális szabályaik vannak, de főszabály szerint a dolgokra vonatkozó szabályok alkalmazandók.
+Dolog módjára hasznosítható természeti erők: Például vízenergia, szélenergia, napenergia. Ha hasznosíthatók, a dolgokra vonatkozó szabályok szerint kezelendők.
+
+Állatok különleges helyzete. A Polgári Törvénykönyv ötödik könyvének tizennegyedik paragrafusának harmadik bekezdése szerint: A dologra vonatkozó szabályokat az állatokra a természetüknek megfelelő eltéréseket megállapító törvényi rendelkezések figyelembevételével kell alkalmazni.
+Az állatok formálisan dolgok, de a természetüknek, mint élőlényeknek megfelelő eltérésekkel: például az állatvédelmi szabályokat be kell tartani, az állatok iránti kíméletességet gyakorolni kell.
+
+A Dolgok Osztályozása.
+
+A dolgok sokfélék, és különböző szempontok szerint osztályozhatók. Az osztályozásnak jogi jelentősége van: az eltérő kategóriákhoz eltérő jogszabályok kapcsolódnak.
+
+Ingó és ingatlan dolgok.
+Ez a legfontosabb osztályozás a dologi jogban.
+Ingatlan: A föld és minden, ami a földdel tartósan egyesült, mint épület, növény, föld alatti rétegek. Az ingatlan-nyilvántartásban nyilvántartott önálló dolog.
+Ingó dolog: Minden más dolog, ami nem ingatlan, például gépkocsi, bútor, könyv, ékszer, állat.
+A megkülönböztetés jogi jelentősége a következő:
+Tulajdonszerzés: Ingónál birtokátruházás, ingatlannál ingatlan-nyilvántartási bejegyzés szükséges. Ezt a Polgári Törvénykönyv ötödik könyvének harmincnyolcadik paragrafusa szabályozza.
+Nyilvántartás: Ingatlanokat ingatlan-nyilvántartásban tartják nyilván, ami közhiteles, ingókat nem.
+Elbirtoklás: Ingónál tíz év, ingatlannál tizenöt év. Ezt a Polgári Törvénykönyv ötödik könyvének negyvennegyedik paragrafusa szabályozza.
+Forgalom: Ingatlanok forgalma szabályozottabb, bonyolultabb.
+
+Forgalomképes és forgalomképtelen, vagy korlátozottan forgalomképes dolgok.
+Forgalomképes dolgok: Szabadon átruházhatók, forgalomba hozhatók, megterhelhetők. Ezek a dolgok többsége.
+Forgalomképtelen dolgok: Nem ruházhatók át, nem lehetnek magántulajdonban, vagy átruházásuk korlátozott. Példák:
+Köztulajdonban álló dolgok, mint közutak, közterületek.
+Kulturális javak bizonyos kategóriái.
+Tiltott dolgok, mint kábítószer, haditechnikai eszközök.
+Korlátozottan forgalomképes dolgok: Csak meghatározott feltételekkel ruházhatók át, például fegyverek fegyvertartási engedéllyel, gyógyszerek vénnyel.
+
+Helyettesíthető és helyettesíthetetlen dolgok.
+Helyettesíthető, latinul fungibilis dolgok: Fajta és mennyiség szerint meghatározottak, egymással kicserélhetők, egyedi tulajdonságaik nem lényegesek, például búza, cukor, pénz, tömegtermékek.
+Helyettesíthetetlen, latinul infungibilis dolgok: Egyedileg meghatározottak, egyedi tulajdonságokkal rendelkeznek, nem cserélhetők ki hasonlóval, például festmény, antik bútor, ház egy adott címen.
+Jogi jelentőség:
+Kölcsön: Csak helyettesíthető dolgot lehet kölcsönadni a Polgári Törvénykönyv hatodik könyvének háromszáznyolcvanötödik paragrafusa szerint.
+Gyűjtő letét: Csak helyettesíthető dolgoknál a Polgári Törvénykönyv hatodik könyvének háromszázhatvanhatodik paragrafusa szerint.
+Teljesítés: Helyettesíthető dolognál hasonló dolog is teljesítésnek minősülhet.
+
+Elhasználható és elhasználhatatlan dolgok.
+Elhasználható, vagy fogyasztható dolgok: A rendeltetésszerű használat a dolog elfogyását, megsemmisülését eredményezi, például étel, ital, tüzelőanyag, gyógyszer.
+Elhasználhatatlan dolgok: A rendeltetésszerű használat nem eredményezi a dolog elfogyását, csak természetes kopást, például bútor, gépkocsi, ház.
+Jogi jelentőség:
+Haszonélvezet: Elhasználható dolognál a haszonélvező tulajdonossá válik, és a jogviszony megszűnésekor hasonló dolgot köteles visszaadni.
+Kölcsön: Elhasználható dolgoknál a kölcsönvevő tulajdonossá válik.
+
+Osztható és oszthatatlan dolgok.
+Osztható dolgok: Fizikailag megoszthatók anélkül, hogy értékük aránytalanul csökkenne vagy rendeltetésük megváltozna, például földterület, homok, folyadék.
+Oszthatatlan dolgok: Fizikailag nem oszthatók meg értékvesztés vagy rendeltetésváltozás nélkül, például gépkocsi, festmény, épület.
+Jogi jelentőség:
+Közös tulajdon megszüntetése: Osztható dolognál természetbeni megosztás, oszthatatlan dolognál megváltás vagy árverés a Polgári Törvénykönyv ötödik könyvének nyolcvannegyedik paragrafusa szerint.
+Kötelmi jog: Osztható szolgáltatásnál osztott teljesítés lehetséges.
+
+Dologkapcsolatok.
+
+A dolgok nem mindig önállóak, hanem gyakran kapcsolatban állnak más dolgokkal. A Polgári Törvénykönyv szabályozza ezeket a dologkapcsolatokat.
+
+Alkotórész. A Polgári Törvénykönyv ötödik könyvének tizenötödik paragrafusa szerint.
+A kétezer-tizenhárom évi ötödik törvény, a Polgári Törvénykönyv ötödik könyvének tizenötödik paragrafusa szerint: A tulajdonjog kiterjed mindarra, ami a dologgal olyképpen van tartósan egyesítve, hogy az elválasztással a dolog vagy elválasztott része elpusztulna, illetve az elválasztással értéke vagy használhatósága számottevően csökkenne.
+Az alkotórész a dolognak olyan része, amely tartósan egyesítve van a dologgal, és elválaszthatatlan vagy csak jelentős károsodással választható el.
+Példák: az épület alapjai, falai, tetője; a gépkocsi motorja, karosszériája; a fa gyökerei, törzse.
+Jogkövetkezmény: A tulajdonjog automatikusan kiterjed az alkotórészre. Az alkotórész nem önálló dolog, nem lehet külön tulajdoni tárgya.
+
+Tartozék. A Polgári Törvénykönyv ötödik könyvének tizenhatodik paragrafusa szerint.
+A kétezer-tizenhárom évi ötödik törvény, a Polgári Törvénykönyv ötödik könyvének tizenhatodik paragrafusa szerint: A tulajdonjog kétség esetén kiterjed arra is, ami nem alkotórész ugyan, de a dolog rendeltetésszerű használatához vagy épségben tartásához rendszerint szükséges vagy azt elősegíti.
+A tartozék a dologtól fizikailag elkülöníthető, de a dolog rendeltetésszerű használatához vagy épségben tartásához rendszerint szükséges vagy azt elősegítő dolog.
+Példák: az épület kulcsa, a gépkocsi szerszámkészlete, a szántóföld mezőgazdasági gépe.
+Jogkövetkezmény: A tulajdonjog kétség esetén kiterjed a tartozékra. Ez megdönthető vélelem: ha a felek eltérően állapodnak meg, a tartozék nem száll át a dolog átruházásával.
+
+Gyümölcs.
+A gyümölcs, latinul fruktusz, minden olyan gazdasági előny, ami valamely dolognak a rendeltetésszerű használata során időnként visszatérően keletkezik, anélkül, hogy a dolog létét, épségét vagy további gyümölcsözési képességét veszélyeztetné.
+Gyümölcs fajtái:
+Természetes gyümölcs, latinul fruktusz naturálesz: A dolog természetes módon hozott terméke, termése, szaporulata, például gyümölcs a fáról, termés a földről, állat ivadéka.
+Polgári gyümölcs, latinul fruktusz civilisz: A dolognak gazdasági hasznosításából eredő jövedelem, amelyhez tulajdonkapcsolódás valamely jogviszony alapján jön létre, például bérleti díj, haszonbérleti díj, kamat.
+Gyümölcs állapotai:
+Függő gyümölcs: Még a dolgon van, nem vált el, a dolog alkotórésze.
+Elválasztott gyümölcs: Elvált a dologtól, már önálló dolog, forgalom tárgya lehet.
+Beszedett gyümölcs: A jogosult birtokba vette.
+Be nem szedett gyümölcs: Még nem vette birtokba, például lehullott alma.
+Jogkövetkezmény: A gyümölcs főszabály szerint a tulajdonost illeti meg, kivéve, ha más jogosult rá, például haszonélvező, jóhiszemű birtokos.
+
+Összegzés.
+
+A dolog fogalmának és a dolgok osztályozásának ismerete elengedhetetlen a vagyoni jogviszonyok megértéséhez, mert a különböző dolog-kategóriákhoz eltérő jogi sors kapcsolódik.
+A dolog fogalma, a kétezer-tizenhárom évi ötödik törvény a Polgári Törvénykönyvről ötödik könyvének tizennegyedik paragrafusának első bekezdése szerint: A birtokba vehető testi tárgy.
+Jogi fikció: Pénz, értékpapír, természeti erők a Polgári Törvénykönyv ötödik könyvének tizennegyedik paragrafusának második bekezdése szerint; állatok különleges szabályokkal a Polgári Törvénykönyv ötödik könyvének tizennegyedik paragrafusának harmadik bekezdése szerint.
+A dolgok osztályozása:
+Ingó és ingatlan. Jogi jelentőség: tulajdonszerzés, nyilvántartás, elbirtoklás.
+Forgalomképes és forgalomképtelen. Jogi jelentőség: átruházhatóság.
+Helyettesíthető és helyettesíthetetlen. Jogi jelentőség: kölcsön, gyűjtő letét, teljesítés.
+Elhasználható és elhasználhatatlan. Jogi jelentőség: haszonélvezet, kölcsön.
+Osztható és oszthatatlan. Jogi jelentőség: közös tulajdon megszüntetése, teljesítés.
+Dologkapcsolatok:
+Alkotórész a Polgári Törvénykönyv ötödik könyvének tizenötödik paragrafusa szerint: Tartósan egyesítve, el nem választható vagy csak károsodással. Jogkövetkezmény: tulajdonjog automatikusan kiterjed rá.
+Tartozék a Polgári Törvénykönyv ötödik könyvének tizenhatodik paragrafusa szerint: Rendeltetésszerű használathoz szükséges. Jogkövetkezmény: tulajdonjog kétség esetén kiterjed rá, vélelem.
+Gyümölcs: Időnként visszatérően keletkező gazdasági előny. Fajtái: természetes és polgári. Jogkövetkezmény: főszabály szerint a tulajdonosé.
+A dolgok fogalma és osztályozása így átfogó, logikus rendszert alkot, amely lehetővé teszi a vagyoni javak pontos jogi minősítését és a rájuk vonatkozó szabályok helyes alkalmazását.
+

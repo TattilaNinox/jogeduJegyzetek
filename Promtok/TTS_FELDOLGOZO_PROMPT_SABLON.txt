@@ -1,0 +1,82 @@
+================================================================================
+TTS FELDOLGOZÓ PROMPT SABLON - JOGI TÉTELEKHEZ
+================================================================================
+
+Ezt a szöveget másold be az AI prompt mezőbe, majd csatold hozzá a feldolgozandó tételt!
+
+================================================================================
+
+FELADAT:
+A csatolt jogi tételt dolgozd fel és alakítsd át egy speciális, felolvasóbarát (TTS - Text-to-Speech) formátumra. A cél, hogy a szöveget egy gépi felolvasó program tökéletesen, akadozás és félreértelmezés nélkül tudja felolvasni.
+
+BEMENET:
+[A Csatolt jogi tétel]
+
+KIMENET:
+Hozd létre a következő fájlt:
+Útvonal: Felolvasra kész/[Eredeti fájlnév]_feldolgozott.txt
+Tartalom: A lenti szabályoknak megfelelően átalakított szöveg.
+
+================================================================================
+SZIGORÚ ÁTALAKÍTÁSI SZABÁLYOK (KÖTELEZŐ!)
+================================================================================
+
+1. SZÁMOK ÉS DÁTUMOK:
+   - MINDEN számot írj ki betűvel! (Arab és római számokat is!)
+   - Tilos számjegyeket használni (0-9).
+   - Példák:
+     * "2013. évi V. törvény" -> "kétezer-tizenhárom évi ötödik törvény"
+     * "15 nap" -> "tizenöt nap"
+     * "3. §" -> "harmadik paragrafus"
+     * "1/2 arányban" -> "egy-ketted arányban"
+
+2. JOGSZABÁLYI HIVATKOZÁSOK:
+   - A rövidített hivatkozásokat teljesen oldd fel és írd ki fonetikusan!
+   - Tilos a § jel használata! Helyette írd ki: "paragrafus".
+   - A szerkezeti egységeket (bekezdés, pont) írd ki.
+   - Példák:
+     * "Ptk. 6:522. § (1) bek." -> "a Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának első bekezdése"
+     * "Alaptörvény T) cikk" -> "az Alaptörvény TÉ cikke"
+
+3. RÖVIDÍTÉSEK:
+   - MINDEN rövidítést oldj fel teljes alakra!
+   - Példák:
+     * "pl." -> "például"
+     * "stb." -> "és így tovább"
+     * "ún." -> "úgynevezett"
+     * "tk." -> "törvénykönyv"
+     * "Kft." -> "Korlátolt Felelősségű Társaság"
+
+4. IDEGEN KIFEJEZÉSEK:
+   - A latin vagy idegen jogi szakkifejezéseket írd át magyar fonetikus írásmódra, ahogy kiejtjük őket!
+   - Példák:
+     * "bonus pater familias" -> "bónusz páter famíliász"
+     * "damnum emergens" -> "damnum emergensz"
+     * "status quo" -> "státusz kvó"
+
+5. FORMÁZÁS ÉS STRUKTÚRA:
+   - TÁVOLÍTS EL minden formázást (félkövér, dőlt, aláhúzás)!
+   - TÁVOLÍTS EL minden Markdown elemet (#, *, -)!
+   - A listákat és felsorolásokat alakítsd át folyó szöveggé logikai átkötésekkel!
+     * Rossz:
+       - pont 1
+       - pont 2
+     * Jó: "Az első pont a következő: ..., a második pont pedig: ..."
+   - Ne használj zárójeleket magyarázatokhoz! A zárójeles részeket építsd be a mondatba vesszőkkel vagy kötőszavakkal.
+   - A fejezetcímek maradjanak meg, de formázás nélkül, új sorban.
+
+6. STÍLUS:
+   - A szöveg legyen folyamatos, jól tagolt, de vizuális tördelés (üres sorok, behúzások) nélkül, kivéve a bekezdések közötti szüneteket.
+   - Használj írásjeleket (vessző, pont) a beszéd ritmusának érzékeltetésére.
+
+================================================================================
+ELLENŐRZÉS (GENERÁLÁS ELŐTT):
+================================================================================
+Mielőtt létrehozod a fájlt, ellenőrizd:
+1. Maradt-e benne számjegy (0-9)? -> Ha igen, írd át betűre!
+2. Maradt-e benne § jel? -> Ha igen, írd át "paragrafus"-ra!
+3. Maradt-e benne rövidítés (pl.)? -> Ha igen, oldd fel!
+4. Vannak-e benne felsorolás-jelek (-)? -> Ha igen, alakítsd folyó szöveggé!
+
+A VÉGEREDMÉNY EGYETLEN, FORMÁZATLAN .TXT FÁJL LEGYEN A "Felolvasra kész" MAPPÁBAN!
+

@@ -1,0 +1,52 @@
+================================================================================
+PLÁGIUM-ELKERÜLŐ ÉS SZÖVEG-ÁTDOLGOZÓ PROMPT - JOGI TÉTELEKHEZ
+================================================================================
+
+Ezt a szöveget másold be az AI prompt mezőbe, majd csatold hozzá a feldolgozandó tételt!
+
+================================================================================
+
+FELADAT:
+A csatolt jogi tétel szövegét dolgozd át és fogalmazd újra úgy, hogy az eredmény egy teljesen EGYEDI, PLÁGIUMMENTES alkotás legyen, amely megőrzi az eredeti szakmai tartalmát és pontosságát, de nyelvezetében és szerkezetében eltér a forrástól.
+
+KIVÉTEL (NAGYON FONTOS!):
+A jogszabályi rendelkezéseket, törvényi definíciókat és a Polgári Törvénykönyv (Ptk.) vagy más jogszabályok szövegét TILOS átfogalmazni! Ezeket SZÓ SZERINT, betűhűen kell idézni, idézőjelek között, a pontos jogszabályhely megjelölésével.
+
+================================================================================
+SZIGORÚ UTASÍTÁSOK A GENERÁLÁSHOZ:
+================================================================================
+
+1. MAGYARÁZÓ RÉSZEK ÁTFOGALMAZÁSA (REPHRASING):
+   - Minden olyan részt, ami NEM jogszabályszöveg (bevezetők, magyarázatok, elemzések, összegzések), fogalmazz át a saját szavaiddal.
+   - Használj szinonimákat (pl. "alapvető" helyett "kulcsfontosságú", "tartalmazza" helyett "magában foglalja").
+   - Változtasd meg a mondatszerkezetet (pl. cselekvő helyett szenvedő szerkezet, vagy fordítva; mondatok összevonása vagy szétbontása).
+   - Változtasd meg a bekezdések sorrendjét, ha a logika engedi, de a gondolatmenet maradjon tiszta.
+   - A cél, hogy a plágiumkereső szoftverek NE találjanak egyezést, de a szakmai tartalom 100%-ban megmaradjon.
+
+2. JOGSZABÁLYOK KONZERVÁLÁSA (KIVÉTEL):
+   - Ha a szövegben jogszabályi idézet szerepel (pl. "A Ptk. 6:522. § (1) bekezdése szerint..."), azt HAGYD VÁLTOZATLANUL!
+   - A jogszabályi szöveget idézőjelek között, szó szerint emeld át.
+   - A jogszabályhelyet (paragrafus, bekezdés) pontosan tüntesd fel.
+   - Indoklás: A jogszabályok szövege nem képezi szerzői jogi védelem tárgyát, és szakmailag csak a szó szerinti idézet a pontos.
+
+3. PÉLDÁK ÉS ILLUSZTRÁCIÓK:
+   - Ha az eredeti szöveg példákat hoz (pl. "például egy autó"), próbálj meg MÁS, de jogilag egyenértékű példát találni (pl. "például egy ékszer" vagy "bútor"), ha ez nem torzítja a jogi mondanivalót.
+   - Ha a példa jogilag specifikus (pl. "a méhraj"), akkor tartsd meg.
+
+4. STÍLUS ÉS TÓNUS:
+   - Maradj meg a magas szintű, akadémikus, jogi szaknyelvi stílusnál.
+   - Kerüld a pongyola, túlságosan hétköznapi megfogalmazásokat.
+   - A szöveg legyen koherens, olvasmányos, de szakmailag precíz.
+
+================================================================================
+ELLENŐRZŐ LISTA (MAGADNAK):
+================================================================================
+[ ] Átfogalmaztam minden magyarázó szöveget?
+[ ] Megőriztem a jogszabályokat szó szerint?
+[ ] Használtam szinonimákat és új mondatszerkezeteket?
+[ ] A végeredmény szakmailag helyes maradt?
+[ ] Egyedi a szöveg, nem másolat?
+
+BEMENET:
+[Csatold ide a forrásfájlt]
+

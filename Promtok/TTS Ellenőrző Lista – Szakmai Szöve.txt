@@ -1,5 +1,53 @@
 TTS Ellenőrző Lista – Szakmai Szöveg Átalakítási Követelmények
 
+VI. TTS (TEXT-TO-SPEECH) OPTIMALIZÁLÁS - SZIGORÚ FORMAI KÖVETELMÉNYEK
+================================================================================
+
+6.1 SZÁMOK ÍRÁSA
+
+KÖVETELMÉNY:
+- MINDEN számot írj ki BETŰVEL
+- Ne használj arab számokat (1, 2, 3...)
+- Ne használj római számokat (I, II, III...)
+
+PÉLDÁK:
+- "tizenöt nap" (nem: 15 nap)
+- "harmadik bekezdés" (nem: 3. bekezdés)
+- "kétezer-tizennégy" (nem: 2014)
+- "tizennegyedik életév" (nem: 14. életév)
+- "nyolcadik paragrafus" (nem: 8. § vagy VIII. paragrafus)
+
+6.2 RÖVIDÍTÉSEK
+
+KÖVETELMÉNY:
+- TILOS rövidíteni
+- Minden rövidítést írj ki teljesen
+
+PÉLDÁK:
+- "bekezdés" (nem: bek.)
+- "Polgári Törvénykönyv" (nem: Ptk.)
+- "Büntető Törvénykönyv" (nem: Btk.)
+- "paragrafus" (nem: §)
+- "per" (nem: /)
+
+6.3 KARAKTEREK ÉS JELEK
+
+KÖVETELMÉNY:
+- Ne használj § jelet - írd ki: "paragrafus"
+- Ne használj / jelet - írd ki: "per"
+- Ne használj egyéb speciális jeleket, ha elkerülhető
+
+PÉLDÁK:
+- "ötödik könyv tizennegyedik paragrafusa" (nem: 5:14. §)
+- "harmadik bekezdés per negyedik bekezdés" (nem: 3. bek./4. bek.)
+
+6.4 FORMÁZÁS
+
+KÖVETELMÉNY:
+- Ne használj félkövér, dőlt vagy listajeles formázást
+- Csak tiszta, folyó szöveget írj, bekezdésekre tagolva
+- A podcast scriptekben ne használj markdown formázást
+
 ELLENŐRIZD LE!!!
 
 Tartalmi és Pontossági Ellenőrzés

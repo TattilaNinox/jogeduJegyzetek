@@ -1,0 +1,93 @@
+A JOGKÉPESSÉG RENDSZERE KEZDET VÉG ÉS A STÁTUSZ BIZONYTALANSÁGAI
+
+ELSŐ RÉSZ A JOGALANYISÁG DOGMATIKAI ALAPJAI ÉS ELHATÁROLÁSOK
+
+A modern magánjog fundamentuma az ember feltétlen jogalanyisága. Ez az elv szakít a történelem során tapasztalt tárgyiasító, például rabszolgaság, vagy rendi alapú megkülönböztetésekkel, és axiómaként rögzíti, hogy minden ember, pusztán emberi mivoltánál fogva jogok és kötelezettségek alanya lehet. A Polgári Törvénykönyv ezt az alaptételt deklarálja.
+
+A Polgári Törvénykönyv második könyvének első paragrafusa a jogképességről szól.
+Az első bekezdés kimondja, hogy minden ember jogképes, azaz jogai és kötelezettségei lehetnek.
+A második bekezdés szerint a jogképességet korlátozó jognyilatkozat semmis.
+
+Az absztrakt jogképesség természete
+
+A jogképesség nem egy szerzett tulajdonság, és nem függ semmilyen egyéni teljesítménytől, mentális állapottól vagy akarati tényezőtől. Ez egy absztrakt, elvi lehetőség a jogviszonyokban való részvételre. Fontos hangsúlyozni az egyenlőség elvét, miszerint a jogrendszer nem ismeri a több vagy kevesebb jogképesség fogalmát. Bár a törvény szövege ma már nem sorolja fel a diszkrimináció tilalmának eseteit, úgy mint faj, nem, vallás és így tovább, ez éppen a védelem teljességét szolgálja, elkerülve, hogy egy zárt felsorolás kirekesszen újabb védendő szempontokat.
+
+Ugyanakkor a formális egyenlőség mellett a jogrendszer elismeri a pozitív diszkrimináció szükségességét a sérülékenyebb csoportok, például gyermekek vagy fogyatékkal élők tényleges esélyegyenlőségének biztosítása érdekében, összhangban az Alaptörvény rendelkezéseivel.
+
+Fogalmi elhatárolások Jogképesség Szerzőképesség Cselekvőképesség
+
+Szakmai szempontból elengedhetetlen a jogképesség elválasztása rokon kategóriáktól.
+
+Az első ilyen elhatárolás a jogképesség és a szerzőképesség viszonya. Míg a jogképesség az általános szerzési képesség, addig a szerzőképesség arra utal, hogy konkrét jogokat, például termőföld tulajdonjogát kik szerezhetnek meg. Ha a törvény egyes vagyontárgyak megszerzését feltételekhez köti, például csak regisztrált földműves vehet földet, az nem a jogképességet, hanem a szerzőképességet korlátozza.
+
+A második elhatárolás a jogképesség és a cselekvőképesség között van. A jogképesség a jogalanyiság passzív oldala, vagyis hogy lehet jogom, míg a cselekvőképesség az aktív oldal, vagyis hogy saját magatartásommal szerezhetek jogot. Egy csecsemő teljes jogképességgel bír, tehát örökölhet vagyont, de cselekvőképtelen, így nem köthet adásvételi szerződést.
+
+A jogképességről való lemondás tilalma abszolút érvényű, tehát semmilyen jognyilatkozat, legyen az egyoldalú vagy szerződéses, nem vonhatja el vagy korlátozhatja ezt a státuszt.
+
+MÁSODIK RÉSZ A JOGALANYISÁG IDŐBELI HATÁLYA A KEZDET ÉS A MAGZAT HELYZETE
+
+A jogi létezés kezdőpontját a törvény pragmatikusan határozza meg, összekötve a biológiai fogantatást a sikeres születés tényével.
+
+A Polgári Törvénykönyv második könyvének második paragrafusa a jogképesség kezdetéről rendelkezik.
+Az első bekezdés szerint a jogképesség az embert, ha élve születik, fogamzásának időpontjától illeti meg.
+A második bekezdés alapján a fogamzás időpontjának a születéstől visszafelé számított háromszázadik napot kell tekinteni, de bizonyítani lehet, hogy a fogamzás korábbi vagy későbbi időpontban történt. A születés napja a határidőbe beleszámít.
+
+A feltételes jogalanyiság konstrukciója
+
+Bár biológiailag az élet folyamatos, a polgári jog egy technikai megoldást alkalmaz, amely szerint a magzat jogképessége feltételes. Ez azt jelenti, hogy visszamenőleges hatállyal válik teljes jogú jogalannyá, de csak akkor, ha élve megszületik.
+Ennek egyik eleme az élveszületés. Ez az egyetlen feltétel. Ha a gyermek életképtelenül születik, de akár egy pillanatig is élt, jogalannyá vált, és utána öröklésnek van helye.
+A másik elem a vélelem. A fogamzás pontos idejének bizonyítása nehézkes, ezért a jog egy megdönthető vélelmet állít fel, amely a születés mínusz háromszáz nap. Ez a vélelem mindkét irányban, tehát korábban vagy később történt fogantatás esetén is megdönthető bizonyítással.
+
+A magzat érdekeinek védelme és a gyámrendelés
+
+Mivel a magzatnak már vannak várományai, például örökség, érdekeinek képviseletéről gondoskodni kell.
+
+A Polgári Törvénykönyv második könyvének harmadik paragrafusa a magzat gyámjáról szól.
+Az első bekezdés kimondja, hogy a gyámhatóság kérelemre vagy hivatalból gyámot rendel a magzat részére, ha ez a magzat jogainak megóvása érdekében szükséges.
+A második bekezdés felsorolja, hogy gyám rendelését a magzat szülője, nagyszülője, az ügyész és a jegyző kérheti.
+
+A szabályozás lényege, hogy bár általában a szülő képviseli a születendő gyermeket, bizonyos helyzetekben, például érdekellentét esetén a szülő és a magzat között egy vagyonjogi vitában, szükségessé válhat egy független gyám kirendelése. A hatóság mérlegelési jogköre széles, bármikor léphet, ha a magzat jogainak megóvása ezt indokolja.
+
+HARMADIK RÉSZ A JOGALANYISÁG MEGSZŰNÉSE ÉS A BIZONYTALANSÁG KEZELÉSE
+
+A jogi sors lezárása két módon történhet, a bizonyos halál tényével vagy a bizonytalan sorsú eltűnt személy holtnak nyilvánításával.
+
+A biztos halál
+
+A Polgári Törvénykönyv második könyvének negyedik paragrafusa a jogképesség megszűnéséről rendelkezik, és kimondja, hogy a jogképesség a halállal szűnik meg.
+
+Ez a tiszta eset, amikor orvosi bizonyítvány igazolja a visszafordíthatatlan biológiai elmúlást. A joghatások, például az öröklés megnyílása, a halál pillanatában állnak be. Ha a halál ténye biztos, de adminisztratív okból, például a holttest megsemmisülése egy robbanásban, nincs halottvizsgálati bizonyítvány, akkor a halál tényének bírósági megállapításának van helye. Ez pusztán adminisztratív pótlás, nem vélelem.
+
+A bizonytalan halál, vagyis a holtnak nyilvánítás
+
+Ha az ember eltűnik, és sorsa felől nincs bizonyosság, a jogrendszernek mesterségesen kell lezárnia a jogviszonyait.
+
+A Polgári Törvénykönyv második könyvének ötödik paragrafusa szabályozza a holtnak nyilvánítást.
+Az első bekezdés szerint az eltűnt személyt a bíróság kérelemre holtnak nyilvánítja, ha eltűnésétől öt év eltelt anélkül, hogy életben létére utaló bármilyen adat ismert volna.
+A második bekezdés kimondja, hogy a holtnak nyilvánított személyt az ellenkező bizonyításáig halottnak kell tekinteni.
+A harmadik bekezdés alapján a holtnak nyilvánítást az eltűnt személy közeli hozzátartozója, az ügyész, a gyámhatóság és az kérheti, akinek az eltűnt holtnak nyilvánítása jogi érdekét érinti.
+
+Ez a jogintézmény egy vélelem. Nem állítja, hogy az illető biztosan halott, de a jogbiztonság érdekében úgy kezeli. A feltételek szigorúak, öt év teljes hírzárlatot követelnek meg.
+
+A halál időpontjának vélelme
+
+Mivel nincs pontos halálozási időpont, a bíróságnak kell konstruálnia egyet.
+
+A Polgári Törvénykönyv második könyvének hatodik paragrafusa a halál időpontjának meghatározásáról szól.
+Az első bekezdés szerint a bíróság a halál időpontját a körülmények mérlegelése alapján határozza meg.
+A második bekezdés alapján, ha a körülmények mérlegelése nem vezet eredményre, a halál időpontja az eltűnést követő hónap tizenötödik napja.
+
+Ez a kettős vélelem rendszere, ahol a bíróság vélelmezi a halál tényét és az időpontját is. Az elsődleges a bírói mérlegelés, vagyis hogy mikor volt a legnagyobb valószínűsége a halálnak, a másodlagos pedig a törvényi kisegítő szabály, amely szerint az időpont az eltűnés után egy hónap tizenötödik napja.
+
+A vélelem megdőlése, a visszatérés jogkövetkezményei
+
+A holtnak nyilvánítás kockázata, hogy az eltűnt személy valójában él, vagy máskor halt meg. A törvény részletesen rendezi a korrekciót.
+
+A Polgári Törvénykönyv második könyvének hetedik paragrafusa a holtnak nyilvánítás alapjául vett körülmények változásáról szól.
+Az első bekezdés szerint, ha bebizonyosodik, hogy a holtnak nyilvánított a határozatban alapul vett időpontnál korábbi vagy későbbi időpontban tűnt el, de a holtnak nyilvánítás feltételei egyébként fennállnak, a bíróság a holtnak nyilvánító határozatot módosítja.
+A második bekezdés kimondja, hogy ha bebizonyosodik, hogy a holtnak nyilvánított a határozatban alapul vett időpontnál később tűnt el, és ezért a holtnak nyilvánítás feltételei nem állnak fenn, a bíróság a holtnak nyilvánító határozatot hatályon kívül helyezi, és az annak alapján beállott jogkövetkezmények semmisek.
+A negyedik bekezdés alapján, ha a holtnak nyilvánított előkerül, a holtnak nyilvánító határozat hatálytalan, és az annak alapján beállott jogkövetkezmények semmisek.
+
+A legfontosabb szabály, hogy az előkerülés ténye automatikusan, ipszó júre semmissé teszi a halál jogkövetkezményeit. Ez dominóhatást indít el, a hagyatékátadó végzések hatályukat vesztik, és az eredeti tulajdoni állapotot kell lehetőség szerint helyreállítani.
+
+Kivételt képez a családjogban az, hogy az új házasságkötés túlélheti a holtnak nyilvánítás megdőlését, ha a felek jóhiszeműek voltak, védve ezzel az új családi viszonyokat.

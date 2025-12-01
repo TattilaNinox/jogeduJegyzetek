@@ -1,0 +1,116 @@
+A polgári jog alapelvei, különös tekintettel a joggal való visszaélés tilalmára.
+
+Bevezetés: A Polgári Jogi Alapelvek Szerepe.
+
+A polgári jogi alapelvek, vagy más terminológiával generálklauzulák, olyan általános, elvont jogi szabályok, amelyek áthatják az egész polgári jogot, és zsinórmértékként szolgálnak mind a jogalkalmazás, mind a jogértelmezés számára. Az alapelvek nyitott normák, ami azt jelenti, hogy nem tartalmaznak konkrét, részletesen szabályozott tényállást és jogkövetkezményt, hanem általános értékeket, követelményeket fogalmaznak meg, amelyeket minden polgári jogi viszonyban érvényesíteni kell.
+
+Az alapelvek szerepe a jogrendszerben a következő négy funkcióban nyilvánul meg.
+Először, a jogértelmezési funkció. Az alapelvek útmutatást adnak a jogszabályok értelmezéséhez. Ha egy jogszabály többféleképpen értelmezhető, az alapelvek alapján kell eldönteni, melyik értelmezés helyes. Ha egy jogszabály homályos vagy hiányos, az alapelvek alapján kell azt kiegészíteni, konkretizálni.
+Másodszor, a joghézagkitöltő funkció. Ha a jogszabályok nem szabályoznak egy adott kérdést, vagyis joghézag áll fenn, az alapelvek alapján lehet eldönteni, mi a jogszerű magatartás. Az alapelvek így biztosítják a jogrendszer teljességét, nem hagyják jogi szabályozás nélkül az élethelyzeteket.
+Harmadszor, a korrekciós funkció. Az alapelvek lehetővé teszik a bírói mérlegelést. A bíró az alapelvek alapján korrigálhatja a merev jogszabályok alkalmazását, ha az az adott esetben méltánytalan vagy igazságtalan eredményre vezetne.
+Negyedszer, a rugalmasság és adaptáció biztosítása. Az alapelvek rugalmassá teszik a jogrendszert, lehetővé teszik, hogy a jog alkalmazkodjon a változó társadalmi, gazdasági viszonyokhoz anélkül, hogy a jogszabályokat folyamatosan módosítani kellene.
+
+A kétezer-tizenhárom évi ötödik törvény, a Polgári Törvénykönyv alapelveit az Első Könyv, Bevezető Rendelkezések című része, az első könyv első paragrafusától az első könyv hatodik paragrafusáig terjedő szakasz tartalmazza. Ezek a rendelkezések a törvény egészét átható, minden polgári jogi viszonyra alkalmazandó szabályok, amelyeket mind a jogalkalmazóknak, mind a jogalanyoknak tiszteletben kell tartaniuk.
+
+A Polgári Törvénykönyv Általános Alapelvei.
+
+A törvény hatálya és a mellérendeltség elve.
+A Polgári Törvénykönyv első könyvének első paragrafusa meghatározza a törvény hatályát és alapvető jellegét: E törvény a mellérendeltség és egyenjogúság elve szerint szabályozza a személyek alapvető vagyoni és személyi viszonyait.
+Ez a rendelkezés kifejezi a polgári jog alapvető jellegét, miszerint a polgári jogi viszonyokban a felek mellérendeltek, vagyis horizontális viszonyban állnak, nem alá-fölérendeltségi viszonyban, és egyenjogúak, tehát egyik félnek sincs többletjoga a másikkal szemben pusztán jogi pozíciója alapján. Ez elhatárolja a polgári jogot a közjogtól, ahol a viszonyok általában vertikálisak, vagyis alá-fölérendeltségiek.
+
+Az értelmezési alapelv.
+A Polgári Törvénykönyv első könyvének második paragrafusa szabályozza a törvény értelmezésének alapelvét.
+Az első bekezdés szerint: E törvény rendelkezéseit Magyarország alkotmányos rendjével összhangban kell értelmezni.
+A második bekezdés szerint: A polgári jogi viszonyokra vonatkozó jogszabályokat e törvénnyel összhangban kell értelmezni.
+Ez a hierarchikus értelmezési szabály két szintet tartalmaz.
+Az első szint az Alaptörvénnyel való összhang. A Polgári Törvénykönyv rendelkezéseit Magyarország alkotmányos rendjével, tehát az Alaptörvénnyel és az alkotmánybírósági határozatokkal összhangban kell értelmezni. Ez azt jelenti, hogy ha egy rendelkezés többféleképpen értelmezhető, az alkotmányos rendnek megfelelő értelmezést kell választani; a Polgári Törvénykönyv rendelkezései nem értelmezhetők az alkotmányos renddel ellentétesen; és az alkotmányos értékeknek, mint az emberi méltóság, tulajdonhoz való jog, szerződési szabadság és így tovább, át kell hatniuk a Polgári Törvénykönyv alkalmazását. Ezt a követelményt erősíti Magyarország nemzetközi kötelezettségvállalásai is, például az Emberi Jogok Európai Egyezménye, amelyek szintén befolyásolják a Polgári Törvénykönyv értelmezését.
+A második szint a Polgári Törvénykönyvvel való összhang. A polgári jogi viszonyokra vonatkozó más jogszabályokat, például külön törvényeket, rendeleteket, a Polgári Törvénykönyvvel összhangban kell értelmezni. A Polgári Törvénykönyv központi szerepe a polgári jogban azt jelenti, hogy a speciális jogszabályokat a Polgári Törvénykönyv elveivel, fogalmaival, szabályaival összhangban kell alkalmazni.
+
+A jóhiszeműség és tisztesség elve.
+A Polgári Törvénykönyv első könyvének harmadik paragrafusa a polgári jog egyik legfontosabb alapelvét tartalmazza.
+Az első bekezdés szerint: A jogok gyakorlása és a kötelezettségek teljesítése során a felek a jóhiszeműség és tisztesség követelményének megfelelően kötelesek eljárni.
+A második bekezdés szerint: A jóhiszeműség és tisztesség követelményét sérti az is, akinek joggyakorlása szemben áll olyan korábbi magatartásával, amelyben a másik fél okkal bízhatott.
+Ez az alapelv kétkomponensű: a jóhiszeműség és a tisztesség követelményét egyaránt tartalmazza.
+A jóhiszeműség, latinul bona fidesz, szubjektív fogalom. Azt fejezi ki, hogy a fél nem tud, és nem is kell tudnia olyan körülményről, amely a joggyakorlását jogszerűtlenné tenné. A jóhiszemű fél tévedésben van, de ez a tévedés menthető, mert nem kellett tudnia az igaz tényállásról. Például a jóhiszemű birtokos nem tudja, hogy a dolog nem az övé; a jóhiszemű szerző nem tudja, hogy a szerződő fél nem jogosult a szerződéskötésre; vagy a jóhiszemű vevő nem tudja, hogy az eladó nem tulajdonos. A jóhiszeműség fogalma különösen fontos a tulajdonszerzésnél, mivel a jóhiszemű szerző bizonyos esetekben tulajdonossá válhat akkor is, ha az átruházó nem volt tulajdonos.
+A tisztesség objektív jóhiszeműséget jelent. Ez objektív fogalom, amely azt fejezi ki, hogy a félnek úgy kell eljárnia, ahogy az a jogi forgalomban általában elvárható. A tisztesség követelménye nem függ attól, hogy a fél mit tud vagy mit gondol, hanem attól, hogy magatartása megfelel-e az általánosan elfogadott normáknak. A tisztesség magában foglalja a lojalitást, hűséget a szerződő félhez; a kooperációt, együttműködési készséget; a tájékoztatási kötelezettséget lényeges körülményekről; és az etikus üzleti magatartást.
+A venire contra factum proprium tilalma. A Polgári Törvénykönyv első könyvének harmadik paragrafusának második bekezdése tartalmazza a saját korábbi magatartással való szembemenetel tilalmát. Ez az ősi latin jogszabály klasszikus megfogalmazása szerint senki nem járhat el ellentétesen olyan korábbi magatartásával, amelyben a másik fél joggal bízott.
+A tilalom alkalmazásának feltételei a következők: a fél korábbi magatartása létezett; ebben a magatartásban a másik fél okkal bízhatott, tehát ésszerű volt a bizalom; a későbbi magatartás ellentétes a korábbiakkal; és a másik fél hátrányára van. Például, ha valaki beleegyezik egy építkezésbe, később nem tiltakozhat ellene; ha valaki évekig nem kifogásolja a szomszéd birtokzavaró magatartását, később nem hivatkozhat rá; vagy ha valaki bejelenti, hogy nem érvényesít követelést, később nem követelheti.
+
+Az elvárható magatartás elve.
+A Polgári Törvénykönyv első könyvének negyedik paragrafusa az elvárható magatartás elvét és a felróhatóság fogalmát szabályozza.
+Az első bekezdés szerint: Ha e törvény eltérő követelményt nem támaszt, a polgári jogi viszonyokban úgy kell eljárni, ahogy az az adott helyzetben általában elvárható.
+A második bekezdés szerint: Felróható magatartására előnyök szerzése végett senki nem hivatkozhat.
+A harmadik bekezdés szerint: A másik fél felróható magatartására hivatkozhat az is, aki maga felróhatóan járt el.
+Az elvárható magatartás követelménye az első bekezdés alapján az általános gondossági kötelezettséget fejezi ki. Ez az objektív mérce, az úgynevezett "rizonöhbl men", azaz ésszerű ember követelménye. Nem az a kérdés, hogy az adott személy képességeihez képest hogyan járt el, hanem az, hogy egy átlagos, ésszerű, gondos ember hogyan járt volna el az adott helyzetben. Ez a követelmény alapja a gondossági kötelezettségnek a szerződési jogban, a felróhatóságnak a kártérítési jogban, és az általános magatartási szabályoknak.
+A nemo turpitudinem suam allegans auditur elve a második bekezdésben található, amely szerint senki sem hivatkozhat saját felróható magatartására előnyök szerzése végett. Ez azt jelenti, hogy senki nem hasznosíthatja saját felróható magatartását, nem szerezheti belőle előnyöket. Ez az önkontradikcióhoz vezető magatartás tilalma. Például a károkozó nem hivatkozhat saját gondatlanságára a felelősség alóli mentesülés végett; a szerződésszegő nem hivatkozhat saját szerződésszegésére előny szerzése végett; vagy az érvénytelen szerződést kötő nem hivatkozhat saját felróható magatartására, például tévedésre vagy kényszerre, ha azt maga okozta.
+A harmadik bekezdés szerint a másik fél felróható magatartására való hivatkozáshoz nem szükséges, hogy a hivatkozó maga kifogástalan legyen. Ha mindkét fél felróhatóan járt el, az nem zárja ki, hogy az egyik hivatkozzon a másik felróható magatartására. Ez a szabály különösen fontos a kármegosztásnál, ahol ha mindkét fél hozzájárult a kárhoz, a kárt fel kell osztani, nem azt kell vizsgálni, hogy melyik fél "tiszta".
+
+A Joggal Való Visszaélés Tilalma. Részletes Elemzés.
+
+A joggal való visszaélés tilalma a polgári jog egyik legfontosabb, ugyanakkor legbonyolultabb alapelve. A Polgári Törvénykönyv első könyvének ötödik paragrafusának első bekezdése tömör egyértelműséggel kimondja: A törvény tiltja a joggal való visszaélést.
+
+A joggal való visszaélés fogalma.
+A joggal való visszaélés, franciául abü dö droá, németül Rechtszmisszbrauh, azt jelenti, hogy valaki egy egyébként jogos, formálisan jogszerű magatartást olyan módon gyakorol, vagy olyan célból gyakorol, hogy az jogellenessé válik a joggyakorlás módja miatt. A joggal való visszaélés tehát nem a jog hiányát, hanem a jog visszaélésszerű gyakorlását jelenti. A joggyakorló rendelkezik a joggal, például tulajdonos, szerződő fél vagy hitelező, de a jog gyakorlásának módja sérti a jog rendeltetését, célját, vagy sérti mások jogos érdekeit aránytalanul.
+
+Elméleti háttér és nemzetközi példák.
+A joggal való visszaélés tilalma nem magyar találmány, hanem nemzetközileg elismert jogelv. A Svájci Polgári Törvénykönyv, a ZéGéBé második cikke szerint senki sem gyakorolhatja jogát visszaélésszerűen. A Német Polgári Törvénykönyv, a BéGéBé kétszázhuszonhatodik paragrafusa szerint ha a jog gyakorlása kizárólag mások zaklatására szolgál, az nem élvez jogi védelmet. A francia jogban az "abü dö droá" doktrínája a bírói gyakorlatban alakult ki. A magyar jogban a joggal való visszaélés tilalma az ezerkilencszázötvenkilenc évi Polgári Törvénykönyvben jelent meg először pozitív jogi szabályként, és a kétezer-tizenhárom évi Polgári Törvénykönyv átvette és módosította.
+
+A joggal való visszaélés esetei és fogalmi jegyei.
+Az ezerkilencszázötvenkilenc évi Polgári Törvénykönyv taxatíve felsorolta a joggal való visszaélés eseteit, például csekély jelentőségű érdeksérelem, aránytalanság, tisztességtelenség. A kétezer-tizenhárom évi Polgári Törvénykönyv már nem nevesíti ezeket az eseteket, hanem csak az általános tilalmat mondja ki. Ennek ellenére a bírói gyakorlat és a jogtudomány által kimunkált fogalmi jegyek továbbra is irányadók.
+Ezek a következők.
+Aránytalanság: A jog gyakorlása aránytalan kárt vagy hátrányt okoz a másik félnek ahhoz az előnyhöz képest, amelyet a joggyakorló szerez. A joggyakorló minimális előnye érdekében súlyos kárt okoz másnak. Például az ingatlan tulajdonosa megtiltja a szomszédnak, hogy villanyvezetéket húzzon a telkén keresztül, miközben ez neki semmi hátrányt nem okoz, a szomszédnak viszont lehetetlenné teszi az áramszolgáltatást.
+Tisztességtelenség: A jog gyakorlása ellentétes az általánosan elfogadott erkölcsi normákkal, az üzleti etikával, a jóhiszeműség és tisztesség követelményével. Például a hitelező egyszer már lemondott a követeléséről, később mégis érvényesíti.
+Kizárólag károkozási szándék, vagy sikán: A jog gyakorlása kizárólag vagy elsősorban azzal a céllal történik, hogy másnak kárt okozzon, zaklatást, bosszantást jelentsen, anélkül, hogy a joggyakorlónak bármilyen ésszerű előnye származna belőle. Például az ingatlan tulajdonosa rosszindulatból emeli magasra a kerítést, hogy elzárja a szomszéd kilátását, miközben neki semmi haszna nincs belőle.
+Jog rendeltetésével való ellentét: A jog gyakorlása ellentétes a jog céljával, rendeltetésével. A jog nem arra való, amire a joggyakorló használja. Például a felmondási jog arra való, hogy megszüntessék a szerződést, ha az már nem felel meg az érdekeknek, nem arra, hogy a másik felet megzsarolják.
+
+A joggal való visszaélés szankciói.
+Ha megállapítják a joggal való visszaélést, az jogi szankciókat von maga után.
+A kívánt joghatás elmaradása: A visszaélésszerűen gyakorolt jog nem élvez jogi védelmet, a kívánt joghatás nem következik be. Ha valaki visszaélésszerűen érvényesít követelést, a bíróság elutasítja a keresetet. Ha valaki visszaélésszerűen tagad meg jognyilatkozatot, a bíróság pótolhatja azt.
+Kártérítési kötelezettség: Ha a joggal való visszaélés kárt okoz a másik félnek, a visszaélő kártérítési felelősséggel tartozik. A kártérítés jogcíme lehet szerződésszegés vagy deliktuális felelősség.
+Egyéb polgári jogi szankciók: A joggal való visszaélés további szankciókat vonhat maga után, mint például a szerződés megtámadása vagy érvénytelenítése; a jog elvesztése, például elévülés vagy jogvesztés; és személyiségi jogi szankciók, ha a visszaélés személyiségi jogot sért.
+
+A jognyilatkozat bírósági pótlása.
+A Polgári Törvénykönyv első könyvének ötödik paragrafusának második bekezdése a joggal való visszaélés egyik legfontosabb jogkövetkezményét tartalmazza: Ha a joggal való visszaélés jogszabály által megkívánt nyilatkozat megtagadásában áll, és ez a magatartás nyomós közérdeket vagy különös méltánylást érdemlő magánérdeket sért, a bíróság a nyilatkozatot ítéletével pótolhatja, feltéve, hogy az érdeksérelem másképpen nem hárítható el.
+Ez a rendelkezés a mulasztásos joggal való visszaélés speciális esetét szabályozza: amikor valaki visszaélésszerűen megtagad egy jogszabály által megkívánt nyilatkozatot.
+A jognyilatkozat bírósági pótlásának feltételei a következők.
+Jogszabály által megkívánt nyilatkozat megtagadása: Létezik egy jogszabályi kötelezettség a nyilatkozat megtételére, például a házastárs hozzájárulása a közös lakás eladásához, a tulajdonostárs hozzájárulása a közös tulajdon megszüntetéséhez, vagy a vezető tisztségviselő nyilatkozata cégeljárásban. A kötelezett megtagadja a nyilatkozatot, azaz nem teszi meg, miközben jogszabály szerint köteles lenne.
+A megtagadás visszaélésszerű: A nyilatkozat megtagadása visszaélésszerű, azaz nincs ésszerű indoka a megtagadásnak; kizárólag vagy elsősorban a másik fél zaklatására, károkozására szolgál; aránytalanul súlyos hátrányt okoz a másik félnek; vagy ellentétes a jóhiszeműség és tisztesség követelményével.
+Nyomós közérdek vagy különös méltánylást érdemlő magánérdek sérelme: A nyilatkozat megtagadása nyomós közérdeket, például közigazgatási eljárás akadályozása, közhatalmi határozat végrehajtásának megakadályozása, vagy különös méltánylást érdemlő magánérdeket, például lakhatáshoz való jog, egzisztenciális érdek, sért.
+Az érdeksérelem másképpen nem hárítható el: A jognyilatkozat bírósági pótlása ultima ratio, azaz végső eszköz, csak akkor alkalmazható, ha az érdeksérelem másképpen, például kártérítéssel vagy más jogi eszközzel, nem hárítható el.
+Bírósági mérlegelés: A bíróság mérlegelési jogkörben dönt arról, hogy pótolható-e a nyilatkozat. A "pótolhatja" szó fakultatív, a bíróság nem köteles, hanem jogosult pótolni.
+Példák a bírói gyakorlatból:
+Közös tulajdon megszüntetése: Ha az egyik tulajdonostárs visszaélésszerűen megtagadja a hozzájárulását a megszüntetéshez, a bíróság pótolhatja a nyilatkozatot.
+Cégeljárás: Ha a cég vezető tisztségviselője visszaélésszerűen megtagadja a cégbírósági eljárásban szükséges nyilatkozatot, a bíróság pótolhatja.
+Házastársi hozzájárulás: Ha az egyik házastárs visszaélésszerűen megtagadja a hozzájárulást a közös lakás eladásához, a bíróság pótolhatja.
+A pótlás joghatása: A bíróság ítélete helyettesíti a hiányzó jognyilatkozatot, úgy kell tekinteni, mintha a kötelezett megtette volna a nyilatkozatot. Az ítélet alapján a joghatások, például tulajdonjog átszállása vagy cégbejegyzés, bekövetkeznek.
+
+Az Alapelvek Viszonya és Gyakorlati Jelentőségük.
+
+Az alapelvek egymáshoz való viszonya.
+A polgári jogi alapelvek nem elszigetelt szabályok, hanem egymással összefüggő, átfedő normák, amelyek együttesen határozzák meg a jogszerű magatartás kereteit.
+Az alapelvek közötti átfedések a következők. A jóhiszeműség és tisztesség elve és a joggal való visszaélés tilalma között szoros kapcsolat van: a joggal való visszaélés gyakran egyben a jóhiszeműség és tisztesség követelményének megsértése is. A venire contra factum proprium tilalma és a joggal való visszaélés tilalma szintén átfedik egymást. Az elvárható magatartás elve és a jóhiszeműség és tisztesség elve átfedik egymást: mindkettő objektív magatartási mércét állít fel.
+
+Dogmatikai pontosság követelménye.
+Az alapelvek közötti átfedések ellenére a jogalkalmazónak törekednie kell arra, hogy dogmatikailag a leginkább helytálló alapelvre hivatkozzon egy adott tényállás esetén. Ez azt jelenti, hogy ha egy magatartás egyértelműen venire contra factum proprium, akkor erre kell hivatkozni, nem általában a joggal való visszaélésre; ha egy magatartás egyértelműen a felróhatóság körébe tartozik, akkor a Polgári Törvénykönyv első könyvének negyedik paragrafusára kell hivatkozni; csak akkor kell a Polgári Törvénykönyv első könyvének ötödik paragrafusára, a joggal való visszaélésre hivatkozni, ha az eset nem illeszthető be a többi, specifikusabb alapelvbe.
+Ez a dogmatikai pontosság biztosítja a jogbiztonságot, a kiszámíthatóságot és a jogfejlődést.
+
+Gyakorlati példa.
+Tegyük fel, hogy A és B közös tulajdonosok egy ingatlanban. A ki szeretne lépni a közös tulajdonból, és kéri a megszüntetést. B megtagadja a hozzájárulását, miközben nincs ésszerű indoka a megtagadásra; az ingatlanban nem lakik, nem is használja; kizárólag azért tagadja meg, hogy A-t bosszantsa; és A-nak súlyos hátránya származik ebből.
+Ebben az esetben:
+A Polgári Törvénykönyv első könyvének harmadik paragrafusa, a jóhiszeműség és tisztesség alapján B magatartása ellentétes a tisztesség követelményével.
+A Polgári Törvénykönyv első könyvének negyedik paragrafusának második bekezdése, a nemo turpitudinem alapján, ha B maga is hozzájárult a közös tulajdon létrejöttéhez, nem hivatkozhat saját korábbi magatartására előnyök szerzése végett.
+A Polgári Törvénykönyv első könyvének ötödik paragrafusának első bekezdése, a joggal való visszaélés alapján, B visszaél a hozzájárulás megtagadásának jogával.
+A Polgári Törvénykönyv első könyvének ötödik paragrafusának második bekezdése, a jognyilatkozat pótlása alapján, a bíróság pótolhatja B hozzájáruló nyilatkozatát, ha a megtagadás joggal való visszaélés; különös méltánylást érdemlő magánérdek áll fenn; és az érdeksérelem másképpen nem hárítható el.
+Ebben az esetben a legpontosabb jogalap a Polgári Törvénykönyv első könyvének ötödik paragrafusának második bekezdése, mert kifejezetten a jogszabály által megkívánt nyilatkozat visszaélésszerű megtagadásáról van szó.
+
+Összegzés.
+A polgári jogi alapelvek, és kiemelten a joggal való visszaélés tilalma alapvető jelentőségűek a jogbiztonság és az igazságosság érvényesülésében.
+A Polgári Törvénykönyv bevezető rendelkezéseiben, az első könyv első paragrafusától a hatodik paragrafusáig megfogalmazott alapelvek a következők:
+Egy: A mellérendeltség és egyenjogúság elve.
+Kettő: Az értelmezési alapelv.
+Három: A jóhiszeműség és tisztesség elve, és a venire contra factum proprium tilalma.
+Négy: Az elvárható magatartás elve, és a nemo turpitudinem suam allegans auditur.
+Öt: A joggal való visszaélés tilalma, és a jognyilatkozat bírósági pótlása.
+Hat: Bírói út.
+Ezek az eszközök adják a jogalkalmazó kezébe a lehetőséget a méltányos és a konkrét eset sajátosságait figyelembe vevő ítélkezésre. Az alapelvek biztosítják, hogy a merev jogszabályok ne vezessenek igazságtalan eredményre; a visszaélésszerű joggyakorlás ne élvezzen jogi védelmet; a jóhiszemű, tisztességes, gondos magatartás előnyt jelentsen; és a jogrendszer rugalmas, adaptív és élő maradjon. A polgári jogi alapelvek így nemcsak elméleti jelentőségűek, hanem gyakorlati eszközök, amelyek nélkül a polgári jog nem tudná betölteni funkcióját a modern társadalomban. Különösen a joggal való visszaélés tilalma játszik kulcsszerepet abban, hogy a formális jogosultság ne válhasson eszközzé mások igazságtalan károsítására, és hogy a jog rendeltetése mindig érvényesüljön.
+

@@ -1,0 +1,56 @@
+AI Feladat-Prompt: Témaspecifikus Jogászi Tétel Kidolgozása
+
+1. Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkészülését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat megtalálod a "forrasok" mappában Feltétlen használd fel őket nagyon fontos!!!! ? hogy idézd meg pontosan szorul szóra azokat a jogszabályokat amelyek a jelen témakörhöz kapcsolódnak, illetve amik alapján ki lett dolgozva a tétel tartalma. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd
+
+2. Feladat Célja:
+A feladatod egy teljeskörű, részletes és jól strukturált tétel kidolgozása a következő témakörben:
+"Az idegen dologbeli jogok (korlátolt dologi jogok)"
+
+A végeredmény egy olyan önálló, koherens dokumentum legyen, amely önmagában is elegendő a téma alapos megértéséhez és egy sikeres vizsgához.
+
+3. Strukturális és Tartalmi Követelmények:
+
+I. Bevezetés: Az Idegen Dologbeli Jogok Fogalma és Rendszere
+- Definiáld az **idegen dologbeli jogok** fogalmát: olyan, a tulajdonjognál szűkebb tartalmú, abszolút szerkezetű (dologi) jogok, amelyek más személy tulajdonában álló dolgon biztosítanak valamilyen jogosultságot.
+- Emeld ki közös jellemzőjüket: korlátozzák a tulajdonos tulajdonjogát.
+- Rendszerezd az idegen dologbeli jogokat két fő csoportba:
+    - **Használati jogok:** A dolog használatára, hasznosítására adnak lehetőséget.
+    - **Értékjogok (biztosítéki jogok):** A dolog értékéből való kielégítést biztosítják (pl. zálogjog).
+
+II. A Használati Jogok:
+- Részletezd a Ptk.-ban szabályozott legfontosabb használati jogokat:
+    - **1. A haszonélvezet (Ptk. 5:146. §-tól):**
+        - Definiáld a fogalmát: a jogosult (a haszonélvező) a más személy tulajdonában álló dolgot birtokában tarthatja, használhatja, hasznosíthatja és hasznait szedheti.
+        - Tárgyald a személyes jellegét (főszabály szerint a jogosult haláláig áll fenn) és a jogok/kötelezettségek megoszlását a tulajdonos és a haszonélvező között.
+    - **2. A használat joga (Ptk. 5:153. §-tól):**
+        - Mutasd be, mint a haszonélvezetnél szűkebb jogosultságot: a jogosult a dolgot a saját, valamint együtt élő családtagjai szükségleteit meg nem haladó mértékben használhatja és hasznait szedheti.
+    - **3. A telki szolgalom (Ptk. 5:156. §-tól):**
+        - Definiáld a fogalmát: egy ingatlan (az uralkodó telek) mindenkori birtokosa egy másik ingatlant (a szolgáló telket) meghatározott terjedelemben használhat, vagy követelheti, hogy a szolgáló telek birtokosa valamilyen magatartástól tartózkodjon.
+        - Tárgyald a keletkezését (szerződés, elbirtoklás) és hozz példákat a leggyakoribb szolgalmi típusokra (átjárási, vízvezetési, pincetartási szolgalom).
+
+III. Az Értékjogok: A Zálogjog
+- Mutasd be a **zálogjogot (Ptk. 5:86. §-tól)**, mint az idegen dologbeli jogok másik nagy csoportjának legfontosabb képviselőjét:
+    - Definiáld a fogalmát: a zálogjogosult a pénzben meghatározott vagy meghatározható követelésének biztosítására szolgáló zálogtárgyból más követeléseket megelőző sorrendben kielégítést kereshet, ha a kötelezett nem teljesít.
+    - Tárgyald a járulékos jellegét: a zálogjog mindig egy alapköveteléshez (pl. kölcsön) kapcsolódik.
+    - Különítsd el a főbb típusait: **jelzálog** (ingatlanok esetében, a dolog a kötelezett birtokában marad) és **kézizálog** (ingók esetében, a dolog a jogosult birtokába kerül).
+
+IV. Összegzés:
+- Foglald össze az idegen dologbeli jogok szerepét a vagyoni forgalomban, mint a tulajdonjog tartalmának "megbontását" és a részjogosítványok önállósodását lehetővé tevő eszközöket.
+- Hangsúlyozd, hogy ezek a jogintézmények teszik lehetővé a javak minél hatékonyabb gazdasági és személyes célú kihasználását.
+
+4. Formázási és Stilisztikai Utasítások:
+- Tagolás: Használj egyértelmű címsorokat és alcímeket a fenti struktúra szerint.
+- Kiemelés: A **kulcsfontosabb jogi szakkifejezéseket** (pl. **idegen dologbeli jog**, **haszonélvezet**, **telki szolgalom**, **zálogjog**) és a **jogszabályi hivatkozásokat** emeld ki félkövér formázással.
+- Hivatkozások: Pontosan és következetesen hivatkozz a **Ptk. Ötödik Könyvének releváns szakaszaira**.
+- Nyelvezet: Maradj végig a tudományos, szakmai nyelvezetnél, de törekedj a világos és érthető fogalmazásra.
+
+A végeredmény legyen egy professzionális, informatív és a tanulást hatékonyan támogató dokumentum. A kimenet egy TXT fájl legyen a Tételek mappába
+
+
+
+
+
+
+
+

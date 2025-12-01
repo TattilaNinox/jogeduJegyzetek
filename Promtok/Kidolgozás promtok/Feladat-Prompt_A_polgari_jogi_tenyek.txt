@@ -1,0 +1,66 @@
+AI Feladat-Prompt: Témaspecifikus Jogászi Tétel Kidolgozása
+
+1. Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkészülését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat megtalálod a "forrasok" mappában Feltétlen használd fel őket nagyon fontos!!!! ? hogy idézd meg pontosan szorul szóra azokat a jogszabályokat amelyek a jelen témakörhöz kapcsolódnak, illetve amik alapján ki lett dolgozva a tétel tartalma. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd
+
+2. Feladat Célja:
+A feladatod egy teljeskörű, részletes és jól strukturált tétel kidolgozása a következő témakörben:
+"A polgári jogi tények"
+
+A végeredmény egy olyan önálló, koherens dokumentum legyen, amely önmagában is elegendő a téma alapos megértéséhez és egy sikeres vizsgához.
+
+3. Strukturális és Tartalmi Követelmények:
+
+I. Bevezetés: A Jogi Tények Szerepe a Polgári Jogban
+- Definiáld a **jogi tény** fogalmát: azok az emberi, társadalmi vagy természeti jelenségek, amelyekhez a jogszabályok joghatásokat – azaz polgári jogi jogviszonyok keletkezését, módosulását vagy megszűnését – fűzik.
+- Emeld ki a jogi tények központi szerepét a polgári jog dinamikájában, mint a jogviszonyok "mozgatórugóit".
+
+II. A Jogi Tények Osztályozása Eredetük Szerint:
+- Részletezd a jogi tények fő csoportjait az alábbi struktúra szerint, mindegyikre hozz konkrét példákat!
+    - **1. Emberi magatartások:**
+        - **Jogos magatartások:**
+            - **Jogügyletek:** Akaratnyilatkozaton alapuló, joghatás kiváltására irányuló cselekmények. Térj ki a szerződésre mint legfontosabb jogügylet-típusra.
+            - **Más engedélyezett cselekmények:** Olyan jogos magatartások, amelyek nem minősülnek jogügyletnek (pl. a megbízás nélküli ügyvitel).
+        - **Jogellenes magatartások:**
+            - **Szerződésszegés:** A szerződéses kötelezettség megsértése.
+            - **Szerződésen kívüli károkozás (deliktum):** Másnak jogellenesen okozott kár.
+            - Térj ki a jogellenesség objektív jellegére a polgári jogban.
+    - **2. Emberi magatartástól független (külső) körülmények:**
+        - **Események:** Olyan objektív jelenségek, amelyek emberi akarattól függetlenül következnek be (pl. természeti esemény, születés, halál).
+        - **Az idő múlása:** Tárgyald az idő jogi jelentőségét.
+            - **Jogvesztő határidő:** Az alanyi jog megszűnése.
+            - **Elévülés:** Az alanyi jog bírósági kikényszeríthetőségének megszűnése.
+            - **Elbirtoklás:** Eredeti tulajdonszerzési mód.
+    - **3. Állami (hatósági) aktusok:**
+        - **Konstitutív hatályú aktusok:** Jogviszonyt keletkeztető, módosító vagy megszüntető hatásúak (pl. bírósági ítélet a házasság felbontásáról, kisajátítási határozat).
+        - **Deklaratív hatályú aktusok:** Meglévő jogi helyzetet állapítanak meg vagy tanúsítanak (pl. bírósági ítélet a szerződés létrejöttéről, ingatlan-nyilvántartási bejegyzés).
+
+III. A Jogi Tények Osztályozása a Joghatás Szerint:
+- Mutasd be, hogy a fenti jogi tények milyen változást idézhetnek elő a jogviszonyokban:
+    - **Jogviszony-keletkeztető tények:** Új jogviszonyt hoznak létre (pl. szerződéskötés, öröklés).
+        - Térj ki az **eredeti** és a **származékos** jogszerzés közötti különbségre!
+    - **Jogviszony-módosító tények:** A fennálló jogviszony valamely elemét (alany, tárgy, tartalom) változtatják meg (pl. szerződésmódosítás, engedményezés).
+    - **Jogviszony-megszüntető tények:** A fennálló jogviszonyt lezárják (pl. szerződés teljesítése, felmondás, a dolog megsemmisülése).
+
+IV. Gyakorlati Jelentőség:
+- Hozz egy komplex, életszerű példát (pl. egy ingatlan adásvételének történetét az előszerződéstől a birtokbaadásig), és mutasd be rajta keresztül a különböző jogi tények láncolatát és azok joghatásait.
+
+V. Összegzés:
+- Foglald össze, hogy a jogi tények rendszerének ismerete miért alapvető a jogalkalmazásban.
+- Erősítsd meg, hogy a jogász feladata egy konkrét élethelyzetben azonosítani a releváns jogi tényeket, és azok alapján meghatározni a felek jogait és kötelezettségeit.
+
+4. Formázási és Stilisztikai Utasítások:
+- Tagolás: Használj egyértelmű címsorokat és alcímeket a fenti struktúra szerint.
+- Kiemelés: A **kulcsfontosságú jogi szakkifejezéseket** (pl. **jogi tény**, **jogügylet**, **konstitutív/deklaratív hatály**) emeld ki félkövér formázással.
+- Példák: Minden absztrakt kategóriát konkrét, a Ptk.-ból vett vagy a joggyakorlatban előforduló példával illusztrálj.
+- Nyelvezet: Maradj végig a tudományos, szakmai nyelvezetnél, de törekedj a világos és érthető fogalmazásra.
+
+A végeredmény legyen egy professzionális, informatív és a tanulást hatékonyan támogató dokumentum. A kimenet egy TXT fájl legyen a Tételek mappába
+
+
+
+
+
+
+
+

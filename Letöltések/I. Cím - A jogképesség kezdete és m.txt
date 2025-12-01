@@ -1,0 +1,140 @@
+I. Cím - A jogképesség kezdete és megszűnése
+Ptk. 2:1. § [A jogképesség]
+
+(1) Minden ember jogképes: jogai és kötelezettségei lehetnek.
+
+(2) A jogképességet korlátozó jognyilatkozat semmis.
+
+Az ember általános, feltétlen és egyenlő jogképessége
+
+A jogképesség az emberi élet természetes velejárója: az embert e minőségéből eredően jogok és kötelezettségek illetik meg, azaz jogalany, az alkotmányok és a törvények csupán ennek deklarálására hivatottak. A jogképességnek ez az emberi mivolthoz kapcsolódó felfogása hosszú történelmi fejlődés eredményeként, a polgári társadalmakban alakult ki, kifejezésre juttatva, hogy a jog az embert nem tekintheti tárgynak (mint például a rabszolgatartó társadalomban a rabszolgákat) vagy társadalmi helyzeténél fogva jogképességében eleve korlátozottnak (mint például a rendi társadalomban a jobbágyokat). A jogalanyiság az ember "érinthetetlen lényege".
+
+Korunkban a jogképesség általános: minden ember kivétel nélkül jogképes, így az ember, illetve a jogalany jogilag szinonimává vált, "ezáltal az ember normatív fogalommá lett" [lásd 64/1991. (XII. 17.) AB határozat indokolását].
+
+A jogképességet számos nemzetközi jogi dokumentum garantálja. Az 1976. évi 8. törvényerejű rendelettel kihirdetett Polgári és Politikai Jogok Nemzetközi Egyezségokmányának 16. cikke értelmében mindenkinek joga van arra, hogy mindenütt jogképesnek ismerjék el. Az Egyezségokmány 20. cikkének 2. pontja szerint törvényben kell megtiltani a nemzeti, faji vagy vallási gyűlölet bármilyen hirdetését, amely megkülönböztetésre, ellenségeskedésre vagy erőszakra izgat. A 26. cikk pedig kimondja, hogy a törvény előtt minden ember egyenlő és minden megkülönböztetés nélkül joga van egyenlő törvényes védelemre. Az Emberi Jogok Egyetemes Nyilatkozatának 6. cikke szerint mindenkinek joga van arra, hogy jogalanyiságát bárhol elismerjék. Mindezekkel összhangban az Alaptörvény XV. cikk (1) bekezdése a törvény előtti egyenlőség kimondásával együtt rögzíti: minden ember jogképes.
+
+Az embert megillető jogképesség tartalma szerint elvont (absztrakt) lehetőség arra, hogy valakinek magánjogi jogosultsága és kötelezettsége lehessen, tehát polgári jogviszony alanyává válhasson. A jogképesség megszerzéséhez az ember részéről semmiféle külön tulajdonságra vagy teljesítményre - értelmi fejlettségre, nyilatkozatra, akaratra stb. - nincsen szükség, az például a teljesen öntudatlan embert és az életképtelen újszülöttet is megilleti.
+
+A jogképesség feltétlen, ami a törvény által deklarált emberi mivoltból következik és egyenlő, azaz a jogrendszerben nem léteznek a jogképesség kisebb vagy nagyobb terjedelmével rendelkező emberek. A törvény mellőzi a régi Ptk.-nak a példálózó felsorolását, amely kiemelte az életkorra, nemre, fajra, nemzetiséghez vagy felekezethez való tartozásra való utalást, mint a jogképesség egyenlőségének sérelmét jelentő, történetileg leggyakoribb negatív diszkrimináció szempontjait. Ezzel azonban nem gyengíteni, hanem megerősíteni kívánja, hogy "minden ember" jogképessége valamennyi lehetséges szempontból egyenlő, amelyek nem sorolhatók fel, és körük folyamatosan bővül.
+
+A formális jogegyenlőség és a negatív diszkrimináció tilalma azonban nem jelenti azt, hogy a jog a tényleges egyenlőség megvalósítása érdekében ne alkalmazhatna "pozitív diszkriminációt", ahol az társadalmi vagy biológiai szempontból indokolt. Az Alaptörvény XV. cikkének (4) és (5) bekezdése külön intézkedéseket ír elő az esélyegyenlőség biztosítására a családok, a gyermekek, a nők, az idősek és a fogyatékkal élők védelme érdekében. A "gyengébb fél" védelme a polgári jogviszonyokban is megjelenik (például fogyasztóvédelem, családjog).
+
+Az ember és jogalanyisága olyannyira elválaszthatatlanok egymástól, hogy a jogképességről maga a jogosult sem rendelkezhet. Ezért a (2) bekezdés kimondja, hogy a jogképességet korlátozó jognyilatkozat semmis. Az ember tehát sem szerződéssel, sem egyoldalú jognyilatkozattal nem mondhat le arról, hogy jogokat szerezzen és kötelezettségeket vállaljon. A rendelkezés az a minori ad maius elvéből következően a jogképesség teljes kizárását tartalmazó nyilatkozatra is vonatkozik.
+
+Jogképesség és szerzőképesség
+Az embert megillető jogképesség általános lehetőség jogok és kötelezettségek szerzésére. A törvény kellő alkotmányos indokkal, kivételesen egyes konkrét, meghatározott jogosultságok vonatkozásában korlátozásokat állíthat fel azok megszerezhetőségét illetően. Ha a jogszabály bizonyos vagyontárgyak (ingók vagy ingatlanok) forgalmát korlátozza, és ezáltal meghatározott személyi kört a szerzésből kizár, vagy a szerzés mértékét maximálja, nem az absztrakt jogképesség korlátozásáról, hanem a szerzőképesség korlátozásáról van szó. Így például a mező- és erdőgazdálkodási földek forgalmáról szóló 2013. évi CXXII. törvény (Fftv.) szerint a föld tulajdonjogát csak a törvény 6-14/A. §-aiban felsorolt személyek, az ott meghatározott feltételekkel szerezhetik meg, és rögzítve van a földtulajdon, illetve a birtokban tartható összes föld megengedett mértéke is [Fftv. 16. §]. Vannak továbbá olyan jogok, amelyeket csak bizonyos személyek szerezhetnek meg, például csak a 16. életévét betöltött személy köthet házasságot, özvegyi joga csak a túlélő házastársnak lehet stb.
+
+A jogképességet meg kell különböztetni a cselekvőképességtől (az ember a saját cselekményeivel szerezhet-e jogokat és kötelezettségeket - lásd a III. Címben foglaltakat), a vétőképességtől, amelynek a kártérítési jogban [lásd 6:544-6:547. §] és az ítélőképességtől, amelynek a családjogban [4:148. §] van jelentősége. Az utóbbi két eset szituatív: a konkrét helyzettől függ, hogy a belátási képességében korlátozott személy a károkozással kapcsolatos magatartása következményeit fel tudja-e mérni, illetve a gyermek az őt érintő, eldöntendő kérdésben tud-e önállóan és befolyásmentesen véleményt nyilvánítani.
+
+Az öröklési képesség a jogalanyok (természetes személyek, jogképes szervezetek) jogképességének része, egybeesik az általános polgári jogképességgel. A végintézkedési képesség viszont a cselekvőképességgel rokon fogalom [a cselekvőképtelen személy nem rendelkezik végintézkedési képességgel, a korlátozottan cselekvőképtelen kiskorú, illetve a cselekvőképességében a vagyoni nyilatkozatai tekintetében részlegesen korlátozott nagykorú igen, de érvényesen csak közvégrendeletet tehet, ld. 7:14. § (4) bek.].
+
+A perbeli jogképesség az anyagi jogi szabályokhoz igazodik: a Pp. 33. §-a értelmében a perben fél az lehet, akit a polgári jogi szabályai szerint jogok illethetnek és kötelezettségek terhelhetnek. A perbeli legitimáció (kereshetőségi jog) ezzel szemben a fél és a per tárgya közötti anyagi jogi kapcsolatra vonatkozik, vagyis arra: a felperest megilleti-e és éppen őt illeti-e meg keresettel érvényesített jog; a legitimáció hiánya a kereset érdemi elutasításához vezet, míg a perbeli jogképesség hiánya a kereset érdemi elbírálásának akadálya [BH 2020.208.I.].
+
+Ptk. 2:2. § [A jogképesség kezdete]
+
+(1) A jogképesség az embert, ha élve születik, fogamzásának időpontjától illeti meg.
+
+(2) A fogamzás időpontjának a születéstől visszafelé számított háromszázadik napot kell tekinteni; bizonyítani lehet, hogy a fogamzás korábbi vagy későbbi időpontban történt. A születés napja a határidőbe beleszámít.
+
+A törvény - a régi Ptk.-val egyezően - a jogképesség kezdetét az ember fogamzásának időpontjához köti, azzal a feltétellel, hogy élve születik. A jogképesség megszerzését nem érinti, ha az újszülött az élveszületéskor bizonyítottan életképtelen volt; ha az anya testétől történt elválasztása után az életnek bármilyen jelét adta, fogamzásának és halálának időpontja közötti időszakra jogképessé válik [vö. 351/2013. (X. 4.) Korm. r. 34. §].
+
+A Ptk. tehát nem foglal állást abban, a polgári jog keretein túlnyúló kérdésben, hogy a magzat maga absztrakt értelemben embernek tekinthető-e vagy sem. Az Alkotmánybíróság a 64/1991. (XII. 17.) AB határozatának indokolásában kifejtette, hogy a magzat jogalanyiságának kérdése az akkor hatályos Alkotmány értelmezésével nem dönthető el. Rámutatott viszont arra, hogy a természettudományok fejlődése következtében a születés többé nem magától értetődő természetes és minőségi választóvonal a magzati és az "emberi" lét között. Biológiai, genetikai szempontból az egyedi emberi élet nem a születés és a halál, hanem a fogantatás és a halál közötti egységes folyamat. Az Alkotmánybíróság álláspontja szerint az Alkotmány nem zárja ki, hogy a törvényalkotó a magzatot is emberi jogokkal ruházza fel. Az Alaptörvény II. cikke az élet és az emberi méltóság sérthetetlenségéhez kapcsolódva rendelkezik úgy, hogy a magzat életét a fogantatástól kezdve védelem illeti meg. Azt azonban, hogy ez a védelem a magzat emberként való elismerését jelentené, nem tartalmazza. A Ptk. a védelmet továbbra is azzal biztosítja, hogy a magzat mint feltételes jogalany részére adja meg az élveszületésétől függő jogképességet.
+
+A magzat védelméről számos más jogág is gondoskodik. Többek között a büntetőjog a magzat érdekeit azzal is védi, hogy a magzatelhajtást bűncselekménynek nyilvánítja [lásd 1978. évi IV. törvény 169. §; a 2013. július 1. napján hatályba lépett 2012. évi C. törvény - Btk. - 163. §]. A családi élet védelméről szóló 2011. évi CCXI. törvény 3. §-ának (1) bekezdése szerint a magzat életét a fogantatásától kezdve védelem és tisztelet, valamint külön törvényben foglaltak szerint támogatás illeti meg. A magzati élet védelméről szóló 1992. évi LXXIX. törvény pedig a támogatás és védelem eszközeinek és módozatainak, továbbá a terhességmegszakításnak a szabályozásával törekszik egyensúlyt teremteni az anya önrendelkezési joga, valamint a magzati élet védelme között.
+
+A jogképesség az embert a fogamzásától kezdve olyan jogok tekintetében is megilleti, amelyek még a megszületése előtt keletkeztek. A magzat lehet például megajándékozott vagy örökös, ilyenkor azonban függő jogi helyzet áll elő, amely véglegessé azzal válik, hogy megszületik-e vagy sem. Mivel az életképesség nem feltétele a jogképességnek, ezért az újszülött bármilyen korán hal meg, mint örökhagyó hagyja maga után azt a vagyont, amelyet fogamzásának időpontjától megszerzett (például örökölt).
+
+A Kúria a BH 2017.406. eseti határozatának II. pontjában kimondta, hogy az egészséges, teljes családban éléshez fűződő személyiségi jog megsértése miatt olyan családtag is érvényesíthet - testvérének balesetből eredő maradandó egészségkárosodására tekintettel - kártérítési igényt, aki a károkozó cselekményt követően született, de az esemény idején már magzati állapotban volt.
+
+A fogamzás időpontjára a törvény - a régi Ptk.-val megegyezően - vélelmet állít fel: a születéstől visszafelé számított 300. napot, ez a vélelem azonban megdönthető, bizonyítani lehet, hogy a fogamzás korábban vagy később történt. Bizonyításnak mind a gyermek érdekében, mind annak ellenében helye van.
+
+Ptk. 2:3. § [A magzat gyámja]
+
+(1) A gyámhatóság - kérelemre vagy hivatalból - gyámot rendel a magzat részére, ha ez a magzat jogainak megóvása érdekében szükséges.
+
+(2) Gyám rendelését a magzat szülője, nagyszülője, az ügyész és a jegyző kérheti.
+
+A Ptk. következetesen érvényesíti azt az elvet, hogy a magyar jogban a kiskorúnak gyámja, a nagykorúnak gondnoka van. Ezért - a régi Ptk.-val szemben - nem gondnok, hanem gyám által biztosít törvényes képviseletet a magzat részére. Ez azonban nem jelent tartalmi változást a korábbi szabályokhoz képest.
+
+A törvény nem tartalmazza azt a fordulatot, hogy a gyámrendelésre különösen akkor van szükség, ha érdekellentét van a születendő gyermek és a törvényes képviselője között, csupán attól a feltételtől teszi függővé a gyámrendelést, ha az a magzat jogainak megóvása érdekében szükséges. Ez természetesen lehet a magzat és a törvényes képviselője közötti érdekellentét is, például olyan esetben, ha törvényes képviselője a különélő vagy volt házastársával (élettársával) áll szemben és a törvényes képviselő ezzel összefüggésben a közös szerzésre, illetőleg a különvagyonra vonatkozó nyilatkozatot tesz, amely adott esetben a gyermek érdekeit sértheti. A gyámhatóság a törvényi keretek között maga dönthet arról, hogy az adott esetben a magzat jogai veszélyben forognak-e vagy sem.
+
+A (2) bekezdés a régi Ptké. 7. § (2) bekezdésével egyezően sorolja fel a gyám rendelését indítványozni jogosult személyek körét.
+
+A gyámhivatal feladatait a magzat gyámjának kirendelésével kapcsolatban az 149/1997. (IX. 10.) Korm. rendelet (Gyer.) 130/A. §-ának (6)-(8) bekezdései tartalmazzák. A magzat gyámjának tevékenysége a születés időpontjáig terjed. A szülő törvényes képviseleti jogát korlátozó rendelkezéseket [4:163. §] a magzat tekintetében is alkalmazni kell.
+
+Ptk. 2:4. § [A jogképesség megszűnése]
+
+A jogképesség a halállal szűnik meg.
+
+A halál tényével megszűnik az ember jogalanyisága: jogokat és kötelezettségeket többé nem szerezhet, a halála időpontjában fennálló jogai és kötelezettségei pedig - ha azok a halállal nem szűntek meg (mint például a haszonélvezeti jog) - hagyatékaként mint egész szállnak át öröklés útján a jogutódra [vö. 7:1. §]. Ezért a halál tényének és időpontjának megállapítása az öröklési jogviszonyok szempontjából bír kiemelkedő fontossággal.
+
+A halál beálltának megállapítása orvosi kérdés, amelynek kritériumai egyre összetettebbekké válnak. Az egészségügyről szóló 1997. évi CLIV. törvény (Eütv.) 216. §-a a klinikai halál, az agyhalál és a halál (illetve magzat esetében perinatális halál) fogalmát tartalmazza.
+
+Az Eütv. meghatározása szerint halál: amikor a légzés, a keringés és az agyműködés teljes megszűnése miatt a szervezet visszafordíthatatlan felbomlása megindul. A halál bekövetkezését az arra illetékes orvos halottvizsgálattal állapítja meg és állítja ki a halottvizsgálati bizonyítványt, amely a halál anyakönyvezésének alapjául szolgál [az anyakönyvi eljárásról szóló 2010. évi I. törvény (a továbbiakban: At.) 61. § (2) bekezdés].
+
+A jogkövetkezmények a halál tényéhez kapcsolódnak, amelyet anyakönyvi kivonattal, a bíróság halál tényét megállapító vagy holtnak nyilvánító határozatával lehet bizonyítani. A haláleset adatait (többek között a halál helyét és idejét) az anyakönyv tartalmazza [At. 1. § (3) bek. d) pont]. Az anyakönyv hatósági nyilvántartás, az annak alapján készített másolat, kivonat pedig közokirat, amely ellenkező bizonyításáig tanúsítja a benne feljegyzett adatokat [At. 1. § (2) bekezdés, Pp. 323. § (3) bek.]. Azt természetesen a közokirattal szemben is lehet bizonyítani, hogy a halál egyáltalán nem vagy nem a halotti anyakönyvben feltüntetett napon következett be. Bizonyítás lefolytatható annak megállapítása érdekében is, hogy a halál a kérdéses nap melyik órájában következett be, ha ennek például az öröklés sorrendjének megállapítása céljából jelentősége van.
+
+Amennyiben a halál tényének igazolására orvosi halottvizsgálati bizonyítvány nem állítható ki, és ezért a haláleset nem anyakönyvezhető, de a halál ténye, helye és ideje egyértelműen bizonyítható, a halál tényének bírósági megállapítására kerülhet sor. Ez akkor fordulhat elő, ha az érintett olyan jellegű szerencsétlenségben veszti életét, amely kizárja holttestének előkerülését (például robbanás, lavinaomlás, repülőgép-baleset stb.). Az eljárás célja, hogy a bíróság végzése pótolja a hiányzó orvosi bizonyítványt és a határozat alapján sor kerülhessen a haláleset anyakönyvezésére. Ezért a Ptk. továbbra sem emeli be a halál tényének bírósági megállapítása néven ismert eljárást a törvény rendelkezései közé, annak célja ugyanis kizárólag a haláleset anyakönyvezésének lehetővé tétele.
+
+A halál tényének megállapítását élesen meg kell különböztetni a holtnak nyilvánítástól, a két jogintézmény között döntő különbség, hogy míg a halál tényének megállapítására akkor kerülhet sor, ha a halál ténye, helye és ideje maradéktalanul bizonyítható, de arról közokirat nem áll rendelkezésre, addig, ha az említett körülmények bármelyike kétséges, csak holtnak nyilvánítási eljárás lefolytatásának van helye (a holtnak nyilvánítás feltételeiről lásd a II. Címben foglaltakat).
+
+A halál tényét megállapító jogerős határozatot a bíróság hatályon kívül helyezheti, ha az eljárás megindítására jogosult bármelyik személy olyan újabb tényekre vagy bizonyítékokra hivatkozik, amelyeknek a korábbi bizonyítékokkal való együttes értékelése alapján a halál ténye megállapításának feltételei nem állnak fenn [BH 2007.150.].
+
+Többes elhalálozásnál az elhalálozás sorrendje is jelentős lehet. Így például ha közös balesetben vagy más hasonló közös veszélyhelyzetben olyanok pusztulnak el, akik között viszonos öröklési kapcsolat állott fenn. Ilyenkor kérdéses lehet, hogy melyik élte túl a másikat, mert az öröklés további menete az elhalálozás sorrendjétől függ. A magyar jog - a római jogtól és egyes államok jogaitól eltérően - nem állít fel vélelmet a meghaltak elhalálozásának sorrendjére. A Ptk. sem tartalmaz ilyen vélelmet, mert az sok esetben igazságtalan eredménnyel járna. Ehelyett a 7:4. § (1) bekezdésében kimondja, hogy az ilyen körülmények között elhunyt személyek az egymás után történő öröklés tekintetében a halál beálltának sorrendjétől függetlenül az öröklésből kiesettnek tekintendők (részletesen lásd a §-hoz fűzött magyarázatot). Nem állapítható meg azonban a közös veszélyhelyzet mint az öröklésből kiesési ok, ha az egyik örökhagyó, hirtelen fellépő rosszulléte miatt nem tud segítséget nyújtani a másiknak, és nincs olyan közös kiváltó ok, amely az egymáshoz közeli két halálesetet előidézte [BH 2020.327.].
+
+II. Cím - A holtnak nyilvánítás
+Ptk. 2:5. § [A holtnak nyilvánítás]
+
+(1) Az eltűnt személyt a bíróság kérelemre holtnak nyilvánítja, ha eltűnésétől öt év eltelt anélkül, hogy életben létére utaló bármilyen adat ismert volna.
+
+(2) A holtnak nyilvánított személyt az ellenkező bizonyításáig halottnak kell tekinteni.
+
+(3) A holtnak nyilvánítást az eltűnt személy közeli hozzátartozója, az ügyész, a gyámhatóság és az kérheti, akinek az eltűnt holtnak nyilvánítása jogi érdekét érinti.
+
+A törvény a régi Ptk.-val azonosan határozza meg a holtnak nyilvánítás anyagi jogi feltételeit. Míg a halál tényének megállapítása esetén a halál bizonyosan bekövetkezett, annak ténye és időpontja megállapítható, a holtnak nyilvánítás meghatározott tényeken alapuló vélelem a halál bekövetkezéséről. Ezek a tények: 1. az ember eltűnése, 2. az eltűnéstől számított öt év eltelte. E rendelkezés alkalmazásában az eltűnés nem csupán annyit jelent, hogy a személy tartózkodási helye ismeretlen, hanem azt is, hogy életben létére semmilyen körülmény vagy tény nem utal. A jogintézmény indoka az az érdek, ami a túlzottan hosszú ideig fennálló bizonytalan állapot megszűnéséhez, az eltűnt után függőben maradt jogi helyzetek megnyugtató rendezéséhez fűződik.
+
+Holtnak nyilvánítani kizárólag az eltűnt személyt lehet, ha ugyanis valaki bizonyíthatóan egy adott helyen és időben meghalt, úgy szükség esetén nem holtnak nyilvánításnak, hanem a halál ténye bírósági megállapításának van helye [az 1/2014. PJE határozattal az új Ptk. alkalmazása körében is irányadónak tekintett PK 1. számú állásfoglalás indokolása].
+
+A jogerős holtnak nyilvánító bírósági határozat vélelmet teremt arra, hogy a hosszabb ideje eltűnt személy meghatározott időpontban meghalt. Ez a vélelem kettős természetű: azt is magában foglalja, hogy az eltűnt személy a bíróság által megállapított időpontig életben volt. A határozatban megállapított időponttól kezdve beállnak mindazok a jogkövetkezmények, amelyeket a különböző jogszabályok a halál mint jogi tény bekövetkeztéhez fűznek [lásd 2:4. §-hoz fűzött magyarázatot]. A holtnak nyilvánító határozat mindenkivel szemben (erga omnes) hatályos.
+
+A holtnak nyilvánítási eljárás nemperes eljárás, amelyet 2018. január 1. napjától a bírósági polgári nemperes eljárásokban alkalmazandó szabályokról, valamint egyes bírósági nemperes eljárásokról szóló 2017. évi CXVIII. törvény [Bnpt.] II. fejezete szabályoz (3-11. §-ok), a halál tényének megállapítása iránti eljárással (12. §) és az eltűntnek nyilvánítással (13. §) együtt. Az utóbbi eljárásra kizárólag a társadalombiztosítási jogviszonyon alapuló juttatások igénybevétele céljából kerülhet sor a személy eltűnése esetén.
+
+A jogi érdek fennállása adott esetben vitás lehet. Jogi érdeke van például a közeli hozzátartozók körébe nem tartozó élettársnak, aki a hagyatékkal szemben élettársi vagyonjogi igényt kíván érvényesíteni, annak, akinek javára az eltűnt életbiztosítási szerződést kötött, akit a végrendeletében örököséül vagy hagyományosul nevezett, továbbá olyan jogtól vagy tehertől akar megszabadulni, amely az eltűntet élete végéig megillette (például a haszonélvezet, a túlélő házastárs özvegyi joga). Eltűnt személy holtnak nyilvánítását nem kérheti, aki nem tartozik a törvényben felsorolt személyi körbe és a holtnak nyilvánításhoz jogi érdeke sem fűződik.
+
+A holtnak nyilvánításhoz ugyanazok a jogkövetkezmények fűződnek, mint a halálhoz. Ezzel kapcsolatban a házasságon alapuló apasági vélelemmel összefüggésben kiemeljük az 1/2014. PJE határozattal az új Ptk. alkalmazása körében is irányadónak tekintett PK 97. számú állásfoglalást, amely szerint, ha a bíróság az anya férjét olyan időponttal nyilvánította holtnak, amely az anya gyermekének fogamzási idejét megelőzi, a gyermeket a születési anyakönyvben feltüntetett adatra tekintet nélkül házasságon kívül születettnek kell tekinteni. A gyermek az apaság megállapítása iránt pert indíthat. Az anyakönyv kijavításának elmaradása vagy késedelme ezen a helyzeten nem változtat.
+
+Ptk. 2:6. § [A halál időpontjának meghatározása]
+
+(1) A bíróság a halál időpontját a körülmények mérlegelése alapján határozza meg.
+
+(2) Ha a körülmények mérlegelése nem vezet eredményre, a halál időpontja az eltűnést követő hónap tizenötödik napja.
+
+A holtnak nyilvánító határozatban a bíróság a halál vélelmezett időpontját (napra pontosan) elsősorban a körülmények mérlegelésével állapítja meg. Ezzel lényegében a bíróság kettős vélelmet alkalmaz: vélelmezi az eltűnt halálának tényét és annak valószínű időpontját is. Különösen akkor fontos a körültekintő mérlegelés, ha az eltűnés és a holtnak nyilvánító eljárás lefolytatása közötti időben olyan események következtek be - például az örökös halála, hagyaték megnyílása az eltűnt javára -, amelyek a jogviszonyok rendezését befolyásolják.
+
+Ha a körülmények mérlegelésével nem vonható le megalapozott következtetés a halál feltehető időpontjára, a bíróság a (2) bekezdésben meghatározott törvényi vélelem alapján: az eltűnést követő hónap 15. napjában határozza meg a halál időpontját. Az eltűnt személyt mindkét esetben a megállapított nap elteltével kell halottnak tekinteni.
+
+A holtnak nyilvánítás nemcsak az elhalálozásra, hanem annak időpontjára is vélelmet teremt. Az eltűnés időpontjára vonatkozó új adatok a holtnak nyilvánító végzés módosítását eredményezhetik; ennek hiányában a halál időpontjának eltérő megállapítására más hatóság által kiállított igazolás nem szolgálhat alapul [BH 2002.165.].
+
+A halál helyét azonban a bíróság az eltűnt személyt holtnak nyilvánító határozatában nem állapíthatja meg. Ha a halál helye a bizonyítási eljárás adatai alapján ismertté válik, a halál ténye megállapításának van helye [PK 1. számú állásfoglalás].
+
+Ptk. 2:7. § [Változás a holtnak nyilvánítás alapjául vett körülményekben]
+
+(1) Ha bebizonyosodik, hogy a holtnak nyilvánított a határozatban alapul vett időpontnál korábbi vagy későbbi időpontban tűnt el, de a holtnak nyilvánítás feltételei egyébként fennállnak, a bíróság a holtnak nyilvánító határozatot módosítja. A jogkövetkezmények a módosított határozat szerint alakulnak.
+
+(2) Ha bebizonyosodik, hogy a holtnak nyilvánított a határozatban alapul vett időpontnál később tűnt el, és ezért a holtnak nyilvánítás feltételei nem állnak fenn, a bíróság a holtnak nyilvánító határozatot hatályon kívül helyezi, és az annak alapján beállott jogkövetkezmények semmisek.
+
+(3) A holtnak nyilvánító határozat módosítását és hatályon kívül helyezését ugyanazok kérhetik, mint a holtnak nyilvánítást.
+
+(4) Ha a holtnak nyilvánított előkerül, a holtnak nyilvánító határozat hatálytalan, és az annak alapján beállott jogkövetkezmények semmisek.
+
+Az (1) bekezdés arról az esetről rendelkezik, amikor az érintett halálának vélelme alapjául szolgáló jogi tények egyike: az eltűnés időpontja utóbb ismertté vált körülmények miatt módosulna. Ha bebizonyosodik, hogy a holtnak nyilvánított személy akár korábban, akár később tűnt el a határozatban figyelembe vett időponthoz képest, de úgy, hogy a holtnak nyilvánítás feltételei egyébként fennállnak (tehát öt év már eltelt anélkül, hogy életben létére utaló adat ismeretes volna), a bíróság a holtnak nyilvánító határozatát - a halál időpontja tekintetében - megfelelően módosítja. A jogkövetkezmények ilyenkor a módosított határozat tartalmához igazodnak.
+
+A (2) bekezdés arra az esetre tartalmaz rendelkezést, ha utóbb bebizonyosodik, hogy a holtnak nyilvánított személy a határozat alapjául szolgáló időpontnál későbbi időpontban tűnt el, és az ismertté vált új időponttól a hatályon kívül helyező végzés meghozataláig az ötéves határidő még nem telt el. Ebben az esetben a bíróságnak a holtnak nyilvánító végzését hatályon kívül helyeznie és az annak alapján beállott jogkövetkezmények ipso jure semmisek.
+
+A (3) bekezdés értelmében a holtnak nyilvánító határozat fenti módosítását, illetőleg hatályon kívül helyezését ugyanazok kérhetik, mint a holtnak nyilvánítást [vö. 2:5. § (3) bekezdés].
+
+A § (4) bekezdés arról az esetről szól, amikor a holtnak nyilvánított személy előkerül (bármilyen életjelet ad magáról). Az előkerülés ténye - függetlenül annak helyétől, módjától - minden további bírósági határozat nélkül hatálytalanná teszi a holtnak nyilvánítást. A holtnak nyilvánító határozat tehát a törvény erejénél fogva hatályát veszti, de miután a holtnak nyilvánítás is határozatban történik, indokolt, ha a bíróság a holtnak nyilvánító határozat hatálytalanná válását is végzéssel állapítsa meg.
+
+A 3/2015. PJE határozattal a rendelkező rész vonatkozásában az új Ptk. alkalmazása körében is irányadónak tekintett PK 264. számú állásfoglalás szerint, ha a bíróság a holtnak nyilvánító végzés hatálytalanságát állapította meg, a közjegyző az erről szóló végzés alapján hivatalból állapítja meg a holtnak nyilvánításhoz fűződő jogkövetkezmények hatálytalanná válását, és hivatalból jár el a hagyatéki eljárást megelőző állapot helyreállítása iránt. Ez azt jelenti, hogy a közjegyző nemperes eljárás keretében a jogerős hagyatékátadó végzésének hatálytalanságát állapítja meg, és - amennyiben az lehetséges - intézkedik a közhiteles nyilvántartásokban az örökhagyó tulajdonjogának helyreállítása iránt. Nincs lehetőség a közjegyzői eljárásban az ilyen intézkedésre akkor, ha a hagyatékhoz tartozó vagyontárgyon (tipikusan ingatlanon) harmadik személy már jogot szerzett. Ilyenkor az érdekelt az általános szabályok szerint csak per útján érvényesítheti az ingatlanra vonatkozó igényét.
+
+A Ptk. a (2) és a (4) bekezdés esetében a beállott jogkövetkezmények semmisségét anélkül mondja ki, hogy utalna jogszabály eltérő rendelkezésének lehetőségére. Ez azonban nem jelent változást a régi Ptk. 25. § (3) és (4) bekezdéseiben foglaltakhoz képest. A Ptk. rendelkezései ugyanis nem képezik akadályát annak, hogy azoktól - a szabályozás tárgyának megfelelő jogforrási szinten - más jogszabály eltérjen, egyes esetekben pedig maga ad kivételt a semmisségtől eltérő jogkövetkezményre. Így például a 4:20. § (2) bekezdése értelmében a házasságot a másik házastárs újabb házasságkötése esetén akkor is megszűntnek kell tekinteni, ha a házastárs halálára vonatkozó anyakönyvi bejegyzés, a halál tényét megállapító vagy a holtnak nyilvánító bírósági határozat hatálya az újabb házasságkötést követően megdől, feltéve, hogy az újabb házasságkötéskor mindkét házasuló jóhiszemű volt (egyikük sem tudta, hogy a halál nem következett be).

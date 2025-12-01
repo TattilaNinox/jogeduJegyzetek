@@ -1,0 +1,120 @@
+MENTOR: Üdvözöllek! Ma a polgári jog egyik legfontosabb területére látogatunk el, a szerződésen kívüli, azaz deliktuális kárfelelősség témakörét fogjuk feldolgozni. A helyszínünk egy egyszerű kertes családi ház lesz. Készen állsz a sétára?
+
+TANULÓ: Igen, készen állok. Kíváncsi vagyok, hogyan jelenik meg a kárfelelősség egy családi házban. Induljunk!
+
+MENTOR: Rendben. Álljunk meg először is a ház utcafronti vaskapujánál. Nézd meg alaposan a kaput. Mit látsz rajta lógni?
+
+TANULÓ: Egy hatalmas, vörös szegélyű tiltótáblát látok. De furcsa, mert nem kutya van rajta, hanem egy áthúzott, összetépett papír, ami szerződésnek tűnik.
+
+MENTOR: Pontosan. Ez az összetépett szerződés jelzi, hogy most nem szerződéses jogviszonyban vagyunk, hanem szerződésen kívüli, azaz deliktuális felelősségről beszélünk. És látod a kapu kilincsét?
+
+TANULÓ: Igen, egy vastag könyv lóg rajta. Az a Polgári Törvénykönyv?
+
+MENTOR: Igen. Ez szimbolizálja a törvényi alapot. És nézz le a földre, a kapu rácsai mögé. Ott egy nehéz beton tömböt látsz.
+
+TANULÓ: Látom a beton tömböt. Van rajta valami felirat is.
+
+MENTOR: Ez a felirat a Polgári Törvénykönyv hatodik könyvének ötszáz tizennyolcadik paragrafusa, amely az általános tilalmat fogalmazza meg. Olvasd le, kérlek!
+
+TANULÓ: A felirat így szól: "A törvény tiltja a jogellenes károkozást." Tehát ez az alapelv.
+
+MENTOR: Így van. Most lépjünk be a kapun, és haladjunk a járdán a ház felé. De vigyázz, a járda közepén van valami akadály.
+
+TANULÓ: Egy hatalmas kődarabot látok a járdán, és mellette üvegszilánkok csillognak a fűben. Mintha valaki bedobott volna egy ablakot ezzel a kővel.
+
+MENTOR: Ez a kép a jogellenes károkozást szimbolizálja. És nézd, a kő mellett áll egy mérleg is. Mit látsz a mérleg serpenyőiben?
+
+TANULÓ: Az egyik serpenyőben egy listát látok, talán kötelességek listája. A másik serpenyő üres, de a földön mellette hever egy papír, ami bizonyítványnak tűnik.
+
+MENTOR: Ez a kép a generálklauzulát, az általános felelősségi szabályt rejti. A Polgári Törvénykönyv hatodik könyvének ötszáz tizenkilencedik paragrafusa szerint: "Aki másnak jogellenesen kárt okoz, köteles azt megtéríteni. Mentesül a felelősség alól a károkozó, ha bizonyítja, hogy magatartása nem volt felróható."
+
+TANULÓ: Értem. Tehát a mérleg egyik fele a kártérítési kötelezettséget mutatja, a földön heverő bizonyítvány pedig a kimentést, vagyis a mentesülést, ha a károkozó bizonyítani tud.
+
+MENTOR: Pontosan. Most érjünk oda a bejárati ajtóhoz. Az ajtó jelképezi a jogellenességet. De nézd meg, mik lógnak az ajtón és környékén! Négy különleges tárgyat kell észrevenned.
+
+TANULÓ: Látok egy lábtörlőt, amin az "Isten hozott" felirat áll. Az ajtófélfának támasztva egy baseball ütő van. Mellette egy piros tűzoltó készülék, és az ajtóra egy hivatalos papír, egy építési engedély van szögezve.
+
+MENTOR: Ezek a tárgyak a jogellenességet kizáró okokat szimbolizálják. A Polgári Törvénykönyv hatodik könyvének ötszáz huszadik paragrafusa szerint minden károkozás jogellenes, kivéve négy esetet. A lábtörlő a károsult beleegyezését jelzi.
+
+TANULÓ: Szóval ha a károsult beleegyezik, akkor nem jogellenes. És a baseball ütő? Az a jogos védelem?
+
+MENTOR: Igen, a baseball ütő a jogtalan támadás elhárítását, a jogos védelmet jelenti. A tűzoltó készülék pedig a szükséghelyzetet, amikor veszélyt kell elhárítani.
+
+TANULÓ: És az építési engedély? Gondolom, az a jogszabály által megengedett magatartást jelenti.
+
+MENTOR: Tökéletes. Ha ezek közül bármelyik fennáll, a károkozás nem jogellenes. Most nyissuk ki az ajtót, és lépjünk be az előszobába.
+
+TANULÓ: Beléptem. A padlón egy hosszú dominósort látok, ami végigkanyarog a szobán.
+
+MENTOR: Ez az okozati összefüggés szimbóluma. Ha meglököd az elsőt, dől a többi is. De kövesd a sort a szemaddal! Hol ér véget?
+
+TANULÓ: A sor vége egy távcsőnek ütközik. De a távcső lencséje be van törve.
+
+MENTOR: Ez nagyon fontos. A Polgári Törvénykönyv hatodik könyvének ötszáz huszonegyedik paragrafusa kimondja: "Nem állapítható meg az okozati összefüggés azzal a kárral kapcsolatban, amelyet a károkozó nem látott előre és nem is kellett előre látnia."
+
+TANULÓ: Tehát a távcső az előreláthatóságot jelenti? Csak addig felelek a kárért, amíg az előre látható volt?
+
+MENTOR: Így van. Ez az adekvát kauzalitás elve. Most menjünk tovább a nappaliba. Itt elég nagy a rendetlenség.
+
+TANULÓ: Látom. A földön egy összetört porcelán váza darabjai hevernek. A dohányzóasztalon egy üres, kifordított pénztárca van. A kanapén pedig egy halom számla tornyosul.
+
+MENTOR: Ez a "teljes kár" bemutatása. A Polgári Törvénykönyv hatodik könyv, ötszáz huszonkettedik paragrafusának első bekezdése szerint: "A károkozó a károsult teljes kárát köteles megtéríteni." A törött váza a vagyonban beállott értékcsökkenés, latinul damnum emergens.
+
+TANULÓ: Akkor az üres pénztárca az elmaradt hasznot, a lucrum cessanst jelenti?
+
+MENTOR: Igen, az elmaradt vagyoni előnyt. A számlák pedig a kár kiküszöböléséhez szükséges költségeket. Nézz fel a falra is! Mit látsz?
+
+TANULÓ: Egy családi fényképet látok, amit valaki összefirkált. Ez mit jelent?
+
+MENTOR: Ez a nem vagyoni kár, vagyis a személyiségi jogsértés miatti sérelemdíj. Most menjünk át a konyhába. A pulton egy konyhai mérleget látsz.
+
+TANULÓ: Igen, látom. A mérleg egyik oldalán egy sérült alma van, a másik oldalán viszont egy köteg pénz.
+
+MENTOR: Ez a káronszerzés tilalmát mutatja. Ha a károkozásból előnyöd is származott, például biztosítási pénz, azt le kell vonni a kárból. Nem gazdagodhatsz a károkozás révén. Mellette az asztalon egy nagyítós lámpa alatt egy száraz kenyérhéjat és egy vizes poharat látsz.
+
+TANULÓ: Ez elég szegényes vacsorának tűnik. Mire utal ez?
+
+MENTOR: Ez a méltányosságra utal. A bíróság különös méltánylást érdemlő körülmények esetén a kártérítést a teljes kárnál alacsonyabb összegben is meghatározhatja. Most lépjünk az étkezőbe.
+
+TANULÓ: Az étkezőasztalnál egy üres széket látok, amin egy öltöny és egy szabálykönyv van. Mintha ülne ott valaki láthatatlanul.
+
+MENTOR: Ő a "Reasonable man", az átlagos, ésszerű ember. A felróhatóság mércéje. Azt vizsgáljuk, hogy az adott helyzetben egy ilyen ember hogyan viselkedett volna. És nézd az asztalt! Egy bizonyítási dossziét látok rajta, amit valaki a károkozó széke felé tolt.
+
+TANULÓ: Ez azt jelenti, hogy a károkozónak kell bizonyítania?
+
+MENTOR: Pontosan! Ez a bizonyítási teher megfordulása. A károkozó mentesül, ha bizonyítja, hogy nem volt felróható a magatartása. Most nézzünk be a hálószobába.
+
+TANULÓ: Az ágyon egy vizes vödröt látok. A plafonról csöpög a víz, de a vödör felfogja. Mellette a földön egy felmosórongy van.
+
+MENTOR: Ez a kárenyhítési kötelezettség. A Polgári Törvénykönyv hatodik könyv, ötszáz huszonötödik paragrafus első bekezdése szerint: "A károsultat kármegelőzési, kárelhárítási és kárenyhítési kötelezettség terheli."
+
+TANULÓ: Értem. Tehát ha nem tenném oda a vödröt, és elázna az ágy, azért a kárért már én lennék a felelős, vagy legalábbis megosztanánk a kárt?
+
+MENTOR: Így van. Most nézzünk be a fürdőszobába. A kádba nézz bele!
+
+TANULÓ: Tele van pénzérmékkel.
+
+MENTOR: Ez a kártérítés módja: a főszabály a pénzbeli megtérítés. De nézd a mosdókagylót, ott egy szerszámosládát látsz.
+
+TANULÓ: Igen, kalapács, csavarhúzó van benne. Ez a természetbeni kártérítést jelenti? Amikor kijavítják a hibát?
+
+MENTOR: Igen, ez a kivétel. És a falon a naptár, ahol minden elseje be van karikázva, a járadékot jelzi, amikor rendszeresen fizetnek. Végül menjünk ki a hátsó kertbe.
+
+TANULÓ: Kint vagyunk. A teraszon egy stopperóra ketyeg nagyon hangosan.
+
+MENTOR: Ez az esedékességet jelzi. A kártérítés a károsodás bekövetkeztekor nyomban esedékes. Nem kell várni az ítéletre. És nézd a fa alatt azt a homokórát.
+
+TANULÓ: Egy homokóra, amire az van írva: "ÖT ÉV". Ez az elévülési idő?
+
+MENTOR: Igen, az általános elévülési idő öt év. Mellette pedig egy lufit látsz, amire dollárjel van festve, és egyre nagyobbra fújódik.
+
+TANULÓ: Gondolom, ez az inflációt, az értékviszonyok változását jelenti. Hogy a bíróság figyelembe veheti az árak emelkedését az ítélethozatalig.
+
+MENTOR: Kiválóan összefoglaltad! Ezzel végig is jártuk az általános deliktuális felelősség házát. A kaputól, a jogellenességtől kezdve a kár elemein át egészen az elévülésig.
+
+TANULÓ: Köszönöm! Így a házon keresztül sétálva sokkal logikusabbnak és megjegyezhetőbbnek tűnik az egész rendszer.
+
+MENTOR: Örülök, hogy segítettem. Sok sikert a vizsgához! Viszlát!
+
+TANULÓ: Viszlát!
+

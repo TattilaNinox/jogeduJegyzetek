@@ -1,0 +1,62 @@
+AI Feladat-Prompt: Témaspecifikus Jogászi Tétel Kidolgozása
+
+1. Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkeszését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat megtalálod a "forrasok" mappában Feltétlen használd fel őket nagyon fontos!!!! ? hogy idézd meg pontosan szorul szóra azokat a jogszabályokat amelyek a jelen témakörhöz kapcsolódnak, illetve amik alapján ki lett dolgozva a tétel tartalma. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd
+
+2. Feladat Célja:
+A feladatod egy teljeskörű, részletes és jól strukturált tétel kidolgozása a következő témakörben:
+"A házasságkötést megelőző eljárás, a házasságkötés alaki kellékei"
+
+A végeredmény egy olyan önálló, koherens dokumentum legyen, amely önmagában is elegendő a téma alapos megértéséhez és egy sikeres vizsgához.
+
+3. Strukturális és Tartalmi Követelmények:
+
+I. Bevezetés: A Házasság Létrejöttének Formakényszere
+- Kezdd a házasság fogalmának rövid bemutatásával, mint a Ptk. által elismert, a felek egyenjogúságán alapuló életközösség.
+- Hangsúlyozd a **formakényszer** jelentőségét: az érvényes házasság kizárólag a törvényben meghatározott eljárás keretében és alaki kellékek betartásával jöhet létre. Ennek célja a jogbiztonság és a felek akaratának egyértelmű kinyilvánítása.
+
+II. A Házasságkötést Megelőző Eljárás:
+- Részletezd azokat a kötelező adminisztratív lépéseket, amelyek megelőzik a házasságkötési ceremóniát:
+    - **1. Bejelentési kötelezettség (Ptk. 4:6. §):**
+        - Hol: a házasságkötés tervezett helye szerinti **anyakönyvvezetőnél**.
+        - Hogyan: a feleknek **személyesen és együttesen** kell bejelenteniük házasságkötési szándékukat.
+        - Mit kell igazolni/nyilatkozni: a személyazonosságot, és hogy a házasságkötésnek nincs törvényes akadálya.
+    - **2. Jegyzőkönyv felvétele:** Az anyakönyvvezető a bejelentésről jegyzőkönyvet vesz fel.
+    - **3. Várakozási idő (Ptk. 4:6. § (2) bek.):**
+        - Tárgyald a bejelentést követő kötelező **30 napos várakozási időt**.
+        - Mutasd be a célját: a meggondolt döntéshozatal biztosítása.
+        - Térj ki a jegyző felmentési lehetőségére a várakozási idő alól, indokolt esetben.
+
+III. A Házasságkötési Eljárás (A Ceremónia):
+- Részletezd a házasságkötés érvényességéhez szükséges alaki kellékeket a **Ptk. 4:5. §** alapján:
+    - **1. Az anyakönyvvezető közreműködése:** A házasságot csak anyakönyvvezető előtt lehet érvényesen megkötni.
+    - **2. A felek személyes és együttes jelenléte:** Képviseletnek helye nincs.
+    - **3. Két tanú jelenléte:** Tárgyald a tanúkkal szembeni követelményeket (pl. cselekvőképesség).
+    - **4. A felek egybehangzó "igen"-je:**
+        - Mutasd be, mint a házasságkötés **központi, konstitutív (létrehozó) aktusát**.
+        - A feleknek az anyakönyvvezető által külön-külön feltett kérdésre kell igennel válaszolniuk. A házasság ezzel a két, egybehangzó igennel jön létre.
+    - **5. Nyilvánosság:** A házasságkötés főszabály szerint nyilvános.
+
+IV. A Házasság Anyakönyvezése és Hatálya:
+- Tárgyald a házasságkötés bejegyzését a **házassági anyakönyvbe**.
+- Hangsúlyozd, hogy az anyakönyvi bejegyzés **nem létrehozza, hanem tanúsítja (deklaratív hatályú)** az érvényes házasságot. A bejegyzés elmaradása az érvényesen létrejött házasságot nem érinti, de a közhiteles igazolást az anyakönyvi kivonat adja.
+
+V. Összegzés:
+- Foglald össze, hogy a házasságkötés egy szigorú alakisághoz kötött, kétrészes folyamat, amely egy adminisztratív előkészítő szakaszból és egy ünnepélyes, a joghatást kiváltó ceremóniából áll.
+- Erősítsd meg, hogy a formai kellékek maradéktalan betartása az érvényesség elengedhetetlen feltétele.
+
+4. Formázási és Stilisztikai Utasítások:
+- Tagolás: Használj egyértelmű címsorokat és alcímeket a fenti struktúra szerint.
+- Kiemelés: A **kulcsfontosságú jogi szakkifejezéseket** (pl. **formakényszer**, **anyakönyvvezető**, **várakozási idő**, **konstitutív/deklaratív hatály**) és a **jogszabályi hivatkozásokat** emeld ki félkövér formázással.
+- Hivatkozások: Pontosan és következetesen hivatkozz a **Ptk. Negyedik Könyvének (Családjog) releváns szakaszaira**.
+- Nyelvezet: Maradj végig a tudományos, szakmai nyelvezetnél, de törekedj a világos és érthető fogalmazásra.
+
+A végeredmény legyen egy professzionális, informatív és a tanulást hatékonyan támogató dokumentum.A kimenet egy TXT fájl legyen a Tételek mappába
+
+
+
+
+
+
+
+

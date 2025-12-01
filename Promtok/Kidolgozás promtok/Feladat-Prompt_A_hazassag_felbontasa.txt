@@ -1,0 +1,66 @@
+AI Feladat-Prompt: Témaspecifikus Jogászi Tétel Kidolgozása
+
+1. Szerepkör (Persona):
+Viselkedj mint egy tapasztalt magyar jogtudós vagy egyetemi oktató. A célod, hogy egy magas színvonalú, szakmailag precíz és didaktikagilag jól felépített tananyagot hozz létre, amely joghallgatók és pályakezdő jogászok vizsgafelkeszését szolgálja. A stílusod legyen tudományos, ugyanakkor a célközönség számára érthető és követhető. A kidolgozáshoz szükséges forrásokat megtalálod a "forrasok" mappában Feltétlen használd fel őket nagyon fontos!!!! ? hogy idézd meg pontosan szorul szóra azokat a jogszabályokat amelyek a jelen témakörhöz kapcsolódnak, illetve amik alapján ki lett dolgozva a tétel tartalma. A jogszabály pontos számát is kérem. Az idézett szöveget "" jel közé tedd
+
+2. Feladat Célja:
+A feladatod egy teljeskörű, részletes és jól strukturált tétel kidolgozása a következő témakörben:
+"A házasság felbontására irányadó szabályok"
+
+A végeredmény egy olyan önálló, koherens dokumentum legyen, amely önmagában is elegendő a téma alapos megértéséhez és egy sikeres vizsgához.
+
+3. Strukturális és Tartalmi Követelmények:
+
+I. Bevezetés: A Házasság Felbontásának Alapelvei
+- Kezd a házasság megszűnési okainak felsorolásával (egyik házastárs halála, bírósági felbontás), majd szűkítsd a témát a **bírósági felbontásra (bontóper)**.
+- Mutasd be a magyar bontójog alapelvét: a **válás szabadságát** és az **objektív megromlás elvét**. A bíróság nem a felek vétkességét vizsgálja, hanem azt, hogy a házasság teljesen és helyrehozhatatlanul megromlott-e.
+- Hangsúlyozd, hogy a házasságot a bíróság kizárólag a házastársak (vagy egyikük) kérelmére bonthatja fel.
+
+II. A Házasság Felbontásának Két Fő Esete:
+- Részletezd a Ptk. által szabályozott két fő bontási formát:
+    - **1. Tényállásos bontás (a megromlásra alapított bontás - Ptk. 4:21. § (1) bek.):**
+        - Mutasd be, mint a főszabályt, amikor a felek nem tudnak vagy nem akarnak megegyezni a válásról és annak járulékos kérdéseiről.
+        - A bíróság bizonyítási eljárás keretében vizsgálja a házasság **teljes és helyrehozhatatlan megromlását** és annak okait.
+    - **2. Megegyezésen alapuló bontás (Ptk. 4:21. § (2) bek.):**
+        - Mutasd be, mint az egyszerűbb, a felek akaratát előtérbe helyező eljárást.
+        - Részletezd a konjunktív feltételeit:
+            - A házastársak **végleges elhatározáson alapuló, egyező akaratnyilatkozata** a felbontásra.
+            - A feleknek **meg kell állapodniuk a járulékos kérdésekben**:
+                - a közös gyermek szülői felügyeletének gyakorlása,
+                - a különélő szülő és a gyermek közötti kapcsolattartás,
+                - a gyermek tartása,
+                - a házastársi közös lakás használata,
+                - a házastársi tartás.
+
+III. A Közös Megegyezés Megállapítását Elősegítő Vélelem:
+- Tárgyald a Ptk. által felállított, a megegyezéses bontást elősegítő, megdönthető vélelmet (**Ptk. 4:21. § (3) bek.**):
+- A bíróság a házasság megromlását vélelmezi, és a felek megegyezését valószínűsíti, ha a felek
+    - a bontókereset benyújtásakor már legalább **három éve megszakítás nélkül külön élnek**,
+    - a közös gyermek elhelyezéséről és tartásáról **megállapodtak**, és
+    - kérik a bíróságtól a közös megegyezés megállapítását.
+
+IV. Az Eljárás Jogi Jellemzői:
+- Tárgyald a bontóper legfontosabb eljárásjogi sajátosságait:
+    - **Személyes meghallgatás kötelezettsége:** A bíróságnak a feleket személyesen meg kell hallgatnia.
+    - **Békítési kísérlet:** A bíróságnak a per első tárgyalásán meg kell kísérelnie a felek békítését.
+    - **A gyermek érdekének védelme:** A bíróság a felek megegyezését a járulékos kérdésekben csak akkor hagyja jóvá, ha az a gyermek érdekének megfelel.
+
+V. Összegzés:
+- Foglald össze, hogy a magyar bontójogi szabályozás a felek autonómiájára épít, és elsődlegesen a megegyezéses bontást preferálja, de lehetőséget ad a tényállásos bontásra is, ha a megegyezés nem lehetséges.
+- Hangsúlyozd a gyermek érdekének kiemelt védelmét a bontóper során.
+
+4. Formázási és Stilisztikai Utasítások:
+- Tagolás: Használj egyértelmű címsorokat és alcímeket a fenti struktúra szerint.
+- Kiemelés: A **kulcsfontosságú jogi szakkifejezéseket** (pl. **házasság felbontása**, **objektív megromlás elve**, **tényállásos bontás**, **megegyezésen alapuló bontás**) és a **jogszabályi hivatkozásokat** emeld ki félkövér formázással.
+- Hivatkozások: Pontosan és következetesen hivatkozz a **Ptk. Negyedik Könyvének (Családjog) releváns szakaszaira**.
+- Nyelvezet: Maradj végig a tudományos, szakmai nyelvezetnél, de törekedj a világos és érthető fogalmazásra.
+
+A végeredmény legyen egy professzionális, informatív és a tanulást hatékonyan támogató dokumentum. A kimenet egy TXT fájl legyen a Tételek mappába
+
+
+
+
+
+
+
+
