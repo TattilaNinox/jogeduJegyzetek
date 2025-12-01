@@ -1,26 +1,33 @@
-TANULÓ:
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Szia! Ma a polgári jog forrásaival és a jogi norma szerkezetével kellene foglalkoznunk. Bevallom, ez a téma kicsit száraznak tűnik. Tudnál segíteni, hogy ne aludjak el felette?
+</voice>
 
-MENTOR:
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Szia! Hogyne, abszolút megértem. A jogelmélet elsőre unalmasnak tűnhet, de hidd el, ez a jog "motorházteteje" alatt lévő mechanika. Hogy izgalmasabb legyen, ma egy nagyon zajos, olajszagú helyszínre viszlek: egy Autószerelő Műhelybe. Itt fogjuk megszerelni a jogrendszert.
+</voice>
 
-TANULÓ:
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Ez jól hangzik! Olaj, szerszámok, motorok... Sokkal jobb, mint egy poros könyvtár. Hol kezdjük a szerelést?
+</voice>
 
-MENTOR:
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Induljunk az "Anyagraktárból". Itt tárolják azokat a nyersanyagokat, amikből a jog készül. A raktár közepén, egy magas emelvényen áll a "Főnök" – ez az Országgyűlés. Ő hozza létre a legfontosabb anyagokat, a törvényeket. Mellette áll a "Művezető" – a Kormány –, aki a részletesebb anyagokért, a rendeletekért felel. Ez az anyagi értelemben vett jogforrás: az a hatalom, amely a jogot létrehozza.
+</voice>
 
-TANULÓ:
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Értem. Tehát az "anyag" a jog, és a Főnök meg a Művezető azok, akik "legyártják". De mi a helyzet a formával?
+</voice>
 
-MENTOR:
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Ahhoz át kell mennünk a "Formatervező Irodába". Nézz az asztalokra! Tervrajzok, munkalapok, szervizkönyvek hevernek mindenhol. Ez az alaki értelemben vett jogforrás: a külső megjelenési mód, ahogyan a jogot megismerjük. Törvények, rendeletek, nemzetközi szerződések.
 De nézz a falra! Ott lóg a "Szerszámfal". Ez a jogforrási hierarchia. Legfelül, elérhetetlen magasságban egy aranyozott, gyémántberakásos csavarkulcs lóg. Ez az Alaptörvény.
+</voice>
 
-TANULÓ:
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Aha, szóval ez a legértékesebb, a legerősebb szerszám. Gondolom, az alatta lévőknek ehhez kell igazodniuk, nem lehetnek "erősebbek" nála.
+</voice>
 
-MENTOR:
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Pontosan. Az Alaptörvény alatt sorakoznak az ezüst kulcsok – a törvények.
 Alattuk a bronz kulcsok – a kormányrendeletek.
 Még lejjebb a kisebb bronz kulcsok: a miniszterelnöki és miniszteri rendeletek.
@@ -28,51 +35,65 @@ Mellettük speciális szerszámok lógnak: ezek a Magyar Nemzeti Bank elnökéne
 Legalul pedig a vas kulcsok – az önkormányzati rendeletek.
 Egy alsóbb szintű jogszabály nem lehet ellentétes a felsőbbel.
 De van egy különleges doboz is: az "Uniós Szerszámok". Az EU rendeletek közvetlenül alkalmazandók, és főszabály szerint elsőbbséget élveznek a nemzeti joggal szemben.
+</voice>
 
-TANULÓ:
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Világos. És hol van ebben a rendszerben a Polgári Törvénykönyv?
+</voice>
 
-MENTOR:
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Nézz a műhely közepére! Ott áll egy hatalmas, csillogó V12-es motorblokk. Ez a Ptk. A polgári jog elsődleges és legfontosabb forrása.
 A Polgári Törvénykönyvről szóló kétezer-tizenhárom évi ötödik törvény első könyvének második paragrafusának második bekezdése szerint: A polgári jogi viszonyokra vonatkozó jogszabályokat e törvénnyel összhangban kell értelmezni.
+</voice>
 
-TANULÓ:
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Tehát ez a motor a "szív", minden más alkatrészt ehhez kell igazítani. Kódex jellege van, vagyis átfogó és rendszerezett.
+</voice>
 
-MENTOR:
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Így van. De a motor mellett vannak kisebb, speciális alkatrészek is: egy "Ingatlan-nyilvántartási Karburátor", egy "Szerzői Jogi Kipufogó". Ezek a más törvények, amelyek speciális területeket szabályoznak, de a Ptk.-hoz kapcsolódnak.
 Most nézz a sarokba! Ott áll egy "Öreg Szaki", aki éppen tanítja az inasokat. Nincs a kezében könyv, csak a tapasztalata. Ez a bírói gyakorlat. Bár Magyarországon formálisan nem jogforrás – nem alkot jogot, csak alkalmazza –, a Kúria jogegységi határozatai mégis kötelezőek a bíróságokra.
+</voice>
 
-TANULÓ:
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Értem, szóval nem "hivatalos" törvényhozó, de amit mond, az mégis szentírás a műhelyben, vagyis a tárgyalóteremben. És mi az a megsárgult papír a falon?
+</voice>
 
-MENTOR:
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Az a "Műhelyszabályzat", amit már senki nem olvas, de mindenki betartja, például hogy "kalapácsot nem dobálunk". Ez a szokásjog. Régen fontos volt (Werbőczy Hármaskönyve), de ma már csak kiegészítő szerepe van.
 És az irodában ül a "Minőségellenőr" – az Alkotmánybíróság. Ő nem gyárt alkatrészt, de ha egyről kiderül, hogy hibás (alkotmányellenes), akkor kidobja a szemétbe – megsemmisíti.
+</voice>
 
-TANULÓ:
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Ez logikus. Most térjünk át a norma szerkezetére. Azt mondtad, ez a "diagnosztika".
+</voice>
 
-MENTOR:
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Igen. Álljunk oda a "Hibadiagnosztikai Gép" elé. A képernyőn három mező villog, ez a jogi norma három eleme.
 Az első mező: HIPOTÉZIS (Tényállás). A gép kiírja: "Ha a motor füstöl..." Ez a feltételrendszer. Leírja, hogy milyen körülmények esetén kell alkalmazni a szabályt. Például: "Aki másnak jogellenesen kárt okoz..."
+</voice>
 
-TANULÓ:
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Aha, tehát ez a "HA". Ha ez történik... akkor jön a második elem?
+</voice>
 
-MENTOR:
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Igen, a második mező: DISZPOZÍCIÓ (Rendelkezés). A gép kiírja: "...akkor olajat kell cserélni." Ez a magatartási szabály. Mit kell tenni? Például: "...köteles azt megtéríteni."
 Itt nagyon fontos a piros és zöld betűs utasítások megkülönböztetése.
 A piros betűs utasítás a KÓGENS norma: "A fékfolyadékot TILOS vízzel hígítani!" Eltérést nem engedő szabály. A felek nem állapodhatnak meg másként, mert az veszélyes lenne.
 A zöld betűs utasítás a DISZPOZITÍV norma: "Az üléshuzat színe lehet kék vagy piros." Eltérést engedő szabály. A polgári jogban ez a gyakoribb: a felek szabadon megállapodhatnak, a törvény csak akkor szól, ha ők nem rendelkeztek.
+</voice>
 
-TANULÓ:
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Ez érthető. A fékkel nem lehet viccelni (kógens), de a huzat színe ránk van bízva (diszpozitív). És mi a harmadik elem a képernyőn?
+</voice>
 
-MENTOR:
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 A harmadik mező: SZANKCIÓ (Jogkövetkezmény). A gép kiírja: "...különben besül a motor." Ez a következmény, ha nem tartod be a rendelkezést. A polgári jogban ez leggyakrabban a kártérítés, a sérelemdíj vagy az érvénytelenség.
 Például a Ptk. hatodik könyvének ötszáztizenkilencedik paragrafusa szerint: Aki másnak jogellenesen kárt okoz, köteles azt megtéríteni.
 Hipotézis: kárt okoz. Diszpozíció: köteles megtéríteni. Szankció: a kártérítési kötelezettség maga a szankció.
+</voice>
 
-TANULÓ:
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Köszönöm! Ez a műhely-hasonlat nagyon sokat segített. A hierarchikus szerszámfal, a Ptk. motorblokk és a diagnosztikai gép most már összeállt a fejemben. Így sokkal könnyebb lesz megjegyezni a jogforrásokat és a norma szerkezetét. Viszontlátásra!
+</voice>

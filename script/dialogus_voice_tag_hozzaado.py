@@ -50,25 +50,89 @@ def atalakit_dialogus_fajl(bemeneti_fajl, kimeneti_fajl=None):
         
         # Feldolgozzuk a sorokat
         uj_sorok = []
+        i = 0
         
-        for sor in sorok:
-            sor = sor.rstrip('\n\r')  # Eltávolítjuk a sorvégeket
+        while i < len(sorok):
+            sor = sorok[i].rstrip('\n\r')  # Eltávolítjuk a sorvégeket
             
-            if sor.startswith('MENTOR: '):
-                # Eltávolítjuk a "MENTOR: " részt
-                szoveg = sor[8:]  # "MENTOR: " hossza 8 karakter
-                uj_sorok.append(MENTOR_VOICE_START)
-                uj_sorok.append(szoveg)
-                uj_sorok.append(MENTOR_VOICE_END)
-            elif sor.startswith('TANULÓ: '):
-                # Eltávolítjuk a "TANULÓ: " részt
-                szoveg = sor[8:]  # "TANULÓ: " hossza 8 karakter
-                uj_sorok.append(TANULO_VOICE_START)
-                uj_sorok.append(szoveg)
-                uj_sorok.append(TANULO_VOICE_END)
+            # Ellenőrizzük, hogy MENTOR címke-e (kettősponttal vagy anélkül)
+            if sor == 'MENTOR' or sor == 'MENTOR:' or sor.startswith('MENTOR: '):
+                # Ha kettősponttal van és van szöveg ugyanabban a sorban
+                if sor.startswith('MENTOR: '):
+                    szoveg = sor[8:]  # "MENTOR: " hossza 8 karakter
+                    # Ha van szöveg a sorban, hozzáadjuk
+                    if szoveg:
+                        uj_sorok.append(MENTOR_VOICE_START)
+                        uj_sorok.append(szoveg)
+                        uj_sorok.append(MENTOR_VOICE_END)
+                    else:
+                        # Üres sor, a következő sor(ok) a szöveg
+                        uj_sorok.append(MENTOR_VOICE_START)
+                        i += 1
+                        while i < len(sorok):
+                            kovetkezo_sor = sorok[i].rstrip('\n\r')
+                            # Ha üres sor vagy új címke, kilépünk
+                            if not kovetkezo_sor or kovetkezo_sor == 'MENTOR' or kovetkezo_sor == 'MENTOR:' or kovetkezo_sor == 'TANULÓ' or kovetkezo_sor == 'TANULÓ:' or kovetkezo_sor.startswith('MENTOR: ') or kovetkezo_sor.startswith('TANULÓ: '):
+                                break
+                            uj_sorok.append(kovetkezo_sor)
+                            i += 1
+                        uj_sorok.append(MENTOR_VOICE_END)
+                        continue
+                else:
+                    # Nincs kettőspont vagy csak "MENTOR:" (üres), a következő sor(ok) a szöveg
+                    uj_sorok.append(MENTOR_VOICE_START)
+                    i += 1
+                    while i < len(sorok):
+                        kovetkezo_sor = sorok[i].rstrip('\n\r')
+                        # Ha üres sor vagy új címke, kilépünk
+                        if not kovetkezo_sor or kovetkezo_sor == 'MENTOR' or kovetkezo_sor == 'MENTOR:' or kovetkezo_sor == 'TANULÓ' or kovetkezo_sor == 'TANULÓ:' or kovetkezo_sor.startswith('MENTOR: ') or kovetkezo_sor.startswith('TANULÓ: '):
+                            break
+                        uj_sorok.append(kovetkezo_sor)
+                        i += 1
+                    uj_sorok.append(MENTOR_VOICE_END)
+                    continue
+                    
+            # Ellenőrizzük, hogy TANULÓ címke-e (kettősponttal vagy anélkül)
+            elif sor == 'TANULÓ' or sor == 'TANULÓ:' or sor.startswith('TANULÓ: '):
+                # Ha kettősponttal van és van szöveg ugyanabban a sorban
+                if sor.startswith('TANULÓ: '):
+                    szoveg = sor[8:]  # "TANULÓ: " hossza 8 karakter
+                    # Ha van szöveg a sorban, hozzáadjuk
+                    if szoveg:
+                        uj_sorok.append(TANULO_VOICE_START)
+                        uj_sorok.append(szoveg)
+                        uj_sorok.append(TANULO_VOICE_END)
+                    else:
+                        # Üres sor, a következő sor(ok) a szöveg
+                        uj_sorok.append(TANULO_VOICE_START)
+                        i += 1
+                        while i < len(sorok):
+                            kovetkezo_sor = sorok[i].rstrip('\n\r')
+                            # Ha üres sor vagy új címke, kilépünk
+                            if not kovetkezo_sor or kovetkezo_sor == 'MENTOR' or kovetkezo_sor == 'MENTOR:' or kovetkezo_sor == 'TANULÓ' or kovetkezo_sor == 'TANULÓ:' or kovetkezo_sor.startswith('MENTOR: ') or kovetkezo_sor.startswith('TANULÓ: '):
+                                break
+                            uj_sorok.append(kovetkezo_sor)
+                            i += 1
+                        uj_sorok.append(TANULO_VOICE_END)
+                        continue
+                else:
+                    # Nincs kettőspont vagy csak "TANULÓ:" (üres), a következő sor(ok) a szöveg
+                    uj_sorok.append(TANULO_VOICE_START)
+                    i += 1
+                    while i < len(sorok):
+                        kovetkezo_sor = sorok[i].rstrip('\n\r')
+                        # Ha üres sor vagy új címke, kilépünk
+                        if not kovetkezo_sor or kovetkezo_sor == 'MENTOR' or kovetkezo_sor == 'MENTOR:' or kovetkezo_sor == 'TANULÓ' or kovetkezo_sor == 'TANULÓ:' or kovetkezo_sor.startswith('MENTOR: ') or kovetkezo_sor.startswith('TANULÓ: '):
+                            break
+                        uj_sorok.append(kovetkezo_sor)
+                        i += 1
+                    uj_sorok.append(TANULO_VOICE_END)
+                    continue
             else:
                 # Üres sorok és egyéb sorok megtartása
                 uj_sorok.append(sor)
+            
+            i += 1
         
         # Kiírjuk az új fájlt
         with open(kimeneti_fajl, 'w', encoding='utf-8') as f:
@@ -120,5 +184,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
 
 

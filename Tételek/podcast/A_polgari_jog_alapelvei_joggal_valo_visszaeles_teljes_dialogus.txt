@@ -1,109 +1,144 @@
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Üdvözöllek! Ma a polgári jog alapköveit, az alapelveket fogjuk megvizsgálni, különös tekintettel a joggal való visszaélés tilalmára. Nem csak felsoroljuk őket, hanem megnézzük a mélyebb összefüggéseiket is: hogyan töltenek ki joghézagokat, hogyan korrigálják a merev szabályokat, és mi a különbség a jóhiszeműség és a tisztesség között. Hogy ezeket az elvont szabályokat kézzelfoghatóvá tegyük, egy különleges helyszínre látogatunk: egy hatalmas, régi vasúti pályaudvarra.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Izgalmasan hangzik! A vasútállomás rendszere és szabályai biztosan segítenek megérteni a jogi struktúrát. Induljunk!
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Lépjünk be a főbejáraton az Indulási Csarnokba. Nézz fel! A fejünk felett egy óriási, kattogó Menetrendi Tábla kattog, rajta a vágányok számai és az indulási idők. Ez a tábla jelképezi az alapelveket mint általános normákat: ezek határozzák meg az egész forgalom kereteit. A tábla mellett egy hatalmas Mérőszalag lóg a mennyezetről.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Gondolom, ez a jogértelmezési funkció: az alapelvek a zsinórmérték, amihez minden mást igazítani kell.
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Pontosan. De nézd csak a padlót! Egy helyen hiányzik a burkolat, egy nagy repedés tátong, amit egy munkás éppen friss betonnal tölt ki. Ez a joghézagkitöltő funkció: ahol a törvény szövege lyukas, ott az alapelvek, mint a beton, kitöltik a hézagot, biztosítva a jogrendszer teljességét. És figyeld meg, mi van a munkás kezében! Egy Állítható Csavarkulcs. Éppen egy berozsdásodott, túl szoros csavart lazít meg vele.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Ez mit jelképez?
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Ez a korrekciós funkció. A bíró az alapelvek segítségével "meglazíthatja", korrigálhatja a merev tételes szabályokat, ha azok alkalmazása az adott esetben igazságtalan lenne. Ez adja a rendszer rugalmasságát. Most pedig menjünk ki a peronokhoz. Az egyes vágánynál két fényes sínpárt látsz a földön.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Látom a síneket. Párhuzamosan futnak egymás mellett, soha nem keresztezik egymást.
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Így van. Ez a kép a mellérendeltség és egyenjogúság elvét rögzíti. A felek, mint a sínpár két szála, egyenrangúak, horizontális viszonyban vannak. Hogy lásd a különbséget, nézz a távolba! Ott egy magas Őrtorony áll, ahol a parancsnok fentről kiabál le a beosztottjainak. Az a közjog világa, a vertikális, alá-fölérendeltségi viszony. A polgári jogban viszont sínek vannak, nem tornyok.
 A Polgári Törvénykönyv első könyvének első paragrafusa szerint: E törvény a mellérendeltség és egyenjogúság elve szerint szabályozza a személyek alapvető vagyoni és személyi viszonyait.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Ez nagyon tiszta különbségtétel. Vízszintes sínek kontra magas torony.
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Most emeld a tekinteted a sínek melletti magas építményre. Egy Jelzőtornyot látsz. A tetején egy hatalmas Főjelző Karja áll, alatta pedig egy kisebb Alsó Kar. A kettőt egy vastag drótkötél köti össze. Ha a fenti Főjelző, ami az Alaptörvényt jelképezi, elmozdul, a lenti Alsó Kar, a Polgári Törvénykönyv, mechanikusan kénytelen követni a mozgását. A torony legtetején pedig egy kis Nemzetközi Zászló lobog.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Ez a hierarchikus értelmezés elve. A Polgári Törvénykönyvnek követnie kell az Alaptörvényt, és figyelembe kell venni a nemzetközi kötelezettségeket is.
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Igen. A Polgári Törvénykönyv első könyvének második paragrafusának első és második bekezdése szerint: E törvény rendelkezéseit Magyarország alkotmányos rendjével összhangban kell értelmezni. A polgári jogi viszonyokra vonatkozó jogszabályokat e törvénnyel összhangban kell értelmezni.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Értem. Alkotmány, Polgári Törvénykönyv, egyéb jogszabályok. Menjünk tovább!
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Lépjünk be a Jegyirodába. Itt a Jóhiszeműség és Tisztesség elvét kell szétszednünk, mert a kettő nem ugyanaz. Az ablaknál egy utast látsz, aki nyugodtan szorongat egy Menetjegyet. Ő a szubjektív jóhiszeműség, a "bona fides". Ő nem tudja, hogy a jegy esetleg érvénytelen, ő menthető tévedésben van, "hiszi", hogy minden rendben.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Tehát a jóhiszeműség egy tudati állapot.
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Pontosan. Ezzel szemben nézd a kalauzt a pult mögött! Ő makulátlan Egyenruhában van. Ő az objektív tisztesség. Tőle nem azt várjuk, hogy mit "hisz", hanem hogy úgy járjon el, ahogy az a forgalomban elvárható: korrekten, etikusan. A háta mögött egy nagy Információs Tábla is lóg "Együttműködés" felirattal – mert a tisztesség része a tájékoztatás és az együttműködés is.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Értem a különbséget. A jegy a belső hit, az egyenruha és a tábla a külső, elvárható magatartás. De mi az ott a kijáratnál?
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Az egy Forgókapu. Figyeld meg! Zöld jelzést mutat, hívogatóan kinyílik, de amint az utas belépne, hirtelen rácsapódik és pirosra vált. Ez a "venire contra factum proprium", vagyis a saját korábbi magatartással való szembemenetel tilalma. Nem ígérhetsz zöldet, hogy aztán pirosat adj, ha a másik már bízott az ígéretedben.
 A Polgári Törvénykönyv első könyvének harmadik paragrafusának első és második bekezdése szerint: A jogok gyakorlása és a kötelezettségek teljesítése során a felek a jóhiszeműség és tisztesség követelményének megfelelően kötelesek eljárni. A jóhiszeműség és tisztesség követelményét sérti az is, akinek joggyakorlása szemben áll olyan korábbi magatartásával, amelyben a másik fél okkal bízhatott.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Ez nagyon szemléletes. A forgókapu becsapja az utast.
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Továbbhaladunk a Váróterembe. A padlón egy széles Sárga Biztonsági Sáv húzódik. Az utasok többsége fegyelmezetten e mögött várakozik. Ez az "elvárható magatartás" határa, az objektív mérce, a "reasonable man" vagyis az ésszerű ember zsinórmértéke. Nem a zsenit várjuk el, de nem is a hanyagot, hanem az átlagos, gondos ember szintjét.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 És aki átlépi?
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Nézd azt a férfit! Átugorja a lezárt Korlátot, megbotlik és elesik. Most pedig dühösen kiabál a kártérítésért. De a biztonsági őr csak a fejét rázza. Ez a "nemo turpitudinem suam allegans auditur" elve: saját felróható magatartására előnyök szerzése végett senki nem hivatkozhat. Aki átugorja a korlátot, ne kérjen kártérítést, ha elesik.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Logikus. És mi történik a peron közepén?
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Ott két Csomagkocsi ütközött össze. Mindkét hordár figyelmetlen volt, mindkettő hibás. Most egymásra mutogatnak. Fontos: itt mindkettő hibás, de ez nem akadálya annak, hogy hivatkozzanak a másik hibájára. Ez a kármegosztás alapja.
 A Polgári Törvénykönyv első könyvének negyedik paragrafusának első, második és harmadik bekezdése szerint: Ha e törvény eltérő követelményt nem támaszt, a polgári jogi viszonyokban úgy kell eljárni, ahogy az az adott helyzetben általában elvárható. Felróható magatartására előnyök szerzése végett senki nem hivatkozhat. A másik fél felróható magatartására hivatkozhat az is, aki maga felróhatóan járt el.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Világos. Menjünk a legfontosabb részhez!
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Elérkeztünk a Forgalomirányító Központba. Itt a joggal való visszaélés tilalmáról lesz szó. A falon egy piros Vészfékkar látható. Egy alak odalép, és hangosan nevetve meghúzza, bár nincs semmi veszély, csak a vonatot akarja megállítani poénból, hogy másokat bosszantson. Ez a "chicane", a visszaélés klasszikus esete: van joga meghúzni a kart (elvileg), de a célja kizárólag a károkozás.
 Nézz ki az ablakon is! Valaki egy indokolatlanul magas deszka Kerítést épített közvetlenül az ablak elé, ami teljesen eltakarja a kilátást. Ez az aránytalanság példája: neki alig van haszna belőle, de a forgalmistákat súlyosan zavarja.
 A Polgári Törvénykönyv első könyvének ötödik paragrafusának első bekezdése szerint: A törvény tiltja a joggal való visszaélést.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Tehát a vészfék a rosszhiszemű károkozás, a kerítés pedig az aránytalan érdekérvényesítés. És mi történik a terem közepén?
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Ott egy hatalmas Váltókart látsz. Egy mentővonat közeledik, aminek szabad utat kellene adni – ez a közérdek. De a váltókezelő, akinek a feladata lenne átállítani, keresztbe tett kézzel áll és dacosan rázza a fejét. Megtagadja a cselekvést, pedig jogszabály és a helyzet is megkívánná. Ez a jognyilatkozat visszaélésszerű megtagadása.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 És mit lehet tenni ilyenkor? A mentővonat nem állhat meg!
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Nem. Nézd, ki lép be az ajtón! Az Állomásfőnök, aki a bírót jelképezi. A kezében egy nagy, csillogó Aranykulcs van. Félretolja a makacs váltókezelőt, beilleszti a kulcsot a zárba, és maga húzza át a váltókart. Ezzel a bíróság ítélete pótolja a hiányzó nyilatkozatot, mert a közérdek sérelme másképp nem hárítható el.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Aha! Szóval az Állomásfőnök kulcsa a bírósági ítélet, ami helyettesíti a megtagadott nyilatkozatot.
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Pontosan. A Polgári Törvénykönyv első könyvének ötödik paragrafusának második bekezdése szerint: Ha a joggal való visszaélés jogszabály által megkívánt nyilatkozat megtagadásában áll, és ez a magatartás nyomós közérdeket vagy különös méltánylást érdemlő magánérdeket sért, a bíróság a nyilatkozatot ítéletével pótolhatja, feltéve, hogy az érdeksérelem másképpen nem hárítható el.
+</voice>
 
-TANULÓ
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
 Így már sokkal teljesebb a kép. A betonozás, a csavarkulcs, a jegy és az egyenruha, a vészfék és a kerítés... mindegyik egy-egy fontos részletet világít meg.
+</voice>
 
-MENTOR
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
 Örülök, hogy látod az összefüggéseket. Ezek a részletek teszik élővé a jogot. Sikeres felkészülést! Viszlát!
+</voice>
