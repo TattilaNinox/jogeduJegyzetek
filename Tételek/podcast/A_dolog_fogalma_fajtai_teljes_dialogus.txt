@@ -1,0 +1,311 @@
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Szia! Szép napot! Készüljünk a dolog fogalma, fajtái, csoportosítása tételre?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Szia! Igen, kezdjük el. Ma egy nagyon egyedi helyszínbe megyünk – egy modern, funkcionális Dologi Jog Osztályozó és Katalógus Központba. Képzeld el egy hatalmas, többemeletes, ipari jellegű komplexumot, ahol minden dolog kategóriáját és kapcsolatát rendszerezik.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Érdekes! Hogyan kezdjük?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Lépjünk be a főbejáraton. A kapu előtt egy hatalmas, fémből készült, központi asztal áll, amelynek a felületén négy különálló, egyedi dolog van elhelyezve, mindegyik saját, fémből készült azonosító táblával: az asztal bal felső sarkában egy autó, amelynek a szélvédőjén egy nagy, fémből készült azonosító tábla van, a jobb felső sarkában egy ház makettje, amelynek az ajtaján egyedi szám látható, a bal alsó sarkában egy könyv, amelynek a borítóján egyedi kód van nyomtatva, a jobb alsó sarkában egy festmény, amelynek a keretében egyedi azonosító van elhelyezve. Minden dolog mellett egy fémből készült, fényes tábla hirdeti az adott dolog egyedi azonosítóját. Ez a dolog szerepe a dologi jogban. A dolog a dologi jog, vagyis a vagyoni jog statikus részének központi tárgya. A dologi jog szabályozza a dolgokhoz fűződő jogokat, elsősorban a tulajdonjogot és az egyéb dologi jogokat, például a haszonélvezetet, a zálogjogot, a szolgalmakat, és így tovább. Ezek a jogok mindig egy konkrét, individualizált dologra vonatkoznak, nem általában dolgokra, hanem erre a meghatározott dologra, például ez az ingatlan, ez az autó, ez a festmény.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Remek! Ez most már világos. Tehát a dologi jog mindig egy konkrét, individualizált dologra vonatkozik, és ez a vagyoni jog statikus részének központi tárgya. A tulajdonjog és a többi dologi jog, mint a haszonélvezet vagy a zálogjog, mindig egy meghatározott dologhoz kapcsolódik.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Pontosan! A dolog fogalmának és osztályozásának ismerete elengedhetetlen a vagyoni jogviszonyok megértéséhez, mert a különböző dolog-kategóriákhoz eltérő jogi szabályok és jogkövetkezmények kapcsolódnak, például az ingó és ingatlan dolgok tulajdonszerzése eltérő.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Értem, akkor az osztályozás fontos, mert különböző kategóriákhoz különböző szabályok tartoznak. Például az ingó és ingatlan dolgoknál eltérő a tulajdonszerzés módja, ugye?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Most lépjünk be a kapun, és menjünk a központi csarnokba. A csarnok közepén két óriási, mechanikus szűrőrendszer látható, amelyek egymás után működnek. Az első szűrő egy testi tárgy szűrő. Ez egy acélból készült, rácsos szerkezet, amely csak azokat a tárgyakat engedi át, amelyek testiek, anyagiak, fizikai léttel rendelkeznek.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+És mi nem megy át a szűrőn?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A szűrőn keresztül látod, hogy egy autó, egy bútor, egy könyv simán átmegy. De a szűrő elakad és vibrál, amikor egy követelés, egy szellemi alkotáshoz fűződő jog, vagy energia önmagában próbál átmenni. Ezek nem dolgok, mert nem testi tárgyak. Jogok, például követelés, szellemi alkotásokhoz fűződő jogok, ezek immateriális javak. Energia, mint villamosság, hő, ha önmagában, nem testi tárgyban. Emberi test, testrészek, az ember nem lehet dolog, emberi méltóság miatt. Holttestek, különleges szabályok vonatkoznak rájuk.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Aha, értem! Tehát csak azok a tárgyak mennek át, amelyek fizikailag léteznek, megfoghatók. A követelések, jogok ezek nem testi tárgyak, ezért nem dolgok. Az energia önmagában sem, ha nincs valamilyen testi tárgyban. És az emberi test sem lehet dolog, mert az emberi méltóság miatt nem lehet tárgy. A holttestekre pedig különleges szabályok vonatkoznak.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A második szűrő a birtokba vehetőség szűrője. Ez egy erős mágneses mezővel működő szerkezet, amely csak azokat a tárgyakat engedi át, amelyek felett az ember tényleges hatalmat tud gyakorolni, birtokába tudja venni, uralma alá tudja hajtani.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+És mi nem halad át ezen a szűrőn?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A Nap, a Hold, a csillagok nem haladnak át, mert túl távol vannak. A végtelen légtér nem halad át, mert nem határolható körül. A tengerek nem haladnak át, főszabály szerint, bár részei birtokba vehetők.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Értem! Tehát csak azok lehetnek dolgok, amelyek felett az ember ténylegesen uralmat tud gyakorolni. A Nap, Hold, csillagok túl messze vannak, a végtelen légtér nem határolható, a tengerek főszabály szerint nem vehetők birtokba, bár például az ásványi kincsek, mint részeik, igen. Ezek tehát nem dolgok.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A két szűrő után, a csarnok hátsó falán egy óriási, fémből készült tábla látható, amelyen a definíció áll. A kétezer-tizenhárom évi ötödik törvény a Polgári Törvénykönyvről ötödik könyvének tizennegyedik paragrafusának első bekezdése szerint: A birtokba vehető testi tárgy tulajdonjog tárgya lehet.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Aha, tehát a definíció két részből áll: a testi tárgy, vagyis a korpusz, és a birtokba vehetőség. Mindkettőnek fenn kell állnia, hogy valami dolog legyen.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Pontosan! Most forduljon jobbra, és menjünk a bal oldali szárnyba. Itt három különleges, üvegből készült vitrin látható, amelyek fényben ragyognak. Az első vitrinben egy óriási, aranyból készült pénzérme és egy értékpapír látható, amelyek folyamatosan forognak.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Ezek is dolgok?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A kétezer-tizenhárom évi ötödik törvény a Polgári Törvénykönyvről ötödik könyvének tizennegyedik paragrafusának második bekezdése szerint: A dologra vonatkozó szabályokat megfelelően alkalmazni kell a pénzre és az értékpapírokra, valamint a dolog módjára hasznosítható természeti erőkre. A törvény kiterjeszti a dolgokra vonatkozó szabályokat bizonyos nem tipikus dolgokra. Pénz és értékpapírok, bár ezek is testi tárgyak, speciális szabályaik vannak, de főszabály szerint a dolgokra vonatkozó szabályok alkalmazandók.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Értem! Tehát a pénz és az értékpapírok is testi tárgyak, de speciális szabályaik vannak, mégis a dolgokra vonatkozó szabályok alkalmazandók rájuk. Ez egyfajta jogi fikció, ugye?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A második vitrinben egy szélkerék, egy vízkerék és egy napkollektor látható, amelyek folyamatosan forognak és energiát termelnek. Ezek a természeti erők, amelyek dolog módjára hasznosíthatók, például vízenergia, szélenergia, napenergia, ha hasznosíthatók, a dolgokra vonatkozó szabályok szerint kezelendők.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Értem! Tehát a természeti erők, mint a vízenergia, szélenergia, napenergia, ha hasznosíthatók, dolog módjára kezelendők. Ez logikus, mert ha az ember uralma alá tudja hajtani ezeket az erőket, akkor hasonlóan kell kezelni őket, mint a dolgokat.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A harmadik vitrinben egy állat szobra látható, amely körül egy védőkerítés van, és az állat mozog, élőnek tűnik.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+És az állatok?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A kétezer-tizenhárom évi ötödik törvény a Polgári Törvénykönyvről ötödik könyvének tizennegyedik paragrafusának harmadik bekezdése szerint: A dologra vonatkozó szabályokat az állatokra a természetüknek megfelelő eltéréseket megállapító törvényi rendelkezések figyelembevételével kell alkalmazni. Az állatok formálisan dolgok, de a természetüknek, élőlényeknek megfelelő eltérésekkel, például az állatvédelmi szabályokat be kell tartani, az állatok iránti kíméletességet gyakorolni kell.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Értem! Tehát az állatok formálisan dolgok, de mivel élőlények, különleges szabályok vonatkoznak rájuk. Például az állatvédelmi szabályokat be kell tartani, és kíméletesen kell bánni velük. Ez elismeri, hogy az állatok nem csak tárgyak.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Igen. Most menjünk vissza a központi csarnokba, és lépjünk fel a lépcsőn az első emeletre. Az első emeleten öt külön osztályozó terem található, mindegyik egy osztályozási szempontot mutat be.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Az első terembe lépve két hatalmas, egymással szemben álló platform látható. A bal oldali platform egy rögzített, földhöz rögzített, betonból készült terület, amelyen egy épület áll, és egy fa nő ki belőle. Ez az ingatlan zóna. Az ingatlan a föld és minden, ami a földdel tartósan egyesült, épület, növény, föld alatti rétegek. Az ingatlan-nyilvántartásban nyilvántartott önálló dolog.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A jobb oldali platform egy mozgatható, futószalag szerű szerkezet, amelyen különböző tárgyak haladnak: autó, bútor, könyv, ékszer, állat. Ez az ingó dolog zóna. Az ingó dolog minden más dolog, ami nem ingatlan, például gépkocsi, bútor, könyv, ékszer, állat.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Mi a jogi jelentősége ennek a megkülönböztetésnek?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A megkülönböztetés jogi jelentősége: tulajdonszerzés, ingónál birtokátruházás, ingatlannál ingatlan-nyilvántartási bejegyzés szükséges. A Polgári Törvénykönyv ötödik könyvének harmincnyolcadik paragrafusa szerint. Nyilvántartás, ingatlanokat ingatlan-nyilvántartásban tartják nyilván, közhiteles, ingókat nem. Elbirtoklás, ingónál tíz év, ingatlannál tizenöt év. A Polgári Törvénykönyv ötödik könyvének negyvennegyedik paragrafusa szerint. Forgalom, ingatlanok forgalma szabályozottabb, bonyolultabb.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Aha, tehát a tulajdonszerzésnél az ingónál elég a birtokátruházás, míg az ingatlannál az ingatlan-nyilvántartási bejegyzés is szükséges. És az elbirtoklásnál is különbözik a határidő: ingónál tíz év, ingatlannál tizenöt év. Ez azt mutatja, hogy az ingatlanok forgalma valóban szabályozottabb és bonyolultabb.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Most menjünk a második terembe. Itt három külön raktár látható, mindegyik más színű ajtóval. Az első raktár ajtaja zöld, és szabadon nyílik-zárul, automatikusan működik. Ez a forgalomképes dolgok raktára. A forgalomképes dolgok szabadon átruházhatók, forgalomba hozhatók, megterhelhetők. Ezek a dolgok többsége.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A második raktár ajtaja piros, és teljesen le van zárva, egy tiltó táblával, amelyen egy X jel látható. Ez a forgalomképtelen dolgok raktára. A forgalomképtelen dolgok nem ruházhatók át, nem lehetnek magántulajdonban, vagy átruházásuk korlátozott. Példák: köztulajdonban álló dolgok, közutak, közterületek, kulturális javak bizonyos kategóriái, tiltott dolgok, kábítószer, haditechnikai eszközök.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A harmadik raktár ajtaja sárga, és csak egy kulccsal nyitható, amely egy különleges, biztonsági zárban van. Ez a korlátozottan forgalomképes dolgok raktára. A korlátozottan forgalomképes dolgok csak meghatározott feltételekkel ruházhatók át, például fegyverek fegyvertartási engedéllyel, gyógyszerek vénnyel.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Most menjünk a harmadik terembe. Itt két párhuzamos futószalag látható, amelyek egymás mellett haladnak. Az első futószalagon egyforma, cserélhető tárgyak haladnak: búza, cukor, pénz, tömegtermékek. Ez a helyettesíthető dolgok zónája. A helyettesíthető, vagy fungibilis dolgok fajta és mennyiség szerint meghatározottak, egymással kicserélhetők, egyedi tulajdonságaik nem lényegesek, például búza, cukor, pénz, tömegtermékek.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A második futószalagon egyedi, egyedileg meghatározott tárgyak láthatók: festmény, antik bútor, ház egy adott címen. Ez a helyettesíthetetlen dolgok zónája. A helyettesíthetetlen, vagy infungibilis dolgok egyedileg meghatározottak, egyedi tulajdonságokkal rendelkeznek, nem cserélhetők ki hasonlóval, például festmény, antik bútor, ház egy adott címen.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Mi a jogi jelentősége?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Jogi jelentőség: kölcsön, csak helyettesíthető dolgot lehet kölcsönadni. A Polgári Törvénykönyv hatodik könyvének háromszáznyolcvanötödik paragrafusa szerint. Gyűjtő letét, csak helyettesíthető dolgoknál. A Polgári Törvénykönyv hatodik könyvének háromszázhatvanhatodik paragrafusa szerint. Teljesítés, helyettesíthető dolognál hasonló dolog is teljesítésnek minősülhet.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Aha, értem! A kölcsönnél csak helyettesíthető dolgot lehet adni, mert az azonos fajta és mennyiségű dolgot kell visszaadni. A gyűjtő letét is csak ilyen dolgoknál működik. És a teljesítésnél is különbség van: helyettesíthetőnél hasonló dolog is megfelel, míg helyettesíthetetlennél pontosan azt a konkrét dolgot kell visszaadni.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Most menjünk a negyedik terembe. Itt két külön raktár látható. Az első raktárban tárgyak láthatók, amelyek használat közben fogyanak, eltűnnek: étel, ital, tüzelőanyag, gyógyszer. Ez az elhasználható dolgok raktára. Az elhasználható, vagy fogyasztható dolgoknál a rendeltetésszerű használat a dolog elfogyását, megsemmisülését eredményezi, például étel, ital, tüzelőanyag, gyógyszer.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A második raktárban tárgyak láthatók, amelyek használat közben nem fogyanak, csak kopnak: bútor, gépkocsi, ház. Ez az elhasználhatatlan dolgok raktára. Az elhasználhatatlan dolgoknál a rendeltetésszerű használat nem eredményezi a dolog elfogyását, csak természetes kopást, például bútor, gépkocsi, ház.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Mi a jogi jelentősége?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Jogi jelentőség: haszonélvezet, elhasználható dolognál a haszonélvező tulajdonossá válik, és a jogviszony megszűnésekor hasonló dolgot köteles visszaadni. Kölcsön, elhasználható dolgoknál a kölcsönvevő tulajdonossá válik.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Aha, ez érthető! Az elhasználható dolgoknál, mivel a rendeltetésszerű használat során elfogynak, a haszonélvező vagy a kölcsönvevő tulajdonossá válik, és hasonló dolgot kell visszaadnia. Ez a takarékos haszonélvezet elve, ugye?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Most menjünk az ötödik terembe. Itt két külön terület látható. Az első területen egy nagy földdarab látható, amely ketté van osztva, és mindkét rész értékes maradt, arányosan osztva. Ez az osztható dolgok zónája. Az osztható dolgok fizikailag megoszthatók anélkül, hogy értékük aránytalanul csökkenne vagy rendeltetésük megváltozna, például földterület, homok, folyadék.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A második területen egy gépkocsi, egy festmény, egy épület látható, amelyek nem oszthatók meg értékvesztés vagy rendeltetésváltozás nélkül. Ez az oszthatatlan dolgok zónája. Az oszthatatlan dolgok fizikailag nem oszthatók meg értékvesztés vagy rendeltetésváltozás nélkül, például gépkocsi, festmény, épület.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Mi a jogi jelentősége?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Jogi jelentőség: közös tulajdon megszüntetése, osztható dolognál természetbeni megosztás, oszthatatlan dolognál megváltás vagy árverés. A Polgári Törvénykönyv ötödik könyvének nyolcvannegyedik paragrafusa szerint. Kötelmi jog, osztható szolgáltatásnál osztott teljesítés lehetséges.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Értem! Az osztható dolgoknál természetbeni megosztás történik, mert értékvesztés nélkül megoszthatók. Az oszthatatlan dolgoknál viszont megváltás vagy árverés történik, mert nem lehet értékvesztés nélkül megosztani őket. Ez logikus!
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Most menjünk le a lépcsőn, és lépjünk be a földszinti dologkapcsolatok termébe. Ez egy külön terem, ahol a dolgok közötti kapcsolatokat mutatják be. A terem közepén három különleges, interaktív kiállítás látható.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Az első kiállításon egy óriási, összeolvadt szerkezet látható. Ez egy épület, amelynek az alapjai, falai, tetője teljesen egybeolvadtak, hegesztve, összeforrasztva. Ez az alkotórész.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Mi az alkotórész definíciója?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A kétezer-tizenhárom évi ötödik törvény a Polgári Törvénykönyvről ötödik könyvének tizenötödik paragrafusa szerint: A tulajdonjog kiterjed mindarra, ami a dologgal olyképpen van tartósan egyesítve, hogy az elválasztással a dolog vagy elválasztott része elpusztulna, illetve az elválasztással értéke vagy használhatósága számottevően csökkenne. Az alkotórész a dolognak olyan része, amely tartósan egyesítve van a dologgal, és elválaszthatatlan, vagy csak jelentős károsodással választható el. Példák: az épület alapjai, falai, tetője, a gépkocsi motorja, karosszériája, a fa gyökerei, törzse.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+És mi a jogkövetkezmény?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Jogkövetkezmény: a tulajdonjog automatikusan kiterjed az alkotórészre. Az alkotórész nem önálló dolog, nem lehet külön tulajdoni tárgya.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Aha, értem! Az alkotórész a fődolog része, nem önálló dolog, és a tulajdonjog automatikusan kiterjed rá. Tehát ha valaki egy dolgot vásárol, akkor az alkotórészei is az övéi lesznek, nem kell külön megvásárolni őket.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A második kiállításon egy kulcs látható, amely egy zárat nyit, és mellette egy szerszámkészlet, amely egy gépkocsihoz tartozik. A kulcs és a szerszámkészlet fizikailag elkülöníthető, de a dolog rendeltetésszerű használatához szükségesek. Ez a tartozék.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Mi a tartozék definíciója?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A kétezer-tizenhárom évi ötödik törvény a Polgári Törvénykönyvről ötödik könyvének tizenhatodik paragrafusa szerint: A tulajdonjog kétség esetén kiterjed arra is, ami nem alkotórész ugyan, de a dolog rendeltetésszerű használatához vagy épségben tartásához rendszerint szükséges vagy azt elősegíti. A tartozék a dologtól fizikailag elkülöníthető, de a dolog rendeltetésszerű használatához vagy épségben tartásához rendszerint szükséges vagy azt elősegítő dolog. Példák: az épület kulcsa, a gépkocsi szerszámkészlete, a szántóföld mezőgazdasági gépe.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+És mi a jogkövetkezmény?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Jogkövetkezmény: a tulajdonjog kétség esetén kiterjed a tartozékra. Ez megdönthető vélelem: ha a felek eltérően állapodnak meg, a tartozék nem száll át a dolog átruházásával.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Aha, értem! A tartozéknál a tulajdonjog csak kétség esetén kiterjed rá, ez egy vélelem, amit meg lehet dönteni. Ha a felek eltérően állapodnak meg, akkor a tartozék nem száll át automatikusan. Ez eltér az alkotórésszel, ahol automatikusan kiterjed a tulajdonjog.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A harmadik kiállításon egy fa látható, amelyen gyümölcsök nőnek, és alatta egy pénztárca, amelyből pénz jön ki, folyamatosan. A fa természetes gyümölcsöt hoz, a pénztárca pedig polgári gyümölcsöt, bérleti díjat. Ez a gyümölcs.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Mi a gyümölcs definíciója?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A gyümölcs, vagy fruktusz minden olyan gazdasági előny, ami valamely dolognak a rendeltetésszerű használata során időnként visszatérően keletkezik, anélkül, hogy a dolog létét, épségét vagy további gyümölcsözési képességét veszélyeztetné.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Milyen fajtái vannak?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Gyümölcs fajtái: természetes gyümölcs, vagy fruktusz naturálesz, a dolog természetes módon hozott terméke, termése, szaporulata, például gyümölcs a fáról, termés a földről, állat ivadéka. Polgári gyümölcs, vagy fruktusz civilisz, a dolognak gazdasági hasznosításából eredő jövedelem, amelyhez tulajdonkapcsolódás valamely jogviszony alapján jön létre, például bérleti díj, haszonbérleti díj, kamat.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+És milyen állapotai vannak?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Gyümölcs állapotai: függő gyümölcs, még a dolgon van, nem vált el, a dolog alkotórésze, elválasztott gyümölcs, elvált a dologtól, már önálló dolog, forgalom tárgya lehet, beszedett gyümölcs, a jogosult birtokba vette, be nem szedett gyümölcs, még nem vette birtokba, például lehullott alma.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+És mi a jogkövetkezmény?
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Jogkövetkezmény: a gyümölcs főszabály szerint a tulajdonost illeti meg, kivéve, ha más jogosult rá, például haszonélvező, jóhiszemű birtokos.
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Értem! A gyümölcs alapvetően a tulajdonosé, de vannak kivételek. Például a haszonélvező jogosult rá, mert ő használja a dolgot. És a jóhiszemű birtokos is megszerezheti tulajdonszerzéssel. Ez logikus, mert a gyümölcs a dolog haszna, és aki használja, az illeti meg a hasznot is.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Most menjünk vissza a központi csarnokba, és nézzük meg az összefoglaló táblát a kijáratnál. Itt egy nagy, fémből készült összefoglaló tábla látható, amelyen minden fontos információ szerepel.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Összegzés. A dolog fogalmának és a dolgok osztályozásának ismerete elengedhetetlen a vagyoni jogviszonyok megértéséhez, mert a különböző dolog-kategóriákhoz eltérő jogi sors kapcsolódik. A dolog fogalma, a kétezer-tizenhárom évi ötödik törvény a Polgári Törvénykönyvről ötödik könyvének tizennegyedik paragrafusának első bekezdése szerint: A birtokba vehető testi tárgy. Jogi fikció: pénz, értékpapír, természeti erők, a kétezer-tizenhárom évi ötödik törvény a Polgári Törvénykönyvről ötödik könyvének tizennegyedik paragrafusának második bekezdése szerint. Állatok különleges szabályokkal, a kétezer-tizenhárom évi ötödik törvény a Polgári Törvénykönyvről ötödik könyvének tizennegyedik paragrafusának harmadik bekezdése szerint. A dolgok osztályozása: ingó és ingatlan, jogi jelentőség: tulajdonszerzés, nyilvántartás, elbirtoklás. Forgalomképes és forgalomképtelen, jogi jelentőség: átruházhatóság. Helyettesíthető és helyettesíthetetlen, jogi jelentőség: kölcsön, gyűjtő letét, teljesítés. Elhasználható és elhasználhatatlan, jogi jelentőség: haszonélvezet, kölcsön. Osztható és oszthatatlan, jogi jelentőség: közös tulajdon megszüntetése, teljesítés. Dologkapcsolatok: alkotórész, a kétezer-tizenhárom évi ötödik törvény a Polgári Törvénykönyvről ötödik könyvének tizenötödik paragrafusa szerint, tartósan egyesítve, el nem választható vagy csak károsodással. Jogkövetkezmény: tulajdonjog automatikusan kiterjed rá. Tartozék, a kétezer-tizenhárom évi ötödik törvény a Polgári Törvénykönyvről ötödik könyvének tizenhatodik paragrafusa szerint, rendeltetésszerű használathoz szükséges. Jogkövetkezmény: tulajdonjog kétség esetén kiterjed rá, vélelem. Gyümölcs, időnként visszatérően keletkező gazdasági előny. Fajtái: természetes és polgári. Jogkövetkezmény: főszabály szerint a tulajdonosé. A dolgok fogalma és osztályozása így átfogó, logikus rendszert alkot, amely lehetővé teszi a vagyoni javak pontos jogi minősítését és a rájuk vonatkozó szabályok helyes alkalmazását.
+</voice>
+
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Köszönöm, hogy végigjártuk ezt a Dologi Jog Osztályozó és Katalógus Központot. Remélem, hogy a vizualizáció segített a dolog fogalmának és osztályozásának megértésében és megjegyzésében. Sok sikert a vizsgához!
+</voice>
+
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Köszönöm szépen! Nagyon hasznos volt, és most már sokkal jobban megértem a dolog fogalmát és osztályozását.
+</voice>

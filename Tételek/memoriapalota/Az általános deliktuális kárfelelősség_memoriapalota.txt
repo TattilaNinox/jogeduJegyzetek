@@ -1,0 +1,124 @@
+Itt állunk egy jogügyi kárfelelősségi ellenőrző kör bejáratánál. Ez az általános deliktuális kárfelelősség központja. Induljunk el, lépjünk be a főkapun.
+
+A bejáratnál egy központi csarnok látható, amelyben egy deliktuális felelősség tábla világít. A szerződésen kívüli kárfelelősség rendszere. A szerződésen kívüli, azaz deliktuális felelősség a polgári jogi felelősség egyik alapvető formája, amely a felek között fennálló szerződéses jogviszonyon kívül, jogellenes károkozásból eredő kárfelelősséget szabályozza.
+
+A tábla mellett egy vétek jelző lámpa világít. A deliktum latin szó jelentése vétek, jogsértés, ami jól tükrözi, hogy itt nem szerződéses kötelezettség megszegéséről, hanem általános magatartási szabályok, törvényi tilalmak megsértéséről van szó.
+
+A jelző mellett egy általános károkozási tilalom tábla látható. A szerződésen kívüli kárfelelősség alapvető szabályait a kétezer-tizenharmadik évi ötödik törvény, a Polgári Törvénykönyv hatodik könyvének negyedik része, huszonhatodik címe tartalmazza, a Felelősség szerződésen kívül okozott kárért címszó alatt. A rendszer alapját a Polgári Törvénykönyv hatodik könyvének ötszáztizennyolcadik paragrafusa fekteti le, amely általános károkozási tilalmat tartalmaz: A törvény tiltja a jogellenes károkozást.
+
+A tábla mellett egy generális tiltó rendelkezés jelző lámpa világít. Ez a generális tiltó rendelkezés azt jelenti, hogy minden ember köteles úgy viselkedni, hogy más személynek vagy vagyonának ne okozzon kárt. Ez nem csupán egy erkölcsi, hanem jogi kötelezettség, amelynek megszegése kártérítési felelősséget von maga után.
+
+A jelző mellett egy generálklauzula tábla látható. Az általános kártérítési felelősség klasszikus megfogalmazását a Polgári Törvénykönyv hatodik könyvének ötszáztizenkilencedik paragrafusa tartalmazza: Aki másnak jogellenesen kárt okoz, köteles azt megtéríteni. Mentesül a felelősség alól a károkozó, ha bizonyítja, hogy magatartása nem volt felróható.
+
+A tábla mellett egy egyetlen mondat jelző lámpa világít. Ez a rendelkezés a polgári jog egyik legfontosabb generálklauzulája, amely egyetlen mondatban foglalja össze a kártérítési felelősség alapvető feltételeit: a jogellenes károkozást és a felróhatóságot, valamint a bizonyítási teher megfordítását tartalmazza.
+
+A jelző mellett egy különbségek tábla látható. A szerződésen kívüli kárfelelősség elkülönítendő a szerződésszegéssel okozott károkért való felelősségtől. A két felelősségi forma közötti alapvető különbségek: a szerződéses felelősség alapja a szerződés, a deliktuális felelősség alapja a törvény; a szerződéses felelősség körében a felek előzetesen rögzíthetik a felelősség feltételeit, mértékét, míg a deliktuális felelősség főszabály szerint nem korlátozható előzetesen, kivéve dologi károknál; a szerződéses felelősség bizonyítási terhe fordított: a kötelezett mentesül, ha bizonyítja, hogy a nem teljesítés ellenére sem terheli felelősség. A deliktuális felelősség is fordított bizonyítási terhű, de más jellegű: a károkozó mentesül, ha bizonyítja, hogy magatartása nem volt felróható.
+
+Most menjünk az ellenőrző körhöz. Itt négy ellenőrző pont látható, mindegyik egy feltételt jelöl.
+
+Induljunk el az első ellenőrző pont felé. Itt egy jogellenes magatartás ellenőrző gép látható.
+
+Először, jogellenes magatartás. A Polgári Törvénykönyv a jogellenességre vonatkozóan a Polgári Törvénykönyv hatodik könyvének ötszázhuszadik paragrafusában tartalmaz rendelkezést: Minden károkozás jogellenes, kivéve, ha a károkozó a kárt a károsult beleegyezésével okozta; a jogtalan támadás vagy a jogtalan és közvetlen támadásra utaló fenyegetés elhárítása érdekében a támadónak okozta, ha az elhárítással a szükséges mértéket nem lépte túl; szükséghelyzetben okozta, azzal arányos mértékben; vagy jogszabály által megengedett magatartással okozta, és a magatartás más személy jogilag védett érdekét nem sérti, vagy a jogszabály a károkozót kártalanításra kötelezi.
+
+A gép mellett egy fordított logika jelző lámpa világít. Ez a szabályozás fordított logikát követ: a károkozás önmagában jogellenes, és nem kell külön bizonyítani a jogellenességet. Csak akkor nem jogellenes a károkozás, ha valamelyik jogellenességet kizáró ok fennáll.
+
+A jelző mellett négy külön kizáró ok mechanizmus látható. A jogellenességet kizáró okok: a károsult beleegyezése, latinul volenti non fit iniúria, aki beleegyezik, annak nem történik jogsérelem.
+
+Az első mechanizmus mellett egy beleegyezés feltételek tábla látható. Ez csak akkor zárja ki a jogellenességet, ha a károsult cselekvőképes, vagy legalább belátási képességgel rendelkezik, a beleegyezés valódi, szabad akaratból fakad, nincs kényszer, tévedés, megtévesztés, és a beleegyezés olyan jogra vonatkozik, amely rendelkezési jogkörében van.
+
+A második mechanizmus mellett egy jogos védelem pajzs látható. Továbbá a jogos védelem, latinul vim ví repelleri líkét, amely akkor áll fenn, ha valaki a jogtalan támadás vagy a jogtalan és közvetlen támadásra utaló fenyegetés elhárítása érdekében a támadónak kárt okoz, feltéve, hogy az elhárítással a szükséges mértéket nem lépte túl.
+
+A harmadik mechanizmus mellett egy szükséghelyzet jelző lámpa világít. Harmadszor a szükséghelyzet, latinul necesszitász, amely akkor áll fenn, ha valaki elhárítható veszély elhárítása érdekében más személy jogát sérti, és ezáltal kárt okoz.
+
+A negyedik mechanizmus mellett egy jogszabály által megengedett magatartás tábla látható. Negyedszer a jogszabály által megengedett magatartás.
+
+Most menjünk a második ellenőrző ponthoz. Itt egy kár mérő gép látható.
+
+Másodszor, kár. Kár nélkül nincs kártérítési felelősség. A kár fogalmát a Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusa határozza meg: A károkozó a károsult teljes kárát köteles megtéríteni. A teljes kártérítés körében a károkozó köteles megtéríteni a károsult vagyonában beállott értékcsökkenést; az elmaradt vagyoni előnyt; és a károsultat ért vagyoni hátrányok kiküszöböléséhez szükséges költségeket.
+
+A gép mellett egy teljes kártérítés elv jelző lámpa világít. Ez a rendelkezés a teljes kártérítés elvét tartalmazza.
+
+A jelző mellett három külön összetevő tároló látható. A kár három összetevőből áll: a károsult vagyonában beállott értékcsökkenés, latinul damnum emergens, ami a felmerült kár, a tényleges, már bekövetkezett vagyoni veszteség.
+
+Az első tároló mellett egy elmaradt vagyoni előny tároló látható. Az elmaradt vagyoni előny, latinul lúkrum cesszánsz, ami az elmaradt haszon, az az érték, amellyel a károsult vagyona akkor gyarapodott volna, ha a károsító magatartás nem következik be.
+
+A második tároló mellett egy költségek tároló látható. A harmadik a károsultat ért vagyoni hátrányok kiküszöböléséhez szükséges költségek, amely azoknak a költségeknek a megtérítését jelenti, amelyek a károsultat ért hátrány csökkentéséhez vagy kiküszöböléséhez szükségesek, és csak az indokolt költségek téríthetők meg.
+
+A harmadik tároló mellett egy káronszerzés tilalom tábla látható. A Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának harmadik bekezdése szabályozza a káronszerzés tilalmát, ami azt jelenti, hogy ha a károsult a károkozásból vagyoni előnyhöz jut, azt el kell számolni a kártérítés mértékének meghatározásánál, a károsult nem gazdagodhat a károkozás révén.
+
+A tábla mellett egy nem vagyoni kár jelző lámpa világít. A vagyoni kár mellett létezik a nem vagyoni kár, sérelemdíj is, amelyet a Polgári Törvénykönyv második könyvének ötvenkettedik paragrafusa szabályoz személyiségi jogok megsértése esetén.
+
+Most menjünk a harmadik ellenőrző ponthoz. Itt egy okozati összefüggés mérő gép látható.
+
+Harmadszor, okozati összefüggés, latinul kauzalitász. A kártérítési felelősség harmadik feltétele az okozati összefüggés fennállása a jogellenes magatartás és a kár között. A kárnak a jogellenes magatartás következményeként kell bekövetkeznie.
+
+A gép mellett egy előreláthatóság követelmény tábla látható. A Polgári Törvénykönyv az okozati összefüggés körében az előreláthatóság követelményét írja elő a Polgári Törvénykönyv hatodik könyvének ötszázhuszonegyedik paragrafusában: Nem állapítható meg az okozati összefüggés azzal a kárral kapcsolatban, amelyet a károkozó nem látott előre és nem is kellett előre látnia.
+
+A tábla mellett egy adekvát kauzalitász jelző lámpa világít. Ez a rendelkezés lényegében az adekvát kauzalitász elvét követi: az okozati összefüggés csak azokkal a károkkal kapcsolatban áll fenn, amelyeket a károkozó előre látott vagy előre kellett volna látnia.
+
+A jelző mellett egy bizonyítási teher tábla látható. Az okozati összefüggés fennállását a károsultnak kell bizonyítania.
+
+Most menjünk a negyedik ellenőrző ponthoz. Itt egy felróhatóság mérő gép látható.
+
+Negyedszer, felróhatóság, latinul vétkesség. A felróhatóság a felelősség szubjektív eleme. A felróhatóság fokozatai hagyományosan a szándékosság, latinul dólusz, és a gondatlanság, latinul kulpá, ezen belül súlyos gondatlanság és enyhe gondatlanság.
+
+A gép mellett egy vélelmezett felróhatóság jelző lámpa világít. A Polgári Törvénykönyv a felróhatóságra vonatkozóan a kimentés keretében jelenik meg: Aki másnak jogellenesen kárt okoz, köteles azt megtéríteni. Mentesül a felelősség alól a károkozó, ha bizonyítja, hogy magatartása nem volt felróható.
+
+A jelző mellett egy bizonyítási teher megfordulás mechanizmus látható. Ez a rendelkezés azt jelenti, hogy a felróhatóság vélelmezett. Nem a károsultnak kell bizonyítania, hogy a károkozó felróhatóan járt el, hanem a károkozónak kell bizonyítania, hogy magatartása nem volt felróható. Ez a bizonyítási teher megfordulása.
+
+A mechanizmus mellett egy objektív mérce tábla látható. A felróhatóság mércéje: a károkozónak azt kell bizonyítania, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható. Ez az objektív mérce, az úgynevezett rezónábil men, vagyis ésszerű ember követelménye.
+
+Most menjünk a kimentési szekcióhoz. Itt egy kimentés mechanizmus látható.
+
+A felelősség alóli kimentés, latinul exkulpáció. A kimentés a károkozó számára biztosított lehetőség arra, hogy mentesüljön a kártérítési felelősség alól annak bizonyításával, hogy magatartása nem volt felróható.
+
+A mechanizmus mellett egy kimentés lehetőség tábla látható. A kimentés lehetőségét a Polgári Törvénykönyv hatodik könyvének ötszázötvenkilencedik paragrafusa tartalmazza: Aki másnak jogellenesen kárt okoz, köteles azt megtéríteni. Mentesül a felelősség alól a károkozó, ha bizonyítja, hogy magatartása nem volt felróható.
+
+A tábla mellett négy külön elem tábla látható. Először, a bizonyítási teher a károkozót terheli: a kimentés fordított bizonyítási terhet jelent. Másodszor, a kimentés mércéje: az elvárható magatartás. A károkozónak azt kell bizonyítania, hogy úgy járt el, ahogy az az adott helyzetben általában elvárható. Harmadszor, a kimentés eredménye: ha a károkozó sikeresen bizonyítja, hogy magatartása nem volt felróható, mentesül a felelősség alól. Negyedszer, a kimentés és a jogellenességet kizáró okok közötti különbség: a jogellenességet kizáró okok esetén a károkozás maga nem jogellenes, a kimentés esetén a károkozás jogellenes, de a károkozó bizonyítja, hogy magatartása nem volt felróható.
+
+A táblák mellett egy speciális kimentési szabályok tábla látható. Ötödször, speciális kimentési szabályok, például veszélyes üzemi felelősségnél, a Polgári Törvénykönyv hatodik könyvének ötszázharmincötödik paragrafusa szerint, az üzembentartó csak akkor mentesül, ha bizonyítja, hogy a kárt olyan elháríthatatlan ok idézte elő, amely a fokozott veszéllyel járó tevékenység körén kívül esik.
+
+Most menjünk a kártérítés módja és mértéke szekcióhoz. Itt egy kártérítés mechanizmus látható.
+
+A kártérítés módja és mértéke. Először, a teljes kártérítés elve: a magyar kártérítési jog alapelve, latinul resztitúció in integrum, amelyet a Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának első bekezdése tartalmaz: A károkozó a károsult teljes kárát köteles megtéríteni.
+
+A mechanizmus mellett egy mintha be sem következett volna jelző lámpa világít. Ez azt jelenti, hogy a károsultat olyan helyzetbe kell hozni, mintha a kár be sem következett volna.
+
+A jelző mellett egy kártérítés módja tábla látható. Másodszor, a kártérítés módja, a Polgári Törvénykönyv hatodik könyvének ötszázhuszonhetedik paragrafusa szerint: A károkozó a kárt pénzben köteles megtéríteni, kivéve, ha a körülmények a kár természetben való megtérítését indokolják. A jövőben rendszeresen felmerülő károk megtérítésére a bíróság időszakonként visszatérően előre fizetendő, meghatározott összegű járadékot is meghatározhat. A bíróság a kártérítés módjának meghatározásánál nincs kötve a károsult kérelméhez; a kártérítésnek azt a módját nem alkalmazhatja, amely ellen valamennyi fél tiltakozik.
+
+A tábla mellett három külön mód tároló látható. A kártérítés módjai: pénzbeli kártérítés, amely a főszabály; természetbeni kártérítés, amely kivétel, ha a körülmények indokolják; és járadék, amely időszakonként visszatérően, előre fizetendő összeg a jövőben rendszeresen felmerülő károk megtérítésére, például jövedelempótló járadék, tartást pótló járadék.
+
+A tárolók mellett egy mérték korlátozása tábla látható. Harmadszor, a kártérítés mértékének korlátozása és módosítása. Méltányosság alapján való mérséklés, a Polgári Törvénykönyv hatodik könyvének ötszázhuszonkettedik paragrafusának negyedik bekezdése szerint: A bíróság különös méltánylást érdemlő körülmények fennállása esetén a kártérítés mértékét a teljes kárnál alacsonyabb összegben is meghatározhatja.
+
+A tábla mellett egy méltányosság elv jelző lámpa világít. Ez a méltányosság elvén alapuló kivételes jogintézmény.
+
+A jelző mellett egy becslés tábla látható. Az általános kártérítés, a Polgári Törvénykönyv hatodik könyvének ötszázharmincegyedik paragrafusa szerint, ha a kár mértéke nem állapítható meg, a bíróság becslés útján állapítja meg az összeget.
+
+A tábla mellett egy kárenyhítési kötelezettség tábla látható. Negyedszer, a kárenyhítési kötelezettség, a Polgári Törvénykönyv hatodik könyvének ötszázhuszonötödik paragrafusa szerint: A károsultat kármegelőzési, kárelhárítási és kárenyhítési kötelezettség terheli. Az e kötelezettségek felróható megszegése miatt keletkezett kárt a károkozó nem köteles megtéríteni.
+
+A tábla mellett egy közös viselés jelző lámpa világít. Ha a károsult felróhatóan megsérti e kötelezettségeit, a kárt a károkozóval közösen viseli.
+
+A jelző mellett egy esedékesség és elévülés tábla látható. Ötödször, a kártérítés esedékessége és elévülése. Esedékesség: a Polgári Törvénykönyv hatodik könyvének ötszázharminckettedik paragrafusa szerint: A kártérítés a károsodás bekövetkeztekor nyomban esedékes.
+
+A tábla mellett egy elévülés mechanizmus látható. Elévülés: az általános elévülési idő öt év, de bűncselekménnyel okozott kár esetén a követelés öt éven túl sem évül el, mindaddig, amíg a bűncselekmény büntethetősége el nem évül.
+
+A mechanizmus mellett egy értékviszonyok változása tábla látható. Hatodszor, az értékviszonyok változásának figyelembevétele, a Polgári Törvénykönyv hatodik könyvének ötszázharmincnégyedik paragrafusa szerint, a bíróság az okozott kár mértékét az ítélethozatal időpontjában fennállt értékviszonyok szerint határozhatja meg.
+
+Most menjünk az összefoglaló terembe. Itt egy nagy összefoglaló tábla látható.
+
+Összegzés. Az általános deliktuális kárfelelősségi alakzat a Polgári Törvénykönyv hatodik könyvének ötszázötvenkilencedik paragrafusában megfogalmazott generálklauzulán alapul.
+
+A tábla mellett egy négy konjunktív feltétel mechanizmus látható. A kártérítési felelősség megállapításához négy konjunktív feltétel együttes fennállása szükséges: jogellenes magatartás, kár, okozati összefüggés és felróhatóság.
+
+A mechanizmus mellett egy vélelmezett felróhatóság jelző lámpa világít. A felróhatóság vélelmezett. A bizonyítási teher megfordulása: a károkozónak kell bizonyítania a felróhatóság hiányát.
+
+A jelző mellett egy kártérítés módja tábla látható. A kártérítés módja pénzbeli, természetbeni vagy járadék formájú lehet. A mértéke a teljes kár, amely különös méltánylást érdemlő körülmények esetén a bíróság mérsékelhet.
+
+A tábla mellett egy kárenyhítési kötelezettség jelző lámpa világít. A károsultat kárenyhítési kötelezettség terheli.
+
+A jelző mellett egy alap tábla látható. Ez az általános deliktuális felelősségi alakzat adja a kártérítési jog alapját, amelyre a speciális felelősségi alakzatok, például a veszélyes üzemi felelősség, a felelősség más személy károkozásáért, vagy a felelősség állatokért és épületekért épülnek.
+
+A tábla mellett egy koherens rendszer jelző lámpa világít. A deliktuális kárfelelősség szabályozása így koherens, logikus rendszert alkot, amely egyrészt védi a károsultat, másrészt biztosítja a jogbiztonságot és a kiszámíthatóságot.
+
+Most forduljunk meg, és menjünk vissza a bejárat felé. Az ellenőrző kör bejárata mellett egy elköszönő tábla látható. Köszönöm, hogy végigjártuk az általános deliktuális kárfelelősség ellenőrző körét. Remélem, a négy ellenőrző ponton látott feltételek, a kimentési szekcióban látott szabályok és a kártérítés módja és mértéke szekcióban látott rendelkezések segítik majd a memorizálást. Viszontlátásra.
+

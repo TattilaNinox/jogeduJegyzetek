@@ -1,0 +1,82 @@
+TANULÓ:
+Szia! Ma a kártérítés általános szabályairól szeretnék beszélgetni veled. Ez egy hatalmas és összetett téma, de nagyon fontos a polgári jogban. Felkészültél, hogy elmélyedjünk benne?
+
+MENTOR:
+Szia! Igen, vágjunk bele! A téma valóban kulcsfontosságú, hiszen a kártérítés a polgári jog egyik leggyakoribb és legfontosabb szankciója. Ma egy nagyon különleges, vizuálisan erős helyszínre viszlek, hogy minden szabályt könnyen megjegyezz. Képzelj el egy hatalmas, zsúfolt, neonfényes Tesco hipermarketet. Ez a kártérítési jog birodalma, ahol minden polc, minden termék és minden kassza a felelősségről szól.
+
+TANULÓ:
+Ez nagyon izgalmasan hangzik! Egy hipermarket mint a jogi felelősség színtere? Furcsa, de biztosan emlékezetes lesz. Hol kezdjük a sétát?
+
+MENTOR:
+Álljunk meg rögtön a bejárati fotocellás ajtónál. Nézd, az ajtóban egy biztonsági őr áll, aki egy hatalmas, csordultig pakolt bevásárlókocsit tol visszafelé a boltba. A kocsi annyira tele van áruval, hogy majdnem felborul. Ez a kép a kártérítés alapvető célját, a reparatív-kompenzációs funkciót és a teljes kártérítés elvét szimbolizálja. A cél az, hogy a kocsi – ami itt a vagyont jelképezi – pontosan olyan állapotba kerüljön vissza, mintha a károkozás meg sem történt volna. Ezt hívjuk latinul restitutio in integrum-nak, az eredeti állapot helyreállításának. A biztonsági őr jelenléte pedig a kártérítés egyéb funkcióira utal: a szankcionálásra és a prevencióra, vagyis a jogsértéstől való elrettentésre.
+
+TANULÓ:
+Értem! Tehát a teli kocsi azt jelenti, hogy a károsultnak nem kell megelégednie kevesebbel, joga van ahhoz, hogy a vagyona teljesen helyreálljon. És a biztonsági őr pedig azt jelzi, hogy a kártérítésnek büntető és megelőző szerepe is van. Ez a teljes kártérítés elve, ugye?
+
+MENTOR:
+Pontosan. A kétezer-tizenhárom évi ötödik törvény a Polgári Törvénykönyvről hatodik könyvének ötszázhuszonkettedik paragrafusának első bekezdése szerint: A károkozó a károsult teljes kárát köteles megtéríteni. Ez a magyar kártérítési jog vezérelve. Nem részleges, nem átalány, hanem teljes kártérítés.
+Most lépjünk be az áruházba, és menjünk az italosztályra, a drága pezsgők sorához. Nézz a padlóra! Egy óriási, földhöz vágott, darabokra tört pezsgőspalack hever ott, a drága folyadék szétfolyik a kövön. Mellette egy szakadt munkásruha is hever. Ez a kép a felmerült kárt, latinul damnum emergens-t szimbolizálja.
+
+TANULÓ:
+Ez nagyon szemléletes. A törött üveg és a kifolyt pezsgő a tényleges vagyoncsökkenés. A dolog megsemmisült, értéke elveszett. A szakadt munkásruha pedig gondolom a munkaképesség-csökkenést jelenti, ami szintén ide tartozik. De látok ott mást is: a polcon egy üres lyuk tátong, ahonnan a pezsgő hiányzik, és egy árcédula lóg ott, rajta egy nagy mínuszjellel.
+
+MENTOR:
+Így van! Az az üres hely a polcon az elmaradt vagyoni előny, latinul lucrum cessans. Ha a palack nem törik el, eladták volna, és hasznot hozott volna. Ide tartozik az elmaradt munkabér vagy az elmaradt üzleti nyereség is. A vagyon itt nem csökkent, hanem nem gyarapodott. És nézd, jön egy modern takarítógép, ami hangosan zúgva feltakarítja a romokat. Mellette egy ügyvéd áll, aki éppen számlát ír. Ez a harmadik elem: a költség. A vagyoni hátrányok kiküszöböléséhez szükséges kiadások, mint a takarítás, a javítás vagy az ügyvédi költség. Fontos, hogy a gép nem aranyból van, hanem egy hatékony, célszerű gép – ez jelzi, hogy csak az indokolt, szükséges és arányos költségeket kell megtéríteni.
+A törvény második bekezdése pontosan felsorolja ezt a három elemet: A teljes kártérítés körében a károkozó köteles megtéríteni a károsult vagyonában beállott értékcsökkenést; az elmaradt vagyoni előnyt; és a károsultat ért vagyoni hátrányok kiküszöböléséhez szükséges költségeket.
+
+TANULÓ:
+Tehát a teljes kár három részből áll: a tényleges veszteség (damnum emergens), az elmaradt haszon (lucrum cessans) és a költségek. És a takarítógép arra emlékeztet, hogy a költségeknek indokoltnak, célszerűnek kell lenniük, nem lehetnek pazarlóak.
+
+MENTOR:
+Helyes. Most menjünk a pénztársorhoz, hogy megértsük a kártérítés módjait. Az egyes számú kasszánál a pénztárgép fiókja kicsapódik, és megállás nélkül ömlik belőle a készpénz a futószalagra. A pénztárgép kijelzőjén a számok folyamatosan pörögnek felfelé. Ez a pénzbeli kártérítés, ami a főszabály. A pörgő számok pedig az inflációt, az értékviszonyok változását jelzik: a bíróság az ítélethozatalkori értéket veszi alapul, így az inflációs kockázatot a károkozó viseli.
+A kétezer-tizenhárom évi ötödik törvény a Polgári Törvénykönyvről hatodik könyvének ötszázhuszonhetedik paragrafusának első bekezdése szerint: A károkozó a kárt pénzben köteles megtéríteni, kivéve, ha a körülmények a kár természetben való megtérítését indokolják.
+
+TANULÓ:
+Értem, tehát általában pénzt fizetnek, és ha közben romlott a pénz, akkor a károsult megkapja a különbözetet. De látom a kettes kasszát is: ott egy pék áll, aki nem pénzt ad vissza, hanem egy friss, illatos kenyeret nyújt át a vevőnek egy törött kenyér helyett. De mintha vitatkoznának...
+
+MENTOR:
+Igen, ez a természetbeni kártérítés. Ha a körülmények indokolják – például egyedi dologról van szó –, akkor a bíróság elrendelheti a természetbeni megtérítést: kijavítást vagy a dolog pótlását. A bíróság ezt hivatalból is megteheti, nem köti a károsult kérelme. De a vita azt jelzi: ha mindkét fél – a károsult és a károkozó is – tiltakozik ellene, akkor a bíróság nem alkalmazhatja ezt a módot!
+És nézd a hármas kasszát! A futószalag végtelenül hosszú, és folyamatosan, ritmikus ütemben kis pénzérmék potyognak róla egy tátott szájú perselybe. Ez a járadék. Néha a szalag felgyorsul, néha lelassul.
+
+TANULÓ:
+Aha, tehát ez nem egy összegben jár, hanem folyamatosan. És a sebességváltozás gondolom azt jelenti, hogy a járadék összege változhat, ha megváltoznak a körülmények.
+
+MENTOR:
+Pontosan! Ez a clausula rebus sic stantibus elve. Ha a körülmények lényegesen megváltoznak, a járadék módosítható.
+A törvény szerint: A jövőben rendszeresen felmerülő károk megtérítésére a bíróság időszakonként visszatérően előre fizetendő, meghatározott összegű járadékot is meghatározhat. Nézd a szalag mellett álló mankós embert! Ő nem tudja felemelni a nehéz árut, mert csökkent a munkaképessége. Neki jövedelempótló járadék jár. Mellette egy éhes kisgyerek ül a földön, és várja az ételt. Mögötte egy halvány, elmosódott férfialak áll – az elhunyt apa –, aki nem ad neki ételt. Ez a tartást pótló járadék, ami akkor jár, ha a károkozás miatt meghalt személy már nem tud gondoskodni róla. És ez akkor is jár, ha az elhunyt ténylegesen nem nyújtott tartást, de köteles lett volna rá!
+
+TANULÓ:
+Ez nagyon világos. A járadék tehát a jövőbeli, folyamatosan jelentkező károkat fedezi, mint a kieső jövedelem vagy a tartás, és még akkor is jár a tartást pótló, ha az elhunyt nem fizetett, de kellett volna.
+
+MENTOR:
+Most menjünk tovább a zöldségosztályra, ahol a "Súlymérő" részleg van. Itt egy mérleg áll, amire egy teljesen összetört, felismerhetetlen gyümölcsöt tesznek. A mérleg kijelzőjén "ERROR" villog, nem tudja lemérni. A pénztáros ezért ránézésre, becsléssel mond egy árat. Ez az általános kártérítés. A kétezer-tizenhárom évi ötödik törvény a Polgári Törvénykönyvről hatodik könyvének ötszázharmincegyedik paragrafusa szerint: Ha a kár mértéke nem állapítható meg, a károkozásért felelős személy olyan összegű kártérítés megfizetésére köteles, amely a károsult kárának a kiegyenlítésére alkalmas.
+
+TANULÓ:
+Értem, tehát ha nem lehet pontosan kiszámolni a kárt, akkor sem marad kártérítés nélkül a károsult, hanem a bíróság becsléssel határoz meg egy összeget.
+
+MENTOR:
+Így van. Most menjünk a tejtermékek hűtősorához. Itt egy nagyon fontos szabályt láthatunk. Az egyik polcon egy tejesdoboz kilyukadt, és spriccel belőle a tej. Egy vásárló ott áll, látja a bajt, de nem tesz semmit, csak karba tett kézzel nézi, ahogy a tej elárasztja a padlót.
+
+TANULÓ:
+Ez a kárenyhítési kötelezettség elmulasztása! Ha a károsult látja a kárt, köteles lenne cselekedni – például elzárni a szivárgást vagy vödröt tenni alá –, hogy csökkentse vagy megállítsa azt. Ha nem tesz semmit, azt a kárt, ami emiatt keletkezett, nem térítik meg neki.
+
+MENTOR:
+Pontosan így van. A törvény szerint: A károsultat kármegelőzési, kárelhárítási és kárenyhítési kötelezettség terheli. Az e kötelezettségek felróható megszegése miatt keletkezett kárt a károkozó nem köteles megtéríteni.
+Most menjünk a széles főfolyosóra, ahol az akciós kosarak vannak. Két bevásárlókocsi nagy sebességgel egymásba csapódik. Bumm! Hatalmas csattanás. Mindkét toló ember hibás volt, egyik sem nézett oda, mindketten a telefonjukat nyomkodták. A kosarakban az áru összetört.
+
+TANULÓ:
+Ez a kármegosztás esete. Ha a károsult is hibás volt, vagyis a felróható magatartása közrehatott a kárban, akkor nem kaphat teljes kártérítést. Megosztják a kárt.
+
+MENTOR:
+Igen. A törvény szerint: A károkozó és a károsult között a kárt magatartásuk felróhatósága arányában, ha ez nem megállapítható, közrehatásuk arányában kell megosztani. Ha ez sem lehetséges, akkor fele-fele arányban viselik a kárt.
+Végül menjünk a Vevőszolgálati pulthoz a kijáratnál. Itt két dolgot is látunk. Először is egy mérleget. A mérleg egyik serpenyőjében a kár (egy törött váza) van, a másikban egy kuponfüzet (vagyoni előny). A mérleg nyelve középen áll. Ez az előnyök beszámítása, a compensatio lucri cum damno. A kártérítést csökkenteni kell a károsultnak a károkozásból származó vagyoni előnyével – például ha biztosítótól már kapott pénzt –, kivéve, ha ez az eset körülményeire tekintettel nem indokolt.
+
+TANULÓ:
+És mi a másik dolog? Látom, hogy az ügyintéző fog egy hatalmas számlát, és egy nagy ollóval levágja az alját. Így a végösszeg kisebb lesz.
+
+MENTOR:
+Ez a méltányosság alapján való mérséklés. A törvény szerint: A bíróság különös méltánylást érdemlő körülmények fennállása esetén a kártérítés mértékét a teljes kárnál alacsonyabb összegben is meghatározhatja. Ez ritka, de lehetséges, ha a teljes kártérítés aránytalanul súlyos lenne a károkozóra nézve.
+És nézd, a pultnál egy másik jelenet is zajlik: egy vásárló áll ott egy hónapokkal ezelőtti blokkal és egy penészes sajttal. A pultos a falon lévő naptárra mutat és rázza a fejét. A vásárló viseli a kárt az értékviszonyok változása miatt, mert késlekedett az igénye érvényesítésével. A kétezer-tizenhárom évi ötödik törvény a Polgári Törvénykönyvről hatodik könyvének ötszázharmincnegyedik paragrafusának második bekezdése szerint: Ha a károsult kártérítési igénye érvényesítésével felróhatóan késlekedik, az ár- és értékviszonyok változásának kockázatát maga viseli.
+
+TANULÓ:
+Köszönöm! Ez a vizuális séta tényleg segített rendszerbe foglalni a kártérítés elemeit és módjait. Viszontlátásra!
