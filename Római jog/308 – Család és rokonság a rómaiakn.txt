@@ -1,0 +1,111 @@
+308 – Család és rokonság a rómaiaknál
+
+A családjogi állapot (status familiae)
+
+1. Köztársasági kor:
+- polgárok családjogi állapot szerint 2 csoportra:
+	a) önjogú személy (persona sui iuris)
+		- minden családapa (pater familias) és családanya (mater familias)
+=> azaz akik nem állnak családfői hatalom alatt
+		- pater familias magánjogilag teljes jogképességgel rendelkezik, jogosítványai:
+			1. apai hatalom (patria potestas)
+			2. férji hatalom (manus)
+			3. rabszolgák feletti hatalom (dominica potestas)
+			4. bizonyos szabad személyek feletti hatalom (mancipium)
+
+	b) hatalomalatti személy (persona alieni iuris)
+		- családfőn kívül a család összes többi tagja:
+			- feleség (uxor)
+			- gyermekek (liberi)
+			- örökbefogadott gyermekek (adoptivi)
+			- fiúgyermek családja (meny, unokák, stb.)
+			- örökbe fogadott fiúgyermekek családja (meny, unokák, stb.)
+		- korlátozott jogképesség
+		- nőknek további szűkítés
+		- minden közjogi jogosultsággal rendelkeznek
+		- magánjogi jogosultságok közül csak ius conubii és ius commercii
+		- minden jogot a hatalomgyakorlónak szereztek, de kötelezettségek csak nekik
+		- családfú (filius familias) csak apai beleegyezéssel házasodhat, felesége feletti manus 
+ugyanúgy a pater familiasé mint a gyermek feletti patria potestas
+
+2. Császárkor:
+- bizonyos mértékben elismeri a hatalomalattiak önálló vagyoni jogosultságát
+- pl. fiú katonáskodással szerzett vagyon -> felette tulajdonosi jog övé
+- posztklasszikus + iustinianusi jog már formailag is elismeri a családtagok önálló vagyoni jogalanyiságát
+
+3. A családjog tárgya:
+- családi viszonyok: családon belül, tagjai között állnak fenn
+- ma önálló jogág, rómaiaknál nem különül el a személyi jogtól
+- családi viszonyok 2 fontos formája:
+	a) szülő-gyermek kapcsolat (apai hatalom)
+	b) szülők egymás közti kapcsolata (férji hatalom)
+- római jogban a családi viszonyok alapvetően hatalmi viszonyok
+
+
+
+A család és rokonság
+
+1. Az Archaikus családi viszonyok
+- jogviszonyokat (szülő-gyermek, házasság, stb.) csak hatalmi viszonyként tudja tükrözni
+- családtagokat & rokonokat egymáshoz fűző jogi kötelék a családfő hatalmában van
+	a) család: jogi értelemben egyazon pater familias hatalma alatt lévő személyek összessége
+	b) rokonok (agnatio): civiljogi értelemben azok a személyek, akik azonos pater familias 
+hatalma alatt állnak/állnának, ha a közös pater familias még élne
+c) vérrokonság (cognatio): rokonság természetes fogalma, minimális jogi jelentősége van
+
+2. A (szűk)család (familia proprio iure)
+- szociológiai szempontból kezdettől fogva monogám házasságon alapul
+- jogi szempontból a családfő hatalma alatt álló személyek közössége
+- szűkebb értelemben vett család
+- nem érzelmi/vérrokoni, hanem vagyoni, gazdasági, kultikus házközösség
+- tagjai, akik a pater familias halála után a házközösségi vagyont megszerzik, nem a pater familias utódjainak, hanem saját maguk örököseinek (sui heredes) minősülnek
+- amíg a hagyaték az örökösök közt nincs szétosztva, addig a család tagjai ún. „családi vagyonközösségben” maradnak egymással
+- familia proprio iure magába foglal mindenkit, aki a pater familias férji/apai hatalma alatt állnak
+	a) feleség (uxor in manu)
+		- pater familias férji hatalma (manus) alatt áll 
+		- pater familias viszonylatában egy „leánygyermek helyén”
+		- gyermekei vonatkozásában a „nővér helyén”
+	b) gyermek (filius/filia familias)
+		- pater familias apai hatalma alatt áll
+	c) hatalom alatti fiú felesége
+		- azaz: pater familias menye (nurus)
+		- a hatalom alatti fiú manusos házasságot kötött felesége
+		- pater familias viszonylatában egy „leányunoka helyén”
+	d) hatalom alatti fiú gyermekei, unokái
+		- fiú: nepotes, lány: neptes
+	e) örökbefogadott gyermekek (arrogati/adoptivi)
+	d) örökbefogadott fiú manusos házasságot kötött felesége, gyermekei
+
+- családfői hatalom a családfő ill. a hatalomalatti élete hosszáig fennáll
+- családfő életében csak az ő akaratából szűnhet meg
+- caládapa halálával a familia proprio iure is felbomlik, és mindenki aki közvetlen az ő hatalma alatt állottak, önjogúvá vállnak
+
+3. A férfiági, apai ágirokonság (agnatio, familia communi iure)
+- civiljogi rokonság alapja egyfelől a leszármazás (apai ági rokonság)
+- másrészt az agnatio hatalmi köteléken alapuló rokonságot jelentett
+- a feleség (még ha manus alatt is van) nem tartozik az agnatioba, csak a familia proprio iure-be
+- agnatoba tartozik:
+	a) szűkebb család tagjai (familia proprio iure), a feleség kivételével
+	b) közelebbi agnát rokonok (proximi agnati): azonos pater familias hatalma alatt állnának, ha 
+a közös családfő még élne, de nem tartoznak ide az anyai & női felmenők
+	c) legtávolabbi rokonság, a nemzetség (gens) tagjai (gentiles): akiknek ősei valamikor közös 
+patria potestas alatt álltak
+
+- agnát rokonság mindaddig fennáll, amíg a rokoni kapcsolat megállapítható
+- családfő halála nincs rá hatással
+-> mert nem csak a mostani, hanem az egykori apai hatalom is közvetíti
+- örökbeadás/manusos házasság folytán kikerült csaláftag nem csak a szűk családból, de az agnatio-ból is kikerül
+- szűk család abban más, hogy ott a családot összetartó jogi hatalom nem csak a patria potestas, hanem a manus is, és a kötelék csak a pater familias életében áll fenn
+
+3. A vérrokonság (cognatio)
+- tisztán vérségi kapcsolat szerinti rokonság
+- agnatio civiljogi, a cognatio a ius naturale szerinti rokonság
+- cognatioba tartozik:
+	a) egyenes ági rokonok: egyik a másiktól közvetlen (szülő-gyerek) vagy közvetve (nagyszülő-
+unoka) egyenes ágon származott
+	b) oldalági rokonok: egy közös őstől származók ((fél)testvérek, unokatestvérek)
+
+- apaság vélelme: anya mindig biztos (ha házasságon kívül is esik teherbe), apa az, akit a házasság annak mutat
+- rokonság fokát a nemzés határozza meg (pl. nagyapa és unoka: II. fokú egyenes ági rokonok)
+- sógorság fokát a kognát rokonság határozza meg: amilyen fokban kognát rokona v.ki egy házastársnak, ugyanolyan fokban sógora a másiknak (pl. anyós a vejének I. fokú egyenes ági sógora)
+- császárkori öröklési jog egyre inkább háttérbe szorítja az agnatio-t, iustinianus korában pedig már teljesen kognát rokonságon épül fel

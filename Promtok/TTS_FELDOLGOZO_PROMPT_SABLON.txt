@@ -80,3 +80,6 @@ Mielőtt létrehozod a fájlt, ellenőrizd:
 
 A VÉGEREDMÉNY EGYETLEN, FORMÁZATLAN .TXT FÁJL LEGYEN A "Felolvasra kész" MAPPÁBAN!
 
+
+
+

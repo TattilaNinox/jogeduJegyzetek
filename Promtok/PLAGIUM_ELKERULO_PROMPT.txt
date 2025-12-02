@@ -50,3 +50,6 @@ ELLENŐRZŐ LISTA (MAGADNAK):
 BEMENET:
 [Csatold ide a forrásfájlt]
 
+
+
+

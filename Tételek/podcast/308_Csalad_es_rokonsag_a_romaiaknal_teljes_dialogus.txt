@@ -1,0 +1,116 @@
+MENTOR: Üdvözöllek! Ma egy időutazásra hívlak. Egy ősi, romos Római Kúriát és a hozzá tartozó Birtokot fogjuk bejárni, hogy megtanuljuk a római család és rokonság rendszerét. Készen állsz?
+
+TANULÓ: Igen, készen állok az időutazásra. Induljunk!
+
+MENTOR: Akkor lépjünk be a Kúria hatalmas, visszhangos Átriumába. Nézz körül! Középen, a repedezett márványpadlón mit látsz?
+
+TANULÓ: Egy hatalmas, díszes kőtrónt látok középen, mellette pedig egy kisebb, szerényebb faszéket.
+
+MENTOR: Pontosan. A kőtrón a Pater Familias, vagyis a családapa helye. A faszék pedig a Mater Familias, a családanya helye. Ők az önjogú személyek, latinul persona sui iuris. A családapa definíciója szerint: minden családapa és családanya, azaz akik nem állnak családfői hatalom alatt.
+
+TANULÓ: Értem, tehát ők a vezetők, akik nem állnak más hatalma alatt. De mit látok a trón lábánál a földön?
+
+MENTOR: Nézd meg jobban! Láncok hevernek a földön. Ezek a láncok a trónhoz kötöznek több térdeplő alakot: a feleséget, a gyermekeket és az örökbefogadottakat. Ők a hatalomalatti személyek, latinul persona alieni iuris. Ez azt jelenti, hogy a családfőn kívül a család összes többi tagja ide tartozik.
+
+TANULÓ: Tehát a feleség és a gyerekek is láncra vannak verve a trónhoz. Ez elég durva kép. És mik azok a hatalmas oszlopok a trón körül?
+
+MENTOR: A trón körül négy hatalmas márványoszlop magasodik. Ezek tartják a tetőt, és a Pater Familias négyféle hatalmát szimbolizálják. Nézd az első oszlopot! Egy korbács van ráakasztva. Ez az apai hatalom, a patria potestas.
+
+TANULÓ: Látom a korbácsot. És mi van a második oszlopon?
+
+MENTOR: A második oszlopra egy jegygyűrű van vésve. Ez a férji hatalom, a manus. A harmadik oszlopon egy rabszolgabilincset látsz. Ez a rabszolgák feletti hatalom, a dominica potestas.
+
+TANULÓ: Értem, korbács, gyűrű, bilincs. És a negyedik oszlop?
+
+MENTOR: A negyedik oszlopra egy szerződés van szögelve. Ez a bizonyos szabad személyek feletti hatalom, a mancipium. Most nézz a sarokba! Egy hatalmas mérleg áll ott. A térdeplő alakok pénzt dobnak a serpenyőbe, de figyeld meg, mi történik a pénzzel!
+
+TANULÓ: A pénz átcsúszik egy csövön a trónon ülő családapa lábához.
+
+MENTOR: Így van. Ez azt jelenti, hogy minden jogot a hatalomgyakorlónak szereztek, de a kötelezettségek csak őket terhelték. Most hagyjuk el az Átriumot, és menjünk ki a Kúria mögötti, gazos Kertbe. Itt már a császárkorba lépünk.
+
+TANULÓ: Rendben, kint vagyunk a kertben. Itt egy római katonát látok teljes harci díszben.
+
+MENTOR: Igen, ő a fiúgyermek, a filius familias. Figyeld meg, mit csinál! Leszúrja a lándzsáját a földbe, közvetlenül egy kincsesláda mellé, ami tele van arannyal.
+
+TANULÓ: Látom, ahogy leszúrja a lándzsát a láda mellé.
+
+MENTOR: A katona ráteszi a lábát a ládára, és eltolja a Pater Familias felé nyúló láncot. Ez a peculium castrense, a katonáskodással szerzett különvagyon. A császárkorban már elismerték, hogy e felett a fiú tulajdonosi jogot gyakorol.
+
+TANULÓ: Szóval a katonáskodással szerzett vagyon már az övé. És mi az az építkezés a kert végében?
+
+MENTOR: Egy új épületszárny épül. Az alapkövön a "Iustinianus" felirat olvasható. Ez azt jelzi, hogy a iustinianusi jog már formailag is elismeri a családtagok önálló vagyoni jogalanyiságát. Most viszont ereszkedjünk le a sötét, dohos Pincébe, az archaikus időkbe.
+
+TANULÓ: Huh, itt elég nehéz a levegő. Fáklyák égnek a falakon. És középen egy ijesztő szobrot látok.
+
+MENTOR: Igen, egy óriási vasököl szobor áll középen. Ez a Családfői Hatalom szimbóluma. A szoborból vastag kötelek indulnak ki minden irányba, és embereket kötnek össze.
+
+TANULÓ: Látom a köteleket. Ezek tartják össze az embereket?
+
+MENTOR: Pontosan. Ez a család definíciója jogi értelemben: egyazon pater familias hatalma alatt lévő személyek összessége. De nézd meg, a kötelek tovább futnak a falon túlra is!
+
+TANULÓ: Igen, látom, hogy átmennek a falon. Kikhez vezetnek?
+
+MENTOR: Olyanokhoz, akik már nincsenek itt, vagy ha a közös ős még élne, az ő hatalma alatt állnának. Ez az Agnatio, a civiljogi rokonság. És nézz a padlóra! Vércsíkok folynak a porban, de alig látszanak.
+
+TANULÓ: Valóban, alig kivehető vércsíkok vannak a földön.
+
+MENTOR: Ez a Cognatio, a vérrokonság, aminek itt, az archaikus korban még minimális a jogi jelentősége. Most menjünk fel a tágas Ebédlőbe, a Tricliniumba.
+
+TANULÓ: Ez sokkal barátságosabb hely. Egy hosszú faasztal áll középen, megterítve.
+
+MENTOR: Ez a Familia Proprio Iure, a szűkebb értelemben vett család. Ez egy gazdasági házközösség. Az asztalfőn a Pater Familias széke áll, de most üres. Ha ő meghal, a család felbomlik. De nézd meg, hogyan ülnek a többiek!
+
+TANULÓ: A feleség egy gyermekszéken ül a férje helye mellett. Ez mit jelent?
+
+MENTOR: Azt, hogy a feleség, az uxor in manu, a pater familias viszonylatában egy leánygyermek helyén van jogilag. És nézd a fiú feleségét, a menyet!
+
+TANULÓ: Ő egy még kisebb, unokaszéken ül.
+
+MENTOR: Így van. A meny, a nurus, a pater familias viszonylatában leányunoka helyén van. Az asztal közepén pedig egy nagy, egész kenyér van.
+
+TANULÓ: Látom a kenyeret. Senki nem eszik belőle?
+
+MENTOR: Ez a családi vagyon. Amíg a hagyaték nincs szétosztva, addig a család tagjai családi vagyonközösségben maradnak, a kenyér közös. Most sétáljunk át a Képtár Folyosójára.
+
+TANULÓ: Itt rengeteg márvány mellszobor sorakozik a falon.
+
+MENTOR: Ezek a férfi ősök. Figyeld meg, mi köti össze őket! Egy erős bőrszíj halad végig a nyakukon. Ez a hatalmi kötelék, az Agnatio alapja. De nézd meg alaposan, kiket hagy ki a szíj!
+
+TANULÓ: A szíj csak a férfiakon megy keresztül, a nőkön nem.
+
+MENTOR: Pontosan. Az agnatioba nem tartoznak bele az anyai és női felmenők, kivéve a szűk család tagjait. És nézz oda, egy mellékfolyosón egy menyasszonyt vezetnek el.
+
+TANULÓ: Látom a menyasszonyt. Ahogy átlép a küszöbön, a bőrszíj elszakad mögötte.
+
+MENTOR: Igen, mert a manusos házassággal kikerül a régi családjából, így az agnatioból is. Ugyanez történik azzal a fiúval is, akit örökbe adnak: a szíj elpattan. Most lépjünk be az utolsó terembe, a Vérségi Terembe.
+
+TANULÓ: Itt vörös szőnyeg borítja a padlót, tiszta vérvörös.
+
+MENTOR: Ez a Cognatio, a tiszta vérségi kapcsolat szerinti rokonság. A szőnyegen állnak a rokonok. Látod, hogyan helyezkednek el?
+
+TANULÓ: Vannak, akik közvetlenül egymás mögött állnak.
+
+MENTOR: Ők az egyenes ági rokonok: szülő, gyerek, unoka. És vannak, akik egymás mellett állnak, de a szőnyegük egy közös pontból indul.
+
+TANULÓ: Ők az oldalági rokonok?
+
+MENTOR: Pontosan. Testvérek, unokatestvérek. Ők egy közös őstől származnak. Nézd az apát, egy házassági anyakönyvi kivonat lebeg a feje felett!
+
+TANULÓ: Érdekes. És az anya mellett egy bölcső van.
+
+MENTOR: Ez az apaság és anyaság vélelme: az anya mindig biztos, az apa pedig az, akit a házasság annak mutat. Végül nézd a mérőszalagokat a rokonok között!
+
+TANULÓ: Látom a mérőszalagokat. Ezek mérik a távolságot?
+
+MENTOR: Igen, a rokonság fokát a nemzések száma határozza meg. A falon pedig egy Iustinianus-portré lóg. Látod, mit csinál?
+
+TANULÓ: Bólint, és feltekeri a bőrszíjakat, aztán kiteríti mindenhová a vörös szőnyeget.
+
+MENTOR: Így van. A császárkori jogfejlődés végére az agnatio háttérbe szorul, és Iustinianusnál már a rendszer teljesen a kognát, vagyis vérrokonságon épül fel. Ezzel végére is értünk a római család és rokonság bejárásának.
+
+TANULÓ: Köszönöm a vezetést! Így már teljesen átlátom a különbséget az agnatio és a cognatio között, és a családi viszonyokat.
+
+MENTOR: Örülök, hogy segíthettem. A vizsgán gondolj a Kúriára, a láncokra, a katonára és a vörös szőnyegre. Sok sikert! Viszlát!
+
+TANULÓ: Viszlát!
+
