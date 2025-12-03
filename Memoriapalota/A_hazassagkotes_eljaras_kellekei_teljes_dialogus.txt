@@ -1,0 +1,72 @@
+A HÁZASSÁGKÖTÉST MEGELŐZŐ ELJÁRÁS, A HÁZASSÁGKÖTÉS ALAKI KELLÉKEI_teljes_dialogus.txt
+
+MENTOR: Üdvözöllek! Ma a Központi Buszpályaudvarra látogatunk el. A nyüzsgő forgalom, a szigorú menetrend és az induló járatok fognak segíteni abban, hogy megértsük a házasságkötés eljárási szabályait. Készen állsz?
+
+TANULÓ: Igen, itt vagyok a főbejáratnál. Nagy a tömeg.
+
+MENTOR: Akkor lépjünk be az üvegajtón a Váróterembe. Az első állomásunk a **Jegypénztár**. Látod azt a párt a pultnál?
+
+TANULÓ: Igen, látom őket. Éppen iratokat adnak át a pénztárosnak.
+
+MENTOR: Ez a házasságkötést megelőző eljárás. A Polgári Törvénykönyv negyedik könyvének hetedik paragrafusának első bekezdése szerint: "A házasságkötést megelőzően a házasulóknak az anyakönyvvezető előtt ki kell jelenteniük, hogy házasságuknak nincs jogi akadálya, és igazolniuk kell, hogy házasságkötésük jogi feltételei fennállnak."
+
+TANULÓ: Tehát ez az a pillanat, amikor igazolják, hogy minden rendben van. És mit csinál a pénztáros azzal a nagy könyvvel?
+
+MENTOR: Az a jegyzőkönyv. Minden adatot rögzít. De nézz fel a pénztár fölé! Mit látsz a **Menetrendi Táblán**?
+
+TANULÓ: Egy villogó feliratot: "INDULÁS: 30 NAP MÚLVA".
+
+MENTOR: Ez a kötelező várakozási idő. A hetedik paragrafus második bekezdése szerint: "A házasságkötést az anyakönyvvezető csak a házasságkötési szándék bejelentését követő harminc nap utáni időpontra tűzheti ki."
+
+TANULÓ: Ez elég sok idő. És ki az a zöld tárcsás ember a tábla mellett?
+
+MENTOR: Ő az Állomásfőnök, vagyis a jegyző. A törvény szerint: "A jegyző e határidő alól indokolt esetben felmentést adhat." Ha felemeli a tárcsát, a busz hamarabb is indulhat.
+
+TANULÓ: Értem. De várjunk, ott a sarokban egy **Mentőautót** látok villogni.
+
+MENTOR: Igen, ez a kivétel. Ha valamelyik házasuló közeli halállal fenyegető egészségi állapotban van, a házasulók nyilatkozata pótolja az igazolást, és a házasságot a bejelentés után nyomban meg lehet kötni. Neki nem kell várnia a menetrendre.
+
+TANULÓ: Világos. Most hová megyünk?
+
+MENTOR: Menjünk ki a peronra, a **4-es számú kocsiálláshoz**. Ott áll a díszes **Autóbusz**. Ez maga a házasságkötés. Ki áll az ajtóban?
+
+TANULÓ: Egy egyenruhás **Buszsofőr**.
+
+MENTOR: Ő az anyakönyvvezető. A negyedik könyv ötödik paragrafusának első bekezdése szerint a házasság akkor jön létre, ha a felek "az anyakönyvvezető előtt" teszik meg a nyilatkozatot. Nélküle a busz nem indul el.
+
+TANULÓ: És a pár? Éppen fellépnek a lépcsőn.
+
+MENTOR: Figyeld meg, hogyan! A törvény szerint: "az együttesen jelen lévő férfi és nő". Személyesen és egyszerre kell felszállniuk. Nem küldhetnek maguk helyett mást.
+
+TANULÓ: És kik azok a szigorú alakok az ajtó mellett?
+
+MENTOR: Ők a **Jegyellenőrök**, vagyis a két tanú. A jelenlétük kötelező. De most figyelj jól! A sofőr kérdez valamit, és a pár a **Jegylyukasztóhoz** nyúl.
+
+TANULÓ: Igen, hallom a kattanást! Kilyukasztották a jegyet.
+
+MENTOR: Ez a legfontosabb pillanat. Az ötödik paragrafus első bekezdése szerint a felek "személyesen kijelentik, hogy egymással házasságot kötnek". Ez a lyukasztás az "Igen" kimondása.
+
+TANULÓ: És miért ilyen hangos a kattanás?
+
+MENTOR: Mert a második bekezdés szerint: "A kijelentésnek feltétel és határidő nélkülinek kell lennie." A lyukasztás végleges, nem lehet visszacsinálni.
+
+TANULÓ: Látom, hogy a busz oldala tiszta üveg. Mindenki belát.
+
+MENTOR: Ez a nyilvánosság elve. A hatodik paragrafus első bekezdése szerint: "A házasságkötés nyilvános."
+
+TANULÓ: A busz elindult! De a sofőr most elővesz egy papírt, a **Menetlevelet**, és írni kezd.
+
+MENTOR: Ez az anyakönyvi bejegyzés. Fontos megérteni: a busz már elindult (a házasság létrejött a lyukasztással). A menetlevél (a bejegyzés) csak igazolja ezt, de nem az hozta létre a házasságot.
+
+TANULÓ: Értem. Tehát a lyukasztás a lényeg, az írás csak a papírmunka.
+
+MENTOR: Pontosan. Ezzel végigjártuk az állomást a jegypénztártól a menetrendi táblán át egészen a 4-es peronról induló buszig.
+
+TANULÓ: Köszönöm! Így, a buszos példával sokkal érthetőbb volt a folyamat.
+
+MENTOR: Örülök. Viszontlátásra!
+
+
+
+
+
