@@ -1,0 +1,85 @@
+MENTOR: Üdvözöllek! Ma egy igazán dinamikus helyszínre látogatunk, hogy megtanuljuk a szerződés érvénytelenségét. Húzd fel az edzőcipődet, mert a Szerződések Fittness Termébe megyünk!
+
+TANULÓ: Kész vagyok! Bár remélem, nem kell súlyokat emelnem, elég lesz a jogi fogalmakat megjegyezni.
+
+MENTOR: Ne aggódj, a súlyok most csak szimbólumok lesznek. Kezdjük a bejáratnál. Próbálj meg bemenni a forgóajtón.
+
+TANULÓ: Nem tudok! Az ajtó beragadt, nem mozdul. Hiába akarok bemenni edzeni.
+
+MENTOR: Pontosan. Ez az érvénytelenség lényege. A szerződés, vagyis a belépés kísérlete megtörtént, de a joghatás, hogy bejuss és eddz, elmarad. Nézd meg az ajtót, mi van ráírva?
+
+TANULÓ: Egy nagy piros matrica van rajta, rajta a felirat: GYÁRI HIBA. És mellette egy sárgán villogó lámpa, alatta a szöveg: SÚLYOS HIBA.
+
+MENTOR: Ez jelzi, hogy a hiba nem most keletkezett, hanem már eredetileg, a létrejöttekor fennállt. A Polgári Törvénykönyv hatodik könyvének nyolcvannyolcadik paragrafusának első bekezdése szerint: A semmis szerződés megkötésének időpontjától érvénytelen. Most kerüljük meg az ajtót, és menjünk be a hátsó bejáraton a Nehézsúlyú Zónába.
+
+TANULÓ: Bent vagyunk. Látok egy hatalmas, fekete súlyzóállványt, ami le van betonozva a padlóba.
+
+MENTOR: Ez a Semmisség. Abszolút, mozdíthatatlan. Nézd a tetejét, mi van rajta?
+
+TANULÓ: Egy sárga villogó lámpa.
+
+MENTOR: Ez azt jelenti, hogy a bíróság hivatalból észleli a semmisséget. Nem kell külön kérni. De figyeld meg, ki nyúlhat az állványhoz! Látod azt a sportolót ott?
+
+TANULÓ: Igen, egy JOGI ÉRDEK feliratú műanyag kártya lóg a nyakában.
+
+MENTOR: Ez egy nagyon fontos szabály a Polgári Törvénykönyvben! Bárki nem hivatkozhat a semmisségre, csak akinek jogi érdeke fűződik hozzá, vagy akit a törvény feljogosít. És látod a papírnaptárt a falon? Nincsenek rajta napok. A semmisségre határidő nélkül lehet hivatkozni. Most nézzük a súlyokat az állványon, ezek a semmisségi okok.
+
+TANULÓ: Az egyik súlyzóból éles acéltüskék állnak ki.
+
+MENTOR: Az a Tilos szerződés. Jogszabályba ütközik, tilos használni. Mellette egy tárcsa, amire valami nagyon csúnya, obszcén rajzot festettek piros festékkel. Ez a Jóerkölcsbe ütköző szerződés. És ott az a jelenet a sarokban?
+
+TANULÓ: Egy edzőt látok, aki éppen ráejtett egy súlyt a vendégre, az beszorult, és az edző csak akkor segít, ha a vendég odaadja az aranyóráját.
+
+MENTOR: Ez az Uzsorás szerződés. Kihasználja a másik szorult helyzetét feltűnően aránytalan előnyért. De van itt még két új dolog. Nézd azt a sportolót a tükör előtt! Mit visel?
+
+TANULÓ: Furcsa. Egy hatalmas, felfújt szivacsos izomjelmez van rajta. Úgy néz ki, mint egy testépítő, de valójában csak jelmez.
+
+MENTOR: Ez a Színlelt szerződés (Ptk. 6:92. §). Kívülről valaminek látszik, de belül üres, vagy mást takar. A színlelt szerződés semmis; ha más szerződést leplez, azt a leplezett szerződés alapján kell megítélni. És nézd a falon azt az edzéstervet!
+
+TANULÓ: Látom. Teljesen olvashatatlan, mintha fejjel lefelé lennének a betűk, vagy valami idegen nyelven írták volna.
+
+MENTOR: Ez az Érthetetlen vagy ellentmondó kikötés (Ptk. 6:107. §). Ha a szerződés szövege érthetetlen, az semmis. Most menjünk át a Kardió Részlegre.
+
+TANULÓ: Itt futópadok vannak. Ez az egyik kicsit billeg.
+
+MENTOR: Ez a Megtámadhatóság. A gép működik, lehet rajta futni, tehát érvényes, de instabil, vagyis feltételes. Nézd a kijelzőt!
+
+TANULÓ: Egy digitális visszaszámláló óra van rajta, ami egy évet mutat.
+
+MENTOR: Ez a megtámadási határidő. Ha lejár, a szerződés véglegesen érvényes marad. Itt nincs villogó lámpa. A bíróság nem veszi észre magától. Csak az állhat a gépre, akinek a pólójára az van írva: SÉRELMET SZENVEDETT.
+
+TANULÓ: Mik a hibák itt?
+
+MENTOR: Látod, a vendég azt hiszi, zsírégető programon van, de a gép hegymenetben megy. Ez a Tévedés. Ha az edző szándékosan állította át, hogy becsapja, az a Megtévesztés. És ha vascsővel fenyegeti, hogy fusson?
+
+TANULÓ: Az a Jogellenes fenyegetés.
+
+MENTOR: Pontosan. És ha percenként tízezer forintot kér a futásért?
+
+TANULÓ: Az Feltűnő értékaránytalanság. De mi van, ha nem veszem észre a hibát azonnal?
+
+MENTOR: Gyere a Kriokamrához! Ez egy jéghideg kabin. Ha beviszed az üveg homokórát, mi történik?
+
+TANULÓ: Megfagy a homok, megáll az óra.
+
+MENTOR: Ez az elévülés nyugvása. Amíg menthető okból nem tudod érvényesíteni a jogodat, a határidő nem telik. Végül menjünk az Orvosi Szobába. Itt hozzuk helyre a dolgokat, ezek a jogkövetkezmények.
+
+TANULÓ: Az orvos éppen helyrerakja egy vendég kificamodott vállát.
+
+MENTOR: Ez az Érvényessé nyilvánítás. A hiba, vagyis a ficam kiküszöbölhető, a szerződés meggyógyul és visszamenőleg érvényes lesz.
+
+TANULÓ: És ha nem lehet meggyógyítani?
+
+MENTOR: Akkor jön az Eredeti állapot helyreállítása. Mindenki visszakapja a cuccait, a vendég a pénzt, a terem a kulcsot. De mi van, ha a vendég már megitta a fehérjeturmixot?
+
+TANULÓ: Azt nem tudja visszaadni.
+
+MENTOR: Ilyenkor jön az Alaptalan gazdagodás pénzbeni megtérítése. Kifizeti az árát pénzérmékkel. És hallod a fém pénztárgépet a sarokban?
+
+TANULÓ: Igen, csörög.
+
+MENTOR: Az a Járulékos igények elszámolása. Nem elég visszaadni a dolgot, a hasznokat és kamatokat is rendezni kell.
+
+TANULÓ: Nagyon szemléletes volt! A fekete súlyzóállvány a semmisség, a billegő futópad a megtámadhatóság, és most már a szivacsos jelmezt sem felejtem el.
+
+MENTOR: Így van. A vizsgán gondolj a Fittness Teremre! Sikeres felkészülést!

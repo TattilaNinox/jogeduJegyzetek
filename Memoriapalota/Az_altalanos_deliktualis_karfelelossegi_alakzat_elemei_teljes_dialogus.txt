@@ -1,123 +1,242 @@
-MENTOR: Üdvözöllek! Ma a polgári jog egyik legfontosabb területére látogatunk el, a szerződésen kívüli, azaz deliktuális kárfelelősség témakörét fogjuk feldolgozni. A helyszínünk egy egyszerű kertes családi ház lesz. Készen állsz a sétára?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Üdvözöllek! Ma a polgári jog egyik legfontosabb területére látogatunk el, a szerződésen kívüli, azaz deliktuális kárfelelősség témakörét fogjuk feldolgozni. A helyszínünk egy egyszerű kertes családi ház lesz. Készen állsz a sétára?
+</voice>
 
-TANULÓ: Igen, készen állok. Kíváncsi vagyok, hogyan jelenik meg a kárfelelősség egy családi házban. Induljunk!
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Igen, készen állok. Kíváncsi vagyok, hogyan jelenik meg a kárfelelősség egy családi házban. Induljunk!
+</voice>
 
-MENTOR: Rendben. Álljunk meg először is a ház utcafronti vaskapujánál. Nézd meg alaposan a kaput. Mit látsz rajta lógni?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Rendben. Álljunk meg először is a ház utcafronti vaskapujánál. Nézd meg alaposan a kaput. Mit látsz rajta lógni?
+</voice>
 
-TANULÓ: Egy hatalmas, vörös szegélyű tiltótáblát látok. De furcsa, mert nem kutya van rajta, hanem egy áthúzott, összetépett papír, ami szerződésnek tűnik.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Egy hatalmas, vörös szegélyű tiltótáblát látok. De furcsa, mert nem kutya van rajta, hanem egy áthúzott, összetépett papír, ami szerződésnek tűnik.
+</voice>
 
-MENTOR: Pontosan. Ez az összetépett szerződés jelzi, hogy most nem szerződéses jogviszonyban vagyunk, hanem szerződésen kívüli, azaz deliktuális felelősségről beszélünk. És látod a kapu kilincsét?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Pontosan. Ez az összetépett szerződés jelzi, hogy most nem szerződéses jogviszonyban vagyunk, hanem szerződésen kívüli, azaz deliktuális felelősségről beszélünk. És látod a kapu kilincsét?
+</voice>
 
-TANULÓ: Igen, egy vastag könyv lóg rajta. Az a Polgári Törvénykönyv?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Igen, egy vastag könyv lóg rajta. Az a Polgári Törvénykönyv?
+</voice>
 
-MENTOR: Igen. Ez szimbolizálja a törvényi alapot. És nézz le a földre, a kapu rácsai mögé. Ott egy nehéz beton tömböt látsz.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Igen. Ez szimbolizálja a törvényi alapot. És nézz le a földre, a kapu rácsai mögé. Ott egy nehéz beton tömböt látsz.
+</voice>
 
-TANULÓ: Látom a beton tömböt. Van rajta valami felirat is.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Látom a beton tömböt. Van rajta valami felirat is.
+</voice>
 
-MENTOR: Ez a felirat a Polgári Törvénykönyv hatodik könyvének ötszáz tizennyolcadik paragrafusa, amely az általános tilalmat fogalmazza meg. Olvasd le, kérlek!
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a felirat a Polgári Törvénykönyv hatodik könyvének ötszáz tizennyolcadik paragrafusa, amely az általános tilalmat fogalmazza meg. Olvasd le, kérlek!
+</voice>
 
-TANULÓ: A felirat így szól: "A törvény tiltja a jogellenes károkozást." Tehát ez az alapelv.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+A felirat így szól: "A törvény tiltja a jogellenes károkozást." Tehát ez az alapelv.
+</voice>
 
-MENTOR: Így van. Most lépjünk be a kapun, és haladjunk a járdán a ház felé. De vigyázz, a járda közepén van valami akadály.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Így van. Most lépjünk be a kapun, és haladjunk a járdán a ház felé. De vigyázz, a járda közepén van valami akadály.
+</voice>
 
-TANULÓ: Egy hatalmas kődarabot látok a járdán, és mellette üvegszilánkok csillognak a fűben. Mintha valaki bedobott volna egy ablakot ezzel a kővel.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Egy hatalmas kődarabot látok a járdán, és mellette üvegszilánkok csillognak a fűben. Mintha valaki bedobott volna egy ablakot ezzel a kővel.
+</voice>
 
-MENTOR: Ez a kép a jogellenes károkozást szimbolizálja. És nézd, a kő mellett áll egy mérleg is. Mit látsz a mérleg serpenyőiben?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a kép a jogellenes károkozást szimbolizálja. És nézd, a kő mellett áll egy mérleg is. Mit látsz a mérleg serpenyőiben?
+</voice>
 
-TANULÓ: Az egyik serpenyőben egy listát látok, talán kötelességek listája. A másik serpenyő üres, de a földön mellette hever egy papír, ami bizonyítványnak tűnik.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Az egyik serpenyőben egy listát látok, talán kötelességek listája. A másik serpenyő üres, de a földön mellette hever egy papír, ami bizonyítványnak tűnik.
+</voice>
 
-MENTOR: Ez a kép a generálklauzulát, az általános felelősségi szabályt rejti. A Polgári Törvénykönyv hatodik könyvének ötszáz tizenkilencedik paragrafusa szerint: "Aki másnak jogellenesen kárt okoz, köteles azt megtéríteni. Mentesül a felelősség alól a károkozó, ha bizonyítja, hogy magatartása nem volt felróható."
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a kép a generálklauzulát, az általános felelősségi szabályt rejti. A Polgári Törvénykönyv hatodik könyvének ötszáz tizenkilencedik paragrafusa szerint: "Aki másnak jogellenesen kárt okoz, köteles azt megtéríteni. Mentesül a felelősség alól a károkozó, ha bizonyítja, hogy magatartása nem volt felróható."
+</voice>
 
-TANULÓ: Értem. Tehát a mérleg egyik fele a kártérítési kötelezettséget mutatja, a földön heverő bizonyítvány pedig a kimentést, vagyis a mentesülést, ha a károkozó bizonyítani tud.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Értem. Tehát a mérleg egyik fele a kártérítési kötelezettséget mutatja, a földön heverő bizonyítvány pedig a kimentést, vagyis a mentesülést, ha a károkozó bizonyítani tud.
+</voice>
 
-MENTOR: Pontosan. Most érjünk oda a bejárati ajtóhoz. Az ajtó jelképezi a jogellenességet. De nézd meg, mik lógnak az ajtón és környékén! Négy különleges tárgyat kell észrevenned.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Pontosan. Most érjünk oda a bejárati ajtóhoz. Az ajtó jelképezi a jogellenességet. De nézd meg, mik lógnak az ajtón és környékén! Négy különleges tárgyat kell észrevenned.
+</voice>
 
-TANULÓ: Látok egy lábtörlőt, amin az "Isten hozott" felirat áll. Az ajtófélfának támasztva egy baseball ütő van. Mellette egy piros tűzoltó készülék, és az ajtóra egy hivatalos papír, egy építési engedély van szögezve.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Látok egy lábtörlőt, amin az "Isten hozott" felirat áll. Az ajtófélfának támasztva egy baseball ütő van. Mellette egy piros tűzoltó készülék, és az ajtóra egy hivatalos papír, egy építési engedély van szögezve.
+</voice>
 
-MENTOR: Ezek a tárgyak a jogellenességet kizáró okokat szimbolizálják. A Polgári Törvénykönyv hatodik könyvének ötszáz huszadik paragrafusa szerint minden károkozás jogellenes, kivéve négy esetet. A lábtörlő a károsult beleegyezését jelzi.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ezek a tárgyak a jogellenességet kizáró okokat szimbolizálják. A Polgári Törvénykönyv hatodik könyvének ötszáz huszadik paragrafusa szerint minden károkozás jogellenes, kivéve négy esetet. A lábtörlő a károsult beleegyezését jelzi.
+</voice>
 
-TANULÓ: Szóval ha a károsult beleegyezik, akkor nem jogellenes. És a baseball ütő? Az a jogos védelem?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Szóval ha a károsult beleegyezik, akkor nem jogellenes. És a baseball ütő? Az a jogos védelem?
+</voice>
 
-MENTOR: Igen, a baseball ütő a jogtalan támadás elhárítását, a jogos védelmet jelenti. A tűzoltó készülék pedig a szükséghelyzetet, amikor veszélyt kell elhárítani.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Igen, a baseball ütő a jogtalan támadás elhárítását, a jogos védelmet jelenti. A tűzoltó készülék pedig a szükséghelyzetet, amikor veszélyt kell elhárítani.
+</voice>
 
-TANULÓ: És az építési engedély? Gondolom, az a jogszabály által megengedett magatartást jelenti.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+És az építési engedély? Gondolom, az a jogszabály által megengedett magatartást jelenti.
+</voice>
 
-MENTOR: Tökéletes. Ha ezek közül bármelyik fennáll, a károkozás nem jogellenes. Most nyissuk ki az ajtót, és lépjünk be az előszobába.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Tökéletes. Ha ezek közül bármelyik fennáll, a károkozás nem jogellenes. Most nyissuk ki az ajtót, és lépjünk be az előszobába.
+</voice>
 
-TANULÓ: Beléptem. A padlón egy hosszú dominósort látok, ami végigkanyarog a szobán.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Beléptem. A padlón egy hosszú dominósort látok, ami végigkanyarog a szobán.
+</voice>
 
-MENTOR: Ez az okozati összefüggés szimbóluma. Ha meglököd az elsőt, dől a többi is. De kövesd a sort a szemaddal! Hol ér véget?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez az okozati összefüggés szimbóluma. Ha meglököd az elsőt, dől a többi is. De kövesd a sort a szemaddal! Hol ér véget?
+</voice>
 
-TANULÓ: A sor vége egy távcsőnek ütközik. De a távcső lencséje be van törve.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+A sor vége egy távcsőnek ütközik. De a távcső lencséje be van törve.
+</voice>
 
-MENTOR: Ez nagyon fontos. A Polgári Törvénykönyv hatodik könyvének ötszáz huszonegyedik paragrafusa kimondja: "Nem állapítható meg az okozati összefüggés azzal a kárral kapcsolatban, amelyet a károkozó nem látott előre és nem is kellett előre látnia."
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez nagyon fontos. A Polgári Törvénykönyv hatodik könyvének ötszáz huszonegyedik paragrafusa kimondja: "Nem állapítható meg az okozati összefüggés azzal a kárral kapcsolatban, amelyet a károkozó nem látott előre és nem is kellett előre látnia."
+</voice>
 
-TANULÓ: Tehát a távcső az előreláthatóságot jelenti? Csak addig felelek a kárért, amíg az előre látható volt?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Tehát a távcső az előreláthatóságot jelenti? Csak addig felelek a kárért, amíg az előre látható volt?
+</voice>
 
-MENTOR: Így van. Ez az adekvát kauzalitás elve. Most menjünk tovább a nappaliba. Itt elég nagy a rendetlenség.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Így van. Ez az adekvát kauzalitás elve. Most menjünk tovább a nappaliba. Itt elég nagy a rendetlenség.
+</voice>
 
-TANULÓ: Látom. A földön egy összetört porcelán váza darabjai hevernek. A dohányzóasztalon egy üres, kifordított pénztárca van. A kanapén pedig egy halom számla tornyosul.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Látom. A földön egy összetört porcelán váza darabjai hevernek. A dohányzóasztalon egy üres, kifordított pénztárca van. A kanapén pedig egy halom számla tornyosul.
+</voice>
 
-MENTOR: Ez a "teljes kár" bemutatása. A Polgári Törvénykönyv hatodik könyv, ötszáz huszonkettedik paragrafusának első bekezdése szerint: "A károkozó a károsult teljes kárát köteles megtéríteni." A törött váza a vagyonban beállott értékcsökkenés, latinul damnum emergens.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a "teljes kár" bemutatása. A Polgári Törvénykönyv hatodik könyv, ötszáz huszonkettedik paragrafusának első bekezdése szerint: "A károkozó a károsult teljes kárát köteles megtéríteni." A törött váza a vagyonban beállott értékcsökkenés, latinul damnum emergens.
+</voice>
 
-TANULÓ: Akkor az üres pénztárca az elmaradt hasznot, a lucrum cessanst jelenti?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Akkor az üres pénztárca az elmaradt hasznot, a lucrum cessanst jelenti?
+</voice>
 
-MENTOR: Igen, az elmaradt vagyoni előnyt. A számlák pedig a kár kiküszöböléséhez szükséges költségeket. Nézz fel a falra is! Mit látsz?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Igen, az elmaradt vagyoni előnyt. A számlák pedig a kár kiküszöböléséhez szükséges költségeket. Nézz fel a falra is! Mit látsz?
+</voice>
 
-TANULÓ: Egy családi fényképet látok, amit valaki összefirkált. Ez mit jelent?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Egy családi fényképet látok, amit valaki összefirkált. Ez mit jelent?
+</voice>
 
-MENTOR: Ez a nem vagyoni kár, vagyis a személyiségi jogsértés miatti sérelemdíj. Most menjünk át a konyhába. A pulton egy konyhai mérleget látsz.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a nem vagyoni kár, vagyis a személyiségi jogsértés miatti sérelemdíj. Most menjünk át a konyhába. A pulton egy konyhai mérleget látsz.
+</voice>
 
-TANULÓ: Igen, látom. A mérleg egyik oldalán egy sérült alma van, a másik oldalán viszont egy köteg pénz.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Igen, látom. A mérleg egyik oldalán egy sérült alma van, a másik oldalán viszont egy köteg pénz.
+</voice>
 
-MENTOR: Ez a káronszerzés tilalmát mutatja. Ha a károkozásból előnyöd is származott, például biztosítási pénz, azt le kell vonni a kárból. Nem gazdagodhatsz a károkozás révén. Mellette az asztalon egy nagyítós lámpa alatt egy száraz kenyérhéjat és egy vizes poharat látsz.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a káronszerzés tilalmát mutatja. Ha a károkozásból előnyöd is származott, például biztosítási pénz, azt le kell vonni a kárból. Nem gazdagodhatsz a károkozás révén. Mellette az asztalon egy nagyítós lámpa alatt egy száraz kenyérhéjat és egy vizes poharat látsz.
+</voice>
 
-TANULÓ: Ez elég szegényes vacsorának tűnik. Mire utal ez?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Ez elég szegényes vacsorának tűnik. Mire utal ez?
+</voice>
 
-MENTOR: Ez a méltányosságra utal. A bíróság különös méltánylást érdemlő körülmények esetén a kártérítést a teljes kárnál alacsonyabb összegben is meghatározhatja. Most lépjünk az étkezőbe.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a méltányosságra utal. A bíróság különös méltánylást érdemlő körülmények esetén a kártérítést a teljes kárnál alacsonyabb összegben is meghatározhatja. Most lépjünk az étkezőbe.
+</voice>
 
-TANULÓ: Az étkezőasztalnál egy üres széket látok, amin egy öltöny és egy szabálykönyv van. Mintha ülne ott valaki láthatatlanul.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Az étkezőasztalnál egy üres széket látok, amin egy öltöny és egy szabálykönyv van. Mintha ülne ott valaki láthatatlanul.
+</voice>
 
-MENTOR: Ő a "Reasonable man", az átlagos, ésszerű ember. A felróhatóság mércéje. Azt vizsgáljuk, hogy az adott helyzetben egy ilyen ember hogyan viselkedett volna. És nézd az asztalt! Egy bizonyítási dossziét látok rajta, amit valaki a károkozó széke felé tolt.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ő a "Reasonable man", az átlagos, ésszerű ember. A felróhatóság mércéje. Azt vizsgáljuk, hogy az adott helyzetben egy ilyen ember hogyan viselkedett volna. És nézd az asztalt! Egy bizonyítási dossziét látok rajta, amit valaki a károkozó széke felé tolt.
+</voice>
 
-TANULÓ: Ez azt jelenti, hogy a károkozónak kell bizonyítania?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Ez azt jelenti, hogy a károkozónak kell bizonyítania?
+</voice>
 
-MENTOR: Pontosan! Ez a bizonyítási teher megfordulása. A károkozó mentesül, ha bizonyítja, hogy nem volt felróható a magatartása. Most nézzünk be a hálószobába.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Pontosan! Ez a bizonyítási teher megfordulása. A károkozó mentesül, ha bizonyítja, hogy nem volt felróható a magatartása. Most nézzünk be a hálószobába.
+</voice>
 
-TANULÓ: Az ágyon egy vizes vödröt látok. A plafonról csöpög a víz, de a vödör felfogja. Mellette a földön egy felmosórongy van.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Az ágyon egy vizes vödröt látok. A plafonról csöpög a víz, de a vödör felfogja. Mellette a földön egy felmosórongy van.
+</voice>
 
-MENTOR: Ez a kárenyhítési kötelezettség. A Polgári Törvénykönyv hatodik könyv, ötszáz huszonötödik paragrafus első bekezdése szerint: "A károsultat kármegelőzési, kárelhárítási és kárenyhítési kötelezettség terheli."
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a kárenyhítési kötelezettség. A Polgári Törvénykönyv hatodik könyv, ötszáz huszonötödik paragrafus első bekezdése szerint: "A károsultat kármegelőzési, kárelhárítási és kárenyhítési kötelezettség terheli."
+</voice>
 
-TANULÓ: Értem. Tehát ha nem tenném oda a vödröt, és elázna az ágy, azért a kárért már én lennék a felelős, vagy legalábbis megosztanánk a kárt?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Értem. Tehát ha nem tenném oda a vödröt, és elázna az ágy, azért a kárért már én lennék a felelős, vagy legalábbis megosztanánk a kárt?
+</voice>
 
-MENTOR: Így van. Most nézzünk be a fürdőszobába. A kádba nézz bele!
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Így van. Most nézzünk be a fürdőszobába. A kádba nézz bele!
+</voice>
 
-TANULÓ: Tele van pénzérmékkel.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Tele van pénzérmékkel.
+</voice>
 
-MENTOR: Ez a kártérítés módja: a főszabály a pénzbeli megtérítés. De nézd a mosdókagylót, ott egy szerszámosládát látsz.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a kártérítés módja: a főszabály a pénzbeli megtérítés. De nézd a mosdókagylót, ott egy szerszámosládát látsz.
+</voice>
 
-TANULÓ: Igen, kalapács, csavarhúzó van benne. Ez a természetbeni kártérítést jelenti? Amikor kijavítják a hibát?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Igen, kalapács, csavarhúzó van benne. Ez a természetbeni kártérítést jelenti? Amikor kijavítják a hibát?
+</voice>
 
-MENTOR: Igen, ez a kivétel. És a falon a naptár, ahol minden elseje be van karikázva, a járadékot jelzi, amikor rendszeresen fizetnek. Végül menjünk ki a hátsó kertbe.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Igen, ez a kivétel. És a falon a naptár, ahol minden elseje be van karikázva, a járadékot jelzi, amikor rendszeresen fizetnek. Végül menjünk ki a hátsó kertbe.
+</voice>
 
-TANULÓ: Kint vagyunk. A teraszon egy stopperóra ketyeg nagyon hangosan.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Kint vagyunk. A teraszon egy stopperóra ketyeg nagyon hangosan.
+</voice>
 
-MENTOR: Ez az esedékességet jelzi. A kártérítés a károsodás bekövetkeztekor nyomban esedékes. Nem kell várni az ítéletre. És nézd a fa alatt azt a homokórát.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez az esedékességet jelzi. A kártérítés a károsodás bekövetkeztekor nyomban esedékes. Nem kell várni az ítéletre. És nézd a fa alatt azt a homokórát.
+</voice>
 
-TANULÓ: Egy homokóra, amire az van írva: "ÖT ÉV". Ez az elévülési idő?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Egy homokóra, amire az van írva: "ÖT ÉV". Ez az elévülési idő?
+</voice>
 
-MENTOR: Igen, az általános elévülési idő öt év. Mellette pedig egy lufit látsz, amire dollárjel van festve, és egyre nagyobbra fújódik.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Igen, az általános elévülési idő öt év. Mellette pedig egy lufit látsz, amire dollárjel van festve, és egyre nagyobbra fújódik.
+</voice>
 
-TANULÓ: Gondolom, ez az inflációt, az értékviszonyok változását jelenti. Hogy a bíróság figyelembe veheti az árak emelkedését az ítélethozatalig.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Gondolom, ez az inflációt, az értékviszonyok változását jelenti. Hogy a bíróság figyelembe veheti az árak emelkedését az ítélethozatalig.
+</voice>
 
-MENTOR: Kiválóan összefoglaltad! Ezzel végig is jártuk az általános deliktuális felelősség házát. A kaputól, a jogellenességtől kezdve a kár elemein át egészen az elévülésig.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Kiválóan összefoglaltad! Ezzel végig is jártuk az általános deliktuális felelősség házát. A kaputól, a jogellenességtől kezdve a kár elemein át egészen az elévülésig.
+</voice>
 
-TANULÓ: Köszönöm! Így a házon keresztül sétálva sokkal logikusabbnak és megjegyezhetőbbnek tűnik az egész rendszer.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Köszönöm! Így a házon keresztül sétálva sokkal logikusabbnak és megjegyezhetőbbnek tűnik az egész rendszer.
+</voice>
 
-MENTOR: Örülök, hogy segítettem. Sok sikert a vizsgához! Viszlát!
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Örülök, hogy segítettem. Sok sikert a vizsgához! Viszlát!
+</voice>
 
-TANULÓ: Viszlát!
-
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Viszlát!
+</voice>
 
 
 

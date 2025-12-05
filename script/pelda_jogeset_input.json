@@ -1,0 +1,44 @@
+{
+  "pelda_inputok": [
+    {
+      "leiras": "Egyszerű szerződéses jogeset",
+      "jogszabaly": "Ptk. 6:1. §",
+      "szoveg": "A szerződés a felek megállapodása, amely kötelezettségeket keletkeztet, módosít vagy megszüntet.",
+      "komplexitas": "egyszerű",
+      "kategoria": "szerződés"
+    },
+    {
+      "leiras": "Kártérítési jogeset",
+      "jogszabaly": "Ptk. 6:519. §",
+      "szoveg": "(1) A károkozó köteles megtéríteni a kárt, ha nem bizonyítja, hogy a kár nem az ő hibájából következett be.\n(2) A kártérítés magában foglalja a kár megtérítését és a megtérített kár megtérítését is.",
+      "komplexitas": "közepes",
+      "kategoria": "kártérítés"
+    },
+    {
+      "leiras": "Tulajdonjog átruházás",
+      "jogszabaly": "Ptk. 5:38. §",
+      "szoveg": "(1) Az ingatlan tulajdonjogának átruházásánál az ingatlan-nyilvántartási bejegyzés konstitutív hatályú.\n(2) A tulajdonjog a bejegyzéssel száll át.",
+      "komplexitas": "komplex",
+      "kategoria": "tulajdonjog"
+    },
+    {
+      "leiras": "Jogképesség kezdete",
+      "jogszabaly": "Ptk. 2:2. §",
+      "szoveg": "(1) A jogképesség az embert, ha élve születik, fogamzásának időpontjától illeti meg.\n(2) A fogamzás időpontjának a születéstől visszafelé számított háromszázadik napot kell tekinteni.",
+      "komplexitas": "közepes",
+      "kategoria": "jogképesség"
+    },
+    {
+      "leiras": "Szerződés érvénytelensége",
+      "jogszabaly": "Ptk. 6:51. §",
+      "szoveg": "A szerződés érvénytelen, ha a törvény eltérően nem rendelkezik, semmis vagy megtámadható.",
+      "komplexitas": "komplex",
+      "kategoria": "szerződés"
+    }
+  ],
+  "hasznalati_pelda": {
+    "parancs": "python script/jogeset_generator.py --jogszabaly \"Ptk. 6:519. §\" --komplexitas \"közepes\" --kategoria \"kártérítés\"",
+    "megjegyzes": "Ez a fájl csak példa inputokat tartalmaz. A tényleges használathoz használd a parancssori paramétereket vagy az interaktív módot."
+  }
+}
+

@@ -1,69 +1,139 @@
-MENTOR: Üdvözöllek! Ma a polgári jog alapköveit, a jogalanyiságot és a jogképességet fogjuk áttekinteni. Hogy ezt könnyen megjegyezd, képzelj el egy forgalmas Metróállomást és annak aluljáróját. Ott vagyunk a bejáratnál. Mit látsz?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Üdvözöllek! Ma a polgári jog alapköveit, a jogalanyiságot és a jogképességet fogjuk áttekinteni. Hogy ezt könnyen megjegyezd, képzelj el egy forgalmas Metróállomást és annak aluljáróját. Ott vagyunk a bejáratnál. Mit látsz?
+</voice>
 
-TANULÓ: Ott állok a huzatos aluljáróban, a bejáratnál. Előttem a hatalmas, forgó beléptető kapuk, amiken az emberek áramlanak át.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Ott állok a huzatos aluljáróban, a bejáratnál. Előttem a hatalmas, forgó beléptető kapuk, amiken az emberek áramlanak át.
+</voice>
 
-MENTOR: Pontosan. Ezek a beléptető kapuk szimbolizálják a jogalanyiságot. Ez egy elméleti kategória, a képesség arra, hogy valaki a jogrendszerbe, mint a metró területére, beléphessen. De ahhoz, hogy utazhass is, mi kell a kezedbe?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Pontosan. Ezek a beléptető kapuk szimbolizálják a jogalanyiságot. Ez egy elméleti kategória, a képesség arra, hogy valaki a jogrendszerbe, mint a metró területére, beléphessen. De ahhoz, hogy utazhass is, mi kell a kezedbe?
+</voice>
 
-TANULÓ: Egy érvényes jegy vagy bérlet. Látom is, ahogy az utasok szorongatják a világító jegyeiket. Akkor ez a jogképesség?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Egy érvényes jegy vagy bérlet. Látom is, ahogy az utasok szorongatják a világító jegyeiket. Akkor ez a jogképesség?
+</voice>
 
-MENTOR: Így van! A jogképesség a konkrét, polgári jogi kategória. Ahogy a Polgári Törvénykönyv, a kétezer-tizenhárom évi ötödik törvény második könyvének első paragrafusának első bekezdése mondja, idézd fel a neonfeliratot az automata tetején!
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Így van! A jogképesség a konkrét, polgári jogi kategória. Ahogy a Polgári Törvénykönyv, a kétezer-tizenhárom évi ötödik törvény második könyvének első paragrafusának első bekezdése mondja, idézd fel a neonfeliratot az automata tetején!
+</voice>
 
-TANULÓ: Igen, ott villog, Minden ember jogképes, jogai és kötelezettségei lehetnek. Tehát a jegy a belépő a jogok és kötelezettségek világába.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Igen, ott villog, Minden ember jogképes, jogai és kötelezettségei lehetnek. Tehát a jegy a belépő a jogok és kötelezettségek világába.
+</voice>
 
-MENTOR: Kiváló. Most lépjünk a mozgólépcsőre. Hogyan haladnak ott az emberek?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Kiváló. Most lépjünk a mozgólépcsőre. Hogyan haladnak ott az emberek?
+</voice>
 
-TANULÓ: A mozgólépcső mindenkit egyformán visz lefelé. Nincs kivételezés, gazdagok és szegények, mindenki ugyanúgy halad. Ez azt jelenti, hogy a jogképesség egyenlő és általános.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+A mozgólépcső mindenkit egyformán visz lefelé. Nincs kivételezés, gazdagok és szegények, mindenki ugyanúgy halad. Ez azt jelenti, hogy a jogképesség egyenlő és általános.
+</voice>
 
-MENTOR: És tudsz-e változtatni ezen? Mondhatod azt, hogy én mától nem kérek ebből a jogképességből?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+És tudsz-e változtatni ezen? Mondhatod azt, hogy én mától nem kérek ebből a jogképességből?
+</voice>
 
-TANULÓ: Nem. Látom, ahogy valaki próbálja átadni a saját bőrét, ami a jogképességet jelképezi, egy másiknak, vagy lekaparni magáról, de visszanő. És ha aláírna erről egy papírt, az a kezében semmivé foszlana. Ez a Polgári Törvénykönyv második könyvének első paragrafusának második bekezdése, amely így szól, A jogképességet korlátozó jognyilatkozat semmis. Tehát a jogképesség elidegeníthetetlen.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Nem. Látom, ahogy valaki próbálja átadni a saját bőrét, ami a jogképességet jelképezi, egy másiknak, vagy lekaparni magáról, de visszanő. És ha aláírna erről egy papírt, az a kezében semmivé foszlana. Ez a Polgári Törvénykönyv második könyvének első paragrafusának második bekezdése, amely így szól, A jogképességet korlátozó jognyilatkozat semmis. Tehát a jogképesség elidegeníthetetlen.
+</voice>
 
-MENTOR: Remek. Leértünk a peronra. Kiket látsz a padon várakozni?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Remek. Leértünk a peronra. Kiket látsz a padon várakozni?
+</voice>
 
-TANULÓ: Egy várandós kismamát látok. A pocakja átlátszó és világít. A bent lévő magzat, a naszciturusz, már szorongat egy pici, félig kész jegyet.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Egy várandós kismamát látok. A pocakja átlátszó és világít. A bent lévő magzat, a naszciturusz, már szorongat egy pici, félig kész jegyet.
+</voice>
 
-MENTOR: Ez nagyon fontos. Mikortól illeti meg az embert a jogképesség? Idézd a Polgári Törvénykönyv második könyvének második paragrafusának első bekezdését!
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez nagyon fontos. Mikortól illeti meg az embert a jogképesség? Idézd a Polgári Törvénykönyv második könyvének második paragrafusának első bekezdését!
+</voice>
 
-TANULÓ: A jogképesség az embert, ha élve születik, fogamzásának időpontjától illeti meg. Tehát már a pocakban van jegye, de van egy feltétel.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+A jogképesség az embert, ha élve születik, fogamzásának időpontjától illeti meg. Tehát már a pocakban van jegye, de van egy feltétel.
+</voice>
 
-MENTOR: Igen, a ha élve születik kitétel. Mi történik a peronon, amikor megérkezik a metró?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Igen, a ha élve születik kitétel. Mi történik a peronon, amikor megérkezik a metró?
+</voice>
 
-TANULÓ: A baba ott helyben megszületik. Ha felsír, tehát élve születik, a félig kész jegy a kezében hirtelen érvényes aranybérletté változik. De ha néma marad, vagyis halva születik, a jegy köddé válik, mintha sosem lett volna.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+A baba ott helyben megszületik. Ha felsír, tehát élve születik, a félig kész jegy a kezében hirtelen érvényes aranybérletté változik. De ha néma marad, vagyis halva születik, a jegy köddé válik, mintha sosem lett volna.
+</voice>
 
-MENTOR: Pontos. És hogyan számoljuk ki a fogamzás időpontját, ha vita van? Nézz a peron órájára!
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Pontos. És hogyan számoljuk ki a fogamzás időpontját, ha vita van? Nézz a peron órájára!
+</voice>
 
-TANULÓ: Az óra visszafelé pörög, háromszáztól számol vissza. Ez a Polgári Törvénykönyv második könyvének második paragrafusának második bekezdése, A fogamzás időpontjának a születéstől visszafelé számított háromszázadik napot kell tekinteni. De ez megdönthető, ha bizonyítják az ellenkezőjét.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Az óra visszafelé pörög, háromszáztól számol vissza. Ez a Polgári Törvénykönyv második könyvének második paragrafusának második bekezdése, A fogamzás időpontjának a születéstől visszafelé számított háromszázadik napot kell tekinteni. De ez megdönthető, ha bizonyítják az ellenkezőjét.
+</voice>
 
-MENTOR: Így van. Most nézzünk a sötét alagút felé. Mi történik ott?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Így van. Most nézzünk a sötét alagút felé. Mi történik ott?
+</voice>
 
-TANULÓ: A vonat bemegy a sötétbe, és soha nem jön vissza. Ez a halál, a jogképesség megszűnése. A Polgári Törvénykönyv második könyvének negyedik paragrafusa szerint, A jogképesség a halállal szűnik meg. Ahogy elnyeli őket a sötétség, a jegyük elporlad.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+A vonat bemegy a sötétbe, és soha nem jön vissza. Ez a halál, a jogképesség megszűnése. A Polgári Törvénykönyv második könyvének negyedik paragrafusa szerint, A jogképesség a halállal szűnik meg. Ahogy elnyeli őket a sötétség, a jegyük elporlad.
+</voice>
 
-MENTOR: De mi van, ha valaki eltűnik, és nem tudjuk biztosan, hogy meghalt-e? Mit látsz az alagút falán?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+De mi van, ha valaki eltűnik, és nem tudjuk biztosan, hogy meghalt-e? Mit látsz az alagút falán?
+</voice>
 
-TANULÓ: Egy KERESSÜK feliratú plakátot az eltűntről. Mellette öt darab hatalmas homokóra pereg le. Ez az öt év várakozási idő. A Polgári Törvénykönyv második könyvének ötödik paragrafusának első bekezdése szerint, Az eltűnt személyt a bíróság kérelemre holtnak nyilvánítja, ha eltűnésétől öt év eltelt anélkül, hogy életben létére utaló bármilyen adat ismert volna.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Egy KERESSÜK feliratú plakátot az eltűntről. Mellette öt darab hatalmas homokóra pereg le. Ez az öt év várakozási idő. A Polgári Törvénykönyv második könyvének ötödik paragrafusának első bekezdése szerint, Az eltűnt személyt a bíróság kérelemre holtnak nyilvánítja, ha eltűnésétől öt év eltelt anélkül, hogy életben létére utaló bármilyen adat ismert volna.
+</voice>
 
-MENTOR: És ki üti rá a pecsétet?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+És ki üti rá a pecsétet?
+</voice>
 
-TANULÓ: A bíróság, itt egy vasutas sapkás bíró. Ha lepergett az öt év, ráüt a plakátra, HOLTNAK NYILVÁNÍTVA. Ekkor a jog következményei beállnak, mintha meghalt volna.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+A bíróság, itt egy vasutas sapkás bíró. Ha lepergett az öt év, ráüt a plakátra, HOLTNAK NYILVÁNÍTVA. Ekkor a jog következményei beállnak, mintha meghalt volna.
+</voice>
 
-MENTOR: Helyes. Most menjünk vissza fel az aluljáróba, az üzletsorra. Beszéljünk a jogi személyekről. Mit látsz ott?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Helyes. Most menjünk vissza fel az aluljáróba, az üzletsorra. Beszéljünk a jogi személyekről. Mit látsz ott?
+</voice>
 
-TANULÓ: Egy hatalmas, emberformájú Sznek Automatát. Ez a Jogi Személy. Nem ember, hanem egy szervezet, mesterséges jogalany.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Egy hatalmas, emberformájú Sznek Automatát. Ez a Jogi Személy. Nem ember, hanem egy szervezet, mesterséges jogalany.
+</voice>
 
-MENTOR: Mik a jellemzői a Polgári Törvénykönyv harmadik könyvének első paragrafusának ötödik bekezdése alapján? Nézd meg jól az automatát!
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Mik a jellemzői a Polgári Törvénykönyv harmadik könyvének első paragrafusának ötödik bekezdése alapján? Nézd meg jól az automatát!
+</voice>
 
-TANULÓ: Van rajta egy névtábla, Sznek Korlátolt Felelősségű Társaság, ez a saját név. Oda van betonozva a padlóhoz, ez a székhely. Tele van csokival és aprópénzzel, ez az elkülönített vagyon. És belül bonyolult mechanika irányítja, ez az ügyvezetést ellátó szervezet.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Van rajta egy névtábla, Sznek Korlátolt Felelősségű Társaság, ez a saját név. Oda van betonozva a padlóhoz, ez a székhely. Tele van csokival és aprópénzzel, ez az elkülönített vagyon. És belül bonyolult mechanika irányítja, ez az ügyvezetést ellátó szervezet.
+</voice>
 
-MENTOR: Mikor születik meg ez az automata?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Mikor születik meg ez az automata?
+</voice>
 
-TANULÓ: Amikor jön a Szerelő, vagyis a Bíróság, és bedugja a konnektorba. Ez a nyilvántartásba vétel. A Polgári Törvénykönyv harmadik könyvének negyedik paragrafusának negyedik bekezdése szerint, A jogi személy a jogi személy típusnak megfelelő létesítő okiratán alapuló bírósági nyilvántartásba vétellel jön létre. Előtte nem létezett, csak egy darab vas volt.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Amikor jön a Szerelő, vagyis a Bíróság, és bedugja a konnektorba. Ez a nyilvántartásba vétel. A Polgári Törvénykönyv harmadik könyvének negyedik paragrafusának negyedik bekezdése szerint, A jogi személy a jogi személy típusnak megfelelő létesítő okiratán alapuló bírósági nyilvántartásba vétellel jön létre. Előtte nem létezett, csak egy darab vas volt.
+</voice>
 
-MENTOR: És ki felel, ha az automata elromlik és tartozása lesz?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+És ki felel, ha az automata elromlik és tartozása lesz?
+</voice>
 
-TANULÓ: Ez a korlátolt felelősség. A Tulajdonos ott áll mögötte, de amikor baj van, csak a gépre mutat, A gép fizet, nem én! mondja. A hitelezők csak az automata pénzét vihetik el, a tulajdonos saját pénztárcája a zsebében marad.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Ez a korlátolt felelősség. A Tulajdonos ott áll mögötte, de amikor baj van, csak a gépre mutat, A gép fizet, nem én! mondja. A hitelezők csak az automata pénzét vihetik el, a tulajdonos saját pénztárcája a zsebében marad.
+</voice>
 
-MENTOR: Kivéve?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Kivéve?
+</voice>
 
-TANULÓ: Kivéve, ha a tulajdonos szándékosan szétveri a gépet, hogy kivegye a pénzt, vagyis visszaél a korlátolt felelősséggel. Ilyenkor a hitelezők áttörik a falat és kitépik a tulajdonos zsebéből is a pénztárcát.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Kivéve, ha a tulajdonos szándékosan szétveri a gépet, hogy kivegye a pénzt, vagyis visszaél a korlátolt felelősséggel. Ilyenkor a hitelezők áttörik a falat és kitépik a tulajdonos zsebéből is a pénztárcát.
+</voice>
 
-MENTOR: Tökéletes összefoglalás! A metróállomás képeivel, a kapuk, a jegyek, a kismama a peronon, az alagút és a sznek automata, most már mindent tudsz a jogalanyiságról és jogképességről.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Tökéletes összefoglalás! A metróállomás képeivel, a kapuk, a jegyek, a kismama a peronon, az alagút és a sznek automata, most már mindent tudsz a jogalanyiságról és jogképességről.
+</voice>

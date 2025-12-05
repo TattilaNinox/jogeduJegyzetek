@@ -1,0 +1,9 @@
+{
+  "cim": "Károkozás autóbalesetben",
+  "tenyek": "2024. március 15-én, délután 14:30-kor Budapesten, a Rákóczi úton történt egy közúti baleset.\n\nKovács János (45 éves, Budapest) személygépkocsijával haladt a Rákóczi úton, amikor a piros lámpánál nem állt meg, és beleütközött Nagy Mária (32 éves, Szeged) autójába, aki a zöld lámpánál haladt át a kereszteződésen.\n\nA baleset következményei:\n- Nagy Mária autójának eleje jelentős mértékben megsérült\n- A javítási költség 850.000 Ft\n- Nagy Mária 3 napig nem tudta használni az autóját, ezért bérleti díjat kellett fizetnie (15.000 Ft/nap = 45.000 Ft)\n- A baleset miatt késedelmi kamat is keletkezett\n\nKovács János azt állítja, hogy nem ő okozta a balesetet, mert Nagy Mária nem figyelt elég körültekintően.",
+  "kerdes": "Következik-e Kovács Jánosnak kártérítési kötelezettsége Nagy Mária kárának megtérítésére? Ha igen, mekkora összegben?",
+  "alkalmazando_jogszabaly": "6:519. §",
+  "megoldas": "A Ptk. 6:519. § § (1) bekezdése szerint: \"A károkozó köteles megtéríteni a kárt, ha nem bizonyítja, hogy a kár nem az ő hibájából következett be.\"\n\nEsetünkben:\n1. Károkozás: Kovács János piros lámpánál nem állt meg, és ütközést okozott\n2. Kár: Nagy Mária autójának sérülése (850.000 Ft javítási költség)\n3. Elmaradt haszon: 3 napos autóbérleti költség (45.000 Ft)\n4. Összes kár: 895.000 Ft\n\nKovács János nem tudta bizonyítani, hogy a kár nem az ő hibájából következett be (sőt, ő volt a piros lámpánál), ezért köteles megtéríteni a teljes kárt.\n\nKövetkeztetés: Kovács János köteles megtéríteni Nagy Mária 895.000 Ft kárát.",
+  "komplexitas": "közepes",
+  "kategoria": "kártérítés"
+}

@@ -1,110 +1,222 @@
 A HÁZASSÁGI VAGYONJOG, A HÁZASTÁRSAK LAKÁSHASZNÁLATÁNAK RENDEZÉSE_teljes_dialogus.txt
 
-MENTOR: Üdvözöllek! Ma egy különleges helyszínre hoztalak, a Jogvirág Kertészetbe. Ez a hatalmas terület fog segíteni abban, hogy megértsük a házassági vagyonjog és a lakáshasználat összetett szabályait. Készen állsz a sétára?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Üdvözöllek! Ma egy különleges helyszínre hoztalak, a Jogvirág Kertészetbe. Ez a hatalmas terület fog segíteni abban, hogy megértsük a házassági vagyonjog és a lakáshasználat összetett szabályait. Készen állsz a sétára?
+</voice>
 
-TANULÓ: Igen, készen állok. Kíváncsian várom, hogyan kapcsolódik egy kertészet a vagyonjoghoz.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Igen, készen állok. Kíváncsian várom, hogyan kapcsolódik egy kertészet a vagyonjoghoz.
+</voice>
 
-MENTOR: Induljunk el. Itt állunk a főbejáratnál, egy hatalmas kovácsoltvas **kapu** előtt. Nézd csak, a kapu után az út kétfelé ágazik. Látod a két **ösvényt**?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Induljunk el. Itt állunk a főbejáratnál, egy hatalmas kovácsoltvas **kapu** előtt. Nézd csak, a kapu után az út kétfelé ágazik. Látod a két **ösvényt**?
+</voice>
 
-TANULÓ: Igen, látom. A bal oldali egy széles, aszfaltozott út, a jobb oldali pedig egy díszes térkövekkel kirakott keskenyebb ösvény.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Igen, látom. A bal oldali egy széles, aszfaltozott út, a jobb oldali pedig egy díszes térkövekkel kirakott keskenyebb ösvény.
+</voice>
 
-MENTOR: Pontosan. Ez a két út szimbolizálja a vagyoni viszonyok rendezésének két fő módját a Polgári Törvénykönyv 4:34. paragrafusa szerint. A bal oldali, a széles út a törvényes rendszer, a jobb oldali a szerződéses.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Pontosan. Ez a két út szimbolizálja a vagyoni viszonyok rendezésének két fő módját a Polgári Törvénykönyv 4:34. paragrafusa szerint. A bal oldali, a széles út a törvényes rendszer, a jobb oldali a szerződéses.
+</voice>
 
-TANULÓ: Tehát ha jól értem, a széles út az, amit a legtöbben választanak, vagy ami automatikusan jár?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Tehát ha jól értem, a széles út az, amit a legtöbben választanak, vagy ami automatikusan jár?
+</voice>
 
-MENTOR: Így van. A Polgári Törvénykönyv negyedik könyvének harmincnegyedik paragrafusának második bekezdése szerint: "Ha a házassági vagyonjogi szerződés eltérően nem rendelkezik, a házastársak között a házassági életközösség időtartama alatt házastársi vagyonközösség (törvényes vagyonjogi rendszer) áll fenn."
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Így van. A Polgári Törvénykönyv negyedik könyvének harmincnegyedik paragrafusának második bekezdése szerint: "Ha a házassági vagyonjogi szerződés eltérően nem rendelkezik, a házastársak között a házassági életközösség időtartama alatt házastársi vagyonközösség (törvényes vagyonjogi rendszer) áll fenn."
+</voice>
 
-TANULÓ: Értem. Tehát szerződés hiányában automatikusan a vagyonközösség jön létre.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Értem. Tehát szerződés hiányában automatikusan a vagyonközösség jön létre.
+</voice>
 
-MENTOR: Pontosan. Most induljunk el ezen a bal oldali, széles ösvényen. Ez vezet minket a **Nagy Üvegházhoz**. Lépjünk be!
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Pontosan. Most induljunk el ezen a bal oldali, széles ösvényen. Ez vezet minket a **Nagy Üvegházhoz**. Lépjünk be!
+</voice>
 
-TANULÓ: Hűha, mekkora pára van bent! És középen egy hatalmas, hosszú **magaságyást** látok.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Hűha, mekkora pára van bent! És középen egy hatalmas, hosszú **magaságyást** látok.
+</voice>
 
-MENTOR: Ez a magaságyás a közös vagyon szimbóluma. Nézd meg, a növények gyökerei teljesen összefonódnak benne. A Polgári Törvénykönyv negyedik könyvének harminchetedik paragrafusának első bekezdése szerint: "Házastársi vagyonközösség esetén a házastársak közös vagyonába tartoznak azok a vagyontárgyak, amelyeket a házastársak a vagyonközösség fennállása alatt együtt vagy külön szereznek."
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a magaságyás a közös vagyon szimbóluma. Nézd meg, a növények gyökerei teljesen összefonódnak benne. A Polgári Törvénykönyv negyedik könyvének harminchetedik paragrafusának első bekezdése szerint: "Házastársi vagyonközösség esetén a házastársak közös vagyonába tartoznak azok a vagyontárgyak, amelyeket a házastársak a vagyonközösség fennállása alatt együtt vagy külön szereznek."
+</voice>
 
-TANULÓ: Szóval mindegy, hogy együtt vagy külön szerezték, minden ebbe a közös ágyásba kerül?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Szóval mindegy, hogy együtt vagy külön szerezték, minden ebbe a közös ágyásba kerül?
+</voice>
 
-MENTOR: Igen. És nézd, ott az ágyás mellett egy **közös talicska**. Tele van földdel és nehéz **kődarabokkal**. Ezek a terhek. A harminchetedik paragrafus második bekezdése szerint: "A házastársak közös vagyonába tartoznak a közös vagyontárgyak terhei és - ha e törvény eltérően nem rendelkezik - közösen viselik a bármelyik házastárs által a vagyonközösség fennállása alatt vállalt kötelezettségből eredő tartozásokat."
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Igen. És nézd, ott az ágyás mellett egy **közös talicska**. Tele van földdel és nehéz **kődarabokkal**. Ezek a terhek. A harminchetedik paragrafus második bekezdése szerint: "A házastársak közös vagyonába tartoznak a közös vagyontárgyak terhei és - ha e törvény eltérően nem rendelkezik - közösen viselik a bármelyik házastárs által a vagyonközösség fennállása alatt vállalt kötelezettségből eredő tartozásokat."
+</voice>
 
-TANULÓ: Tehát a köveket is közösen kell cipelniük. És látom, egy mérőszalag pontosan megfelezi az ágyást.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Tehát a köveket is közösen kell cipelniük. És látom, egy mérőszalag pontosan megfelezi az ágyást.
+</voice>
 
-MENTOR: Az az egyenlő arány jelképe. A harminchetedik paragrafus harmadik bekezdése szerint: "A házastársi közös vagyon a házastársakat osztatlanul, egyenlő arányban illeti meg." De most fordulj jobbra. Látod azt a fém **polcrendszert** az üvegház falánál?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Az az egyenlő arány jelképe. A harminchetedik paragrafus harmadik bekezdése szerint: "A házastársi közös vagyon a házastársakat osztatlanul, egyenlő arányban illeti meg." De most fordulj jobbra. Látod azt a fém **polcrendszert** az üvegház falánál?
+</voice>
 
-TANULÓ: Igen, látom. Hat darab **számozott cserép** sorakozik rajta, teljesen elkülönítve a nagy ágyástól.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Igen, látom. Hat darab **számozott cserép** sorakozik rajta, teljesen elkülönítve a nagy ágyástól.
+</voice>
 
-MENTOR: Ezek a különvagyon elemei. A Polgári Törvénykönyv negyedik könyvének harmincnyolcadik paragrafusa sorolja fel őket. Nézzük az elsőt, az egyes számú cserepet. Milyennek látod?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ezek a különvagyon elemei. A Polgári Törvénykönyv negyedik könyvének harmincnyolcadik paragrafusa sorolja fel őket. Nézzük az elsőt, az egyes számú cserepet. Milyennek látod?
+</voice>
 
-TANULÓ: Ez egy nagyon **régi, repedezett cserép**.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Ez egy nagyon **régi, repedezett cserép**.
+</voice>
 
-MENTOR: Mert ez a múltból származik. Az a) pont szerint különvagyon: "a házastársi vagyonközösség létrejöttekor meglévő vagyontárgy". Ami már megvolt a házasság előtt. És a kettes számú?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Mert ez a múltból származik. Az a) pont szerint különvagyon: "a házastársi vagyonközösség létrejöttekor meglévő vagyontárgy". Ami már megvolt a házasság előtt. És a kettes számú?
+</voice>
 
-TANULÓ: Az egy díszes, masnis **ajándékdobozból** nő ki.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Az egy díszes, masnis **ajándékdobozból** nő ki.
+</voice>
 
-MENTOR: Ez a b) pont: "a házastársi vagyonközösség fennállása alatt általa örökölt vagy részére ajándékozott vagyontárgy és részére nyújtott ingyenes juttatás". És a hármas?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a b) pont: "a házastársi vagyonközösség fennállása alatt általa örökölt vagy részére ajándékozott vagyontárgy és részére nyújtott ingyenes juttatás". És a hármas?
+</voice>
 
-TANULÓ: Azon **kottalapok** és rajzok vannak. De várjunk csak... egy **gyümölcs** éppen leesik róla és begurul a közös nagy ágyásba!
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Azon **kottalapok** és rajzok vannak. De várjunk csak... egy **gyümölcs** éppen leesik róla és begurul a közös nagy ágyásba!
+</voice>
 
-MENTOR: Nagyon jó megfigyelés! Ez a c) pont: "a házastársat mint a szellemi tulajdon létrehozóját megillető vagyoni jog, kivéve a vagyonközösség fennállása alatt esedékes díjat". A jog különvagyon (a cserép), de a díj (a gyümölcs) közös!
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Nagyon jó megfigyelés! Ez a c) pont: "a házastársat mint a szellemi tulajdon létrehozóját megillető vagyoni jog, kivéve a vagyonközösség fennállása alatt esedékes díjat". A jog különvagyon (a cserép), de a díj (a gyümölcs) közös!
+</voice>
 
-TANULÓ: Értem, ez trükkös. A negyedik cserép pedig be van gipszelve, mint egy törött láb. Ez egy **gipszelt cserép**.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Értem, ez trükkös. A negyedik cserép pedig be van gipszelve, mint egy törött láb. Ez egy **gipszelt cserép**.
+</voice>
 
-MENTOR: Ez a d) pont: "a személyét ért sérelemért kapott juttatás". Például egy kártérítés. Az ötödikben pedig egy **kalapot** és egy **kesztyűt** látok.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a d) pont: "a személyét ért sérelemért kapott juttatás". Például egy kártérítés. Az ötödikben pedig egy **kalapot** és egy **kesztyűt** látok.
+</voice>
 
-TANULÓ: Igen, ezek személyes holmiknak tűnnek.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Igen, ezek személyes holmiknak tűnnek.
+</voice>
 
-MENTOR: Ez az e) pont: "a személyes használatára szolgáló szokásos mértékű vagyontárgy". És végül a hatodik? Ott éppen cserélnek valamit.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez az e) pont: "a személyes használatára szolgáló szokásos mértékű vagyontárgy". És végül a hatodik? Ott éppen cserélnek valamit.
+</voice>
 
-TANULÓ: Igen, valaki elviszi a növényt, és a pénzből egy **új ásót** tesz a helyére. Ez egy **csere-cserép**.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Igen, valaki elviszi a növényt, és a pénzből egy **új ásót** tesz a helyére. Ez egy **csere-cserép**.
+</voice>
 
-MENTOR: Ez a szurrogáció, az f) pont: "a különvagyona értékén szerzett vagyontárgy és a különvagyona helyébe lépő érték". Most pedig nézz fel! Látod az automata **öntözőrendszert** a plafonon?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a szurrogáció, az f) pont: "a különvagyona értékén szerzett vagyontárgy és a különvagyona helyébe lépő érték". Most pedig nézz fel! Látod az automata **öntözőrendszert** a plafonon?
+</voice>
 
-TANULÓ: Igen, mindenhová szórja a vizet.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Igen, mindenhová szórja a vizet.
+</voice>
 
-MENTOR: Ez a közös vagyon vélelme. Ha nem tudjuk, melyik cserépbe esik a vízcsepp, azt vélelmezzük, hogy a közösbe. A 4:40. paragrafus szerint: "Ha e törvény eltérően nem rendelkezik, a vagyonközösség fennállása alatt a házastársak vagyonában meglévő vagyontárgyakról azt kell vélelmezni, hogy azok a közös vagyonhoz tartoznak."
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a közös vagyon vélelme. Ha nem tudjuk, melyik cserépbe esik a vízcsepp, azt vélelmezzük, hogy a közösbe. A 4:40. paragrafus szerint: "Ha e törvény eltérően nem rendelkezik, a vagyonközösség fennállása alatt a házastársak vagyonában meglévő vagyontárgyakról azt kell vélelmezni, hogy azok a közös vagyonhoz tartoznak."
+</voice>
 
-TANULÓ: Tehát ha nem egyértelmű, akkor közös. Értem.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Tehát ha nem egyértelmű, akkor közös. Értem.
+</voice>
 
-MENTOR: Most hagyjuk el az üvegházat, és menjünk át a jobb oldali, díszes ösvényre. Látod azt a modern, üvegfalú épületet? Az a **Kerti Iroda**.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Most hagyjuk el az üvegházat, és menjünk át a jobb oldali, díszes ösvényre. Látod azt a modern, üvegfalú épületet? Az a **Kerti Iroda**.
+</voice>
 
-TANULÓ: Látom. Nagyon hivatalosnak tűnik. Menjünk be?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Látom. Nagyon hivatalosnak tűnik. Menjünk be?
+</voice>
 
-MENTOR: Igen. Ez a szerződéses rendszer helyszíne. Bent egy hatalmas íróasztalt látsz. Mi van rajta?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Igen. Ez a szerződéses rendszer helyszíne. Bent egy hatalmas íróasztalt látsz. Mi van rajta?
+</voice>
 
-TANULÓ: Egy vastag, bőrkötésű **Szerződés** fekszik rajta.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Egy vastag, bőrkötésű **Szerződés** fekszik rajta.
+</voice>
 
-MENTOR: Ez a házassági vagyonjogi szerződés. A 4:63. paragrafus első bekezdése szerint: "Házassági vagyonjogi szerződésben a házasulók és a házastársak maguk határozhatják meg azt a vagyonjogi rendszert, amelyet a házastársi vagyonközösség helyett a szerződésben meghatározott időponttól életközösségük időtartama alatt a vagyoni viszonyaikra alkalmazni kell."
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a házassági vagyonjogi szerződés. A 4:63. paragrafus első bekezdése szerint: "Házassági vagyonjogi szerződésben a házasulók és a házastársak maguk határozhatják meg azt a vagyonjogi rendszert, amelyet a házastársi vagyonközösség helyett a szerződésben meghatározott időponttól életközösségük időtartama alatt a vagyoni viszonyaikra alkalmazni kell."
+</voice>
 
-TANULÓ: És mi van még az asztalon? Látok egy **pecsétnyomót** és egy **számítógépet**.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+És mi van még az asztalon? Látok egy **pecsétnyomót** és egy **számítógépet**.
+</voice>
 
-MENTOR: A pecsét az alakiságot jelzi. A 4:65. paragrafus szerint közokiratba vagy ügyvéd által ellenjegyzett magánokiratba kell foglalni. A számítógép pedig az Országos Nyilvántartás. Csak akkor hatályos harmadik személlyel szemben, ha bejegyezték, vagy ha a harmadik fél tudott róla.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A pecsét az alakiságot jelzi. A 4:65. paragrafus szerint közokiratba vagy ügyvéd által ellenjegyzett magánokiratba kell foglalni. A számítógép pedig az Országos Nyilvántartás. Csak akkor hatályos harmadik személlyel szemben, ha bejegyezték, vagy ha a harmadik fél tudott róla.
+</voice>
 
-TANULÓ: Világos. És most hová megyünk?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Világos. És most hová megyünk?
+</voice>
 
-MENTOR: Gyerünk ki a hátsó udvarra. Ott áll a **Kerti Mintaház**.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Gyerünk ki a hátsó udvarra. Ott áll a **Kerti Mintaház**.
+</voice>
 
-TANULÓ: Ó, egy szép kis faház. De miért van egy **gyermekhinta** és egy **homokozó** közvetlenül az ajtóban? Alig lehet bemenni.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Ó, egy szép kis faház. De miért van egy **gyermekhinta** és egy **homokozó** közvetlenül az ajtóban? Alig lehet bemenni.
+</voice>
 
-MENTOR: Mert ez a legfontosabb szabály a lakáshasználatnál. A Polgári Törvénykönyv negyedik könyvének hetvenhatodik paragrafusának második bekezdése szerint: "A házastársak kiskorú gyermekének lakáshasználatát a házastársi közös lakásban kell biztosítani." A gyermek érdeke eltorlaszolja az ajtót, őt nem lehet kitenni.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Mert ez a legfontosabb szabály a lakáshasználatnál. A Polgári Törvénykönyv negyedik könyvének hetvenhatodik paragrafusának második bekezdése szerint: "A házastársak kiskorú gyermekének lakáshasználatát a házastársi közös lakásban kell biztosítani." A gyermek érdeke eltorlaszolja az ajtót, őt nem lehet kitenni.
+</voice>
 
-TANULÓ: És maga a ház? Mitől számít közösnek?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+És maga a ház? Mitől számít közösnek?
+</voice>
 
-MENTOR: A hetvenhatodik paragrafus első bekezdése szerint: "Házastársi közös lakás az a lakás, amelyben a házastársak egyikük vagy mindkettőjük tulajdonjoga, haszonélvezeti joga vagy bérleti joga alapján együtt laknak." Tehát az együttlakás ténye számít, nem csak a tulajdonjog. Nézd a ház mellett a szerszámokat! Látod az óriási **fűrészt**?
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+A hetvenhatodik paragrafus első bekezdése szerint: "Házastársi közös lakás az a lakás, amelyben a házastársak egyikük vagy mindkettőjük tulajdonjoga, haszonélvezeti joga vagy bérleti joga alapján együtt laknak." Tehát az együttlakás ténye számít, nem csak a tulajdonjog. Nézd a ház mellett a szerszámokat! Látod az óriási **fűrészt**?
+</voice>
 
-TANULÓ: Igen, elég ijesztő. Kettévágja a házat?
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Igen, elég ijesztő. Kettévágja a házat?
+</voice>
 
-MENTOR: Ez a lakáshasználat megosztását jelképezi. Ha a bíróság úgy dönt, fizikailag megoszthatja a használatot. De látok ott egy nagy **lakatot** és egy **pénzeszsákot** is.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Ez a lakáshasználat megosztását jelképezi. Ha a bíróság úgy dönt, fizikailag megoszthatja a használatot. De látok ott egy nagy **lakatot** és egy **pénzeszsákot** is.
+</voice>
 
-TANULÓ: A lakat gondolom a kizárólagos használatot jelenti.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+A lakat gondolom a kizárólagos használatot jelenti.
+</voice>
 
-MENTOR: Pontosan. Ha az egyik felet kizárják, a másik kapja a lakat kulcsát. A pénzeszsák pedig a térítés: aki távozni kényszerül, pénzt kap a használati jogáért cserébe.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Pontosan. Ha az egyik felet kizárják, a másik kapja a lakat kulcsát. A pénzeszsák pedig a térítés: aki távozni kényszerül, pénzt kap a használati jogáért cserébe.
+</voice>
 
-TANULÓ: Tehát vagy megosztják (fűrész), vagy az egyik marad (lakat), és a másik pénzt kap (zsák).
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Tehát vagy megosztják (fűrész), vagy az egyik marad (lakat), és a másik pénzt kap (zsák).
+</voice>
 
-MENTOR: Így van. Ezzel végigjártuk a kertészetet és a vagyonjog rendszerét. A bejárattól az üvegházon és az irodán át a hátsó kerti házig.
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Így van. Ezzel végigjártuk a kertészetet és a vagyonjog rendszerét. A bejárattól az üvegházon és az irodán át a hátsó kerti házig.
+</voice>
 
-TANULÓ: Köszönöm! A növényekkel és a szerszámokkal sokkal könnyebb volt megjegyezni a szabályokat.
+<voice voice-id="f99a416d-6943-4541-90c6-8ea0b282e39a" speaker-id="8a67d393-1ff8-41eb-a7d6-e7641c8cf9b3" language="hu" seed="8023d092-d0b2-4b00-8034-5102eec293d9">
+Köszönöm! A növényekkel és a szerszámokkal sokkal könnyebb volt megjegyezni a szabályokat.
+</voice>
 
-MENTOR: Örülök. Viszontlátásra!
+<voice voice-id="3af57f25-0c84-4202-9381-47f013458d29" speaker-id="c5680bed-a453-402e-a95b-ebef56707136" language="hu" seed="f07dddb4-6af4-4132-8379-50ee5e1c80a7">
+Örülök. Viszontlátásra!
+</voice>
+
+
+
+
+
+
 
 
 

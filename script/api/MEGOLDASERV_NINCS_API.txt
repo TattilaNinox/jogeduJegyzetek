@@ -1,0 +1,326 @@
+================================================================================
+JOGESET GENERÁTOR - MEGOLDÁSERV (NINCS API)
+================================================================================
+
+ARCHITEKTÚRA: Flutter app közvetlenül Firestore-ból olvas
+LLM PROVIDER: Google Gemini 3 Pro
+
+================================================================================
+1. ÁLTALÁNOS MŰKÖDÉS
+================================================================================
+
+┌─────────────────┐
+│  Admin Felület  │
+│  (Python/Flutter)│
+└────────┬─────────┘
+         │
+         │ Gemini 3 Pro LLM generál → Firestore-ba ír
+         ↓
+┌─────────────────┐
+│    Firestore     │
+│  (Google Cloud)  │
+└────────┬─────────┘
+         │
+         │ Közvetlenül olvas (Firebase SDK)
+         ↓
+┌─────────────────┐
+│  Flutter Web App │
+│   (Felhasználó)  │
+└─────────────────┘
+
+================================================================================
+2. ADMIN FELÜLET (Generálás)
+================================================================================
+
+2.1. Admin Script (Python)
+---------------------------
+Fájl: script/api/admin_generator.py
+
+Funkciók:
+- Admin megadja: paragrafus szám (pl. "6:519")
+- Admin megadja: hány darab jogesetet generáljunk (pl. 100)
+- Gemini 3 Pro API-val generálja a jogeseteket
+- Firestore-ba menti őket
+- JSON fájlokba is exportál (backup)
+
+Gemini 3 Pro használat:
+- Google Generative AI SDK
+- API kulcs szükséges (Google Cloud Console)
+- Batch generálás (több jogeset egyszerre)
+
+2.2. Firestore Struktúra
+-------------------------
+Collection: "jogesetek"
+
+Document ID: "{paragrafus}" (pl. "6_519", "4_15")
+
+Document struktúra:
+{
+  "paragrafus": "6:519. §",
+  "kategoria": "kártérítés",
+  "jogesetek": [
+    {
+      "id": 1,
+      "cim": "Károkozás autóbalesetben",
+      "tenyek": "...",
+      "kerdes": "...",
+      "alkalmazando_jogszabaly": "6:519. §",
+      "megoldas": "...",
+      "komplexitas": "komplex",
+      "kategoria": "kártérítés",
+      "generalt_datum": "2024-01-15T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "cim": "Vízszivárgás okozta kár",
+      ...
+    }
+    // ... több ezer jogeset
+  ]
+}
+
+================================================================================
+3. FLUTTER APP (Használat)
+================================================================================
+
+3.1. Firestore SDK Integráció
+------------------------------
+Függőségek (pubspec.yaml):
+- firebase_core
+- cloud_firestore
+
+3.2. Véletlenszerű Jogeset Lekérése
+------------------------------------
+Flutter kód példa:
+
+```dart
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'dart:math';
+
+Future<Map<String, dynamic>?> getRandomJogeset(String paragrafus) async {
+  try {
+    // Firestore-ból lekérdezés
+    DocumentSnapshot doc = await FirebaseFirestore.instance
+        .collection('jogesetek')
+        .doc(paragrafus.replaceAll(':', '_'))
+        .get();
+    
+    if (!doc.exists) {
+      return null; // Nincs ilyen paragrafus
+    }
+    
+    Map<String, dynamic> data = doc.data() as Map<String, dynamic>;
+    List<dynamic> jogesetek = data['jogesetek'] as List<dynamic>;
+    
+    if (jogesetek.isEmpty) {
+      return null; // Nincs jogeset
+    }
+    
+    // Véletlenszerű választás
+    Random random = Random();
+    int randomIndex = random.nextInt(jogesetek.length);
+    
+    return jogesetek[randomIndex] as Map<String, dynamic>;
+  } catch (e) {
+    print('Hiba: $e');
+    return null;
+  }
+}
+```
+
+3.3. Használat UI-ban
+---------------------
+```dart
+ElevatedButton(
+  onPressed: () async {
+    Map<String, dynamic>? jogeset = await getRandomJogeset('6:519');
+    if (jogeset != null) {
+      // Megjelenítés
+      setState(() {
+        currentJogeset = jogeset;
+      });
+    }
+  },
+  child: Text('Generálj jogesetet'),
+)
+```
+
+================================================================================
+4. FIREBASE/FIRESTORE BEÁLLÍTÁSOK
+================================================================================
+
+4.1. Firestore Szabályok
+-------------------------
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Jogesetek olvasása: mindenki olvashat
+    match /jogesetek/{paragrafus} {
+      allow read: if true;
+      allow write: if false; // Csak admin írhat (Firebase Admin SDK-val)
+    }
+  }
+}
+
+4.2. Firebase Projekt Beállítás
+--------------------------------
+1. Google Cloud Console → Firebase projekt létrehozása
+2. Firestore Database engedélyezése
+3. Firestore szabályok beállítása
+4. Firebase config fájl letöltése (firebase_options.dart)
+5. Flutter app-ba integrálás
+
+================================================================================
+5. ADMIN GENERÁLÓ SCRIPT RÉSZLETES
+================================================================================
+
+5.1. Gemini 3 Pro Integráció
+-----------------------------
+Függőségek:
+- google-generativeai
+- firebase-admin
+
+Kód struktúra:
+```python
+import google.generativeai as genai
+from firebase_admin import firestore
+
+# Gemini 3 Pro beállítás
+genai.configure(api_key="GEMINI_API_KEY")
+model = genai.GenerativeModel('gemini-3-pro')
+
+# Generálás
+def generate_jogeset(paragrafus_szoveg, paragrafus_szam):
+    prompt = f"""
+    Generálj egy valósághű jogesetet a következő jogszabály alapján:
+    
+    {paragrafus_szoveg}
+    
+    Paragrafus: {paragrafus_szam}
+    
+    A jogeset tartalmazza:
+    - Cím
+    - Tények (részletes, valósághű)
+    - Kérdés
+    - Megoldás (jogszabály alkalmazása)
+    - Komplexitás (egyszerű/közepes/komplex)
+    """
+    
+    response = model.generate_content(prompt)
+    # JSON formátumba konvertálás
+    return parse_response(response)
+```
+
+5.2. Batch Generálás
+--------------------
+```python
+def generate_multiple_jogesetek(paragrafus, darabszam):
+    jogesetek = []
+    for i in range(darabszam):
+        jogeset = generate_jogeset(paragrafus_szoveg, paragrafus)
+        jogeset['id'] = i + 1
+        jogesetek.append(jogeset)
+    
+    # Firestore-ba mentés
+    db = firestore.client()
+    doc_ref = db.collection('jogesetek').document(paragrafus.replace(':', '_'))
+    doc_ref.set({
+        'paragrafus': f'{paragrafus}. §',
+        'kategoria': determine_category(paragrafus),
+        'jogesetek': jogesetek
+    })
+```
+
+================================================================================
+6. ELŐNYÖK ÉS HÁTRÁNYOK
+================================================================================
+
+ELŐNYÖK:
+- Egyszerű architektúra (kevesebb komponens)
+- Gyors válaszidő (nincs középső API réteg)
+- Olcsóbb (nincs szerver költség, csak Firestore)
+- Közvetlen Firestore integráció
+- Offline cache lehetőség (Flutter Firestore cache)
+
+HÁTRÁNYOK:
+- Firestore szabályokat kell beállítani
+- Flutter app-nak Firestore SDK kell
+- Admin generálás Python script-ben történik (vagy Flutter admin UI)
+
+================================================================================
+7. FÁJLOK ÉS KOMPONENSEK
+================================================================================
+
+Admin oldal:
+- script/api/admin_generator.py - Gemini 3 Pro generáló script
+- script/api/firestore_admin.py - Firestore admin kezelő
+- script/api/requirements_admin.txt - Függőségek (google-generativeai, firebase-admin)
+
+Flutter app:
+- lib/services/jogeset_service.dart - Firestore service
+- lib/models/jogeset_model.dart - Jogeset modell
+- lib/screens/jogeset_screen.dart - UI
+
+Firestore:
+- Collection: "jogesetek"
+- Documents: paragrafus szerint (pl. "6_519", "4_15")
+
+================================================================================
+8. MŰKÖDÉSI FOLYAMAT
+================================================================================
+
+1. ADMIN GENERÁLÁS:
+   - Admin futtatja: python admin_generator.py
+   - Megadja: paragrafus="6:519", darabszam=100
+   - Script: Gemini 3 Pro-val generál 100 jogesetet
+   - Script: Firestore-ba menti
+   - Kész: 100 jogeset elérhető a Firestore-ban
+
+2. FELHASZNÁLÓ HASZNÁLAT:
+   - Felhasználó megnyitja Flutter web app-ot
+   - Megnyomja: "Generálj jogesetet a 6:519. §-hoz"
+   - Flutter app: Firestore-ból lekérdezi a "6_519" dokumentumot
+   - Flutter app: Véletlenszerűen választ egy jogesetet (pl. 47. számú)
+   - Flutter app: Megjeleníti
+
+3. ÚJRA KATTINTÁS:
+   - Felhasználó: "Generálj újra!"
+   - Flutter app: Ugyanazt a dokumentumot lekérdezi
+   - Flutter app: Másik véletlenszerű jogesetet választ (pl. 23. számú)
+   - Flutter app: Megjeleníti (más, mint az előző!)
+
+================================================================================
+9. GEMINI 3 PRO SPECIFIKUS BEÁLLÍTÁSOK
+================================================================================
+
+Model név: gemini-3-pro
+API endpoint: https://generativelanguage.googleapis.com/v1beta/models/gemini-3-pro:generateContent
+
+Beállítások:
+- Temperature: 0.7-0.9 (kreativitás)
+- Max tokens: 2000-4000 (jogeset hossza)
+- Safety settings: megfelelő beállítások
+
+Rate limiting:
+- Gemini 3 Pro-nak van rate limit-je
+- Batch generálásnál figyelni kell a limitet
+- Várni kell a kérések között (pl. 1 másodperc)
+
+================================================================================
+10. KÖVETKEZŐ LÉPÉSEK
+================================================================================
+
+1. Firebase projekt létrehozása
+2. Firestore Database engedélyezése
+3. Admin generator script készítése (Gemini 3 Pro-val)
+4. Firestore admin SDK beállítása
+5. Flutter app Firestore integráció
+6. Tesztelés: admin generál → Flutter app használ
+7. Production deploy
+
+================================================================================
+VÉGE
+================================================================================
+
+
+
